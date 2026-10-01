@@ -1,0 +1,3086 @@
+THREAT ASSESSMENT REPORT 
+Assessing the threat posed 
+by the increased availability, 
+use and harms of highly 
+potent synthetic opioids 
+in the Baltic region 
+ 
+
+ 
+ 
+ 
+ 
+ 
+2 
+Contents 
+Executive summary ................................................................................. 4 
+Main findings .............................................................................................................. 4 
+Strengthening responses and preparedness .............................................................. 5 
+Threat assessment: objectives and rationale .......................................... 8 
+Regional context ......................................................................................................... 9 
+Overview of the threat assessment approach ....................................... 11 
+Data sources and analytical approach ...................................................................... 12 
+Threat assessment findings .................................................................. 13 
+Markets assessment: nitazene and carfentanil availability and markets in the Baltic 
+region ....................................................................................................................... 13 
+Markets assessment: product potency and adulteration ........................................... 16 
+Markets assessment: trafficking routes and distribution networks ............................ 18 
+Markets assessment: options for response .............................................................. 20 
+Situation and harms assessment: prevalence and patterns of the use of nitazenes 
+and carfentanil in the Baltic region ............................................................................ 23 
+Situation and harms assessment: highly potent synthetic opioids and drug-related 
+mortality .................................................................................................................... 25 
+Public health responses assessment: treatment and harm reduction response ....... 29 
+Public health responses assessment: options for response ..................................... 34 
+Monitoring assessment: robustness of national early warning systems and monitoring 
+capacities for responding to the threat of synthetic opioids ...................................... 38 
+Monitoring assessment: options for response .......................................................... 39 
+Conclusions: strengthening preparedness at the national and EU level 42 
+EU-level policy considerations .................................................................................. 43 
+
+ 
+ 
+ 
+ 
+ 
+3 
+Glossary ................................................................................................ 46 
+References and further reading ............................................................. 49 
+Annexes ................................................................................................ 53 
+Annex 1 National key data on nitazenes and carfentanil in the Baltic region ............ 53 
+Annex 2: Methods of the EUDA health and security threat assessment ................... 58 
+Annex 3: Management of acute opioid toxicity in pre-hospital and hospital settings 69 
+Annex 4: Nitazenes monitored by the EWS as of December 2024. A brief overview of 
+the chemistry, pharmacology and toxicology of carfentanil and nitazenes................ 74 
+ 
+
+ 
+ 
+ 
+ 
+ 
+4 
+Executive summary 
+This threat assessment examines the evolving presence and impact of highly potent 
+synthetic opioids, particularly the group of 2-benzylbenzimidazole opioids (the so-called 
+‘nitazenes’) and carfentanil, in Estonia, Latvia and Lithuania. Over the past decade, these 
+substances have largely replaced fentanyl and heroin, leading to a high burden of druginduced deaths and acute toxicity cases. The Baltic region is disproportionately affected by 
+this phenomenon, with the majority of nitazenes and all carfentanil seizures in the EU taking 
+place in these three countries. The continued adaptability of synthetic opioid markets, the 
+challenges in implementing and scaling up harm reduction responses, and gaps in 
+monitoring systems highlight the need for a more coordinated and sustainable approach at 
+both the national and EU levels. 
+Main findings 
+The illicit opioid market in the Baltic region has undergone significant transformation. 
+Nitazenes have largely replaced fentanyl and its derivatives in Estonia and Latvia, while 
+carfentanil remains dominant in Lithuania, reflecting regional differences in supply and 
+distribution. New synthetic opioids continue to emerge, demonstrating the market’s ability to 
+adapt. 
+Trafficking routes vary: nitazenes are primarily sourced from China and transported via postal 
+and courier services, while carfentanil is likely to originate from Russia and enters Lithuania 
+through land routes. Criminal networks in Latvia play a key role in regional trafficking, with 
+reported links to Russian organised crime groups. The growing role of digital platforms, 
+including encrypted messaging apps, further complicates law enforcement efforts. 
+In 2023, Estonia and Latvia recorded a sharp increase in drug-induced deaths, largely driven 
+by nitazenes, while carfentanil remained the main contributor to fatalities in Lithuania. The 
+majority of opioid-induced deaths occurred in urban centres, particularly in capital regions, 
+which have the highest levels of synthetic opioid-related mortality. 
+Polysubstance use is identified as a key driver of drug-related harms, with nitazenes and 
+carfentanil frequently detected alongside benzodiazepines, methadone, stimulants 
+(amphetamine, methamphetamine, cocaine) and other opioids. There is also a high risk of 
+variability in synthetic opioid concentration due to inconsistent adulteration processes, 
+increasing the likelihood of unintentional overdoses. Users are often unaware of exactly what 
+substances they are taking, particularly when synthetic opioids are mis-sold as heroin or 
+
+ 
+ 
+ 
+ 
+ 
+5 
+fentanyl. The limited availability of drug-checking services further restricts opportunities for 
+harm reduction. 
+Access to harm reduction services remains limited across the Baltic region, leaving certain 
+populations underserved. The coverage of opioid agonist treatment (OAT) and needle and 
+syringe programmes (NSPs) remains low, particularly in non-urban areas. Naloxone 
+distribution is inconsistent, with Estonia the only country in the region operating a formal 
+take-home naloxone programme. Legal, social and structural barriers further hinder 
+treatment and harm reduction efforts, including stigma, administrative restrictions and poor 
+adaptation of OAT to meet the needs of synthetic opioid users. These factors can contribute 
+to poor treatment retention and continued overdose risks. 
+Strengthening responses and preparedness 
+The rapid adaptability of illicit markets to regulatory and enforcement measures and the 
+consequences for public health highlight the need for a coordinated, multi-sectoral approach, 
+integrating health, security, policy and monitoring strategies. Strengthening national early 
+warning systems, improving detection and monitoring, expanding harm reduction services 
+and reinforcing law enforcement efforts are key in preventing and mitigating further harm. 
+At the national level, it will be important to prioritise the following 
+responses: 
+• 
+Integrate evidence-based prevention and overdose response training into 
+preparedness strategies, including first aid and naloxone use for bystanders, 
+particularly in high-risk populations. Scale up treatment and harm reduction services, 
+including OAT and the distribution of naloxone, in order to increase accessibility and 
+widen geographical coverage. 
+• 
+Enhance early warning capacities and analytical capabilities to improve the detection 
+of emerging synthetic opioids in seized drug samples as well as in biological samples 
+taken in forensic and clinical toxicology settings. 
+• 
+Strengthen cross-sector collaboration, particularly between public health and law 
+enforcement agencies, to improve information-sharing and rapid response 
+capabilities. 
+
+ 
+ 
+ 
+ 
+ 
+6 
+At the European level, it will be important to prioritise the following 
+responses in order to support Member States’ readiness to respond to 
+synthetic opioid threats: 
+• 
+Improve the mapping of criminal networks and enhance precursor tracking to better 
+understand synthetic opioid supply routes. 
+• 
+Invest in innovative drug detection tools as well as supporting research on nitazenes 
+and other highly potent synthetic opioids. 
+• 
+Strengthen monitoring by including syringe residue analysis, hospital emergency 
+data, ambulance service records, drug consumption rooms and drug checking service 
+data collections, and naloxone use tracking. 
+• 
+Expand test purchase programmes to anticipate new synthetic opioids available in 
+the market. 
+• 
+Foster cross-border collaboration, including intelligence-sharing, forensic cooperation 
+and joint law enforcement actions, particularly through mechanisms such as EMPACT 
+(the European Multidisciplinary Platform Against Criminal Threats) and in partnership 
+with key source and transit countries. 
+Given the increasing availability of highly potent synthetic opioids, a timely and coordinated 
+response could help prevent and mitigate risks and enhance preparedness. While the Baltic 
+region has been the area most affected by this issue, reports of nitazenes-related overdoses 
+in other EU countries highlight the need for vigilance. Improving detection will be key to 
+strengthening national and European responses, supporting timely interventions, expanding 
+harm reduction efforts and preventing the further spread of these substances. 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+7 
+Box 1: The first EUDA health and security threat assessment — a pilot exercise 
+This report represents the first EUDA health and security threat assessment (TA) 
+conducted under the new mandate of the European Union Drugs Agency (EUDA), 
+following its introduction in July 2024. It was approached as a pilot exercise to test new 
+in-house processes, from appraisal of signals to output production, including the 
+methods developed specifically for this new activity and the processes designed to 
+promote engagement and collaboration with national stakeholders. 
+This TA was conducted at the initiative of the EUDA in response to numerous signals 
+identified through the EUDA’s monitoring activities, highlighting the impact of highly 
+potent synthetic opioids, particularly nitazenes and carfentanil, in the Baltic countries. 
+The primary audience for this report includes the national authorities of Estonia, Latvia 
+and Lithuania, including the Reitox national focal points, as well as European 
+policymakers. It aims to provide them with insights into the emerging threat of highly 
+potent synthetic opioids and guidance in formulating evidence-based policy and 
+intervention strategies. The findings of this assessment also inform the work of the 
+EUDA in monitoring developments in the region and across the EU, supporting early 
+warning, risk assessment and response efforts. 
+ 
+
+ 
+ 
+ 
+ 
+ 
+8 
+Threat assessment: objectives and 
+rationale 
+The opioid situation in the Baltic countries has for some years required close monitoring and 
+assessment. Fifteen years ago, a shift in the availability of opioids in Estonia led to a large 
+outbreak of fentanyl-related deaths, peaking in 2012. The current availability and use of 
+nitazenes and carfentanil, their role in a growing proportion and number of drug-induced 
+deaths and emergencies, and their potential for further spread highlight the need for in-depth 
+assessment. 
+The aim of this threat assessment (TA) is to examine the risks posed by the emergence and 
+impact of highly potent synthetic opioids, specifically the group of 2-benzylbenzimidazole 
+opioids (the so-called ‘nitazenes’) and carfentanil (see Annex 4), in the Baltic countries, 
+namely Estonia, Latvia and Lithuania. These substances contribute significantly to the 
+burden of drug-induced deaths in these countries, raising concerns that their high potency 
+and risk of overdose could lead to even greater harm if their availability and accessibility 
+increase. This TA was launched in response to signals detected through the EUDA’s 
+monitoring systems, including the EU Early Warning System on new psychoactive 
+substances, drug-induced deaths data, acute toxicity presentations to hospitals, ambulance 
+emergency responses data, forensic analyses, law enforcement seizures and reports from 
+national experts. 
+The objectives of this assessment are to evaluate the availability, use and associated risks of 
+these highly potent synthetic opioids while identifying gaps in health and law enforcement 
+responses, with a key goal being to propose evidence-based response options for Member 
+States and European policymakers to mitigate the threat posed by these substances. By 
+focusing on the Baltic region, where these substances have had the most significant impact 
+so far, this assessment aims to support situational awareness and intervention measures, 
+providing evidence to inform national and EU-level policy responses. 
+This TA, undertaken in collaboration with the Reitox national focal points from the three Baltic 
+countries, takes a mid- to long-term perspective, aiming to inform preparedness and 
+resilience strategies by identifying systemic vulnerabilities and structural weaknesses. 
+Through an analysis of the broader patterns and drivers of synthetic opioid-related threats, it 
+seeks to provide insights to support early warning capabilities, enhance response 
+coordination and inform sustainable policy measures. By offering timely and structured 
+insights, this assessment will: 
+
+ 
+ 
+ 
+ 
+ 
+9 
+• 
+Identify key trends and possible drivers influencing the presence and impact of highly 
+potent synthetic opioids in the Baltic region; 
+• 
+Assess public health and security considerations, helping to contextualise the risks 
+posed by these substances; 
+• 
+Inform early warning and intervention measures, ensuring that monitoring and 
+response systems are proactive rather than reactive. 
+The findings will also support national authorities and inform European policymakers in the 
+development of proportionate and targeted responses, including enhanced monitoring, harm 
+reduction measures and law enforcement strategies. 
+Regional context 
+Availability and impact of nitazenes and carfentanil in the Baltic 
+countries 
+As of late 2024, the EU Early Warning System on new psychoactive substances (EU EWS) 
+was actively monitoring 22 different nitazenes, while the presence of carfentanil has been 
+noted since 2013. In the EU, countries in the Baltic region are disproportionately affected by 
+highly potent synthetic opioids. In 2023, all carfentanil seizures and 86 % of nitazenes 
+seizures reported to the EU EWS occurred in Estonia, Latvia and Lithuania, accounting for 
+96 % of the total amount of nitazenes seized across the EU. These figures highlight the scale 
+of the issue in the region and the importance of ongoing monitoring and targeted responses. 
+Detections of highly potent synthetic opioids in the Baltic region indicate a noteworthy shift in 
+local drug markets. Since 2019, when isotonitazene was identified for the first time in the EU, 
+nitazenes have been increasingly identified in Estonia and Latvia, with forensic and 
+toxicology reports connecting them to a growing number of drug-induced deaths. By 2023, 
+nitazenes were linked to 52 % of such deaths in Estonia and 66 % in Latvia. Derivatives such 
+as protonitazene and metonitazene have become more common in Estonia, while 
+isotonitazene, protonitazene and metonitazene are most frequently detected in Latvia. 
+Although nitazenes remain less commonly reported in Lithuania, a small number of 
+detections in recent years indicate their presence in the market. 
+In Lithuania, carfentanil — a synthetic opioid significantly more potent than fentanyl — has 
+replaced other opioids in the illicit market and was involved in 39 % of drug-induced deaths in 
+2023. Detections of carfentanil have also been reported in Estonia and Latvia, though at 
+lower levels according to different indicators, such as syringe residue analysis. 
+
+ 
+ 
+ 
+ 
+ 
+10 
+Regulatory responses to new synthetic opioids 
+The control of nitazenes and carfentanil has evolved in response to their increasing detection 
+in drug markets and associated harms. At the international level, between 2020 and 2025, 15 
+nitazenes were reviewed by the WHO Expert Committee on Drug Dependence (ECDD) and 
+subsequently seven have been placed in Schedule I of the 1961 UN Convention due to their 
+potential risks to public health — a step which must be transposed into national legislation. 
+Carfentanil was placed in Schedule I and Schedule IV of the 1961 UN Convention following 
+its review in 2017. 
+At the EU level, isotonitazene was the first of the nitazenes to undergo a risk assessment by 
+the EUDA in 2020, leading to its inclusion in the list of substances under EU drug control 
+legislation. National-level controls vary, with several EU Member States enacting 
+independent national control measures to address emerging concerns. Since July 2024, 
+China has controlled 10 nitazenes, a move that may influence supply chains and lead to 
+shifts in the European drug market. 
+In response to its growing availability and the increase in harms linked to it in the EU, 
+carfentanil was risk assessed by the EUDA in 2017 (EMCDDA, 2018). The risk assessment 
+report examined the presence of carfentanil in multiple drug-induced deaths, particularly 
+among heroin users. While these regulatory actions have shaped the availability of highly 
+potent synthetic opioids in the EU, continued vigilance and adaptability remain important in 
+addressing changes in the drug landscape. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+11 
+Overview of the threat assessment 
+approach 
+This threat assessment (TA) was launched in response to signals detected through the 
+EUDA’s monitoring activities, linked to the emergence of nitazenes and carfentanil in the 
+Baltic region. Data collection and analysis was conducted during a 10-week period, and was 
+guided by key research questions, covering the crucial aspects of supply, demand, health 
+impacts, security challenges and national responses (see Annex 2x for details). 
+A TA team was established for the purpose of undertaking this assessment, comprising a 
+team coordinator, eight scientific and data analysts from the EUDA and an external facilitator. 
+The team worked closely with Reitox focal point representatives from Lithuania, Latvia and 
+Estonia. 
+The process from start to finish is visualised in Figure 1. 
+Figure 1. EUDA health and security threat assessment process 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+12 
+Data sources and analytical approach 
+The assessment combined multiple data sources, including: 
+• Primary data from national (NFPs) and European monitoring systems, including the EU 
+Early Warning System on new psychoactive substances, covering drug seizures, druginduced deaths, syringe residue analyses, ambulance calls, harm reduction services 
+and hospital admissions; 
+• A structured literature review, examining epidemiological trends, market dynamics, 
+health risks and public health responses; 
+• Expert consultations, involving three NFPs, with professionals from health, law 
+enforcement and policy sectors (see Table A2.2 in Annex 2 for the full set of data 
+sources). 
+TA findings were synthesised by triangulating the quantitative and qualitative data. Where 
+data gaps were identified, additional input was sought directly from Reitox NFPs. 
+Focusing on a number of key areas — security and trafficking, harms and responses, 
+monitoring and early warning, and policy — response options were developed through an 
+iterative process, incorporating input from EUDA expert analysts, national focal points and 
+available scientific evidence. The response options were then structured into three tiers 
+based on priority, feasibility and potential impact: 
+• Tier 1: Actions that are immediately actionable and expected to have a high impact; 
+• Tier 2: Measures that require additional planning or resources but remain highly 
+feasible; 
+• Tier 3: Longer-term strategies addressing systemic challenges to improve resilience 
+and preparedness. 
+Finally, further considerations were drawn from the analysis, representing cross-cutting 
+principles and strategic elements that support the successful implementation of the proposed 
+response options. For full details on the methodology, data sources, analytical process and 
+limitations, see Annex 2. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+13 
+Threat assessment findings 
+This section presents the key findings of the threat assessment, providing an evidencebased analysis of the availability, use, harms and responses related to highly potent synthetic 
+opioids in the Baltic region. The findings are structured around the main thematic areas 
+(markets, use and harms, responses and monitoring). Each section begins with key 
+messages, followed by a brief overview of the thematic data and analysis. Where relevant, 
+implications are also summarised. Concrete options for response are outlined, in order to 
+provide practical, evidence-based approaches to mitigating the threat posed by these 
+substances and strengthening preparedness at both national and regional levels. 
+Markets assessment: nitazene and carfentanil availability 
+and markets in the Baltic region 
+Key messages 
+• Regional market transformation: Nitazenes have replaced fentanyl and its 
+derivatives in Estonia and Latvia, while carfentanil remains dominant in 
+Lithuania, highlighting regional differences in synthetic opioid markets. 
+• Baltic countries are disproportionately affected: The majority of nitazenes 
+and all carfentanil seizures in the EU occur within Estonia, Latvia and Lithuania, 
+underlining the need to develop targeted responses in the region. 
+• Decline in fentanyl availability: It appears that law enforcement and regulatory 
+efforts may have significantly reduced the presence of fentanyl across the Baltic 
+region, with only sporadic detections remaining. 
+• Market adaptability: The emergence of new nitazenes such as 
+ethyleneoxynitazene and new synthetic opioids such as orphines highlights the 
+ongoing diversification of the illicit opioid market, as suppliers introduce new 
+compounds to circumvent regulatory controls. 
+• Urban concentration of use: Highly potent synthetic opioids are primarily 
+concentrated in more densely populated regions. However, limited data 
+
+ 
+ 
+ 
+ 
+ 
+14 
+collection in rural regions makes it difficult to assess their full geographic 
+distribution. 
+ 
+Between 2009 and 2024, 88 new opioids were identified in the EU and reported to the EU 
+Early Warning System on new psychoactive substances. Fentanyl derivatives first appeared 
+in 2012, including carfentanil, which became one of the most potent synthetic opioids 
+detected in the region. Regulatory measures, such as China’s 2019 generic ban on all 
+fentanils, led to a decline in fentanyl availability and related harms. However, this shift was 
+followed by the emergence of nitazenes, first detected in 2019. By 2024, 22 nitazenes had 
+been reported to the EU Early Warning System. Despite regulatory responses at the 
+international, EU and national levels, the market continues to evolve, highlighting the 
+adaptability of illicit suppliers and the challenges of exerting effective control over drug 
+supply. 
+The opioid and stimulant markets in the Baltic region exhibit distinct but interconnected 
+trends. While highly potent synthetic substances, such as nitazenes and carfentanil, now 
+dominate the opioid market, it is important to recognise that stimulants remain the primary 
+illicit substance used by high-risk drug users. In Tallinn, amphetamine and methamphetamine 
+were the most frequently detected substances in syringe residue analyses, while in Riga, 
+cocaine was the most frequently detected stimulant. 
+At the same time, major shifts have taken place in the opioid market. Nitazenes have 
+replaced heroin and fentanyl and its derivates in Estonia and Latvia, driven by their high 
+potency and presumed low production costs. By 2023, nitazenes were implicated in half of 
+Estonia’s drug-induced deaths, with 30 % of syringe residue samples testing positive for 
+nitazenes. Preliminary 2024 data suggest a slight decrease in nitazenes detected in such 
+deaths and in the percentage of syringes containing nitazenes. The most frequently detected 
+nitazenes in Estonia were protonitazene and metonitazene, although forensic data from 
+2023-24 indicates that at least five additional nitazenes have been identified. Similarly, Latvia 
+recorded a sharp increase in nitazenes detections, particularly isotonitazene and 
+metonitazene, but seizure data suggests a broader presence, with six different nitazenes 
+reported in 2023-24. 
+By contrast, carfentanil remains the dominant synthetic opioid in Lithuania, where in Vilnius 
+and Klaipėda it was detected in over 90 % of analysed syringes in 2023 and 70 % in 2024. 
+Nitazenes remain rare in Lithuania, with only four detections in 249 syringes analysed in 
+2024. While carfentanil was previously present in Estonia and Latvia, its presence has 
+declined as nitazenes have become more established. The availability of fentanyl across the 
+
+ 
+ 
+ 
+ 
+ 
+15 
+Baltic region has significantly decreased, with only sporadic detections reported — a trend 
+attributed to law enforcement efforts and regulatory measures. The detection of nitazenes 
+through wastewater analysis has been consistently reported in Tallinn, while the capital cities 
+of Latvia and Lithuania do not conduct municipal wastewater monitoring for synthetic opioids. 
+The emergence in 2024 of new nitazenes — such as ethyleneoxynitazene and N-desethylisotonitazene in Estonia and Latvia — suggests continued market adaptation. Additionally, 
+first reported to the EWS in 2024, syringe residue analysis from Riga detected Ndesethyletonitazene and protonitazepyne, alongside orphine opioids, a new group of new 
+synthetic opioids that have started to appear on the market. The detection of these 
+substances highlights the ongoing diversification of the illicit opioid market, as suppliers 
+introduce new compounds to circumvent regulatory controls. 
+Focus group discussions confirmed the disappearance of heroin from the opioid market in all 
+three countries, with carfentanil and nitazenes filling the void left by the decline of fentanyl 
+and heroin. 
+In 2023, Member States reported 927 seizures of new opioids to the EU Early Warning 
+System, amounting to 22 kg of material and representing 3 % of all new psychoactive 
+substance seizures. The Baltic region played a central role in these developments. 
+• Carfentanil seizures in 2023: 225 (24 % of all new synthetic opioid seizures), 
+totalling 7.04 kg, all from the Baltic countries — Estonia (0.44 kg), Latvia (0.42 kg) 
+and Lithuania (6.18 kg). Quantified seized samples in Lithuania showed carfentanil 
+content ranging from 0.000003 grams to 0.7962 grams per sample. Preliminary data 
+suggest that the quantity of carfentanil seized in Lithuania in 2024 and reported to the 
+EWS decreased from 6.2 kg (2023) to 2 kg (2024). 
+• Nitazenes seizures in 2023: 497 (54% of all new synthetic opioid seizures), totalling 
+10 kg, with the Baltic region accounting for 86 % of seizures and 96 % of the material 
+seized. Preliminary 2024 data suggests that nitazenes seizures in Estonia decreased 
+by more than half, from 5.415 kg in 2023 to 2.294 kg in 2024. 
+These data highlight that the Baltic region has been disproportionately affected by the 
+emergence of highly potent synthetic opioids in the EU. 
+
+ 
+ 
+ 
+ 
+ 
+16 
+Markets assessment: product potency and adulteration 
+Key messages 
+• 
+Extreme potency as a core risk factor: Highly potent synthetic opioids such as 
+carfentanil and nitazenes pose a serious risk of life-threatening respiratory 
+depression, even in microgram doses. Their high receptor affinity and rapid 
+onset of action mean that even a single exposure can result in severe poisoning 
+or death, particularly among individuals with low opioid tolerance. 
+• 
+Supply-level adulteration of synthetic opioids: Highly potent synthetic opioids 
+might be mixed with other substances at the supply level, increasing the risk of 
+overdose. Mixtures often include benzodiazepines, methadone, 
+diphenhydramine and stimulants such as amphetamine, methamphetamine and 
+cocaine. 
+• 
+Complicating overdose management: Xylazine, an animal sedative, has been 
+detected in nitazenes samples in Estonia and Latvia. While detections remain 
+limited, its presence complicates overdose management and raises concerns 
+about severe poisoning. 
+• 
+High variability in drug concentration: There is a high risk of significant 
+variability in synthetic opioid concentration due to inconsistent adulteration 
+processes. Uneven distribution of active ingredients within the same batch 
+increases the likelihood of unintentional overdose. 
+• 
+Unintentional use of potent substances: Users may unknowingly use 
+adulterated potent synthetic opioids, generally sold in powder form and 
+sometimes misrepresented or mis-sold as heroin or fentanyl. This lack of 
+awareness and the drugs’ high potency increase the risks of severe poisoning. 
+• 
+Limited access to drug-checking services: Inadequate availability of drugchecking services in the Baltic region reduces the opportunity to identify 
+adulterants before use, limiting harm reduction interventions. The extreme 
+potency of nitazenes and carfentanil presents a central and standalone health 
+risk, independent of adulteration or mixing. Some of these substances are 
+hundreds to thousands of times more potent than morphine (Ujváry et al., 2021), 
+meaning that even microgram-level exposures can cause life-threatening 
+respiratory depression. This high potency increases the likelihood of fatal 
+
+ 
+ 
+ 
+ 
+ 
+17 
+overdoses, especially among opioid-naive individuals or those who are unaware 
+of what substance they have consumed. 
+ 
+Another critical concern in the Baltic drug market is the presence of adulterants in these 
+highly potent synthetic opioids. Syringe residue and seizure data indicate that nitazenes and 
+carfentanil might be mixed with benzodiazepines, methadone, diphenhydramine and/or 
+stimulants, supposedly at the supply level. These mixtures, introduced either during 
+production or distribution, increase overdose risks, particularly when consumed unknowingly. 
+One particularly concerning adulterant is xylazine, a veterinary sedative detected in 
+nitazenes samples in Estonia and Latvia. Xylazine is not an opioid, meaning that naloxone is 
+ineffective in reversing its effects. While detections of xylazine remain low, its presence in 
+synthetic opioid mixtures adds complexity to overdose management and raises concerns 
+about the unpredictability of street drug compositions. It is also unknown whether 
+laboratories routinely screen for xylazine, meaning its presence may be underreported. 
+The diversity of synthetic opioid mixtures introduces further health risks due to the variability 
+in potency. Limited knowledge about the cutting agents and dilution processes used in the 
+illicit market means that users are often exposed to unpredictable dosages, increasing the 
+likelihood of severe poisoning. Drug-checking services are not available in the region, 
+making it difficult for consumers or harm reduction services to identify these substances 
+before use. Furthermore, forensic laboratories do not routinely quantify the concentration of 
+these potent synthetic opioids in seized materials, adding another layer of uncertainty 
+regarding the potency of the substances in circulation. 
+The issue of adulteration in highly potent synthetic opioids involves a range of implications. 
+The unpredictability of the composition of street drug samples increases the health risks for 
+users, who may unintentionally consume highly potent mixtures of substances. Implementing 
+drug-checking services could help detect dangerous adulterants before consumption. In 
+addition, the presence of benzodiazepines, xylazine or other non-opioid sedatives in 
+synthetic opioid mixtures complicates overdose reversal efforts, as benzodiazepine-opioid 
+combinations can increase sedation and respiratory depression, requiring more intense 
+emergency care interventions. 
+
+ 
+ 
+ 
+ 
+ 
+18 
+Markets assessment: trafficking routes and distribution 
+networks 
+Key messages 
+• 
+China and Russia as primary sources: Nitazenes originate mainly from China 
+and carfentanil is sourced from Russia and China. Currently, there is limited 
+evidence for the production of fentanyl in the Baltic region and no evidence for 
+the production of nitazenes. 
+• 
+Latvia’s role in regional trafficking: Criminal groups based in Latvia appear to 
+play an important role in the trafficking and distribution of synthetic opioids, with 
+reported links to Russian organised crime groups (OCGs) and evidence of smallscale fentanyl production. 
+• 
+Diverse trafficking routes: Postal and courier services play a major role in the 
+supply of nitazenes, while carfentanil primarily enters the region via land routes. 
+Both substances are also distributed through online platforms and encrypted 
+messaging apps. 
+• 
+Growing role of digital platforms: Encrypted apps like Telegram facilitate 
+covert transactions, with products advertised through QR codes and sales 
+completed via private chats and drop-off points. Encryption and decentralised 
+online markets continue to challenge law enforcement efforts. 
+ 
+The production and trafficking of nitazenes and carfentanil in the Baltic region are linked to 
+international supply chains, with China identified as the primary source of nitazenes and 
+Russia and China as the main origins for carfentanil. While no domestic production has been 
+confirmed, localised activities have been observed. In 2020, for example, a small-scale 
+facility processing and packaging isotonitazene for sale in the domestic market was 
+dismantled in Latvia. Seizures of fentanyl precursors in Latvia in 2023 and the dismantling of 
+one illicit production laboratory in 2024, indicate that low-level fentanyl production takes 
+place within the region. However, there is currently no evidence regarding the availability of 
+nitazenes precursors in the Baltic countries. 
+Criminal gangs based in Latvia appear to play an important role in synthetic opioid 
+distribution within the region, likely due to the country’s geographic proximity to Russia and to 
+
+ 
+ 
+ 
+ 
+ 
+19 
+their connections with organised crime groups (OCGs). These OCGs, which often have 
+Russian links, are reported to operate across multiple countries, facilitating the movement of 
+highly potent synthetic opioids into and within the region. The discovery of a fentanyl 
+production site in Latvia in May 2023 further indicates the country’s role in trafficking and 
+regional distribution. 
+Trafficking routes rely on multiple transportation methods, reflecting the diverse supply 
+channels that sustain the market. Nitazenes are primarily imported from China as pure 
+powders and are often transported via courier and postal services. Online marketplaces in 
+the Netherlands, Germany, France, Poland, Finland, Norway and Spain have also been 
+identified as sites for wholesale suppliers. Carfentanil, on the other hand, enters the region 
+primarily via land routes, particularly from Russia and Ukraine, with smaller volumes reported 
+to originate from China. While online platforms do play a role in the carfentanil supply chain, 
+physical distribution networks remain the dominant trafficking mechanism. 
+The role of digital platforms in synthetic opioid trafficking is growing. While opioids do not 
+dominate online drug markets, nitazenes and carfentanil appear to occupy a niche, lowvolume segment of online sales. Encrypted messaging apps, particularly Telegram, facilitate 
+covert transactions, with products advertised via QR codes and sales completed in private 
+chats after background checks. Transactions are then finalised through postal services, 
+physical exchanges or drop-off points, with surface web shops occasionally selling noncontrolled nitazenes. 
+The focus groups provided additional insights into these trafficking dynamics. In Lithuania, 
+law enforcement representatives described how carfentanil enters the country primarily 
+through land routes from Latvia and the eastern EU, with smaller shipments arriving from 
+China. In Latvia, participants reported that nitazenes are typically imported as pure powders 
+from China or India and then diluted domestically for local distribution. The use of digital 
+platforms, parcel lockers and encrypted messaging services was highlighted as a key shift in 
+distribution methods. In Estonia, law enforcement respondents stressed the critical role of 
+cross-border cooperation in tackling synthetic opioid trafficking, noting the challenges of 
+disrupting production hubs outside the EU. They also emphasised the need for more flexible 
+legal frameworks to address new substances as they emerge. 
+These findings illustrate how illicit supply chains are evolving, capitalising on presumed low 
+production costs, logistical efficiency and digital tools, which leads to law enforcement 
+responses becoming increasingly complex. The demand for any available opioid, regardless 
+of origin or type, continues to sustain supply chains, highlighting the adaptability of illicit 
+markets in response to regulatory measures and enforcement actions. While enforcement 
+efforts remain essential, a comprehensive response to these potent opioids must also 
+prioritise reducing demand through prevention, treatment and harm reduction initiatives to 
+reduce opioid dependence and limit the market for these substances. 
+
+ 
+ 
+ 
+ 
+ 
+20 
+Markets assessment: options for response 
+The drug market response options focus on improving intelligence-sharing, enhancing 
+operational responses and building capacity to detect and disrupt synthetic opioid trafficking. 
+By strengthening collaboration across borders, advancing law enforcement training and 
+leveraging existing EU mechanisms, such as EMPACT, these measures aim to target 
+organised criminal networks and disrupt the flow of highly potent synthetic opioids. The 
+options below reflect a balanced approach to enhancing security responses while fostering 
+cooperation at regional and EU levels. 
+Countries are invited to explore the following options to improve security preparedness and 
+address the evolving synthetic opioid threat effectively. 
+Tier 1 
+1. Enhance regional collaboration in the Baltic countries and across the EU by improving 
+intelligence-sharing, integrating operational information on organised criminal networks 
+and strengthening the exchange of data on seizures, concealment methods and modi 
+operandi. This includes joint investigations at regional and European levels, notably 
+through frameworks such as EMPACT, to prioritise high-value targets and address 
+synthetic opioid trafficking networks. 
+Supporting evidence: Regional experience of joint collaboration between law enforcement 
+agencies from the Baltic countries has shown success in reducing the availability of 
+fentanyl in the region. 
+ 
+Tier 2 
+2. Enhance training, the sharing of best practices and the provision of specialist 
+equipment for law enforcement to detect new psychoactive substances. 
+Supporting evidence: The emergence of NPS poses significant challenges to detection 
+systems, with evidence highlighting the need for enhanced monitoring and surveillance 
+capabilities. 
+3. Further invest in the research and development of screening tools (screening mail, 
+parcels, etc.) and advanced technologies (e.g., machine learning and data modelling) 
+to improve interdictions and investigations across ports, airports and online platforms. 
+
+ 
+ 
+ 
+ 
+ 
+21 
+Supporting evidence: Europol and national law enforcement agencies have demonstrated 
+success in leveraging AI to process and analyse complex datasets, enhancing 
+investigative efficiency. The EncroChat takedown illustrates how large-scale data analysis 
+can uncover criminal networks, leading to arrests and asset seizures. AI-driven tools 
+enable law enforcement to identify patterns and connections within vast datasets, 
+improving interdictions and investigations. 
+ 
+Tier 3 
+4. Enhance awareness-raising activities and training for law enforcement professionals 
+handling highly potent synthetic opioids to prevent and respond to occupational 
+exposure risks, including in the following areas: risk assessing exposure scenarios, the 
+use of personal protective equipment (PPE), the provision of first aid and naloxone 
+administration. 
+Supporting evidence: Case investigations have documented health impacts resulting from 
+unintentional occupational exposure among law enforcement officers, emphasising the 
+need for preventive measures and training. 
+Implementation considerations 
+In addition to the response options outlined above, the key considerations listed below 
+provide essential guiding principles and strategies to support policy and operational 
+responses. They highlight important aspects for successful implementation, seek to 
+strengthen long-term approaches by addressing structural challenges in law enforcement 
+and security cooperation, and enhance the overall preparedness to mitigate the impact of 
+synthetic opioids. Through fostering intelligence-sharing, improving detection capabilities and 
+strengthening international collaboration, the following proposals aim to enhance 
+coordination and effective responses to synthetic opioid trafficking. 
+• Expand awareness, training and operational capacity for law enforcement personnel 
+with regard to trafficking indicators, precursor flows and financial networks linked to 
+synthetic opioid markets. This includes strengthening financial investigations into 
+money laundering networks, monitoring cryptocurrency transactions and tracking illicit 
+financial flows associated with synthetic opioid trafficking. 
+• Strengthen intelligence-sharing and cooperation on precursor supply chains to detect 
+vulnerabilities and disrupt illicit opioid production. 
+
+ 
+ 
+ 
+ 
+ 
+22 
+• Enhance partnerships through EMPACT and other European security instruments to 
+support joint investigations, operational task forces and regional cooperation in 
+tackling synthetic opioid trafficking. 
+• Improve the mapping and profiling of organised crime networks involved in heroin, 
+synthetic opioid and precursor trafficking to prioritise enforcement actions against 
+high-risk criminal groups. 
+• Expand efforts to systematically track and disrupt online sales of highly potent 
+synthetic opioids across darknet marketplaces, social media platforms and ecommerce sites. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+23 
+Situation and harms assessment: prevalence and patterns 
+of the use of nitazenes and carfentanil in the Baltic region 
+Key messages 
+• 
+Stimulants remain the most commonly used illicit drugs among high-risk drug 
+users (HRDUs) in this region. While synthetic opioids contribute significantly to 
+drug-related harms, their overall prevalence is lower and their use is largely 
+confined to specific subpopulations. 
+• 
+Synthetic opioid use remains highly concentrated among marginalised 
+populations, particularly middle-aged men with long histories of opioid 
+dependence and incarceration. The ageing PWID population in the Baltic region 
+suggests that the use of these substances has not significantly expanded to 
+younger users, but continues to impact an entrenched high-risk group. 
+• 
+Polysubstance use is a defining feature of synthetic opioid use in the Baltic 
+region, increasing the risk of overdose. Syringe residue and seizure data show 
+combinations of nitazenes and carfentanil with benzodiazepines, stimulants, 
+alcohol and opioids. While some users mix substances intentionally, others do so 
+unknowingly, increasing the likelihood of severe poisoning. 
+ 
+Available estimates suggest that overall opioid use prevalence in Latvia and Lithuania is 
+higher than the EU average of 3 per 1 000 people aged 15-64. In Latvia, estimates from 
+2016 and 2017, based on the Treatment Multiplier method, indicate a prevalence ranging 
+between 4.1 and 7.0 per 1 000, with a central estimate of 5.7 per 1 000 in 2017. In Lithuania, 
+estimates from 2016, derived using the Mortality Multiplier and Capture-Recapture methods, 
+suggest a prevalence of between 2.2 and 6.5 per 1 000, depending on the methodology 
+applied. Opioid use prevalence estimates for Estonia are not available. While these figures 
+highlight a relatively high prevalence in the Baltic region, methodological differences and the 
+lack of recent estimates should be taken into account when interpreting the data. 
+Nevertheless, these prevalence rates may contribute to explaining the elevated drug-related 
+death rates observed in the region. 
+While the overall prevalence of synthetic opioid use in the Baltic region appears low, these 
+substances are associated with a high burden of harm, particularly among people who inject 
+drugs (PWID). Current epidemiological drug use indicators lack sensitivity and timeliness in 
+
+ 
+ 
+ 
+ 
+ 
+24 
+detecting nitazenes and carfentanil, while self-reported use of these substances is often 
+unreliable. Users are frequently unaware of the exact substances they are taking, particularly 
+in cases where fentanyl, heroin or methadone are adulterated, misrepresented and mis-sold 
+as other substances. For example, a recent study in Lithuania (Jakubauskiene et al., 2024) 
+found that half of the respondents reported injecting fentanyl, despite fentanyl no longer 
+being available on the market, suggesting that they were using something else, most likely 
+carfentanil. 
+Synthetic opioid use is largely concentrated among marginalised populations, particularly 
+middle-aged men with long histories of opioid dependence and incarceration. Many of these 
+users belong to Russian-speaking communities in northern and eastern regions, which face 
+substantial barriers to harm reduction and treatment services. The PWID population in the 
+Baltic region is ageing, as reflected in bio-behavioural surveys and drug-related-death data, 
+suggesting that the use of these substances has not significantly expanded to younger 
+populations but rather continues to impact an entrenched cohort of ageing high-risk users. 
+Polysubstance use is a defining feature of synthetic opioid consumption in the Baltic region. 
+Syringe residue data consistently indicate that nitazenes and carfentanil are rarely used in 
+isolation, with frequent combinations detected featuring benzodiazepines, stimulants (e.g. 
+amphetamine, methamphetamine, mephedrone, cocaine), alcohol or methadone and other 
+opioids. In Latvia, mixtures with benzodiazepines — referred to as ‘benzo-dope’ — have 
+been recorded, particularly with bromazolam, a type of benzodiazepine that is about 10 times 
+more potent than traditional benzodiazepines. In Lithuania, carfentanil is often combined with 
+methadone and/or diphenhydramine, an antihistamine that enhances sedation, while in 
+Estonia and Latvia, syringe residues have revealed cocaine mixed with metonitazene, a 
+finding also supported by seizure data. It should be noted that analyses of reused syringes 
+may also contribute to the detection of multiple substances within the same syringe, 
+potentially overestimating the extent of intentional polysubstance use. 
+The motivations behind polysubstance use vary. Some users intentionally mix substances, 
+for example combining stimulants with carfentanil to counteract sedation and prolong 
+euphoria. In Lithuania, users report consuming carfentanil every 3-4 hours, including at night, 
+contributing to intense patterns of repeated dosing and rapid dependency. However, other 
+polysubstance use patterns appear unintentional, stemming from limited awareness of 
+substance content, as highly potent synthetic opioids are often adulterated, mis-sold or 
+unknowingly consumed. This increases the risk of severe poisoning and overdose, as users 
+may be unprepared for the potency and effects of the substances they are consuming. 
+Women remain a minority among synthetic opioid users, but face particular risks, including 
+higher rates of drug poisoning at younger ages and exposure through polysubstance use. 
+Although minors account for a small proportion of opioid users, there are increasing reports 
+of non-fatal poisonings linked to nitazenes, raising concerns about early exposure and future 
+
+ 
+ 
+ 
+ 
+ 
+25 
+substance use disorders. Given their potency, even a single exposure to highly potent 
+synthetic opioids can be fatal. This highlights the urgent need to expand prevention 
+strategies to reduce first-time use, particularly among vulnerable groups. 
+Despite the established presence in the region of highly potent synthetic opioids, significant 
+data gaps remain, particularly regarding non-injecting opioid users and non-fatal overdoses. 
+For example, there is currently no standardised mechanism to record the use of nitazenes or 
+carfentanil among those seeking treatment for opioid dependence, either in the Baltic region 
+or elsewhere in the EU. This lack of data limits the ability of the relevant agencies to assess 
+treatment needs, monitor trends and develop effective harm reduction and treatment 
+strategies. 
+Situation and harms assessment: highly potent synthetic 
+opioids and drug-related mortality 
+Key messages 
+• 
+Rising drug-induced deaths: In 2023, Estonia and Latvia recorded a sharp 
+increase in drug-related deaths (DRDs), largely driven by nitazenes. In Lithuania, 
+carfentanil remains a key factor in drug-induced deaths. 
+• 
+Acute toxicity and emergency medical service (EMS) response: Overdoserelated ambulance call-outs and hospitalisations have increased significantly, 
+reflecting the high potency of these synthetic opioids and the risks they pose for 
+users. 
+• 
+Urban concentration of harms: Most opioid-related deaths occur in capital 
+regions, with urban areas acting as hotspots for synthetic-opioid-related 
+mortality. 
+• 
+Polysubstance use as a common factor: The majority of deaths involve 
+polysubstance use, with highly potent synthetic opioids frequently combined with 
+stimulants such as amphetamine, methamphetamine and cocaine. 
+ 
+The availability of nitazenes and carfentanil in the Baltic region has led to an overall rise in 
+drug-related deaths (DRDs), acute toxicity cases and associated health risks. Estonia and 
+Latvia have experienced particularly sharp increases in mortality, with drug-related death 
+
+ 
+ 
+ 
+ 
+ 
+26 
+rates significantly exceeding the EU average. In 2023, nitazenes were linked to at least 150 
+deaths across five EU countries, with 132 (88 %) occurring in Estonia and Latvia alone. 
+Estonia recorded 119 DRDs in 2023, up from 82 in 2022, representing 135 deaths per million 
+people aged 15-64 — six times the estimated EU average (see Figure 2). Nitazenes were 
+implicated in 52 % (62/119) of cases, often in combination with stimulants such as 
+amphetamine or methamphetamine. Preliminary 2024 data indicate a decrease in the overall 
+number of deaths in Estonia (92) as well as in the percentage where nitazenes were 
+detected (44 %). These preliminary data should be interpreted with caution as consolidated 
+data for 2024 will only be available later in 2025. Latvia recorded 154 DRDs in 2023 (130 
+deaths per million people aged 15-64), with nitazenes — particularly isotonitazene — 
+contributing to 66 % (101/154) of deaths. It should be noted that comparisons with previous 
+years should be made with caution, as forensic detection of nitazenes in Latvia only became 
+possible in December 2022 following the introduction of new toxicology screening methods. 
+Preliminary 2024 data suggest that nitazenes continue to be involved in the majority of 
+opioid-related fatalities. 
+In contrast, Lithuania reported a slight decline in DRDs, from 87 in 2022 to 74 in 2023 (40 
+deaths per million people aged 15-64, about twice the estimated EU average). However, 
+carfentanil remained a key driver of opioid-related fatalities, and was detected in nearly half 
+of all cases. Across all three countries, most deaths were linked to polysubstance use, 
+particularly combinations of highly potent synthetic opioids with amphetamine, 
+methamphetamine and cocaine. Mortality rates were highest among males aged 25-44, with 
+urban areas acting as hotspots for opioid-related harms. In 2023, 67 % of Estonia’s DRDs 
+occurred in Tallinn, 74 % in Riga (Latvia) and 57 % in Vilnius (Lithuania). 
+
+ 
+ 
+ 
+ 
+ 
+27 
+Figure 2. Trends in drug-induced mortality rates per million among adults (15-64) in 
+Latvia, Lithuania and Estonia 
+ 
+Notes: The trend in the mortality rate for the EU27 plus Türkiye and Norway is computed as the weighted average of the 
+available mortality rates (from 21 countries in 2023), using the population aged 15-64 in the corresponding year as weights. In 
+Latvia, from May to June 2022, better detection of all drugs resulted in some cases who might have been missed before being 
+reported as drug-induced deaths. The detection of nitazenes substances in biological materials from deceased persons in 
+Latvia only began in December 2022, following the introduction of new detection equipment (with two cases identified that 
+month). As a result, numbers in 2022 might be underestimated and comparisons of the overall number of drug-induced deaths 
+and of the number of cases associated with nitazenes between 2022 and 2023 should be interpreted with caution (see Annex 
+1). 
+Acute toxicity and emergency medical responses 
+The potency of nitazenes and carfentanil has possibly led to a surge in emergency medical 
+service (EMS) interventions in Estonia and Latvia. While making precise attributions to 
+specific substances is challenging, trends in overdose incidents and naloxone administration 
+suggest that highly potent synthetic opioids might be responsible for a substantial portion of 
+opioid-related medical emergencies. 
+In Tallinn (Estonia), ambulance call-outs for overdoses increased by 40 % between 2022 and 
+2023, rising from 605 to 845 cases, with naloxone administered in 59 % of incidents. In 
+Latvia, the emergency services responded to over 4 000 overdose incidents in 2023, a 9 % 
+increase from the previous year, with naloxone administered in approximately 2 400 cases 
+
+ 
+ 
+ 
+ 
+ 
+28 
+(around 60%). Lithuania also recorded a 31 % increase in hospitalisations due to drug 
+poisoning in 2023, although data gaps prevent precise identification of the substances 
+involved. 
+Despite the high visibility of EMS cases, these figures probably underestimate the true 
+burden of synthetic-opioid-related harm, as many overdoses go unreported or do not result in 
+emergency care-seeking behaviour. The availability and potency of nitazenes and carfentanil 
+continue to present significant challenges for frontline responders. 
+From January 2023 to November 2024, the Euro-DEN sentinel hospital in Riga (Latvia) 
+reported 100 acute drug toxicity presentations (provisional data). Of these, analytical 
+screening detected 18 cases involving nitazenes and one case where etonitazene was 
+present. Six different nitazenes were detected in these presentations: etodesnitazene, 
+etonitazene, isotonitazene, metodesnitazene, metonitazene and protonitazene. Available 
+data for 2024 showed no nitazenes-related presentations reported by the other sentinel 
+centres in the Baltic region (i.e., Pärnu and Tallinn in Estonia, and Vilnius in Lithuania). 
+However, most presentations with opioids were self-reported and the opioid was recorded as 
+‘opioid unknown’. No analytical confirmation was available and it is possible that some 
+presentations involving nitazenes may have been missed. 
+Impact on drug-related infectious diseases 
+The Baltic region has long reported some of the highest rates of HIV and HCV among PWID 
+in the EU, exacerbated by limited harm reduction access and frequent injection behaviours. 
+In Estonia, the latest seroprevalence studies (RDS), conducted in Tallinn (2022) and Narva 
+(2023), reported HIV prevalence of 50 % among PWID. The prevalence of viraemic HCV 
+infection measured by HCV-RNA tests carried out within the same study in Tallinn showed 
+that 56 % of PWID were infected with HCV. In Latvia, a cohort study in Riga, conducted in 
+2022, estimated that 29 % of recruited PWID were HIV+, while a national study among PWID 
+in Lithuania (RDS) reported a HIV prevalence of 19 % in 2023. 
+While the direct impact of highly potent synthetic opioids on HIV and HCV transmission is 
+difficult to quantify, the elevated frequency of injections associated with fentanyl and 
+nitazenes poses additional risks. In Lithuania, a recent study found that half of respondents 
+who reported injecting fentanyl (most likely carfentanil) did so three times a day, often in 
+combination with alcohol. Historical outbreaks, such as the 2016-17 HIV outbreak in 
+Lithuanian prisons, highlight the persistent vulnerability of populations at high risk. 
+The infectious disease burden in the region is shaped more by long-standing structural 
+barriers than the emergence of nitazenes and carfentanil alone. Despite the availability of 
+
+ 
+ 
+ 
+ 
+ 
+29 
+harm reduction programmes, coverage remains insufficient, particularly in non-urban areas. 
+Expanding needle and syringe programmes (NSPs) and opioid agonist treatment (OAT) 
+remains critical to mitigating drug-related health harms. 
+Public health responses assessment: treatment and harm 
+reduction response 
+Key messages 
+• 
+Limited access to harm reduction services: OAT and NSP coverage remains 
+low across the Baltic region, leaving populations at increased risk of harm 
+underserved. 
+• 
+Naloxone distribution remains inconsistent: Only Estonia has a formal takehome naloxone programme, while Latvia and Lithuania rely primarily on EMS 
+interventions. 
+• 
+Need for bystander overdose response training: The response to opioid 
+overdoses by bystanders necessitates first aid training, in line with current 
+emergency medical recommendations — particularly CPR and the titrated 
+administration of naloxone (see Box 2). 
+• 
+Structural and legal barriers hinder responses: Administrative restrictions, 
+stigma and limited adaptation of OAT contribute to poor treatment retention and 
+high overdose risks. In addition, many rural and non-urban areas have limited 
+access to harm reduction services, creating treatment gaps. 
+ 
+Opioid agonist treatment (OAT) is a critical intervention in reducing illicit opioid use, opioidrelated overdose mortality and injection-related health risks. However, coverage in the Baltic 
+region remains low, with estimates suggesting that only 10 % of high-risk populations in 
+Latvia, 15 % in Lithuania and around 30 % in Estonia receive OAT (see Figure 3). Access 
+barriers include geographical disparities, stigma, restrictive prescribing regulations and 
+service-entry thresholds. In Estonia, OAT initiation is permitted in custodial settings, while in 
+Latvia, the mobile methadone bus in Riga represents a step towards improving access. 
+Needle and syringe programmes (NSPs) are also fragmented across the region. Estonia 
+operates the most extensive NSP network, including pharmacy-based distribution, whereas 
+
+ 
+ 
+ 
+ 
+ 
+30 
+Latvia relies on a limited number of mobile units. Lithuania operates only nine fixed NSP 
+sites, and has no pharmacy or prison-based initiatives. These gaps in harm reduction 
+services exacerbate health risks for people who inject drugs (PWID) and contribute to the 
+high burden of infectious diseases in the region. 
+Figure 3. Estimated coverage of opioid agonist treatment in 2023 or the most recent 
+year in the EU and Norway 
+ 
+Note: * Estonia does not currently provide an updated national estimate of the high-risk opioid-using population. However, a 
+2019 study estimated 8 600 PWID in 2015 (Raag et al., 2019), with little evidence of major change since then. Applying 
+available data on opioid injection patterns (Des Jarlais et al., 2023; Uusküla et al., 2018) suggests a crude estimate of around 
+3 400 opioid users, of whom approximately 30 % are in opioid agonist treatment. This estimate aligns with earlier findings and 
+should be interpreted with caution due to methodological limitations. 
+The uneven distribution of naloxone remains a major challenge in preventing opioid-related 
+fatalities. Estonia’s take-home naloxone programme, launched in 2013, has demonstrated 
+promising results, distributing 8 452 kits and training 7 040 individuals by 2023. However, the 
+potency of nitazenes has led to a near tripling of drug-induced deaths since 2021, 
+highlighting the urgent need to reinforce and expand naloxone programmes. Estonian police 
+now carry a kit of two doses of inter-nasal naloxone as part of their overdose response 
+efforts, further expanding naloxone availability among first responders. 
+In contrast, Latvia does not have a take-home naloxone programme, meaning that 
+emergency medical services remain the primary overdose responders. This reliance on prehospital care places a significant burden on such services, particularly as nitazenes were 
+implicated in most drug-induced deaths in 2023. Lithuania has made limited progress, 
+issuing 1 700 naloxone kits in 2023, but coverage remains insufficient given the risks posed 
+by highly potent synthetic opioids like carfentanil. 
+
+ 
+ 
+ 
+ 
+ 
+31 
+Focus groups conducted in Estonia, Latvia and Lithuania identified several systemic 
+challenges to responding to the harms associated with these substances. They raised the 
+fact that the accessibility of treatment remains a key challenge. In Lithuania, OAT is available 
+in only five treatment centres, leaving many outside the capital region without access. 
+Estonia has gaps in mental health services, particularly for dual-diagnosis patients with 
+substance use and psychiatric disorders. Many high-risk drug users who take nitazenes lack 
+health insurance, preventing them from accessing public healthcare services. 
+It was further highlighted that adapting OAT to nitazenes and carfentanil use remains 
+complex. Health professionals in Latvia and Lithuania reported difficulties in treating users of 
+nitazenes, who often require higher methadone doses or alternative formulations such as 
+injectable prolonged-release buprenorphine to improve treatment attractiveness, 
+acceptability and retention. Social and legal barriers continue to limit naloxone access. In 
+Lithuania, administrative restrictions prevent distribution through low-threshold services, 
+while in Estonia, stigma remains a major obstacle, discouraging many users from seeking 
+help. 
+In addition, the rise of highly potent synthetic opioids has increased interest in drug-checking 
+services. Participants from low-threshold services in the focus groups called for rapid 
+detection capabilities to inform users and health professionals about the presence of highly 
+potent synthetic opioids in users’ drug samples. However, discussions highlighted the issues 
+of costs, political acceptance and legal challenges as barriers to implementing such 
+measures. 
+Anecdotal evidence indicates that overdose responses increasingly require larger doses of 
+naloxone. Health professionals across all three countries reported cases where multiple 
+doses were necessary to reverse nitazenes overdoses, highlighting the importance of 
+providing evidence-based training in first aid and naloxone administration with regard to 
+these substances (see Box 2 and Annex 3). Police and emergency responders were 
+frequently identified as key naloxone carriers, underscoring their frontline role in overdose 
+prevention. 
+Finally, overdose prevention has been a central component of previous responses in the 
+region and must remain a priority. However, the core challenge extends beyond the presence 
+of specific substances like nitazenes or fentanyl analogues. Insufficient coverage of 
+comprehensive public health services leaves people who use drugs vulnerable to a range of 
+harms, regardless of which substances are in circulation. To address current and future 
+threats, countries will need to adopt forward-looking strategies that build long-term resilience 
+to synthetic opioid surges. This requires a holistic public health approach that integrates 
+efforts to raise awareness, improve OAT uptake and accessibility, enhance overdose 
+prevention, strengthen infectious disease control, and expand broader health and social 
+responses. 
+
+ 
+ 
+ 
+ 
+ 
+32 
+Box 2. Managing acute opioid toxicity — key considerations for emergency 
+response 
+Acute opioid toxicity is a leading cause of emergency medical presentations, with 
+respiratory depression being the primary life-threatening complication. The increasing 
+presence of high-potency synthetic opioids, such as nitazenes and fentanils described 
+in this assessment, poses significant challenges for emergency responders, requiring 
+enhanced clinical awareness and close patient monitoring (Blundell et al., 2024; 
+Lavonas et al., 2023). Many of these opioids are more potent and/or have a longer halflife than heroin, and so patients may potentially require a higher overall dose of 
+naloxone and/or more prolonged treatment. However, it is important, even in the era of 
+potent new synthetic opioids, to maintain the approach of giving titrated doses of 
+naloxone to patients with acute opioid toxicity (UK Government, 2017; CDC, n.d.). 
+Recognition and initial management 
+Acute opioid toxicity typically presents with drowsiness, respiratory depression and pinpoint pupils. However, polysubstance use — particularly with benzodiazepines, alcohol 
+or stimulants — can obscure or complicate diagnosis (Heier et al., 2022). Given the 
+potency of new synthetic opioids, prompt intervention is critical. Basic and advanced life 
+support (BLS/ALS) principles remain central, with delivering airway and breathing 
+support (including rescue breaths) as the first priority for those with respiratory arrest or 
+severe respiratory depression (Hewett Brumberg et al., 2024). 
+Naloxone administration 
+Naloxone is the primary treatment for acute opioid toxicity. The titration of naloxone, 
+meaning the stepwise administration of doses based on the patient’s respiratory status, 
+is recommended to reverse respiratory depression while minimising the risk of 
+precipitated withdrawal, particularly in opioid-dependent individuals (Blundell et al., 
+2024; Lavonas et al., 2023). In the pre-hospital environment, this involves giving an 
+initial intramuscular dose (e.g., 400 micrograms), waiting 2-3 minutes, and 
+administering additional doses as needed, up to a recommended maximum of 2 mg in 
+the case of bystander use (UK Government, 2017; CDC, n.d.). For intranasal naloxone, 
+the same stepwise approach should be followed, with repeat doses administered if 
+respiratory depression persists. Professional emergency responders and clinicians in a 
+hospital environment may use titrated intravenous naloxone and for those requiring 
+
+ 
+ 
+ 
+ 
+ 
+33 
+repeated doses of naloxone a continuous naloxone infusion may be required, 
+depending on the circumstances. 
+Post-naloxone monitoring and observation 
+Because naloxone has a shorter half-life than many opioids, individuals require 
+prolonged monitoring (at least 4-6 hours, or up to 12 hours for long-acting opioids) 
+(CDC, n.d.). Patients managed with naloxone should be assessed for ongoing 
+respiratory depression and provided with harm reduction support, including take-home 
+naloxone and a referral to drug treatment services. 
+Emergency response systems must adapt to the increasing risks posed by highly 
+potent synthetic opioids, ensuring that first responders, healthcare providers and 
+affected communities are equipped with the knowledge, tools and protocols necessary 
+to reduce fatalities and improve patient outcomes (EUDA, n.d.). 
+See Annex 3 for a detailed clinical discussion on acute opioid toxicity management. 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+34 
+Public health responses assessment: options for response 
+The public health response options and key considerations recommended by the EUDA aim 
+to improve access to life-saving harm reduction measures, enhance OAT coverage and 
+ensure continuity of care for people with opioid use disorders. By addressing systemic 
+barriers, promoting health services in diverse settings and empowering civil society, the 
+suggested options support equitable healthcare access and can reduce opioid-related 
+harms. The suggested intervention options are designed to prioritise underserved 
+populations while reinforcing sustainable and evidence-based interventions. 
+Countries are encouraged to consider the following options to enhance their public health 
+systems and improve preparedness for emerging synthetic opioid threats. 
+Tier 1 
+1. Develop and commit to national tangible drug treatment and harm reduction targets by 
+2030, as part of comprehensive national preparedness plans, to drive measurable 
+progress, including opioid agonist treatment, naloxone distribution, and needle and 
+syringe exchange coverage targets. 
+Supporting evidence: Recent research emphasises the importance of resilience-based 
+public health approaches and comprehensive response strategies. However, specific 
+evidence for the effectiveness of target-setting remains limited and requires further 
+research. 
+2. Improve naloxone provision, expanding training opportunities and geographical 
+coverage and targeting a broader range of non-professional first responders (e.g., 
+users, family members, law enforcement officers, peers and prison staff). 
+Supporting evidence: Multiple studies demonstrate the effectiveness of naloxone training 
+programmes and distribution. A 2016 study (McDonald and Strang, 2016) showed 
+significant improvements in knowledge and attitudes following naloxone training 
+interventions. Research indicates high acceptability among service users and 
+effectiveness in emergency response scenarios. 
+ 
+Tier 2 
+3. Improve the availability and accessibility of OAT by addressing legal and systemic 
+barriers and enlisting the support of medical professionals and public health centres. 
+
+ 
+ 
+ 
+ 
+ 
+35 
+This includes ensuring the availability of methadone and buprenorphine — listed on the 
+WHO Model List of Essential Medicines — as critical components of equitable 
+healthcare access. Any actions pursued should draw on lessons learnt from other EU 
+countries, mitigate the risk of diversion and prioritise under-served regions to reduce 
+opioid-related harms. Regular quality and satisfaction evaluations should be used to 
+monitor effectiveness and improve service delivery. 
+Supporting evidence: Multiple high-quality population-based studies, systematic reviews 
+and real-world implementation studies provide strong evidence for the effectiveness of 
+OAT interventions. The evidence supports the use of flexible take-home dosing strategies, 
+which show consistently improved patient outcomes’ patient outcomes. Moreover, personcentred approaches, which focus on patient autonomy, individualised care and flexible 
+treatment options, have been shown to yield positive outcomes in terms of treatment 
+retention and satisfaction. In addition, significant cost implications are associated with 
+different dispensing models, and the potential exists for more efficient resource allocation. 
+For example, weekly or biweekly dispensing could lead to cost savings while maintaining 
+treatment effectiveness. 
+Implementation considerations 
+In addition to the options grounded in science, the key considerations listed below provide 
+essential guiding principles and strategies to inform policy and programme design by 
+highlighting critical aspects for successful implementation. They support long-term strategies 
+by framing the broader public health environment needed to maximise the impact of 
+suggested interventions and enhance the overall preparedness to mitigate the threat posed 
+by highly potent synthetic opioids. 
+• Ensure gender-sensitive and inclusive harm reduction programmes that address the 
+specific needs of women, young people, incarcerated individuals and marginalised 
+communities, including Russian-speaking populations. 
+• Guarantee continuity of care between community and custodial settings by expanding 
+OAT in prisons, aligning prison health services with community standards and 
+introducing naloxone distribution in correctional facilities. 
+• Strengthen integrated care models based on WHO best practices, ensuring 
+comprehensive service provision in the areas of substance use, mental health, 
+infectious diseases and social care. 
+• Support the role of civil society organisations in delivering harm reduction services 
+and strengthening community engagement, with a focus on capacity-building. 
+
+ 
+ 
+ 
+ 
+ 
+36 
+• Leverage European funding mechanisms to scale up naloxone provision and improve 
+OAT accessibility, particularly in underserved areas and for those at higher risk of 
+harm. 
+• Facilitate rapid access to emerging clinical research and best practices for frontline 
+professionals — including alternatives to methadone treatment and overdose reversal 
+strategies — by fast-tracking updates to prescribing guidelines and OAT protocols. 
+• Support the implementation of additional overdose prevention and harm reduction 
+measures, including drug checking, overdose warning networks and drug 
+consumption rooms, to reduce the health risks associated with highly potent synthetic 
+opioids. 
+Box 3: Responding to the emergence of nitazenes — prioritising life-saving 
+interventions 
+Given the high potency and rapid onset of nitazenes, immediate life-saving measures 
+must be prioritised as the first line of response. While long-term strategies remain 
+essential, countries facing the emergence of these substances need to ensure that first 
+responders, including emergency medical personnel, law enforcement officers, harm 
+reduction workers, people who use drugs and their contacts/families, are trained to 
+recognise and respond effectively to nitazenes overdoses. 
+Naloxone distribution should be quickly scaled up, ensuring broad availability across 
+key populations and strategic locations, such as harm reduction services, shelters, 
+police units and outreach programmes. Given the higher doses of naloxone that may 
+be required to reverse nitazenes overdoses in pre-hospital and emergency settings, 
+national frameworks should anticipate and address any potential barriers to increasing 
+overall dosage recommendations. 
+At the same time, national authorities should conduct rapid assessments to identify 
+gaps in overdose response capacity and develop immediate contingency plans. This 
+includes ensuring that there are adequate stockpiles of naloxone and that clinical 
+protocols for opioid toxicity management are evidence-based (see Annex 3), as well as 
+streamlining any legal and regulatory frameworks that could delay emergency 
+interventions. 
+Although systemic and long-term strategies are necessary, an immediate and 
+coordinated response is critical to prevent loss of life. A balanced approach — one that 
+combines urgent action with sustained investment in harm reduction, treatment and 
+
+ 
+ 
+ 
+ 
+ 
+37 
+structural interventions — will be essential in effectively mitigating the impact of 
+nitazenes. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+38 
+Monitoring assessment: robustness of national early 
+warning systems and monitoring capacities for responding 
+to the threat of synthetic opioids 
+Key messages 
+• 
+Progress in detection and identification: Latvia and Estonia have 
+strengthened their forensic capabilities, improving early identification of highly 
+potent synthetic opioids. 
+• 
+Urban bias in monitoring systems: Current national frameworks focus 
+primarily on high-risk urban populations, leaving gaps in the data concerning 
+drug use in rural areas and among people who use but do not inject drugs. 
+• 
+Challenges in translating data into action: While national focal points in the 
+Baltic countries generate detailed intelligence, resource constraints can limit their 
+ability to implement fully coordinated policy or operational responses. 
+• 
+Enhanced inter-agency coordination: Ongoing efforts are needed to 
+strengthen inter-agency coordination, ensuring that data-sharing and 
+cooperation between ministries effectively support early warning responses. 
+• 
+Need for sustainable funding and improved infrastructure: Sustainable 
+funding and infrastructure improvements are needed to advance real-time 
+detection and response systems, ensuring rapid identification of emerging 
+synthetic opioids. 
+ 
+The monitoring capacities in the Baltic region have made progress in detecting highly potent 
+synthetic opioids, allowing for earlier identification of emerging threats. Latvia has enhanced 
+its forensic capabilities, introducing more sensitive analytical equipment to perform toxicology 
+analysis in mid-2022, which enabled the detection of nitazenes in 110 post-mortem cases by 
+2023. Estonia has been quick to notify the EU Early Warning System (EWS) of new 
+compounds, such as ethyleneoxynitazene and N-desethyl-isotonitazene, in accordance with 
+the mandatory reporting requirements for Member States. These detections contribute to 
+regional preparedness by improving the early identification of emerging new synthetic 
+opioids. Systematic drug-induced-death reporting has also advanced, with Latvia’s State 
+Centre for Forensic Medical Examination expanding its analytical scope, while Lithuania has 
+
+ 
+ 
+ 
+ 
+ 
+39 
+begun integrating toxicological findings into its General Mortality Register, thus strengthening 
+national data collection on opioid-related fatalities. Moreover, syringe residue analysis has 
+emerged as a valuable tool in the region for identifying the presence of highly potent 
+synthetic opioids in circulation, complementing forensic toxicology and seizure data in 
+monitoring emerging drug trends. 
+Despite these developments, several challenges remain in strengthening early warning and 
+monitoring capacities. Existing frameworks are often concentrated in urban areas, with more 
+limited coverage extending to rural regions, creating potential gaps in the detection of 
+emerging drug-related threats such as potent synthetic opioids. Beyond high-risk injecting 
+drug users, monitoring frameworks in the Baltic region are also limited in their ability to 
+capture other populations, such as recreational or non-injecting opioid users. This results in 
+gaps in understanding the full extent of synthetic opioid use, meaning that the broader impact 
+of these substances could be underestimated. 
+Regional collaboration efforts continue to evolve but remain constrained by data-sharing 
+limitations, inconsistencies in timely alert integration, and the availability of resources. While 
+investments in forensic capacity and monitoring technologies are increasing, variations in 
+funding and infrastructure present challenges to achieving a fully harmonised and effective 
+EWS at both national and regional levels. It is important to note that these challenges are not 
+unique to the Baltic region but are also experienced to different degrees by other EU Member 
+States, where disparities in forensic capacity, timely data-sharing and cross-sector 
+collaboration continue to affect national and regional preparedness efforts. 
+Although national systems collect a wide range of data, the capacity to translate this 
+information into operational and policy measures remains limited. National focal points in the 
+region reported often being overburdened during crises, juggling local, national and EU-level 
+responsibilities without additional resources. Enhancing mechanisms for coordination, 
+information exchange and sustained funding will be essential to strengthening early 
+detection, monitoring and response capabilities in the region. 
+Monitoring assessment: options for response 
+The monitoring and early warning response options aim to strengthen national and regional 
+capacities to detect, assess and respond to the emergence of highly potent synthetic opioids. 
+Enhancing national early warning systems and forensic and toxicology capabilities is 
+essential to improving situational awareness and ensuring timely intervention. These 
+measures include expanding laboratory detection capabilities and improving data-sharing 
+mechanisms. By integrating multi-source data, including forensic analysis, wastewater 
+epidemiology and hospital emergency surveillance, the proposed options seek to enhance 
+
+ 
+ 
+ 
+ 
+ 
+40 
+preparedness and mitigate the health and security risks associated with highly potent 
+synthetic opioids. 
+Countries are encouraged to consider the following options to improve their monitoring and 
+early warning systems, ensuring a proactive and coordinated response to emerging drug 
+threats. 
+Tier 1 
+1. Support and strengthen national and sub-national early warning systems to improve 
+preparedness and ensure clear procedures for reporting, assessing and responding to 
+the identification of emerging highly potent synthetic opioids. Improving collaboration 
+and information exchange between national stakeholders is key to achieving this goal. 
+Supporting evidence: EWS systems have demonstrated value in tracking NPS-related 
+overdoses including deaths, although with noted limitations in terms of comprehensive 
+reporting. 
+ 
+Tier 2 
+2. Increase the ability of forensic, toxicology and other testing laboratories to rapidly 
+detect new opioids, their precursors and metabolites through training, data-sharing and 
+improved analytical tools. 
+Supporting evidence: Recent advances in analytical techniques demonstrate improved 
+detection capabilities for broad-spectrum drug screening, particularly in the case of 
+emerging substances. Studies also show the successful identification of highly potent 
+synthetic opioids including nitazenes in post-mortem samples. Research indicates the 
+importance of sensitive analytical instrumentation for detecting low concentrations of 
+potent substances. 
+3. Increase the availability of reference standards and analytical data libraries to improve 
+the detection of emerging new psychoactive substances, ensuring also that this 
+information is shared effectively among relevant stakeholders at both national and 
+regional levels. 
+Supporting evidence: Research indicates the importance of maintaining up-to-date libraries 
+for new psychoactive substances. 
+ 
+
+ 
+ 
+ 
+ 
+ 
+41 
+Implementation considerations 
+In addition to the response options outlined above, the key considerations listed below 
+provide guiding principles and strategies to strengthen national and regional monitoring 
+capacities. These considerations support long-term approaches by improving data collection 
+and analysis, and enhance overall preparedness. By expanding forensic and toxicological 
+capabilities, integrating multi-source data and improving early warning mechanisms, these 
+measures aim to ensure a timely and coordinated response to emerging synthetic opioid 
+threats. 
+• Enhance forensic and toxicology laboratory capacity to detect highly potent synthetic 
+opioids, adulterants and precursor chemicals by improving training, resources and 
+data-sharing mechanisms. 
+• Expand wastewater epidemiology, syringe residue analysis and forensic drug analysis 
+to improve the timely detection of emerging synthetic opioid use trends and support 
+early warning systems. 
+• Strengthen the monitoring of seized materials’ price, purity and composition to track 
+market trends and detect sudden shifts in synthetic opioid availability. 
+• Improve naloxone surveillance by gathering data on barriers, user knowledge and 
+administration patterns through targeted field surveys and first responder interviews. 
+• Increase sustainable and long-term funding for surveillance indicators and data 
+collection tools, ensuring continuity beyond temporary research initiatives. 
+• Expand pre-hospital and hospital emergency surveillance, including with data 
+collected from ambulance services, to improve the detection of acute drug toxicity 
+trends and strengthen preparedness. 
+
+ 
+ 
+ 
+ 
+ 
+42 
+Conclusions: strengthening 
+preparedness at the national and EU 
+level 
+The findings of this threat assessment highlight the growing availability and harms of highly 
+potent synthetic opioids, specifically nitazenes and carfentanil, in Estonia, Latvia and 
+Lithuania. The emergence of these substances signals a worrying shift in regional drug 
+markets, with serious implications for public health and security. While currently concentrated 
+in the Baltic countries, increasing reports of overdose outbreaks and fatalities in other EU 
+countries indicate a need for vigilance and proactive responses to prevent the further spread 
+of this threat. 
+This analysis highlights the interplay between supply-side adaptability and demand-side 
+vulnerabilities as key drivers of the current synthetic opioid threat. The important role played 
+by law enforcement agencies as well as the unintended consequences of actions are raised 
+here. On the security front, the trafficking of nitazenes and carfentanil involves both physical 
+and digital supply chains, with illicit markets leveraging online platforms, encrypted 
+communications and postal networks to facilitate distribution. Organised crime networks have 
+exploited market conditions to introduce highly potent synthetic opioids, adapting swiftly to 
+regulatory controls and law enforcement efforts. At the same time, disruptions in the 
+availability of traditional opioids, such as heroin and fentanyl, have left opioid-dependent 
+populations with limited alternatives, increasing their exposure to often more potent and 
+unpredictable substances. 
+The public health consequences are evident, with Estonia and Latvia in particular 
+experiencing a significant burden of drug-induced deaths. The crisis is exacerbated by 
+polysubstance use patterns, unpredictable adulteration of substances and systemic gaps in 
+the availability of harm reduction and treatment programmes. 
+There is a particular need for coordinated policy responses that strengthen national 
+preparedness, improve early warning systems and enhance cross-sector collaboration in the 
+Baltic region. While technical and operational measures are essential, policy frameworks 
+play a crucial role in shaping long-term resilience against synthetic opioid threats. To address 
+the challenges identified in this assessment, the following policy response options should be 
+considered at the national level: 
+
+ 
+ 
+ 
+ 
+ 
+43 
+• Develop, implement, and maintain comprehensive national preparedness and 
+response plans: Establish national preparedness and response plans backed by 
+political commitment and sustainable funding. These should include both immediate 
+response measures for outbreak management and longer-term strategies to prevent 
+and mitigate synthetic opioid threats. Plans should cover harm reduction scale-up, 
+naloxone access, strengthening monitoring, including early warning and alerting, and 
+inter-agency coordination. Across Europe, several countries are already developing 
+national overdose prevention networks, user-focussed alert/warning systems and 
+digital tools to support rapid response. The EUDA is actively supporting national focal 
+points in strengthening national drug early warning and alert systems, including 
+targeted risk communication. 
+• Establish multi-stakeholder coordination mechanisms: Formalise national and 
+regional coordination mechanisms involving policymakers, health professionals, law 
+enforcement bodies, civil society and people who use drugs. These platforms should 
+facilitate early warning, information-sharing and evidence-based responses, and be 
+closely linked to national preparedness efforts. Ensure robust and sustainable funding 
+— sustainable funding mechanisms are essential to maintain effective opioid-related 
+public health and security responses. Moving beyond short-term project-based 
+funding towards the establishment of stable financing structures will help ensure the 
+continuity of critical interventions such as forensic testing, harm reduction and law 
+enforcement efforts. 
+• Enhance rapid response to market shifts: Given the volatility of opioid markets, 
+national and regional authorities should formulate contingency planning to anticipate 
+and respond to disruptions in heroin or fentanyl availability. This includes ensuring 
+stable access to OAT and harm reduction services to prevent increased reliance on 
+more potent synthetic opioids. 
+• Strengthen national and regional policy frameworks: Integrate foresight studies 
+and scenario planning into national drug policy strategies to better anticipate and 
+mitigate emerging synthetic opioid threats. This approach will improve long-term 
+resilience and assist Member States’ readiness to respond proactively to evolving 
+drug market trends. 
+EU-level policy considerations 
+The lessons learned from the Baltic experience provide a roadmap for EU Member States 
+seeking to enhance preparedness against the threat of highly potent synthetic opioids. A 
+proactive, data-driven and collaborative approach — integrating health, security and policy 
+responses — is essential to mitigating future harms and ensuring that the EU is equipped to 
+
+ 
+ 
+ 
+ 
+ 
+44 
+respond effectively to the threat of potent synthetic opioids. At the EU level, strategic gaps in 
+intelligence, monitoring and law enforcement coordination can be addressed through 
+collective action. The following measures should be considered: 
+• Supporting the evaluation of Member States’ preparedness: Assess national 
+capacities to respond to synthetic opioid threats, identifying gaps in harm reduction, 
+treatment, forensic and toxicology capabilities, monitoring systems and cross-sector 
+coordination. This should be accompanied by EU-level support for the development of 
+national preparedness plans to strengthen readiness and response capacity. 
+• Strengthening monitoring systems: Support Member States in improving their 
+capacity to collect and integrate key data sources for early warning and situational 
+awareness. This includes expanding the use of syringe residue analysis, hospital 
+emergency data, ambulance service records, naloxone use tracking, drug 
+consumption room data, and information from drug-checking services. Strengthening 
+these systems will help identify emerging threats, guide interventions and inform 
+broader EU-level support. 
+• Research into the pharmacology and toxicology of highly potent synthetic 
+opioids: Expand EU-supported research efforts to improve the understanding of 
+these substances’ potency and metabolism and their associated health risks for 
+users. It is important to adopt an ‘all hazards and risks approach’, recognising that 
+drug-related threats stem from multiple sources and require a multisectoral response. 
+• Investment in innovative detection tools: Support research into more effective 
+rapid testing methods, including synthetic opioid test strips, while addressing current 
+limitations in accuracy and reliability. 
+• Monitoring online and darknet marketplaces: Strengthen partnerships with 
+industry to restrict illicit opioid sales via encrypted messaging platforms and surface 
+web e-commerce channels. 
+• Strengthened mapping of criminal networks and precursor monitoring: Intensify 
+efforts to track precursor flows and profile organised criminal groups involved in 
+synthetic opioid trafficking, particularly as networks adapt to regulatory changes. EUlevel mechanisms such as EMPACT should support these efforts through joint 
+operations and intelligence-sharing. 
+• Test purchase programmes: Develop and expand test purchase initiatives to gather 
+intelligence on emerging substances and strengthen early warning systems. 
+• International cooperation with Member States and third countries: Further 
+enhancing cross-border collaboration in intelligence-sharing, forensic research and 
+
+ 
+ 
+ 
+ 
+ 
+45 
+joint law enforcement actions, particularly with key source and transit countries, is 
+essential. As part of these efforts, the EU has established a dialogue on drug policy 
+with China, exemplified by the third dialogue held in April 2024. Similar cooperation 
+mechanisms with Russia are not in place. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+46 
+Glossary 
+Carfentanil: A highly potent synthetic opioid derived from fentanyl, approximately 10 000 
+times more potent than morphine, primarily used as a tranquilizer for large animals and not 
+approved for human use. It is associated with a high risk of fatal overdose in humans. 
+Darknet market: Online forum where goods and services, including the sale of drugs, are 
+exchanged between parties who use digital encryption to conceal their identities. 
+Drug adulteration: The practice of adding active or inactive substances to a drug to 
+increase its volume or alter its effects, often without the user being aware, potentially leading 
+to unexpected and harmful consequences. 
+Drug-induced deaths: Death occurring shortly after consumption of one or more 
+psychoactive drugs and directly related to, or associated with, this consumption. This does 
+not include deaths indirectly linked to drugs (e.g., those caused by an accident while under 
+the effect of the drug or by an infection acquired by drug injection), which are not covered in 
+this report. 
+Early warning system on new psychoactive substances (EWS): The EU Early Warning 
+System, operated by the EUDA in close cooperation with Europol, is the first step in a threestep legal framework designed to allow the European Union (EU) to rapidly detect, assess 
+and respond to health and social threats caused by new psychoactive substances. 
+EMPACT (European Multidisciplinary Platform Against Criminal Threats): A permanent 
+EU security initiative under the EU Policy Cycle for serious and organized crime, designed to 
+promote intelligence-led, multidisciplinary, and multiagency cooperation among EU Member 
+States, EU institutions, and third countries to combat key criminal threats through joint 
+operational actions and strategic coordination. 
+Forensic laboratory: A facility equipped to perform scientific analyses on evidence collected 
+during criminal investigations, including the examination of drugs, toxic substances and other 
+physical evidence. 
+Forensic toxicology: The application of toxicology to legal investigations, focusing on the 
+detection and interpretation of drugs and poisons in biological samples to establish their role 
+in causing harm or death. 
+
+ 
+ 
+ 
+ 
+ 
+47 
+Highly potent synthetic opioids: In this report, the term highly potent synthetic opioids is 
+used to reflect the key concern: the high potency of these substances (compared to heroin) 
+and their associated health risks. This terminology includes both newly emerging opioids and 
+those already established in illicit markets but with exceptionally high potency. 
+Naloxone: Semi-synthetic competitive opioid antagonist medication used to rapidly reverse 
+opioid overdose. 
+Needle and syringe programmes (NSPs): The provision of sterile syringes, hypodermic 
+needles and other injecting paraphernalia to people who inject drugs. 
+New synthetic opioids: A diverse group of new psychoactive substances, of synthetic 
+origin, that act as agonists at opioid receptors. These have emerged as replacements for 
+controlled opioids on the drug market. Many are characterised by high potency and 
+associated with significant health risks, including fatal overdoses. 
+Nitazenes: Synthetic opioids with a 2-benzylbenzimidazole structure, known for their high 
+potency dependence potential (e.g. isonitazene, metonitazene) and not approved as 
+medicines. They emerged on the market following the imposition of control measures on 
+fentanyl derivatives 
+Opioid agonist treatment (OAT): A medical treatment for opioid dependence that involves 
+the use of opioid agonists, such as methadone or buprenorphine, to reduce withdrawal 
+symptoms and cravings, thereby facilitating recovery and reducing the risk of overdose. 
+Organised crime groups (OCGs): Group of three or more persons acting together over a 
+period of time with the aim of undertaking criminal activities for financial or material gain. 
+People who inject drugs (PWID): Those who use a drug (e.g. heroin, cocaine) that is 
+administered with a needle and syringe. 
+Polysubstance use: The concurrent or sequential use of multiple psychoactive substances, 
+including illicit drugs, new psychoactive substances, alcohol and prescription drugs, which 
+can lead to increased health risks due to potential drug interactions and compounded effects. 
+Reitox national focal points (NFPs): Designated national institutions or agencies 
+responsible for collecting and reporting data on the current drugs situation to the EUDA. 
+These focal points are integral to the Reitox network, linking national drug information 
+systems and facilitating the exchange of data and methodologies with the EUDA to ensure 
+consistent and harmonised monitoring of the drug market across Europe. 
+
+ 
+ 
+ 
+ 
+ 
+48 
+Toxicological laboratory: A laboratory specialising in the analysis of biological samples to 
+identify the presence and concentration of toxins, drugs or other hazardous chemicals, aiding 
+in clinical diagnosis and forensic investigations. 
+Xylazine: A veterinary sedative not approved for human use that emerged as an adulterant 
+in the illicit opioid supply, posing additional health risks to users, including severe skin ulcers 
+and increased risk of overdose. 
+ 
+
+ 
+ 
+ 
+ 
+ 
+49 
+References and further reading 
+Blundell, M., et al. (2024), ‘Joint RCEM and NPIS best practice guideline: assessment and 
+management of acute opioid toxicity in adults in the emergency department’, Emergency 
+Medicine Journal 41(7), pp. 440-445. 
+CDC (U.S. Centers for Disease Control and Prevention) (n.d.), Naloxone: how it works and 
+how to use it, https://www.cdc.gov/stop-overdose/caring/naloxone.html 
+Centre for Disease Prevention and Control (2021), 2021 national report to the EMCDDA by 
+the Reitox National Focal Point Latvia: new developments, trends, and in-depth information 
+on selected issues, Centre for Disease Prevention and Control, Riga. 
+Centre for Disease Prevention and Control (2022), 2022 national report to the EMCDDA by 
+the Reitox National Focal Point Latvia: new developments, trends, and in-depth information 
+on selected issues, Centre for Disease Prevention and Control, Riga. 
+Centre for Disease Prevention and Control (2023), 2023 national report to the EMCDDA by 
+the Reitox National Focal Point Latvia: new developments, trends, and in-depth information 
+on selected issues, Centre for Disease Prevention and Control, Riga. 
+Des Jarlais, D. C., McKnight, C., Weng, C. A., Feelemyer, J., Tross, S., Raag, M., Org, G., 
+Talu, A. and Uusküla, A. (2023), ‘Field testing the “Avoid the Needle” intervention for persons 
+at risk for transitioning to injecting drug use in Tallinn, Estonia, and New York City, USA’, 
+AIDS and Behavior 27(9), pp. 3767-3779. 
+Drug, Tobacco and Alcohol Control Department (2021), 2021 national report to the EMCDDA 
+by the Reitox National Focal Point Lithuania: new developments, trends, and in-depth 
+information on selected issues, Drug, Tobacco and Alcohol Control Department, Vilnius. 
+Drug, Tobacco and Alcohol Control Department (2022), 2022 national report to the EMCDDA 
+by the Reitox National Focal Point Lithuania: new developments, trends, and in-depth 
+information on selected issues, Drug, Tobacco and Alcohol Control Department, Vilnius. 
+Drug, Tobacco and Alcohol Control Department (2023), 2023 national report to the EMCDDA 
+by the Reitox National Focal Point Lithuania: new developments, trends, and in-depth 
+information on selected issues, Drug, Tobacco and Alcohol Control Department, Vilnius. 
+EMCDDA (European Monitoring Centre for Drugs and Drug Addiction) (2018), Report on the 
+risk assessment of methyl 1-(2-phenylethyl)-4-[phenyl(propanoyl)amino]piperidine-4-
+
+ 
+ 
+ 
+ 
+ 
+50 
+carboxylate (carfentanil) in the framework of the Council Decision on new psychoactive 
+substances, Publications Office of the European Union, Luxembourg. 
+EMCDDA (2020a), Technical report on the new psychoactive substance N,N-diethyl-2-[[4-(1methylethoxy)phenyl]methyl]-5-nitro-1H-benzimidazole-1-ethanamine (isotonitazene), 
+Publications Office of the European Union, Luxembourg. 
+EMCDDA (2020b), Report on the risk assessment of N,N-diethyl-2-[[4-(1methylethoxy)phenyl]methyl]-5-nitro-1H-benzimidazole-1-ethanamine (isotonitazene) in 
+accordance with Article 5c of Regulation (EC) No 1920/2006 (as amended), Publications 
+Office of the European Union, Luxembourg (https://doi.org/10.2810/107576). 
+EMCDDA (2020c), Risk assessment report on the new psychoactive substance N,N-diethyl2-[[4-(1-methylethoxy)phenyl]methyl]-5-nitro-1H-benzimidazole-1-ethanamine (isotonitazene) 
+in accordance with Article 5c of Regulation (EC) No 1920/2006 (as amended), Risk 
+Assessments, Publications Office of the European Union, Luxembourg. 
+EMCDDA (2024a), EU drug markets: heroin and other opioids — in-depth analysis, 
+Publications Office of the European Union, Luxembourg. 
+EMCDDA (2024b), EU drug markets: new psychoactive substances — in-depth analysis, 
+Publications Office of the European Union, Luxembourg. 
+EMCDDA and Europol (2017), EMCDDA–Europol joint report on a new psychoactive 
+substance: methyl 1-(2-phenylethyl)-4-[phenyl(propanoyl)amino]piperidine-4-carboxylate 
+(carfentanil), Publications Office of the European Union, Luxembourg 
+(https://www.euda.europa.eu/publications/joint-reports/carfentanil_en). 
+EUDA (European Union Drugs Agency) (n.d.), European Drug Emergencies Network (EuroDEN Plus): data and analysis, https://www.euda.europa.eu/publications/datafactsheet/european-drug-emergencies-network-euro-den-plus-data-and-analysis_en 
+Giraudon, I., Abel-Ollo, K., Vanaga-Arāja, D., Heudtlass, P. and Griffiths, P. (2024), 
+‘Nitazenes represent a growing threat to public health in Europe’, The Lancet. Public Health 
+9(4), e216, https://doi.org/10.1016/S2468-2667(24)00024-0. 
+Harrison, E., Brant, K., Strong-Jones, S., Skogseth, E., Latkin, C. and Jones, A. (2024), 
+‘Challenges and recommendations for overdose prevention and harm reduction in an era of 
+fentanyl and xylazine: perspectives of women with opioid use disorder and professionals’, 
+Psychology of Addictive Behaviors, 38(8), pp. 860–870, https://doi.org/10.1037/adb0001021. 
+
+ 
+ 
+ 
+ 
+ 
+51 
+Heier, E. C., et al. (2022), ‘Clinical effect of ethanol co-use in patients with acute drug toxicity 
+involving the use of central nervous system depressant recreational drugs’, European 
+Journal of Emergency Medicine 29(4), pp. 291-300. 
+Hewett Brumberg, E. K., et al. (2024), ‘2024 American Heart Association and American Red 
+Cross guidelines for first aid’, Circulation 150(24), pp. e519-e579. 
+Holland, A., Copeland, C. S., Shorter, G. W., Connolly, D. J., Wiseman, A., Mooney, J., 
+Fenton, K. and Harris, M. (2024), ‘Nitazenes—heralding a second wave for the UK drugrelated death crisis?’ The Lancet. Public Health 9(2), pp. e71–e72, 
+https://doi.org/10.1016/S2468-2667(24)00001-X. 
+Jakubauskiene, M., Pridotkiene, E., & Rasimaite, B. (2024). Substance use and risk 
+behaviour patterns among people who inject drugs. European Journal of Public Health, 
+34(Supplement_3), ckae144.526. https://doi.org/10.1093/eurpub/ckae144.526 
+Lavonas, E. J., et al. (2023), ‘2023 American Heart Association focused update on the 
+management of patients with cardiac arrest or life-threatening toxicity due to poisoning: an 
+update to the American Heart Association guidelines for cardiopulmonary resuscitation and 
+emergency cardiovascular care’, Circulation 148(16), pp. e149-e184. 
+Leen, J. L. S. and Juurlink, D. N. (2019), ‘Carfentanil: a narrative review of its pharmacology 
+and public health concerns’, Canadian Journal of Anesthesia/Journal canadien d'anesthésie 
+66(4), pp. 414-421, https://doi.org/10.1007/s12630-019-01294-y. 
+McDonald, R. and Strang, J. (2016), ‘Are take-home naloxone programmes effective? 
+Systematic review utilizing application of the Bradford Hill criteria’, Addiction 111(7), pp. 11771187, https://doi.org/10.1111/add.13326 
+Monds, L. A., Bravo, M., Mills, L., Malcolm, A., Gilliver, R., Wood, W., Harrod, M. E., Read, P., 
+Nielsen, S., Dietze, P. M., Lenton, S., Bleeker, A. M. and Lintzeris, N. (2022), ‘The Overdose 
+Response with Take Home Naloxone (ORTHN) project: evaluation of health worker training, 
+attitudes and perceptions’, Drug and Alcohol Review 41(5), pp. 1085-1094, 
+https://doi.org/10.1111/dar.13474 
+National Institute for Health Development (2021-2023), National reports to the EMCDDA by 
+the Reitox National Focal Point Estonia: new developments, trends, and in-depth information 
+on selected issues, National Institute for Health Development, Tallinn. 
+Raag, M., Vorobjov, S. and Uusküla, A. (2019), ‘Prevalence of injecting drug use in Estonia 
+2010–2015: a capture-recapture study’, Harm Reduction Journal 16(1), Article 19, 
+https://doi.org/10.1186/s12954-019-0289-3. 
+
+ 
+ 
+ 
+ 
+ 
+52 
+Roberts, D. E. (2019), ‘Reframing the response to the opioid crisis: the urgent need to build 
+communities of recovery’, Harvard Law Review Forum 133(1), pp. 1-10, 
+Santo, T., Jr., et al. (2021), ‘Association of opioid agonist treatment with all-cause mortality 
+and specific causes of death among people with opioid dependence: a systematic review 
+and meta-analysis’, JAMA Psychiatry 78(9), pp. 979-993, 
+https://doi.org/10.1001/jamapsychiatry.2021.0976. 
+Ujváry, I., et al. (2021), ‘DARK classics in chemical neuroscience: Etonitazene and related 
+benzimidazoles’, ACS Chemical Neuroscience 12(7), pp. 1072-1092, 
+https://doi.org/10.1021/acschemneuro.1c00037 
+UK Government (2017), Take-home naloxone for opioid overdose: guidance for 
+commissioners and providers, 
+https://assets.publishing.service.gov.uk/media/5a82d723ed915d74e6237e5a/phetakehomenaloxoneforopioidoverdoseaug2017.pdf 
+Uusküla, A., et al. (2018), ‘Frequency and factors associated with providing injection initiation 
+assistance in Tallinn, Estonia’, Drug and Alcohol Dependence 188, pp. 64-70. 
+ 
+
+ 
+ 
+ 
+ 
+ 
+53 
+Annexes 
+Annex 1 National key data on nitazenes and carfentanil in 
+the Baltic region 
+Key data — Estonia: 
+ 
+
+ 
+ 
+ 
+ 
+ 
+54 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+55 
+Key data — Latvia: 
+ 
+
+ 
+ 
+ 
+ 
+ 
+56 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+57 
+Key data — Lithuania: 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+58 
+Annex 2: Methods of the EUDA health and security threat 
+assessment 
+Process overview 
+This health and security threat assessment was conducted over a 10-week period, following 
+a multi-stage process designed to integrate quantitative and qualitative data sources. The 
+assessment was launched in response to signals detected through the EUDA’s monitoring 
+activities, focusing on the emergence of nitazenes and carfentanil in the Baltic region. 
+At the outset, 10 research questions were identified to guide the analysis. These questions 
+covered key aspects of the availability, use, harms and responses related to highly potent 
+synthetic opioids, specifically nitazenes and carfentanil, in Estonia, Latvia and Lithuania. The 
+findings presented in this report reflect the structured analysis conducted in relation to these 
+research areas. 
+The assessment process included: 
+4. The collation and review of primary data from national monitoring frameworks, law 
+enforcement agencies, forensic sources and public health indicators. 
+5. A structured, non-systematic literature and data review to contextualise findings and 
+identify knowledge gaps. 
+6. Expert consultations, including three national focus groups, to gather insights from 
+frontline professionals across health, security and policy sectors. 
+7. Data synthesis and interpretation, in the course of which EUDA analysts triangulated 
+findings, identified key trends and developed response options. 
+8. Report drafting and review, with input from EUDA experts and Reitox national focal points 
+to ensure alignment with the current understanding of the subject matter in the region. 
+An iterative approach of the process allowed for refinements as new information became 
+available, ensuring that the assessment remained evidence-based and contextually relevant. 
+
+ 
+ 
+ 
+ 
+ 
+59 
+Methods 
+Primary data collection focused on information available from established national and 
+European monitoring systems. Specifically, data from the three countries was gathered on 
+the following areas (see Table A2.2 for the full set of data sources): 
+• 
+The number and quantity of drugs seized by national law enforcement; 
+• 
+Drug-related deaths and toxicology reports; 
+• 
+Needle and syringe distribution and naloxone provision; 
+• 
+Opioid agonist treatment (OAT) provision; 
+• 
+Syringe residue analyses collected through the ESCAPE network; 
+• 
+Hospital admissions linked to drug poisoning, reported by the Euro-DEN Plus 
+network; 
+• 
+Forensic drug analyses and seized sample quantities reported by the Reitox national 
+focal points to the EUDA Early Warning System (EWS). 
+To ensure coverage of recent developments, the assessment incorporated national reports 
+produced by the Reitox national focal points from Estonia, Latvia and Lithuania, covering the 
+data collection years 2021-2023 and complemented by preliminary 2024 data on druginduced deaths and law enforcement seizures provided by the NFPs. 
+In parallel, a structured, non-systematic literature review was conducted, focusing on: 
+• 
+The pharmacological and regulatory context of nitazenes and carfentanil; 
+• 
+Trends in detection, market dynamics and trafficking routes; 
+• 
+Health risks, including polysubstance use and drug adulteration; 
+• 
+Drug-related and emergency medical service responses and barriers to effective 
+intervention; 
+• 
+The strength of monitoring frameworks and early warning systems. 
+Where relevant, peer-reviewed and grey literature was used to supplement primary data 
+sources, ensuring a comprehensive overview of the evolving situation. 
+
+ 
+ 
+ 
+ 
+ 
+60 
+Additionally, three online focus groups were conducted in the national language, one in each 
+Baltic State, coordinated by the respective Reitox national focal points. Simultaneous 
+machine translations allowed for real-time engagement by the EUDA assessment team. 
+Participants included health professionals, harm reduction service providers, emergency 
+medical staff, policymakers and law enforcement officials. Discussions focused on: 
+• 
+The drivers behind the emergence of nitazenes and carfentanil; 
+• 
+Current health and security challenges; 
+• 
+Potential strategies to mitigate the risks associated with these substances. 
+Data synthesis and interpretation 
+Data synthesis and analysis took place during the Team analysis period, involving EUDA 
+subject-matter experts in highly potent synthetic opioids, drug-related harms, public health 
+responses, market monitoring and law enforcement. Analysts triangulated quantitative and 
+qualitative data, identified key findings, and assessed knowledge gaps to inform response 
+options. 
+The analysis was structured around 10 research questions, ensuring a focused examination 
+of use, availability, harms and responses. These questions shaped the outline of the findings 
+section, enabling a systematic assessment of the synthetic opioid situation in the Baltic 
+region. 
+Where data gaps or inconsistencies arose, additional input was sought from Reitox national 
+focal points, leveraging their expertise on local conditions. This iterative approach ensured 
+that response options were evidence-based, feasible and aligned with national realities. 
+Development of response options 
+Options for response are presented in each of the main areas of the findings section 
+(security and trafficking, harms and responses, monitoring and early warning, and policy). 
+These have been developed to provide evidence-based, practical and tailored options for 
+national and regional authorities in the Baltic region to enhance their preparedness and 
+response to the threat of highly potent synthetic opioids. These options do not seek to 
+prescribe actions but rather serve as a supportive framework to help countries address the 
+challenges posed by highly potent synthetic opioids. 
+
+ 
+ 
+ 
+ 
+ 
+61 
+By focusing on policy, health, security and monitoring, the options for response aim to foster 
+collaboration, strengthen systems and promote targeted interventions that align with national 
+preparedness plans and regional priorities. The options were prioritised based on feasibility, 
+impact and evidence, ensuring they are realistic, effective and supported by best practices. 
+The options are organised into three tiers that reflect their relative priority and urgency: 
+• 
+Tier 1 options are generally rapidly actionable with higher impact; 
+• 
+Tier 2 options require additional resources or planning but remain highly feasible; 
+• 
+Tier 3 options address longer-term needs or systemic challenges essential for 
+strengthening preparedness and ensuring sustainable responses to the threat of 
+highly potent synthetic opioids. 
+In addition to the tiered response options, further considerations are provided in each 
+section. These represent cross-cutting principles and strategic elements that support the 
+successful implementation of the proposed response options. While the tiered actions focus 
+on specific interventions, the further considerations highlight broader systemic factors — 
+such as governance, funding, multi-agency coordination and service accessibility — that are 
+essential for ensuring long-term preparedness and effective response efforts. 
+Report writing and review 
+The findings from the Team analysis, non-systematic literature review and focus groups 
+formed the foundation of this threat assessment report. To ensure accuracy and alignment 
+with current intelligence, the draft findings were subjected to: 
+• 
+Internal review by EUDA experts; and 
+• 
+External validation by the Reitox national focal points in Estonia, Latvia and Lithuania. 
+This health and security threat assessment will be updated as new information becomes 
+available, reflecting the evolving nature of the supply and use of nitazenes and carfentanil in 
+the region. 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+62 
+Table A2.1: EUDA threat assessment process 
+Phase 
+Description 
+Participants 
+Outputs 
+Duration 
+Signal 
+detection 
+Signal identification 
+through routine 
+monitoring (DRD, 
+EWS, SZR, ESCAPE) 
+EUDA 
+Signal evaluated and 
+identified as potential 
+threat 
+Week 1 
+Threat level 
+evaluation 
+Threat level assessed, 
+threat assessment 
+launch signed off 
+Lead Scientific Sector, 
+Head of Unit 
+Sign-off completed 
+Week 2 
+Planning 
+phase 
+Methods 
+development, 
+resource allocation, 
+EE, LV and LT 
+national focal points 
+informed 
+TA team coordinators 
+Research questions, 
+timeline, data 
+mapping produced, 
+ad-hoc data 
+collections planned 
+Week 3 
+and 4 
+Launch of 
+threat 
+assessment 
+Non-systematic 
+literature and data 
+review, ad-hoc data 
+collection initiated 
+TA team coordinators 
+Data and literature 
+summaries in annexes 
+Week 4 
+Team 
+analysis 
+period 
+In-depth data analysis 
+and 
+interpretation, national 
+focus groups 
+EUDA subject-matter 
+experts, TA team 
+coordinators, EUDA 
+reviewers, NFPs 
+Production of key 
+findings, messages 
+and options for 
+response. Ad-hoc data 
+collections and focus 
+group input 
+integrated. 
+Week 5 
+and 6 
+Output 
+production 
+Threat assessment 
+report produced and 
+reviewed. 
+Internal and external 
+review teams 
+Final report produced 
+and disseminated 
+Week 7 to 
+10 
+ 
+Limitations 
+A range of methodological approaches were brought together in this threat assessment. Data 
+source and methodological triangulation was employed to enhance the validity of the results, 
+through both confirmatory and complementary analyses. The limitations of these analyses 
+mainly relate to problems regarding the collection, quality and accuracy of data, as well as 
+the temporal and spatial limitations of the data used. In the following sections, the key 
+
+ 
+ 
+ 
+ 
+ 
+63 
+limitations that might affect the interpretation and generalisability of this report are presented, 
+and, where applicable, methods to mitigate these risks are described. 
+Temporal limitations/timeliness 
+The main limitation of the data sources available for this assessment is timeliness. Data 
+reported through Reitox national focal points (for instance drug-induced deaths, OAT 
+coverage and drug seizures) are typically submitted to the EUDA on an annual basis and 
+have a lag of about 6-18 months. More recent, preliminary data for some of these sources 
+can be obtained on an ad-hoc basis (as for this report), but interpretation of this data can be 
+difficult due to uncertainty regarding its completeness. Whenever preliminary data are used 
+in this report, they are interpreted cautiously and assessed as to whether they seem to 
+confirm or contradict patterns detected in the validated key data sources. 
+Spatial limitations/representativeness 
+Data collected through sentinel networks, such as substances found in used syringes 
+(ESCAPE project) and drug-related emergency room visits (EuroDEN), rely on a few sites in 
+comparably large cities and are not necessarily nationally representative. Other data, such 
+as drug seizures or number of syringes distributed, are available to the EUDA only at the 
+national level, without a regional breakdown. These limitations could potentially mask 
+geographic differences in the availability and use of highly potent synthetic opioids in the 
+Baltic countries, and additional sources were used when available to mitigate this risk. 
+Data quality and accuracy 
+With regard to harms such as drug-induced deaths and drug-related hospital emergency 
+room visits, it is often difficult to tell from the data available to the EUDA what exact role 
+highly potent synthetic opioids played in these events, for instance whether such one of 
+these particular substances was a leading cause of death in a drug-related death. 
+Substances reported in drug-related emergency room visits are clinician and patient 
+reported, and not always analytically confirmed, making these sources subject to reporting 
+biases, particularly given that there are indications that at least some of the potent synthetic 
+opioids users are not certain about what substance they are using. Therefore, more weight 
+was given to data sources with analytical/forensic confirmation of the substances involved 
+and whenever other or undefined opioids were reported in harms data, the possibility that 
+potent synthetic opioids were involved was not excluded. 
+
+ 
+ 
+ 
+ 
+ 
+64 
+Additionally, detections by law enforcement reported through the EWS are not comparable 
+with seizure data reported annually using key market indicators. Detections reported to the 
+EWS are analytically confirmed by forensic laboratories. The EWS prioritises real-time 
+detection and timely reporting of newly emerging substances, making it particularly effective 
+for identifying new synthetic opioids and new psychoactive substances (NPS), while seizure 
+data, provides a broader but less timely overview of drug markets. Annual data on markets 
+reported through seizures focuses on controlled drugs, reflecting long-term trends. 
+Differences in reporting obligations also create discrepancies. EWS data submission is 
+legally mandated at the EU level, ensuring greater consistency, while NFP data collection 
+depends on national systems, leading to variations in how seizures are recorded and 
+categorised. As a result, the two datasets are not directly comparable, although overlaps 
+exist where both capture aspects of the availability of highly potent synthetic opioids and 
+NPS. 
+Sentinel hospital emergency departments 
+There are a number of caveats and limitations regarding the data from sentinel hospital 
+emergency departments: the findings of a sentinel hospital cannot be generalised to other 
+hospitals, and it was not possible to compare the drugs analytically confirmed and the drugs 
+reported (i.e., self-reported or reported based on the attending physician). The findings in the 
+presentations for which analytical confirmation was available may be biased as they reflect 
+instances where laboratory confirmation was requested by the physician, thus missing cases 
+where this was not requested. The hospital emergency rooms ‘capture’ only those individuals 
+whose condition prompts a call to emergency services, missing those alone or unattended, 
+those who had milder symptoms which were resolved with ambulance/first aid intervention 
+and those who died before reaching the hospital. 
+Analytical limitations 
+When multiple data sources exist for the same indicator but use different methods — such as 
+in the recording of drug seizures or drug-induced deaths — reconciling discrepancies can be 
+challenging. If conflicting data are identified, both sources are presented in this report, with 
+the differences explicitly discussed. Interpreting longitudinal trends requires caution, as 
+unobserved confounders can bias analysis. For instance, drug seizure data may not only 
+reflect market availability but also law enforcement activity. Therefore, this report focuses on 
+the presence of specific substances on local markets rather than year-to-year variations in 
+seizure numbers. Similarly, drug-related death trends can be influenced by improvements in 
+forensic capabilities, detection and reporting, meaning that increases in recorded cases may 
+
+ 
+ 
+ 
+ 
+ 
+65 
+not directly indicate rising harms. To maintain consistency, only data series confirmed to have 
+been collected using stable methodologies and detection capacities are included. 
+Challenges in detecting nitazenes 
+The presence of nitazenes, particularly recently emerged analogues, and their role in serious 
+adverse events (e.g., acute poisonings in hospital emergency rooms and medico-legal death 
+investigations) may remain undetected in some cases. Routine screening for nitazenes is not 
+conducted in all forensic and toxicology laboratories across Europe, meaning their presence 
+in drug markets and toxicological samples can go unreported in certain areas. Additionally, 
+analytical sensitivity poses a challenge. Nitazenes and their metabolites can be present at 
+sub-nanogram concentrations, similar to carfentanil, making detection more difficult. 
+Enhanced analytical scrutiny is necessary when testing for these substances to ensure 
+accurate identification. 
+Further compounding the issue is the fact that not all forensic laboratories are integrated into 
+national early warning systems. As a result, detections of nitazenes in certain areas may not 
+be reported to Reitox national focal points and, consequently, may be missing from EUDA 
+datasets. These gaps highlight the need for more comprehensive monitoring, improved 
+laboratory coordination and expanded toxicological screening for synthetic opioids. 
+Qualitative data 
+Expert opinion provides valuable insights into, for example, current patterns of use, the drugs 
+available on the market or the harms experienced by communities from drug trafficking. 
+However, these insights are limited to their immediate professional environment and are not 
+representative of the situation in a country. This threat assessment utilises and systematises 
+expert opinions as a complement to, and to shed light on, the quantitative data, where these 
+exist.
+
+ 
+ 
+ 
+ 
+ 
+66 
+Table A2.2. Overview of indicators and data sources used in the TA, with main strengths and limitations 
+Indicator 
+Method/ data 
+sources 
+Measuring 
+Source 
+population 
+Sensitivity 
+Specificity 
+Timeliness 
+Stratification 
+(age and 
+gender) 
+Lab 
+confirmation 
+Coverage 
+Trends 
+available 
+Lithuania 
+Latvia 
+Estonia 
+Link to 
+documents 
+Substances 
+found in used 
+syringes 
+ESCAPE 
+Use 
+PWID 
+Poor 
+Strong 
+Strong 
+Poor 
+Yes 
+Poor 
+Yes 
+ 
+ 
+ 
+https://euda.europa.eu/syst
+em/files/media/publications/
+documents/13572/ESCAPE
+-generic-protocol.pdf 
+Substances 
+reported by Drug 
+consumption 
+rooms 
+ENDCR 
+network – 
+registry data 
+Use 
+ 
+HRDU, including 
+PWID 
+Poor 
+Poor 
+Strong 
+Strong 
+No 
+Poor 
+ 
+ 
+ 
+ 
+ 
+Substances 
+found in 
+wastewater 
+ 
+Wastewater 
+sampling by 
+the SCORE 
+network 
+Use 
+Population from 
+catchments 
+areas 
+Strong 
+Strong 
+Strong 
+Poor 
+Yes 
+Strong 
+No 
+ 
+ 
+ 
+https://www.euda.europa.eu
+/publications/html/pods/was
+te-wateranalysis_en#section4 
+Substances 
+found in samples 
+brought to drug 
+checking 
+services 
+TEDI - 
+analysis of 
+drug samples 
+submitted by 
+service users 
+Use 
+Recreational 
+users 
+Poor 
+Strong 
+Strong 
+Poor 
+Yes 
+Poor 
+ 
+ 
+ 
+ 
+https://www.euda.europa.eu
+/data/stats2024/methods/dr
+ug-checking_en 
+Prevalence of 
+self-reported use 
+— key 
+populations 
+Surveys, RDS, 
+Web survey 
+Use 
+HRDU and 
+recreational 
+users 
+Poor 
+Poor 
+Poor 
+Strong 
+No 
+Poor 
+ 
+ 
+ 
+ 
+https://www.euda.europa.eu
+/activities/european-websurvey-on-drugs_en 
+Prevalence of 
+self-reported use 
+— general 
+population 
+General 
+population 
+survey 
+Use 
+General 
+population 
+Poor 
+Poor 
+Poor 
+Strong 
+No 
+Strong 
+ 
+ 
+ 
+ 
+https://www.euda.europa.eu
+/data/stats2024/gps_en 
+
+ 
+ 
+ 
+ 
+ 
+67 
+Prevalence of 
+high-risk drug 
+use 
+ 
+Indirect 
+statistical 
+methods 
+Use 
+Drug users 
+experiencing 
+harmful effects 
+Poor 
+Poor 
+Poor 
+Poor 
+No 
+Strong 
+ 
+ 
+ 
+ 
+https://www.euda.europa.eu
+/data/stats2024/methods/pd
+u_en 
+Drug-induced 
+deaths 
+ 
+Registries 
+Harms 
+General 
+population 
+Strong 
+Strong 
+Poor 
+Strong 
+Som
+etime
+s 
+Strong 
+ 
+ 
+ 
+ 
+https://www.euda.europa.eu
+/data/stats2024/methods/dr
+d_en 
+Drug-related 
+emergency room 
+visits 
+Hospital 
+admissions 
+Harms 
+Population from 
+catchments 
+areas 
+Strong 
+Poor 
+Strong 
+Strong 
+Som
+etime
+s 
+Poor 
+ 
+ 
+ 
+ 
+https://www.euda.europa.eu
+/publications/datafactsheet/european-drugemergencies-network-euroden-plus-data-andanalysis_en 
+Drug-related 
+ambulance 
+interventions 
+Pre-hospital 
+registries 
+Harms 
+Population from 
+catchments 
+areas 
+Strong 
+Poor 
+Strong 
+Strong 
+Poor 
+Poor 
+ 
+ 
+ 
+ 
+ 
+New drug 
+treatment entries 
+ 
+Treatment 
+demand 
+indicator 
+Harms 
+HRDU 
+Strong 
+Poor 
+Poor 
+Strong 
+No 
+Strong 
+ 
+ 
+ 
+ 
+https://www.euda.europa.eu
+/data/stats2024/methods/tdi
+_en 
+OAT coverage 
+OAT registries 
++ 
+denominators 
+Interventions 
+HRDU 
+Poor 
+Strong 
+Poor 
+Poor 
+Poor 
+Strong 
+ 
+ 
+ 
+ 
+https://www.euda.europa.eu
+/data/stats2024/methods/hs
+r_en 
+First aid training 
+and naloxone 
+provision 
+Programmatic 
+Interventions 
+HRDU 
+Poor 
+Strong 
+Poor 
+NA 
+NA 
+Strong 
+ 
+ 
+ 
+ 
+https://www.euda.europa.eu
+/data/stats2024/methods/hs
+r_en 
+NSP availability 
+and coverage 
+ 
+Programmatic 
+Interventions 
+HRDU 
+Poor 
+Strong 
+Poor 
+NA 
+NA 
+Strong 
+ 
+ 
+ 
+ 
+https://www.euda.europa.eu
+/data/stats2024/methods/hs
+r_en 
+Seizures — 
+quantities 
+ 
+Law 
+enforcement 
+Availability 
+NA 
+Poor 
+Strong 
+Poor 
+NA 
+Yes 
+Poor 
+ 
+ 
+ 
+ 
+https://www.euda.europa.eu
+/data/stats2024/methods/sz
+r_en 
+
+ 
+ 
+ 
+ 
+ 
+68 
+Seizures — 
+numbers 
+ 
+Law 
+enforcement 
+Availability 
+NA 
+Poor 
+Strong 
+Poor 
+NA 
+Yes 
+Poor 
+ 
+ 
+ 
+ 
+https://www.euda.europa.eu
+/data/stats2024/methods/sz
+r_en 
+Price and purity 
+ 
+Law 
+enforcement 
+Availability 
+NA 
+Poor 
+Poor 
+Poor 
+NA 
+Yes 
+Poor 
+ 
+ 
+ 
+ 
+https://www.euda.europa.eu
+/data/stats2024/ppp_en 
+Darknet activity 
+ 
+Law 
+enforcement 
+Availability 
+NA 
+Poor 
+Poor 
+Strong 
+NA 
+No 
+Poor 
+ 
+ 
+ 
+ 
+ 
+Dismantled 
+production 
+laboratories in 
+EU — numbers 
+Law 
+enforcement 
+Availability 
+NA 
+Poor 
+Strong 
+Poor 
+NA 
+Yes 
+Poor 
+ 
+ 
+ 
+ 
+ 
+Trafficking 
+routes and 
+production 
+outside EU 
+Law 
+enforcement 
+Availability 
+NA 
+Poor 
+Poor 
+Poor 
+NA 
+Som
+etime
+s 
+Poor 
+ 
+ 
+ 
+ 
+ 
+EWS-NPS 
+detection 
+ 
+EWS 
+Harms, 
+Availability 
+NA 
+Strong 
+Strong 
+Strong 
+Strong 
+Yes 
+Strong 
+ 
+ 
+ 
+ 
+https://www.euda.europa.eu
+/activities/eu-early-warningsystem-on-nps_en 
+Other eventbased 
+surveillance 
+Media 
+monitoring 
+Use, Harms, 
+Availability 
+Unknown 
+Strong 
+Strong 
+Strong 
+Strong 
+Som
+etime
+s 
+Unkno
+wn 
+ 
+ 
+ 
+ 
+ 
+Qualitative 
+information from 
+key informants 
+(users and 
+practitioners) 
+Qualitative 
+research 
+including 
+focus groups 
+Use, Harms, 
+Availability 
+All 
+Strong 
+Poor 
+Strong 
+Strong 
+Poor 
+Poor 
+ 
+ 
+ 
+ 
+ 
+ 
+Colour codes: Purple means ‘available’, light blue means ‘not available’. Greyed out text means that this indicator was not used in this TA. 
+ 
+
+ 
+ 
+ 
+ 
+ 
+69 
+Annex 3: Management of acute opioid toxicity in prehospital and hospital settings 
+Authors: Paul Dargan and David Wood, December 2024 
+ 
+Acute opioid toxicity is a common reason for presentation to the Emergency Department, 
+with episodes of acute opioid toxicity frequently encountered by ambulance personnel and 
+commonly managed by bystanders and peers using take-home naloxone. Educating opioid 
+users and their contacts is important in order to improve awareness of acute opioid toxicity 
+and increase the willingness to administer naloxone and call emergency medical services. 
+Acute opioid toxicity can result in significant morbidity and mortality, with death due to 
+respiratory depression. Acute opioid toxicity typically causes the triad of (i) drowsiness 
+progressing to coma, (ii) respiratory depression progressing to respiratory arrest, and (iii) pinpoint pupils. Opioids are commonly used together with other substances (e.g. alcohol, 
+benzodiazepines, pregabalin) that can exacerbate respiratory depression. Opioid use with 
+stimulants such as cocaine/methamphetamine or synthetic cannabinoid receptor agonists is 
+also common, and this can result in additional adverse effects and mask features of the 
+typical opioid toxidrome, making it difficult to accurately identify opioid-related respiratory 
+depression/arrest. 
+The mainstay of managing acute opioid toxicity is the antidote naloxone, which acts to 
+reverse the respiratory depressant effects of opioids. The main adverse effect of naloxone is 
+precipitating opioid withdrawal — this is more likely in individuals with opioid dependency, 
+particularly if excess doses of naloxone are used. There have been numerous outbreaks of 
+severe acute opioid toxicity/deaths due to potent new psychoactive substance opioids. Many 
+of these opioids are more potent and/or have a longer half-life than heroin, and so patients 
+may potentially require a higher overall dose of naloxone and/or more prolonged treatment. 
+However, it is important to note that users and those treating individuals with acute opioid 
+toxicity will not be aware of the opioid(s) that have been used. The initial approach to the 
+management of acute opioid toxicity does not differ between opioid toxicity relating to acute 
+heroin/prescription opioid toxicity and NPS opioid toxicity — it remains important, even in 
+the era of potent NPS opioids, to maintain the approach of giving titrated doses of 
+naloxone to patients with acute opioid toxicity. 
+This text provides a brief summary of the management of acute opioid toxicity — further 
+details are available in recently published national guidelines from the UK and USA, both of 
+
+ 
+ 
+ 
+ 
+ 
+70 
+these provide flowcharts to provide practical guidance for management of acute opioid 
+toxicity. 
+The management of patients in respiratory arrest or severe 
+respiratory depression 
+The initial management of patients in respiratory arrest or with severe respiratory depression 
+(a respiratory rate of less than five breaths per minute and/or oxygen saturations less than 
+85 % on air) both in the hospital and pre-hospital setting should focus on support of the 
+airway and breathing using the standard Basic/Advanced Life Support (BLS/ALS) approach, 
+including the use of rescue breaths ideally with a bag valve mask. This can be supplemented 
+by the use of naloxone as described in more detail in the ‘red’ pathway in the UK guideline 
+flowchart (Uk Government, 2017), and in the following sections. 
+Pre-hospital and bystander management of acute opioid toxicity 
+The approach to patient management can be summarised using the acronym ABCN: 
+• 
+Ambulance: An ambulance should be called. 
+• 
+Breathing and ReCovery Position: If the individual is not breathing or has severe 
+respiratory depression give rescue breaths and put them in the recovery position. 
+• 
+Naloxone: Administer naloxone. Naloxone should be given via the intramuscular or 
+intranasal route depending on local/national protocols. We summarise here the use of 
+intramuscular naloxone, the same step-wise/titrated approach should be used for 
+intranasal naloxone: 
+− If the individual has a low respiratory rate (less than 10 breaths per minute or, if the 
+information is available, oxygen saturations less than 92 % on air) give a dose 
+(usually 400 micrograms) of intramuscular naloxone. 
+− Wait 2-3 minutes and if there is no response give another dose (usually 400 
+micrograms) of intramuscular naloxone. 
+− Repeat as necessary every 2-3 minutes whilst waiting for the ambulance to arrive. 
+− Generally, the maximum dose recommended for bystander naloxone 
+administration is 2 mg. Ambulance/emergency medical service professionals may 
+be able to give higher doses depending on local/national protocols. However, it is 
+
+ 
+ 
+ 
+ 
+ 
+71 
+important that the stepwise approach of doses of 400 micrograms of intramuscular 
+naloxone is followed. 
+− If the patient refuses transport to hospital after an episode of severe acute opioid 
+toxicity requiring naloxone administration, ambulance/emergency medical service 
+staff should follow local protocols for determination of patient capacity to refuse 
+care. 
+− Further titrated doses (usually 400 micrograms) of intramuscular naloxone may 
+need to be administered by ambulance/emergency medical service staff if the 
+patient has ongoing respiratory depression, using the thresholds noted above. 
+Emergency department/in-hospital management of acute opioid 
+toxicity 
+The aim of managing patients with acute opioid toxicity in the Emergency Department is the 
+reversal of opioid-related respiratory depression and the maintenance or airway protective 
+reflexes rather than full reversal of unconsciousness. Naloxone should be given in titrated 
+intravenous doses in those who have significant respiratory depression (respiratory rate less 
+than 10 breaths per minute, oxygen saturations less than 92 % on room air, end-tidal CO2 
+>7.0kPa) related to suspected acute opioid toxicity. 
+In those with respiratory arrest or severe respiratory depression (respiratory rate less than 
+five breaths per minute or oxygen saturations less than 85 % on room air) the priority is ALS 
+with bag-valve mask ventilation supplemented by naloxone administration: an initial dose of 
+400 micrograms delivered intravenously, followed by 800 micrograms intravenously if no 
+response after 60 seconds, with further dosing following the ‘red’ pathway in the UK guideline 
+flowchart. 
+Patients with moderate respiratory depression (respiratory rate 6-10 breaths per minute, 
+oxygen saturations 86-92 % on room air or end-tidal CO2 >7kPa), should be given 
+supplemental oxygen and intravenous naloxone in titrated intravenous 100-200microgram 
+boluses every 60 seconds to a maximum of 2 000 micrograms, aiming for a respiratory rate 
+>10 breaths per-minute. 
+Because the duration of the action of naloxone may be shorter than the respiratory 
+depressant effect of the opioid(s) used, repeat doses of naloxone or a naloxone infusion may 
+be required. Patients who have been given naloxone should have observations (respiratory 
+rate, oxygen saturations, level of consciousness and (if available) end-tidal CO2) every 15 
+
+ 
+ 
+ 
+ 
+ 
+72 
+minutes for the first hour and then every 30 minutes for the next three hours. If there is 
+deterioration (respiratory rate <10 breaths per minute) further titrated doses of intravenous 
+naloxone should be given: 100-200 microgram boluses every 60 seconds to a maximum of 
+2 000 micrograms, aiming for a respiratory rate of >10 breaths per minute. Patients who 
+require further doses of naloxone will need to be managed with a naloxone infusion. 
+All patients who require naloxone should be observed for at least four hours after the last 
+dose of naloxone and for at least six hours after the suspected time of opioid use. Longer 
+periods of observation of up to 12 hours may be required for those who have taken a longeracting opioid (e.g. methadone or an NPS opioid). Prior to discharge from hospital, clinicians 
+should take the opportunity to provide brief interventions regarding the risks of acute opioid 
+toxicity, signpost patients to drug treatment services and (if available) prescribe take-home 
+naloxone. 
+Bibliography 
+Blundell, M., et al. (2024), ‘Joint RCEM and NPIS best practice guideline: Assessment and 
+management of acute opioid toxicity in adults in the emergency department’, Emergency 
+Medicine Journal 41(7), pp. 440-445. 
+CDC (U.S. Centers for Disease Control and Prevention) (n.d.), Naloxone: How it works and 
+how to use it, https://www.cdc.gov/stop-overdose/caring/naloxone.html 
+EUDA (European Union Drugs Agency) (n.d.), European Drug Emergencies Network (EuroDEN Plus): Data and analysis, https://www.euda.europa.eu/publications/datafactsheet/european-drug-emergencies-network-euro-den-plus-data-and-analysis_en 
+Heier, E. C., et al. (2022), ‘Clinical effect of ethanol co-use in patients with acute drug toxicity 
+involving the use of central nervous system depressant recreational drugs’, European 
+Journal of Emergency Medicine 29(4), pp. 291-300. 
+Hewett Brumberg, E. K., et al. (2024), ‘2024 American Heart Association and American Red 
+Cross guidelines for first aid’, Circulation 150(24), pp. e519-e579. 
+Lavonas, E. J., et al. (2023). ‘2023 American Heart Association focused update on the 
+management of patients with cardiac arrest or life-threatening toxicity due to poisoning: an 
+update to the American Heart Association guidelines for cardiopulmonary resuscitation and 
+emergency cardiovascular care’, Circulation 148(16), pp. e149-e184. 
+UK Government (2017), Take-home naloxone for opioid overdose: guidance for 
+commissioners and providers, 
+
+ 
+ 
+ 
+ 
+ 
+73 
+https://assets.publishing.service.gov.uk/media/5a82d723ed915d74e6237e5a/phetakehomenaloxoneforopioidoverdoseaug2017.pdf. 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+74 
+Annex 4: Nitazenes monitored by the EWS as of December 
+2024. A brief overview of the chemistry, pharmacology and 
+toxicology of carfentanil and nitazenes 
+Nitazenes 
+Table A4.1. Nitazenes monitored by the EU EWS 
+Common name IUPAC name 
+Year of formal 
+notification to the 
+EU EWS 
+Isotonitazene 
+N,N-diethyl-2-[[4-(1-methylethoxy)phenyl]methyl]-5-nitro1H-benzimidazole-1-ethanamine 
+2019 
+Metonitazene 
+N,N-diethyl-2-[2-[(4-methoxyphenyl)methyl]-5-nitrobenzimidazol-1-yl]ethanamine 
+2020 
+Etazene 
+2-[(4-ethoxyphenyl)methyl]-N,N-diethyl-1Hbenzimidazole-1-ethanamine 
+2020 
+Metodesnitazene 
+N,N-diethyl-2-[2-[(4-methoxyphenyl)methyl]benzimidazol1-yl]ethanamine 
+2020 
+Fluonitazene 
+N,N-diethyl-2-{2-[(4-fluorophenyl)methyl]-5-nitro-1Hbenzimidazol-1-yl}ethan-1-amine 
+2020 
+Etonitazepyne 
+2-(4-ethoxybenzyl)-5-nitro-1-(2-(pyrrolidin-1-yl)ethyl)-1Hbenzo[d]imidazole 
+2021 
+Protonitazene 
+N,N-diethyl-5-nitro-2-[(4-propoxyphenyl)methyl]-1Hbenzimidazole-1-ethanamine 
+2021 
+Butonitazene 
+2-[(4-butoxyphenyl)methyl]-N,N-diethyl-5-nitro-1Hbenzimidazole-1-ethanamine 
+2021 
+Etonitazepipne 
+2-(4-Ethoxybenzyl)-5-nitro-1-(2-(piperidin-1-yl)ethyl)-1Hbenzo[d]imidazole 
+2022 
+Etomethazene 
+2-[(4-ethoxyphenyl)methyl]-N,N-diethyl-5-methyl-1Hbenzimidazole-1-ethanamine 
+2023 
+Ethyleneoxynitaze
+ne 
+2-{2-[(2,3-dihydro-1-benzofuran-5-yl)methyl]-5-nitro-1Hbenzimidazol-1-yl}-N,N-diethylethan-1-amine 
+2023 
+Protonitazepyne 
+5-nitro-2-[(4-propoxyphenyl)methyl]-1-(2-pyrrolidin-1ylethyl)benzimidazole 
+2023 
+Metonitazepyne 
+2-(4-methoxybenzyl)-5-nitro-1-(2-(pyrrolidin-1-yl)ethyl)-
+1H-benzo[d]imidazole 
+2023 
+N-desethyl 
+etonitazene 
+2-[2-[(4-ethoxyphenyl)methyl]-5-nitro-benzimidazol-1-yl]-
+N-ethyl-ethanamine 
+2023 
+N-desethyl 
+isotonitazene 
+N-ethyl-2-[2-[(4-isopropoxyphenyl)methyl]-5-nitrobenzimidazol-1-yl]ethanamine 
+2023 
+6-Methyl 
+desnitroetonitazen
+e 
+2-[(4-Ethoxyphenyl)methyl]-N,N-diethyl-6-methyl-1Hbenzimidazole-1-ethanamine 
+2024 
+Fluetonitazene 
+N,N-diethyl-2-[2-[[4-(2-fluoroethoxy)phenyl]methyl]-5nitro-benzimidazol-1-yl]ethanamine 
+2024 
+
+ 
+ 
+ 
+ 
+ 
+75 
+N,N-dimethyl 
+etonitazene 
+2-[2-[(4-Ethoxyphenyl)methyl]-5-nitro-benzimidazol-1-yl]-
+N,N-dimethyl-ethanamine 
+2024 
+N-desethyl 
+protonitazene 
+N-ethyl-2-{5-nitro-2-[(4-propoxyphenyl)methyl]-1H-1,3benzimidazol-1-yl}ethan-1-amine 
+2024 
+Fluetonitazepyne 
+2-{[4-(2- 32.fluoroethoxy)phenyl]methyl}-5-nitro-1-[2-
+(pyrrolidin-1-yl)ethyl]-1H-1,3-benzimidazole 
+2024 
+Isobutonitazene 
+N,N-diethyl-2-(2-{[4-(2-methylpropoxy)phenyl]methyl}-5nitro-1H-1,3-benzimidazol-1-yl)ethan-1-amine 
+2024 
+Desnitroclonitazen
+e 
+2-{2-[(4-chlorophenyl)methyl]-1H-1,3-benzimidazol-1-yl}-
+N,N-diethylethan-1-amine 
+2024 
+ 
+Chemical structure 
+Nitazenes are a class of synthetic opioids structurally classified as 2-benzylbenzimidazoles. 
+They were first synthesised in the 1950s as potential analgesics but were not marketed due 
+to their high potency and associated risks. The core structure comprises a benzimidazole 
+ring system with various substitutions that influence their pharmacological activity. For 
+instance, etonitazene features a nitro group at the 5-position and an ethoxy group at the 4position of the benzimidazole ring, contributing to its high affinity for opioid receptors (Ujváry 
+et al., 2021). 
+Table A4.2. Chemical structure and IUPAC name of isotonitazene, metonitazene and 
+protonitazene 
+ 
+
+ 
+ 
+ 
+ 
+ 
+76 
+Pharmacology 
+Nitazenes act as potent agonists at the μ-opioid receptor, leading to pronounced analgesic 
+effects. Their potency varies among analogues; some are reported to be up to 500 times 
+more potent than morphine. This high potency significantly increases the risk of respiratory 
+depression, a primary cause of fatal overdose in opioid misuse. The pharmacokinetic profiles 
+of nitazenes, including absorption, distribution, metabolism and excretion, are not extensively 
+documented, necessitating further research to inform clinical and forensic practices (Ujváry 
+et al., 2021). 
+Health risks 
+Similar to other types of opioid analgesics, such as morphine and fentanyl, the acute effects 
+of nitazenes opioids include euphoria, relaxation, analgesia (a reduced ability to feel pain), 
+sedation (inducing a state of calm or sleep), bradycardia (slowing of the heart), hypothermia 
+(dangerously low body temperature) and respiratory depression (slowing down of breathing). 
+It is this last effect that poses the greatest danger to users, as, owing to the apparently high 
+potency of some of these compounds, sub-milligram doses may cause life-threatening 
+poisoning from respiratory depression. Left untreated, this can lead to respiratory arrest 
+(cessation of breathing) and death. This risk is greater in people with no or reduced tolerance 
+to opioids and will be exacerbated by the use of other central nervous system depressants. 
+The chronic health risks associated with nitazenes are likely to mirror those of other opioids, 
+including the potential for dependence. Anecdotal reports from first responders and a small 
+study of patients with confirmed poisoning from nitazenes have noted that, in some cases, 
+larger and additional doses of naloxone have been required to reverse the respiratory 
+depression caused by nitazenes compared to other opioids, including fentanyl. This finding 
+requires further study. 
+Carfentanil 
+Chemical structure 
+Carfentanil is a synthetic opioid belonging to the phenylpiperidine class, structurally related to 
+fentanyl. It is characterised by a piperidine ring with a phenethyl group at the nitrogen atom 
+and a carboxymethyl ester at the 4-position. 
+ 
+
+ 
+ 
+ 
+ 
+ 
+77 
+Table A4.3. Molecular structure and IUPAC name of carfentanil (fentanyl is provided for 
+comparison) 
+ 
+Pharmacology 
+Carfentanil functions as a highly selective agonist at the μ-opioid receptor, resulting in 
+profound analgesia and sedation. When the agonist activity of the carfentanil is compared 
+with that of morphine, its potency is much higher in tests in vivo (e.g., analgesia) than in tests 
+in vitro (e.g., binding affinity for μ receptors). For example, the analgesic potency of 
+carfentanil has been reported to be up to 10 000 times that of morphine, while its affinity for μ 
+receptors is only 14 to 135 times higher. Due to its lipophilicity, it rapidly crosses the bloodbrain barrier, leading to a swift onset of action. Its high receptor affinity and potency make it 
+effective in veterinary medicine for immobilising large animals. However, in humans, even 
+minimal exposure can cause severe respiratory depression and death. 
+Acute health risks 
+Carfentanil, a highly potent fentanyl analogue, poses significant acute health risks, primarily 
+due to its capacity to induce rapid and severe respiratory depression. Overdose can result in 
+apnoea, respiratory arrest and death. Several factors exacerbate these risks (EMCDDA and 
+Europol, 2017): 
+
+ 
+ 
+ 
+ 
+ 
+78 
+• 
+The difficulty in properly diluting carfentanil, which can lead to unintentional toxic 
+dosing; 
+• 
+Administration methods such as injection, insufflation and inhalation that increase 
+bioavailability, heightening overdose risk; 
+• 
+Lack of familiarity with carfentanil’s effects and appropriate dosing, leading to misuse; 
+• 
+Concurrent use of other central nervous system depressants (e.g., other opioids, 
+benzodiazepines, gabapentinoids, alcohol), which amplifies respiratory depression, 
+with individuals who have little or no opioid tolerance being particularly vulnerable; 
+• 
+Solitary use, especially in private settings, reducing the likelihood of timely assistance 
+during overdose. 
+Compounding these dangers, carfentanil might be misrepresented as or mixed with heroin 
+and other illicit opioids, leaving users unaware of its presence. In cases of acute poisoning, 
+naloxone can reverse respiratory depression caused by carfentanil; however, clinical 
+experiences indicate that higher or multiple doses, including continuous infusions, may be 
+necessary for effective reversal. Chronic health risks associated with carfentanil are likely to 
+mirror those of other opioids, including the potential for dependence. 
+References 
+EMCDDA and Europol (2017), EMCDDA–Europol joint report on a new psychoactive 
+substance: methyl 1-(2-phenylethyl)-4-[phenyl(propanoyl)amino]piperidine-4-carboxylate 
+(carfentanil), Publications Office of the European Union, Luxembourg 
+(https://www.euda.europa.eu/publications/joint-reports/carfentanil_en). 
+Ujváry, I., Jorge, R., Christie, R., Le Ruez, T., Danielsson, H. V., Kronstrand, R., Elliott, S., & 
+Gallegos, A. (2021). Dark net, telephones, and tablets: A review of the emerging class of 
+highly potent benzimidazole opioids. Drug Testing and Analysis, 13(3), 422–440. 
+https://doi.org/10.1002/dta.2987

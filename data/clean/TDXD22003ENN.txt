@@ -1,0 +1,873 @@
+1 / 9
+INSIGHTS 
+MONITORING DRUG USE IN THE DIGITAL AGE: 
+STUDIES IN WEB SURVEYS
+The potential for using web surveys to investigate drug sales 
+through cryptomarkets on the darknet
+Alexandra Karden a and Julian Strizek b
+a checkit! - Suchthilfe Wien gGmbH, Gumpendorfer Gürtel 8, 1060 Vienna, Austria
+b Gesundheit Österreich GmbH (Austrian Public Health Institute), 1010 Vienna, Austria
+Abstract: Over the last decade, drug sales 
+through cryptomarkets located on the so-called 
+darknet have received increasing attention. This 
+paper considers how web surveys might be used 
+to provide insights concerning those people 
+who purchase drugs on cryptomarkets. First, it 
+analyses data from the European Web Survey 
+on Drugs (EWSD), with a view to identifying 
+differences between respondents who buy drugs 
+on cryptomarkets and those who acquire drugs 
+from other sources. The study shows that people 
+using cryptomarkets as a usual source of supply 
+were a small group of users in most participating 
+countries, but that proportions differ significantly, 
+and that buyers were more likely to be male and 
+consume more substances on average. Second, 
+the sampling of web survey respondents on the 
+darknet is discussed based on a sampling strategy 
+tested in Austria, highlighting the challenges 
+and opportunities involved in undertaking survey 
+recruitment on the darknet. The paper highlights 
+the importance of building trust, establishing 
+credibility and guaranteeing anonymity, since 
+awareness of privacy issues is seemingly higher 
+among darknet users than surface web users. 
+By doing so, the authors shows how people who 
+buy drugs on cryptomarkets might be reached to 
+improve their representation in future web surveys 
+for drug data collection. 
+Introduction
+Over the last decade, new internet technologies have acted as 
+important facilitators of online drug markets (EMCDDA, 2016). 
+In particular, drug sales through cryptomarkets (1) located on the 
+so-called darknet have received increasing attention.
+At present, estimated darknet sales seemingly account for a 
+minority of all drug sales in Europe (EMCDDA and Europol, 
+2019). Findings from the European Web Survey on Drugs 
+(EWSD) highlighted in this paper also show a relatively small 
+proportion of all respondents using such markets to purchase 
+drugs. However, darknet sales vary considerably for different 
+substances and also between countries. In 2019, among all 
+illicit substances sold, cocaine was reported to generate the 
+most revenue for anonymised darknet dealers, with small 
+consignments often sent directly to end users across the 
+European Union using post and parcel services (EMCDDA and 
+Europol, 2019). By contrast, there is evidence that for MDMA/
+ecstasy, purchases on the darknet are more likely to be intended 
+for onward sale on local drug retail markets (EMCDDA and 
+Europol, 2017, 2019). More recently, the darknet has also played 
+an increasing role in the distribution of fentanyl derivatives 
+(EMCDDA and Europol, 2019).
+(1) In this paper, ‘cryptomarkets’ refer to virtual platforms for the exchange of 
+products and services that exist on the ‘darknet’ — a portion of the internet 
+that is not accessible without the use of specialised web browsers or software, 
+which distinguishes it from the open part of the internet (also known as the 
+‘surface web’). See for example EMCDDA (2016) for further information on the 
+various types of markets that exist for the buying and selling of drugs on the 
+internet.
+
+MONITORING DRUG USE IN THE DIGITAL AGE I The potential for using web surveys to investigate drug sales through cryptomarkets on the darknet
+2 / 9
+While some studies among the customers of darknet markets 
+have been conducted on the perception of safety, convenience, 
+pricing and quality (e.g. Bancroft and Scott Reid, 2016; Barratt et 
+al., 2013, 2016), research on the characteristics of people who 
+use such markets to acquire drugs for their own personal use 
+has been limited. An Australian study found that respondents 
+who purchased drugs on the darknet used a greater number 
+of drugs compared to non-darknet users, although the sample 
+size of darknet users was small (Van Buskirk et al., 2016). More 
+recently, the EWSD and other similar surveys involving large 
+numbers of people who use drugs have begun to shed further 
+light on the characteristics of darknet users (see for example, 
+Caulkins et al., 2022 and Vuolo and Matias, 2020). For example, 
+according to the Global Drug Survey (Winstock et al., 2017), 
+people who purchase drugs on the darknet are more likely to be 
+relatively young, male and associated with a clubbing scene.
+This paper considers two different ways in which web surveys 
+might be used to provide insights concerning those people 
+who purchase drugs on cryptomarkets. First, data from 
+the second wave of the EWSD are analysed with a view to 
+identifying differences between respondents who buy drugs 
+on cryptomarkets and those who acquire drugs from other 
+sources (e.g. from a dealer or through sharing with friends). 
+Second, the sampling of web survey respondents on the 
+darknet is discussed based on a sampling strategy tested in 
+Austria, highlighting the challenges and opportunities involved 
+in undertaking survey recruitment on the darknet. This pilot 
+project was undertaken through placing an identical Germanlanguage version of the EWSD questionnaire on a darknet 
+webpage and promoting the survey through various darknet 
+forums and marketplaces. The aims of this paper are twofold. 
+On one hand, it seeks to examine whether the EWSD is able 
+to gather information on the characteristics of people who 
+predominantly buy drugs through cryptomarkets, and, on the 
+other hand, to show how this group of people might be reached 
+to improve their representation in future web surveys for drug 
+data collection.
+Quantitative analyses based on the 
+international data set
+Sample and methods
+Data was used from all 10 countries (2) participating in the 
+second wave of the European Web Survey on Drugs (EWSD, 
+2017–2018), with a total of 30 339 respondents. From this 
+sample, 20 157 respondents provided valid answers on their 
+usual source of drugs and were used for further analyses. Out 
+of these, 1 559 respondents (7.7 % of valid responses) reported 
+(2) Austria, Belgium, Cyprus, Estonia, Finland, Italy, Latvia, Lithuania, Luxembourg 
+and Poland.
+using cryptomarkets as a source for any drug included in the 
+questionnaire. Despite this relatively large number of people 
+using cryptomarkets among other sources in the total sample, 
+it is important to note that this figure was very low in some 
+countries and for some specific drug types. 
+The percentage of respondents who reported buying drugs on 
+cryptomarkets is broken down by country and by substance. The 
+basic characteristics (gender, age, place of residence, number 
+of substances used in their lifetime) of the respondents who 
+reported using cryptomarkets and those who do not source 
+drugs in this way are compared on the country level to assess 
+whether patterns are similar or different across countries. 
+All analyses presented in this paper are based on bivariate 
+analyses, and therefore confounding by other variables cannot 
+be ruled out. Multivariate analyses presented elsewhere (Strizek 
+et al., 2020) (3) revealed a significant association between 
+whether respondents use cryptomarkets or not and their 
+gender, age, place of residence and the number of substances 
+used in their lifetime. As with other evaluations based on nonrepresentative samples, the transferability of results presented 
+in this paper is limited by the selectivity of the sample.
+The use of cryptomarkets among different sources for 
+acquiring drugs
+Separate questions relate to the usual sources of supply 
+for each substance covered in the EWSD (4) (that had been 
+consumed in the last 12 months) using multi-response options. 
+In other words, the responses are not mutually exclusive. 
+Therefore, when a respondent indicated that they usually 
+purchase on cryptomarkets, this response can represent one 
+among other sources. Therefore, several sources of supply for 
+one substance and different sources for different substances 
+can be determined.
+Figure 1 shows the distribution of responses on usual sources 
+of supply for all respondents and across all substances. The 
+number of respondents who stated that they usually use 
+cryptomarkets to acquire a specific drug they had used in 
+the last 12 months was 1 559. Out of these, 86.3 % usually 
+also use other sources for acquiring their drugs (n = 1 345, 
+or 6.7 % of all valid responses), and only a small proportion 
+(13.7 %) exclusively use cryptomarkets (n = 214, or 1.1 % of 
+all valid responses). The vast majority of respondents never 
+use cryptomarkets (18 598 respondents or 92.3 % of all valid 
+responses). By far the most common sources of drug acquisition 
+reported in the EWSD are being ‘given drugs for free/sharing 
+(3) Several of the tables and figures presented in this paper have been adapted 
+from their original published versions (Strizek et al., 2020).
+(4) The data set provides information on the usual sources of supply of cannabis 
+(resin and weed), cocaine (powder), ecstasy/MDMA, amphetamine (speed), 
+methamphetamine and NPS (herbal mixtures, tablets/crystal, liquids, blotters). 
+Usual sources of supply for fentanyl and buprenorphine were excluded 
+from the analyses because the corresponding modules were not used in all 
+countries and only very few valid responses were available.
+
+MONITORING DRUG USE IN THE DIGITAL AGE I The potential for using web surveys to investigate drug sales through cryptomarkets on the darknet
+3 / 9
+with friends’ or ‘buying from drug dealers’ (with 61 % and 59 % 
+of respondents reporting the use of these sources of drug 
+acquisition respectively). Notably, more respondents reported 
+using cryptomarkets than growing/producing their drugs 
+themselves (‘I grow it/produce it myself’) or purchasing them on 
+the surface web (‘Buy it from a shop online’).
+It should be noted that approximately one third of eligible 
+respondents (n = 10 182) failed to provide valid answers to 
+questions about their usual sources of supply. Comments 
+in open questions indicate that this was done for reasons of 
+confidentiality (e.g. as shown in answers like ‘none of your 
+business’) or because they felt that the relevant answer 
+categories were missing (e.g. answers such as ‘bought in a 
+coffeeshop in the Netherlands’ or ‘bought from friends’). 
+Country-level and substance-type differences in the use of 
+cryptomarkets
+Broken down by country, Figure 2 shows that the number 
+of respondents using cryptomarkets for their drug supply is 
+consistently low in all participating countries, with the notable 
+exception of Finland, where 23 % of all respondents providing 
+valid answers to such questions report usually buying on 
+cryptomarkets, followed by Poland at 10.8 % (Figure 2). This 
+exceptionally high popularity of cryptomarkets in Finland 
+corresponds with similar results presented in recent Global Drug 
+Survey reporting (Winstock et al., 2018).
+Looking at individual substances, the percentage of 
+respondents usually using cryptomarkets to acquire drugs 
+FIGURE 1
+Usual sources of supply for all respondents across all substances (multi-response options, overall 
+valid answers = 20 157)
+1 %
+2 %
+3 %
+6 %
+8 %
+18 %
+59 %
+61 %
+People give it to me or 
+share it with me for free
+Bought them from a specialised
+ shop (NPS only)
+Buy it from a classified ad
+Buy it from a shop online
+I grow it/produce it myself
+Buy it from internet encrypted markets
+Sometimes I buy them,
+ sometimes I get them for free
+Buy it from a drug dealer
+FIGURE 2
+Number and percentage of respondents who report usually buying on cryptomarkets, by country
+1.3 %
+1.5 %
+2.0 %
+3.2 %
+3.3 %
+4.4 %
+4.7 %
+6.7 %
+7.7 %
+10.8 %
+23.0 %
+(11)
+(27)
+(32)
+(87)
+(121)
+(44)
+(4)
+(143)
+Overall
+mean
+(1 559)
+(342)
+(748)
+The number of respondents who report that they usually buy a specific substance on cryptomarkets is given in parentheses. 
+
+MONITORING DRUG USE IN THE DIGITAL AGE I The potential for using web surveys to investigate drug sales through cryptomarkets on the darknet
+4 / 9
+varies considerably. As seen in Table 1, this ranges from 27.2 % 
+of all users of new psychoactive substances (NPS) in the form 
+of powders to 3.3 % of cocaine users. Thus, based on EWSD 
+data collected from a large self-selected sample of people who 
+use drugs, in relative terms cryptomarkets seem to be more 
+important for drugs that are used by fewer people and less 
+important for drugs that are generally more well-established, 
+such as cannabis or cocaine. At least this appears to be the 
+case at the retail level, since this is the level at which the EWSD 
+seemingly collects data on drug purchases. However, some 
+caution should be exercised when interpreting these results, as 
+the sample sizes for some substances are very small (e.g. for 
+NPS liquids and blotters). 
+Characteristics of cryptomarket users
+Table 2 shows the association between the use of 
+cryptomarkets and respondents’ gender and whether they live 
+in rural (village) or urban areas (town/city), respectively, for the 
+countries covered in the EWSD. In 6 out of 10 countries males 
+are more likely to use cryptomarkets than females (OR > 1), 
+while in the remaining four countries no significant association 
+between gender and the use of cryptomarkets can be seen. 
+Further, the EWSD shows that respondents making use of 
+cryptomarkets are not more likely to live in villages than in 
+towns/cities.
+TABLE 1
+Purchasers using cryptomarkets by substance
+Usually buy on 
+cryptomarkets 
+(valid percentage)
+Total number of 
+respondents reporting 
+buying the listed 
+substances through 
+cryptomarkets
+Total number 
+of respondents 
+providing valid 
+answers
+NPS (powder)
+27.2
+308
+1 131
+NPS (herbal)
+13.5
+51
+379
+NPS (blotters)
+12.1
+28
+232
+NPS (liquid)
+9.6
+10
+104
+Methamphetamine
+9.3
+88
+942
+Ecstasy/MDMA
+8.3
+516
+6 229
+Amphetamine
+6.9
+289
+4 189
+Cannabis resin
+4.8
+256
+5 347
+Cannabis herbal
+4.1
+702
+16 928
+Cocaine
+3.3
+145
+4 418
+ 
+TABLE 2
+Association on country level between the use of cryptomarkets and gender and living in a village or a town/city
+ 
+ 
+Gender
+Living in rural or urban areas
+n
+Users of 
+cryptomarkets 
+among males 
+(%)
+Users of 
+cryptomarkets 
+among females 
+(%)
+OR (CI)
+n
+Users of 
+cryptomarkets 
+in villages 
+(%)
+Users of 
+cryptomarkets 
+in towns/cities 
+(%)
+OR (CI)
+2 099
+8.5
+3.4
+2.6 (1.7–4.0)
+1 683
+7.3
+6.9
+0.9 (0.6–1.4)
+3 609
+4.6
+1.3
+3.5 (2.1–5.9)
+3 042
+2.8
+3.3
+1.2 (0.8–1.8)
+3 193
+25.6
+15.7
+1.8 (1.5–2.3)
+2 813
+17.6
+23.2
+1.4 (1.0–1.9)
+2 680
+3.9
+1.1
+3.8 (1.9–7.6)
+2 335
+2.6
+3.2
+1.3 (0.5–3.2)
+3 146
+10.5
+11.0
+1.0 (0.8–1.2)
+2 511
+7.9
+12.3
+1.6 (1.1–2.5)
+85
+4.8
+4.5
+1.1 (0.1–10.7)
+79
+8.3
+3.0
+0.3 (0.0–4.1)
+1 720
+2.0
+0.7
+2.9 (1.0–8.5)
+1 548
+0.0
+1.7
+1.0 (–)
+1 617
+1.9
+2.1
+0.9 (0.4–2.1)
+1 452
+1.8
+2.0
+1.1 (0.3–3.7)
+809
+2.1
+0.5
+4.2 (0.9–19.5)
+683
+0.0
+1.1
+1.0 (–)
+994
+5.7
+1.0
+5.8 (1.8–19.1)
+874
+3.6
+4.1
+1.1 (0.6–2.3)
+Total
+19 952
+8.9
+5.3
+1.7 (1.5–2.0)
+17 020
+5.6
+8.2
+1.5 (1.3–1.8)
+OR (CI), odds ratio with confidence interval in brackets; OR < 1 indicates a positive association between gender/place of living and the probability of being a user of 
+cryptomarkets or not; n = number of valid responses. The total number of valid responses is reduced from the total providing valid responses on the question related to 
+sources of supply due to missing data for gender or place of living. The table has been adapted from Strizek et al. (2020), where it was first published.
+
+MONITORING DRUG USE IN THE DIGITAL AGE I The potential for using web surveys to investigate drug sales through cryptomarkets on the darknet
+5 / 9
+For all respondents providing valid answers to the question 
+on their sources of supply, the differences between those 
+who stated that they usually made use of cryptomarkets (for 
+any drug included in the questionnaire) and those who would 
+not normally buy drugs in this way are displayed in Table 3. 
+In all countries, respondents using cryptomarkets reported a 
+higher number of drugs used in their lifetime. This association 
+is significant in all but one country (Cyprus, which had a very 
+small sample size n = 86). Age differences between users and 
+non-users of cryptomarkets are very small and do not show a 
+consistent trend across countries. 
+Qualitative insights from piloting the 
+EWSD on the darknet
+The EWSD, in line with other surveys, found that a comparatively 
+small proportion of the self-selected sample sourced their 
+drugs from cryptomarkets. This raises the question of whether 
+this group of people is truly small or whether conventional web 
+surveys placed on the surface web fail to reach them. Therefore, 
+besides the Austrian version of the EWSD that was sited on the 
+surface web and promoted via Facebook (which resulted in the 
+data included in the quantitative analysis used for this paper), 
+an additional recruitment strategy was piloted. A copy of the 
+EWSD with identical questions was placed on a .onion-page on 
+the darknet and advertised on darknet-pages (cryptomarkets, 
+forums and vendor shops). The survey was set up in German 
+and not specifically targeted at Austrian-based darknet users, 
+but open to all German-speaking users. The advantages and 
+pitfalls of this specific approach and the lessons learned are 
+discussed in the following sub-sections. Our considerations 
+were informed by valuable feedback collected from cooperative 
+darknet webpage administrators after the survey was 
+conducted. In total, five administrators (referred to in the text 
+as [A1–5]) from cryptomarkets, forums and vendor shops 
+responded to our feedback request via e-mail or the contact 
+form on their pages.
+Preparations to reach people through surveys on 
+the darknet
+Placing a survey on the darknet requires some preparatory 
+steps. Technical preparations included the installation of a web 
+server that was accessible through the TOR (‘The Onion Router’) 
+network and the setting up of the survey on a Hidden Service. 
+Hidden Service addresses end in .onion URLs and can only be 
+accessed via the TOR network and not through conventional 
+internet browsers via the surface web. A German version of the 
+EWSD was used and promotion was only carried out in German. 
+To enhance anonymity and security, the use of encryption 
+software was a necessary and useful tool to communicate with 
+the darknet community and to make contact with cryptomarkets, 
+vendor shops (5) or forums. The most frequently used way 
+to encrypt communication is via PGP (‘pretty good privacy’) 
+(5) Unlike cryptomarkets, vendor shops are operated by a single vendor or a small 
+group of vendors.
+TABLE 3
+Mean difference on country level for age and number of substances used (lifetime) between users of cryptomarkets and 
+non-users of cryptomarkets
+ 
+Age
+Number of substances in lifetime
+ 
+n
+Mean
+(users of 
+cryptomarkets)
+Mean difference 
+(compared with 
+non-users of 
+cryptomarkets)
+Sig.
+n
+Mean
+(users of 
+cryptomarkets)
+Mean difference 
+(compared with 
+non-users of 
+cryptomarkets)
+Sig.
+2 126
+23.0
+0.2
+–
+2 126
+8.7
+2.1
+**
+3 623
+27.6
+0.0
+–
+3 623
+8.1
+2.6
+**
+3 184
+24.7
+–3.2
+**
+3 256
+7.3
+1.1
+**
+2 678
+25.1
+0.2
+–
+2 709
+7.7
+2.6
+**
+3 167
+23.9
+0.1
+–
+3 167
+8.5
+2.5
+**
+86
+24.5
+–5.1
+–
+86
+7.0
+2.3
+–
+1 738
+24.4
+–2.0
+*
+1 749
+7.1
+1.4
+*
+1 592
+23.4
+–1.1
+–
+1 622
+6.8
+2.6
+**
+808
+23.6
+0.6
+–
+815
+9.8
+4.8
+*
+980
+25.6
+0.0
+–
+1 004
+7.4
+3.3
+**
+Total
+19 982
+24.6
+–0.9
+**
+20 157
+7.8
+2.2
+**
+Mean differences with a negative value indicate that users of cryptomarkets score lower for that value than non-darknet users. Sig., significance; n, number of valid 
+responses; * indicates significant differences for t-test on 0.05 level of significance; ** indicates significant differences for t-tests on 0.003 level (adjusted for Bonferroni); – 
+indicates no significant difference. The total number of valid responses is reduced due to missing data for age. The table has been adapted from Strizek et al. (2020), where it 
+was first published.
+
+MONITORING DRUG USE IN THE DIGITAL AGE I The potential for using web surveys to investigate drug sales through cryptomarkets on the darknet
+6 / 9
+encryption. In practice, PGP encryption was often necessary 
+to create accounts, access darknet forums and contact 
+administrators/moderators. Additionally, the permission and 
+support of administrators or moderators of cryptomarkets and 
+forums was frequently required in order to promote the survey. 
+In one case, for example, support from a forum host resulted in 
+them placing a banner for the survey on the forum page. 
+Lessons learned from the approach
+After running the survey for five consecutive weeks and ensuring 
+constant visibility on darknet pages through regular contact 
+with administrators, the response rates were still too low for 
+quantitative statistical analyses. While 990 clicks on the first 
+information page were registered, only 53 users started the 
+survey and 25 completed it. In addition to the high importance 
+of privacy and anonymity among darknet users (Mirea et al., 
+2019), who might initially be at odds with participating in a web 
+survey about personal drug use behaviour, restricting the survey 
+language to German might have hindered some darknet users 
+from participating.
+Qualitative data gathered from users and through 
+communicating with forum-, market- and shop-administrators 
+and moderators provide insights into the dynamics of placing a 
+survey on, and generating respondents from, the darknet, and 
+may help to improve the implementation of similar projects in 
+the future.
+Time and patience: Darknet pages are subject to frequent 
+changes with regard to .onion URLs and accessibility. Intensive 
+research is needed to discover current URLs and to check 
+pages’ eligibility in terms of advertisements; for example, in our 
+case this meant looking for pages with drug-related content 
+that were accessible in terms of advertisements, showed user 
+activity and were conducted in German or English. Connection 
+via the TOR-browser is often slower than that experienced on 
+conventional browsers, due in part to the connection routes 
+passing through several relays. Login procedures can require 
+multiple steps and may take several minutes and consecutive 
+attempts. This process has implications for the possibility of 
+using media files (e.g. videos) in the survey, which may take a 
+very long time to load, for promotional issues and also for the 
+total length of the survey.
+Providing anonymity and using encryption: Members of darknet 
+communities are especially aware of privacy issues and 
+potential law enforcement surveillance. While not all darknet 
+users encrypt their communication due to these issues, it is 
+generally referred to as ‘good practice’ within the community of 
+darknet users (Aldridge and Askew, 2017). Overall, our contact 
+with forum administrators during the preparation for the survey 
+suggested that the use of encryption is a necessary tool to 
+communicate with the darknet community and in order to gain 
+access to markets and forums. Consequently, it is important 
+to be prepared for the use of encryption to communicate with 
+the darknet community and access specific sites, and thus 
+gaining proficiency in using encryption before making these 
+connections is crucial. With regard to issues around anonymity 
+and confidentiality, an administrator of a harm reduction forum 
+on the darknet explained that ‘in general the darknet community 
+are less open to participating in studies than mainstream 
+surface web communities such as Reddit, Bluelight etc.’ [A1]. 
+While it may be sufficient to place a survey on the surface web 
+and encourage and enable access via the darknet and the TOR 
+network, feedback from administrators was in favour of placing 
+the survey on the darknet. As stated by one administrator, ‘If you 
+are advertising the study on .onion sites, then it is certainly worth 
+it to have a .onion address for people to do the study on, that 
+would be a big plus for them’ [A1].
+Credibility and trust: To successfully recruit respondents 
+from darknet communities, credibility and trust have to 
+be established. It thus appears to be necessary to have a 
+recognisable name as an organisation or researcher and 
+to provide authentication on request. An example from 
+correspondence with a forum administrator illustrates this 
+issue. As they stated, ‘I would also like to see some type of 
+confirmation that this [the survey] is by Checkit, for example 
+if you have an email address @checkit.wien or a colleague 
+does, so they can just send me an email so I know it is a study 
+by you’ [A2]. Another administrator proposed that credibility 
+could be bolstered and authentication provided in other ways, 
+such as ‘links to pages displaying the researcher’s bio/CV/
+etc. Proof that the person I’m sending messages to is indeed 
+the person on the web page’ [A2]. Trust might also be gained 
+through recommendations or referrals from other people on the 
+darknet. Precautions suggested by an administrator included, 
+‘Being recommended by [the] owner of larger marketplaces for 
+example and proving that users are not talking to the police’ 
+[A3].
+Getting in touch early: Recruiting participants for a survey in 
+darknet forums generally requires the permission of the person 
+in charge, for example the administrator or moderator. To ensure 
+there is enough time for the clarification of all potentially arising 
+questions before data collection, getting in touch with such a 
+person well ahead of time, in terms of implementing the survey, 
+is important.
+Language: The use of German in our survey was likely a major 
+constraint to reaching a bigger sample. Thus, offering the survey 
+in English and other languages, and asking for country of origin, 
+would potentially lead to a higher response rate.
+
+MONITORING DRUG USE IN THE DIGITAL AGE I The potential for using web surveys to investigate drug sales through cryptomarkets on the darknet
+7 / 9
+Conclusions
+In line with the findings of other surveys on this topic, the data 
+from the European Web Survey on Drugs (EWSD) indicate 
+that people using cryptomarkets as a usual source of supply 
+are a very small group of users in most participating countries. 
+However, proportions differ significantly between countries; 
+for example, the survey found a notably higher proportion of 
+cryptomarket users in Finland. In relative terms, when users of 
+different substances are compared, EWSD data indicated that a 
+high proportion of respondents using certain new psychoactive 
+substances reported purchasing these on cryptomarkets, 
+particularly in relation to NPS powders. However, the small 
+number of respondents means that further research in this area 
+is needed.
+There are several key findings from this study. First, 
+cryptomarkets are used by a relatively small segment of all 
+EWSD respondents. Most respondents who used cryptomarkets 
+also used other sources of supply and nine out of ten 
+respondents never bought drugs on cryptomarkets. Second, 
+buyers on cryptomarkets were more likely to be male and 
+consume more substances on average. By contrast, bivariate 
+analyses did not show substantial differences from other 
+purchasers in terms of age or area of residence (rural or urban). 
+Third, the recruitment of respondents from the darknet remains 
+challenging and calls for specific techniques and procedures. 
+Particular attention should be paid to building trust, establishing 
+credibility and guaranteeing anonymity, since awareness of 
+privacy issues is seemingly higher among darknet users than 
+surface web users.
+The EWSD has shown that it is possible to collect data from a 
+sample of people who use drugs and who report purchasing 
+drugs on cryptomarkets. However, it is quite conceivable that the 
+EWSD and other similar web surveys for drug data collection 
+carried out on the surface web are only reaching a particular 
+subset of this group of people. This is an area in which further 
+research is needed to build on the lessons learned in this study, 
+including the development of better questions for obtaining 
+information on the ways in which people acquire drugs and 
+to understand the motivations for their different choices in 
+terms of sources of supply. Online surveys have considerable 
+potential in this area due to their ability to reach large numbers 
+of respondents quickly, but it is important to further improve our 
+understanding of how different recruitment methods can better 
+reach diverse groups of people who use drugs.
+Acknowledgements 
+An earlier version of this article was published in Drugs and 
+Alcohol Today as ‘Relevance of cryptomarkets, characteristics 
+of purchasers and possibilities for survey research: experience 
+from the European Web Survey on Drugs’, by Julian Strizek, 
+Alexandra Karden and João Matias, doi:10.1108/DAT-122019-0052 © Emerald Publishing Limited, publication date: 30 
+October 2020.
+References
+Aldridge, J. and Askew, R. (2017), ‘Delivery dilemmas: how 
+drug cryptomarket users identify and seek to reduce their risk 
+of detection by law enforcement’, International Journal of Drug 
+Policy 41, pp. 101–109, doi:10.1016/j.drugpo.2016.10.010.
+Bancroft, A. and Scott Reid, P. (2016), ‘Concepts of illicit 
+drug quality among darknet market users: purity, embodied 
+experience, craft and chemical knowledge’, International 
+Journal of Drug Policy 35, pp. 42–49, doi:10.1016/j.
+drugpo.2015.11.008.
+Barratt, M., Ferris, J. and Winstock, A. (2013), ‘Use of Silk Road, 
+the online drug marketplace, in the United Kingdom, Australia 
+and the United States’, Addiction 109(5), pp. 774–783, 
+doi:10.1111/add.12470.
+Barratt, M., Ferris, J. and Winstock, A. (2016), ‘Safer 
+scoring? Cryptomarkets, social supply and drug market 
+violence’, International Journal of Drug Policy 35, pp. 24–31, 
+doi:10.1016/j.drugpo.2016.04.019.
+Caulkins, J. P., Furlong, K., McComas, B., Domingues, M. N., 
+Siddique, A. and Kilmer, B. (2022), ‘Comparing two approaches 
+for estimating cannabis consumption: raking and regression’, 
+in Monitoring drug use in the digital age: studies in web 
+surveys, EMCDDA Insights (https://www.emcdda.europa.eu/
+publications/insights/web-surveys/comparing-approachesestimating-cannabis-consumption-raking-regression_en).
+EMCDDA and Europol (2017), Drugs and the darknet: 
+perspectives for enforcement, research and policy, 
+Publications Office of the European Union, Luxembourg 
+(https://www.emcdda.europa.eu/publications/jointpublications/drugs-and-the-darknet_en).
+EMCDDA and Europol (2019), EU drug markets report 2019, 
+Publications Office of the European Union, Luxembourg 
+(https://www.emcdda.europa.eu/publications/jointpublications/eu-drug-markets-report-2019_en).
+
+MONITORING DRUG USE IN THE DIGITAL AGE I The potential for using web surveys to investigate drug sales through cryptomarkets on the darknet
+8 / 9
+ECMDDA (European Monitoring Centre for Drugs and Drug 
+Addiction) (2016), The internet and drug markets, Publications 
+Office of the European Union, Luxembourg (https://www.
+emcdda.europa.eu/publications/insights/internet-drugmarkets_en).
+Mirea, M., Wang, V. and Jung, J. (2019), ‘The not so dark side 
+of the darknet: a qualitative study’, Security Journal 32(2), pp. 
+102–118, doi:10.1057/s41284-018-0150-5.
+Strizek, J., Karden, A. and Matias, J. (2020), ‘Relevance of 
+cryptomarkets, characteristics of purchasers and possibilities 
+for survey research: experience from the European Web Survey 
+on Drugs’, Drugs and Alcohol Today 21(2), pp. 102–111, 
+doi:10.1108/DAT-12-2019-0052.
+Van Buskirk, J., Roxburgh, A., Bruno, R., Naicker, S., Lenton, 
+S., Sutherland, R., Whittaker, E., Sindicich, N., Matthews, A., et 
+al. (2016), ‘Characterising dark net marketplace purchasers 
+in a sample of regular psychostimulant users’, International 
+Journal of Drug Policy 35, pp. 32–37, doi:10.1016/j.
+drugpo.2016.01.010.
+Vuolo, M. and Matias, J. (2020), ‘Sources of drug acquisition 
+among females and males in the European Web Survey on 
+Drugs’, International Journal of Drug Policy 81(102777), 
+doi:10.1016/j.drugpo.2020.102777.
+Winstock, A., Barratt, M., Ferris, J. and Maier, L. (2017), Global 
+Drug Survey 2017. Global overview and highlights, https://
+www.globaldrugsurvey.com/past-findings/gds2017-launch/
+results-released/.
+Winstock, A., Barratt, M., Maier, L. and Ferris, J. (2018), Global 
+drug survey (GDS) 2018, https://www.globaldrugsurvey.com/
+gds-2018/.
+
+MONITORING DRUG USE IN THE DIGITAL AGE I The potential for using web surveys to investigate drug sales through cryptomarkets on the darknet
+Legal notice: Neither the EMCDDA nor any person acting on behalf of the EMCDDA is 
+responsible for the use that might be made of the following information.
+Luxembourg: Publications Office of the European Union
+PDF ISBN 978-92-9497-799-1 ISSN 2314-9264 
+doi:10.2810/44936 
+TD-XD-22-003-EN-N
+© European Monitoring Centre for Drugs and Drug Addiction, 2022
+Reproduction is authorised provided the source is acknowledged.
+This publication is only available in electronic format.
+EMCDDA, Praça Europa 1, Cais do Sodré, 1249-289 Lisbon, Portugal
+Tel. (351) 211 21 02 00 I info@emcdda.europa.eu
+emcdda.europa.eu I twitter.com/emcdda I facebook.com/emcdda
+Recommended citation: Karden, A. and Strizek, J. (2022), ‘The potential for using web 
+surveys to investigate drug sales through cryptomarkets on the darknet‘, in Monitoring drug 
+use in the digital age: Studies in web surveys, EMCDDA Insights (https://www.emcdda.
+europa.eu/publications/insights/web-surveys/potential-web-surveys-investigate-drugsales-cryptomarkets-darknet_en). 
+About the EMCDDA 
+The European Monitoring Centre for Drugs and Drug Addiction (EMCDDA) is the central 
+source and confirmed authority on drug-related issues in Europe. For over 25 years, it has 
+been collecting, analysing and disseminating scientifically sound information on drugs and 
+drug addiction and their consequences, providing its audiences with an evidence-based 
+picture of the drug phenomenon at European level. Based in Lisbon, the EMCDDA is one of 
+the decentralised agencies of the European Union. 
+About this series
+EMCDDA Insights are topic-based reports that bring together current research and study 
+findings on a particular issue in the drugs field. This paper is published as part of Monitoring 
+Drug Use in the Digital Age: Studies in Web Surveys, an EMCDDA Insights that provides an 
+overview of current knowledge and the latest developments in the field of web surveys on 
+drug topics. The Insights contains in-depth reports on the methodology of web surveys, the 
+available studies being carried out in different drug topics and analyses of the European 
+Web Survey on Drugs. The Insights will be of interest to researchers and scientists, people 
+who use drugs, policymakers and their advisors, specialists and practitioners, and all those 
+concerned with the issue of drugs and innovative methods.
+EMCDDA project group: João Matias, Alexander Soderholm, Katerina Skarupova, André Noor and 
+Jane Mounteney.

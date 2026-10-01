@@ -1,0 +1,294 @@
+Julian Strizek & Alexandra Karden & Ilonka Horvath
+GPS expert meeting, Lisbon, May 28th 2019
+Buying drugs on the dark net: relevance 
+of cryptomarkets, characteristics of 
+purchasers and opportunities challenges 
+for survey research 
+
+background
+Surface web/deep web/dark net/cryptomarkets
+2/3 of purchases on cryptomarkets are drug related, dynamic and growing 
+market (EMCDDA 2017)
+Increased interest from law enforcement, but may include some aspects of 
+harm reduction (reputation, feedback, exchange with other users) 
+
+background
+Cryptomarkets located in the so-called darknet offer a convenient and 
+comparable safe way to buy drugs in addition to traditional supply sources 
+like street dealers or social supply
+drugs bought on the darknet are more likely to be intended for redistribution 
+on local markets (EMCDDA 2017)
+little is known about the characteristics of people who buy drugs from 
+different supply sources
+buyers of cryptomarkets are more likely to be younger, male and 
+associated to a clubbing scene (Winstock et al., 2017)
+participants who bought drugs from the darknet used a higher range of 
+drugs than other drug users (Buskirk et al., 2015) 
+often associated by consumers with a wider range of substances, lower 
+prices and higher quality (Bancroft and Reid 2015, Barratt et al. 2013, Barratt et al. 2015)
+
+Quantitative analyses
+Data from the European Web 
+Survey on Drugs (EWSD) are 
+analyzed to assess ...
+... the relevance of cryptomarkets
+for different substances and across 
+countries
+... characteristics of users, who 
+usually buy drugs on cryptomarkets
+and users, who predominantly get 
+drugs from other sources (e.g. 
+dealer, friends)
+EWSD data was used from all 
+participating countries (Austria, 
+Belgium, Estonia, Finland, Italia, 
+Latvia, Lithuania, Poland, Cyprus 
+and Luxemburg) with a total 
+number of 20.157 respondents
+(valid answers) 
+Lessons learned from pilot testing a 
+new recruitment strategy
+Challenges and opportunities of 
+sampling respondents in the dark 
+web are discussed in reference to a 
+new sampling strategy tested in 
+Austria
+web survey was placed in the 
+darknet on an .onion-page and 
+advertised on darknet-pages, 
+mostly forums and markets
+Qualitative information was 
+gathered through communication 
+with forum hosts. 
+aims and methods
+
+The relevance of cryptomarkets for different 
+substances and across countries
+1 %
+2 %
+3 %
+6 %
+8 %
+18 %
+59 %
+61 %
+ %
+20 %
+40 %
+60 %
+80 %
+100 %
+Bought them from a specialised shop (NPS only)
+Buy it from a classified add
+Buy it from a shop online
+I grow it/produce it myself
+Buy it from internet encrypted markets
+Sometimes I buy them, sometimes I get them for free
+Buy it from a drug dealer
+People give it to me or share it with me for free
+Figure 1: Usual sources of supply for all respondents across all substances 
+(multi-response options, valid answers = 20.157)
+
+The relevance of cryptomarkets for different 
+substances and across countries
+Usually buy on 
+cryptomarkets (valid 
+percent)
+Total number of 
+respondents providing 
+valid answers
+Cannabis resin
+4.8
+5.347
+Herbal Cannabis
+4.1
+16.928
+Amphetamine
+6.9
+4.189
+MDMA
+8.3
+6.229
+NPS (herbal)
+13.5
+379
+NPS (powder)
+27.2
+1.131
+NPS (liquid)
+9.6
+104
+NPS (blotters)
+12.1
+232
+Methamphetamine
+9.3
+942
+Cocaine
+3.3
+4.418
+TABLE 1: percentage of purchasers using cryptomarkets by substance
+
+The relevance of cryptomarkets for different 
+substances and across countries
+3%
+2%
+2%
+5%
+3%
+1%
+4%
+7%
+11%
+23%
+0%
+5%
+10%
+15%
+20%
+25%
+Figure 1: percentage of people usually buying on cryptomarkets
+(among other sources) across countries
+
+People using cryptomarkets
+(among other sources) more 
+likely to be male. 
+People using cryptomarkets
+(among other sources) report a 
+higher number of drugs. 
+By contrast age differences are 
+very small, no consistent trend 
+across countries. 
+People using cryptomarkets
+(among other sources) are NOT 
+more likely to live in rural 
+areas. 
+Averages amount per purchase 
+and average price per gram 
+does not show substantial 
+differences 
+People usually 
+buying on 
+cryptomarkets
+(among other 
+sources)
+People usually 
+not buying on 
+cryptomarkets
+gender ratio
+(male : female)
+74 : 24
+64 : 36
+mean age
+24.6
+25.5
+mean number 
+of substances 
+(LT)
+7.8
+5.5
+place of living 
+(city/town : 
+village)
+86 : 14
+81 : 19
+Characteristics of purchasers on cryptomarkets
+
+Pilot test: recruitment via darknet
+Technical requirements
+» installation of a web server that is accessible through the 
+TOR (“The Onion Router”) network and the setup of the 
+survey on a Hidden Service
+» usages of encryption software to communicate with the 
+darknet community and make contact with cryptomarkets, 
+vendorshops or forums (PGP, “pretty good privacy”) 
+Lessons learned
+» Darknet pages are subject to frequent changes with regard 
+to .onion-url and accessibility
+» Connection via TOR-Browser is often slower than with 
+conventional browsers (implications for length of the 
+survey or media files)
+» Recruiting hardly works without the permission of the 
+administrator and takes a lot of time. 
+
+Pilot test: recruitment via darknet
+trust and credibility (e.g. provided by a well known 
+organization or recommendations) are even more crucial than 
+recruiting people on the clearnet
+» “...in general the darknet community are less open to 
+participating in studies than mainstream clearnet
+communities such as Reddit, Bluelight etc, for sure.” 
+» “I would also like to see some type of confirmation that 
+this is by Checkit, for example if you have an email 
+address @checkit.wien or a colleague does, so they can 
+just send me a email so I know it is a study by you guys.”
+» “Being recommended by owner of larger marketplaces for 
+example and proving that users are not talking to the 
+police”.
+
+Pilot test: recruitment via darknet
+Very low response rate
+» 990 clicks on the first information page were registered, 
+53 users started the survey and only 25 completed it
+restriction to German language
+English version might allow for a bigger sample, but requires a 
+more complex survey instrument due to country specific 
+questions (e.g. different currencies, sociodemographic
+differences)
+
+Conclusions
+According to EWSD purchasers on cryptomarkets are still a 
+rather small subgroup of all drug purchasers. Most people 
+who use cryptomarkets also use other sources of supply. 9 
+out of 10 respondents never bought drugs on cryptomarkets.
+Purchasers on cryptomarkets are more likely to be male and 
+consume a wider range of substances. By contrast there are 
+no substantial differences in terms of age, place of residence, 
+price and average amount.
+The relevance of cryptomarkets varies across substances 
+(NPS!) and countries (Finland!)
+
+Conclusions
+
+Conclusions
+Recruitment of respondents from the darknet calls for specific 
+techniques and procedures. Specific attention should be paid 
+to build trust and guarantee credibility and anonymity, since 
+awareness of privacy issues is higher among users of the 
+darknet than among users of the surfaceweb.
+Is the group of darknet purchasers truly small or can those 
+people not be reached with conventional web surveys?
+
+thank you your attention!
+Julian Strizek
+Stubenring 6
+1010 Vienna, Austria
+T:
++43 1 515 61-148
+F:
++43 1 513 84 72
+E:
+julian.strizek@goeg.at
+www.goeg.at
+
+References
+Aldridge, J., & Askew, R. (2017). Delivery dilemmas: How drug cryptomarket users identify and seek to 
+reduce their risk of detection by law enforcement. International Journal of Drug Policy, 41, 101-109.
+Bancroft, A., & Scott Reid, P. Concepts of illicit drug quality among darknet market users: Purity, 
+embodied experience, craft and chemical knowledge. International Journal of Drug Policy (2016), 
+http://dx.doi.org/10.1016/j.drugpo.2015.11.008
+Barratt, M; Ferris, J.; Winstock, A. (2013): Use of Silk Road, the online drug marketplace, in the United 
+Kingdom, Australia and the United States. Addiction, doi:10.1111/add.12470
+Barratt, M.; Ferris, J.; Winstock, A. (2016): Safer scoring? Cryptomarkets, social supply and drug market 
+violence, International Journal of Drug Policy 35 (2016) 24–31
+Van Buskirk, J.; Roxburgh, A.; Bruno, R.; Naicker, S.; Lenton, S.; Sutherland, R. Whittaker, E.; Sindicich, 
+N., Matthews, A.; Butler, K.; Burns, L. (2016): "Characterising dark net marketplace purchasers in a 
+sample of regular psychostimulant users." International Journal of Drug Policy 35 (2016): 32-37.
+EMCDDA (2017): Drugs and the darknet. Perspectives for enforcement, research and policy.
+Mounteney, J.; Griffiths, P.; Vandam, L. (2016): What is the future for internet drug markets? in: The 
+internet and drug markets (European Monitoring Centre for Drugs and Drug Addiction: Insights 21), 
+Publications Office of the European Union, Luxembourg.
+Winstock, A.; Barratt, M.; Ferris, J.; Maier, L. (2017): Global Drug Survey 2017. Global overview and 
+highlights. 
+Winstock AR, Barratt MJ, Maier LJ & Ferris JA (2018): Global drug Survey (GDS) 2018. Key Findings 
+Report.

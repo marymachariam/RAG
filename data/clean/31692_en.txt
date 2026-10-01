@@ -1,0 +1,749 @@
+EU Drug Market: Drivers and facilitators —
+Technology and innovation
+Innovations across a range of areas have become key enablers
+for criminal networks throughout the drug supply chain. These
+include new methods and techniques used to produce drugs,
+yielding higher outputs, products with higher potency or purity,
+and novel consumer products; and continuous advancements in
+the digital sphere, as seen in the ongoing adaptation of online
+drug distribution models.
+Innovation in drug production
+and supply
+Although a number of different factors affect levels of drug production, recent innovations in
+production techniques and equipment have resulted in higher outputs, products with higher
+potency or purity, and a broader range of consumer products.
+For example, innovations in agronomic techniques and equipment have been applied to coca
+plants in Latin America, as well as industrial cannabis cultivation sites in Europe (see EU Drug
+Market: Cannabis). In Europe, such innovations are linked to higher cannabis herb and resin
+outputs, higher-potency cannabis and a more diverse range of cannabis consumer products.
+Another key innovation in cannabis production is the continuous emergence of new semi-synthetic
+cannabinoids, which are made by processing naturally occurring cannabinoids such as cannabidiol
+(see EU Drug Market: Cannabis).
+Innovations in cocaine production appear to have contributed to an oversupply of cocaine in the
+global supply chain (see EU Drug Market: Cocaine). Among the innovations is the re-oxidation of
+cocaine base, which is a sophisticated method used in Colombia that increases the efficiency of
+cocaine production. Collaboration between European and Latin American networks to produce
+cocaine in Europe, using chemicals and equipment of higher quality, is also driving innovation in
+this area.
+This resource is part of EU
+Drug Market: Drivers and
+facilitators by the EMCDDA
+and Europol.
+Last update: 30 May 2024
+- 1 -
+
+Innovations in methamphetamine production are also taking place in Europe, particularly in the
+resolution-racemisation-recycling (RRR) process (see EU Drug Market: Methamphetamine), which
+has increased the efficiency and output of methamphetamine production. Collaboration and
+knowledge exchange between Mexican and European criminal networks is also driving innovation
+and poses a key threat.
+While amphetamine production appears to be relatively stable and high in Europe, there have
+been recent signals of changes in methods (see EU Drug Market: Amphetamine). In particular, the
+so-called nitrostyrene method may become more prominent in the future, reflecting the
+adaptability and resilience of synthetic drug producers, who change their methods in response to
+(or in anticipation of) changes in the availability of chemicals. Importantly, the nitrostyrene method
+can be used to circumvent producers’ reliance on benzyl methyl ketone (BMK) and its alternative
+chemicals, underscoring the continuous innovation seen in the use of new chemicals and
+precursors for illicit drug production (see Section Precursor innovation).
+Precursor innovation
+Innovations in the use of chemicals and precursors have led to transformational developments in
+illicit synthetic drug production. In Europe, producers have shifted from the use of highly
+controlled drug precursors to the use of non-regulated chemicals that can be easily converted to
+those precursors, or even chemicals that can be directly transformed into various synthetic drugs
+(see EU Drug Market: Methamphetamine). As well as confirming that drug producers are
+becoming more adept at borrowing techniques from the pharmaceutical industry and applying
+them to the illicit drugs trade in order to evade detection, these developments present a challenge
+to the international precursor control regime.
+A potential future threat in this area is the application of artificial intelligence and related
+technologies such as large language models (Europol, 2023a) to identify new chemicals and
+molecules that could be used in illicit drug production (see BoxArtificial intelligence). Importantly,
+the pharmaceutical industry currently uses artificial intelligence in the drug discovery and
+development process (Qureshi et al., 2023).
+Artificial intelligence
+Artificial intelligence is the ability of a machine to display human-like capabilities such as
+reasoning, learning, planning and creativity. While some artificial intelligence technologies have
+been used for over 50 years, recent advances in computing power and new algorithms have led to
+major breakthroughs. Artificial intelligence is now seen as central to the digital transformation of
+society and has become an EU priority.
+As part of its digital strategy, the European Union is in the process of regulating artificial
+intelligence to ensure that these systems can be used in a safe, transparent, traceable, nondiscriminatory and environmentally friendly way (EPRS, 2023).
+- 2 -
+
+For further information, see the European Parliament online articles ‘What is artificial intelligence and how is it used?’ and ‘EU AI Act:
+first regulation on artificial intelligence’.
+Chemical masking of drugs
+There have also been innovations in the concealment of drugs using chemical masking. This
+involves modifying the drug into a new substance, which is harder to detect by customs and law
+enforcement agencies. For example, producers chemically conceal cocaine hydrochloride, cocaine
+base and cocaine paste in carrier materials (such as charcoal, coco pulp and plastics). The
+extraction of the cocaine from these carrier materials usually takes place in dedicated ‘secondary
+extraction facilities’ in Europe. The cocaine extracted from carrier materials in base form must
+subsequently be transformed into cocaine hydrochloride, either in the same facility or in a
+dedicated ‘base to hydrochloride’ illicit laboratory (see EU Drug Market: Cocaine).
+Another new modus operandi is the smuggling of heroin dissolved in liquids along the main
+trafficking routes for Afghan opiates to Europe (see EU Drug Market: Heroin and other opioids). A
+number of seizures between 2020 and 2021 involved several hundred litres of heroin in liquid form
+(typically concealed in the fuel tanks of vehicles) and intended for countries in eastern Europe, the
+Baltic region, Türkiye and western Europe. However, so far, no liquid heroin seizures have been
+reported in the European Union.
+Digitally enabled drug markets
+Surface web
+The surface web (see Figure Surface web, deep web and darknet), including legitimate ecommerce platforms and social media, is an important medium for the sale of new psychoactive
+substances (NPS), misused medicines (including falsified and counterfeit medicines), illicit drugs,
+drug precursors and related chemicals. Large and highly flexible criminal structures have been
+identified in relation to online NPS shops in particular. An example of Member States efforts
+focussed on restricting the use of the surface web in NPS distribution is the multi-agency approach
+taken in Germany – supported by the EU Internal Security Fund DrAIN (Disruption and Analysis of
+the Internet NPS Market) project (Bayerisches Landeskriminalamt, 2021). While this has resulted in
+the closure of a number of online NPS shops, it is unclear whether German retailers have stopped
+selling these substances altogether or have relocated to darknet markets or social media. Further
+monitoring, analysis and investigation are required to determine how long-lasting this effect will
+be.
+- 3 -
+
+Surface web, deep web and darknet
+Social networks and instant messenger apps
+Drug sales on social media platforms appear to be gaining in prominence, but there is relatively
+little research exploring their place in the wider technology-based drug markets (see Box
+European Web Survey on Drugs: information on online purchases). Furthermore, given the
+convenience and ease of use of these platforms, there is potential for them to amplify the various
+risks associated with drug use (Oksanen et al., 2021) (see BoxMotivations for buying and selling
+drugs on social media platforms).
+European Web Survey on Drugs: information on online purchases
+- 4 -
+
+The 2021 European Web Survey on Drugs (EWSD) covered 21 EU Member States and Switzerland.
+In the survey, 48 469 respondents reported having used drugs in the past 12 months (see
+Overview of data and methods). Of these, 30 201 specified how they usually obtained the drug.
+Although the majority usually bought the drug from a dealer (86 %), some also reported using the
+darknet (12 %), social media (11 %) or the surface web (4 %) (multiple response options were
+allowed). While this information provides a useful insight into the various methods used to buy
+drugs across Europe, it should be noted that the sample is not representative (of Europe or of
+participating countries) and may be skewed more towards younger groups of people who use
+drugs and who are more likely to use the internet.
+Motivations for buying and selling drugs on social media platforms
+Research is beginning to reveal the motivations of users on these platforms, including
+convenience, speed of service and ease of use, particularly in comparison to darknet markets (van
+der Sanden et al., 2021). Although there is a lack of research into the motivation of dealers, the
+benefits are likely to include access to a large customer base and the ability to do business directly
+while retaining a degree of anonymity. Further research in this area would help to improve our
+understanding of the motivations and behaviours of both buyers and sellers.
+Social media includes a wide range of digital platforms designed for communication. These include
+image-sharing platforms, instant messaging apps and online forums. There are different levels of
+drug market openness across these platforms, ranging from public, where vendors make their
+profile publicly available, to private, where drug-related content is restricted to pre-screened users.
+Most social media platforms appear to be used as marketplaces for illicit drugs (see BoxOnline
+ethnography: examining drug distribution on social media platforms in Europe). Yet there are
+significant challenges involved in designing and conducting research in this area: social media
+content can be temporary, fragmented and rapidly changing; and messages are almost always
+encrypted or otherwise difficult to access. The terminology used also changes rapidly, and, unlike
+darknet markets – which often have a global reach – dealers on social media are often more local,
+with a regional or city focus. As such, research into these activities may require language
+processing.
+Online ethnography: examining drug distribution on social media platforms in Europe
+Online ethnography (netnography) has enabled a closer examination of drug distribution through
+social media platforms in selected European countries (Denmark, Norway, Sweden and Germany)
+(Demant and Bjerre Aagesen, 2022). This has provided insights into social media drug markets in
+Europe, especially on Snapchat (Denmark, Norway and Sweden) and Reddit (Denmark and to a
+lesser extent Sweden). Meanwhile, accessing drug markets on Facebook and Instagram appears to
+be more difficult, potentially as a result of tight moderation of such content (Demant and Bjerre
+Aagesen, 2022).
+Vendors on social media use captions, hashtags and emojis to enable potential buyers to search
+for drugs (Demant and Bakken, 2019). Geographical areas of operation may also be indicated to
+- 5 -
+
+allow potential buyers to identify local vendors (Moeller, 2022). Vendors are then contacted, either
+through the messaging function of the platform or via instant messaging apps, to conduct the
+transaction. While some transactions are conducted in-person and paid for in cash, most use
+online payment systems, with the product being shipped to the buyer’s door or to a pick-up point
+(Demant and Bakken, 2019).
+Given the local dimension of social media drug markets and their interaction with offline markets,
+they have the potential to influence the operation of ‘street’ markets. Future research would need
+to investigate the intersection between digitally enabled drug markets and traditional ‘street’
+markets, for example, by exploring the risks of being conned, robbed or arrested. This could
+inform appropriate policy decisions and responses (van der Sanden et al., 2022).
+Use of social media to recruit low-level drug market facilitators
+In addition to drug sales, social media is also used to recruit low-level drug market facilitators.
+Accounts have been identified on Snapchat that are dedicated to the recruitment of individuals for
+drug-related tasks, including drug smuggling and cross-border drug transportation. Using
+multiple notifications (‘stories’ or direct messages) per day, they appear to offer considerable sums
+of money to individuals willing to transport drugs across international borders (see Screenshot A
+Snapchat notice from a drug-dealing account seeking to recruit a ‘drug mule’) or to make their
+personal bank account available for large transactions or cash withdrawals (‘money muling’) (see
+Screenshot Snapchat notices from drug-dealing accounts offering money for drug-related services)
+(Demant and Bjerre Aagesen, 2022). Money muling has been identified in some Member States as
+an emerging method of money laundering (Europol, 2023b).
+- 6 -
+
+A drug mule is sought for ‘monthly trips to
+Norway’ (from Denmark), with the sum of
+DKK 30 000 (EUR 4 000) plus DKK 2 000
+(around EUR 270) offered for each trip. The
+advertisement states that ‘everything is
+paid for and you will also need to move your
+address’ to Norway. Source: Demant and
+Bjerre Aagesen, 2022.
+Snapchat notices from drug-dealing
+accounts offering DKK 3 000 (EUR 400) to
+buyers of mobile phone cards (left); and
+DKK 35 000 (EUR 4 700) per transaction to
+individuals for the withdrawal of
+DKK 200 000 (EUR 26 855) (right). Source:
+Demant and Bjerre Aagesen, 2022.
+Darknet markets
+Darknet markets have been active for more than a decade. They enable buyers and sellers to
+conduct transactions online with a high level of anonymity. These markets are based on a
+combination of digital technologies, namely anonymous communication technology (e.g. Tor –
+Dingledine et al., 2004) and pseudo-anonymous or anonymous payment systems (Nakamoto,
+2009). These characteristics have made them attractive for buyers and sellers of illicit drugs. As
+such, it is important to understand darknet trends when developing both supply- and demand-side
+drug policies.
+Darknet markets tend to be global and operate in English, although some are focused on a
+particular country or language group. Although sale and trade volumes on darknet markets have
+fluctuated over the years, reflecting the frequent entry into and exit from the ecosystem by
+multiple individual markets, the darknet market ecosystem is currently considered to be active,
+albeit at lower levels than previously observed. A number of factors, such as more frequent scams,
+- 7 -
+
+voluntary closures and law enforcement activity, appear to have a considerable impact on drug
+supply via darknet markets.
+Data from the monitoring period, 2020-2022, show a darknet market ecosystem characterised by
+high turnover and fragmentation. In recent years, many markets have been ‘exit-scammed’,
+whereby those in control accumulate customers’ funds and subsequently exit the darknet
+ecosystem without fulfilling orders, or have been taken down by law enforcement agencies. An
+example of this is Empire, a leading darknet market that stopped operations in August 2020,
+departing abruptly and failing to fulfil pending orders. However, in late 2021, a number of markets
+also voluntarily closed and exited in a relatively orderly fashion once they had achieved their profit
+objectives and without misleading their customers (including some of the largest such as
+WhiteHouse, Cannazon and Torrez). Numerous new markets also appeared but were mostly shortlived, creating a highly fragmented environment.
+The darknet market ecosystem continues to consist of many short-lived markets (see Figure 
+Darknet markets ecosystem: lifetime and reason for closure of over 150 global darknet markets
+offering drugs, sorted by date). Over the next five years, it is expected that this scene will continue
+to fragment. While some larger, multi-vendor, multi-commodity markets may survive, there will
+likely be an increasing number of vendor shops and smaller markets (see BoxVendor shops
+). International law enforcement therefore needs to focus on these smaller markets.
+- 8 -
+
+Darknet markets ecosystem: lifetime and reason for closure of over 150 global darknet
+markets offering drugs, sorted by date
+Key
+O = 'Open': market still operating at time of writing.
+E = 'Exit scam': market operator closes the site down suddenly, taking the money held in escrow
+without fulfilling the orders
+V = 'Voluntary exit': market is closed with the mutual consent of those involved and without
+known losses to users
+R = 'Raided': shut down by law enforcement
+H = 'Hacked': market closure precipitated by a hack or as a result of de-anonymisation
+U = 'Unknown reason' the exact reason for closure is not know
+- 9 -
+
+Sources: EMCDDA, Web-IQ. Notes: Start and end dates – the dates of the first and last known sales/withdrawals. Closure type – the
+- 10 -
+
+reason for a market shut-down. Market status last checked on 31 December 2023.
+Vendor shops
+A consequence of the high market turnover in the darknet sphere is the growing use of vendor
+shops, and the use of social media and instant messaging apps for drug distribution. Unlike
+markets controlled by a third party and in which a large number of vendors may be active, vendor
+shops are run by a single vendor. Well-established vendors with high trust levels and a strong
+reputation are more likely to set up their own vendor shops, where they may be able to continue
+doing business only with the clientele they have established on markets that have closed.
+These ongoing developments underscore the dynamic nature of darknet markets – which evolve
+constantly to mitigate threats and exploit new opportunities – and their ability to introduce or
+adopt new technologies to evade interdiction. Enhanced monitoring capacity in this area, and
+targeted law enforcement action, is thus crucial to ensure that responses keep pace with
+developments (see Box Disrupting darknet ‘information hubs’).
+Disrupting darknet ‘information hubs’
+As criminals diversify their distribution channels, law enforcement agencies have broadened the
+scope and targets of their operations to include ‘information hubs’ on the darknet. Information
+hubs are websites (such as Darknetlive and dark.fail) that provide extensive and up-to-date
+information about darknet markets and are central to the darknet community (Ladegaard, 2019).
+Disrupting these hubs thus restricts information about how to access darknet markets and which
+of them are operational or trustworthy, making it potentially more difficult for users to purchase
+or sell drugs (Popper, 2019).
+Ongoing innovation in darknet markets, and their intersection with social media and surface web
+applications, has caused further complexity for monitoring and interdiction. For example, a vendor
+shop bot for direct sales – known as Televend – emerged in 2021, powered by the instant
+messaging app Telegram and supported by a Tor vendor panel (see Screenshot Televend:
+automated direct deals platform and BoxOnline drug sales automation).
+By adding Televend as a contact on the Telegram app and following a few additional steps, users
+could access a list of drug vendors. The vendor shop was operated by a bot around the clock,
+managing purchase requests and all administrative functions. The service provided security to
+vendors as well as negating the risks of distributed denial-of-service (DDoS) attacks.
+Although Televend was compromised in September 2021, it provided proof of concept for an
+innovative combination of darknet market and messaging app technologies for trading illicit
+drugs. Televend-like markets could potentially attract users who already routinely scroll through
+social media content and have less technological know-how than darknet market users (Barratt et
+al., 2022). Considering the advantages for users, including convenience and a lower risk of scams,
+and higher protection for vendors, it is conceivable that variations of this model will emerge in
+future or are already operational. Other potential ways for criminals to exploit new technologies,
+such as artificial intelligence and machine learning, may also be expected to emerge and spread in
+the future (UNICRI and Europol, 2020).
+- 11 -
+
+Online drug sales automation
+Some darknet market vendors appear to be diversifying their business to include social media and
+encrypted instant messaging apps, and automating the trade processes through self-executing
+mechanisms like ‘smart’ contracts and bots. The increasing use of these mainstream social media
+and messaging platforms by criminals poses challenges for law enforcement agencies across the
+European Union. It also highlights the need for darknet investigators to broaden their focus to
+capture illicit drug-related activity on other platforms beyond the darknet markets.
+Televend: automated direct deals platform. Source: Web-IQ.
+References
+Consult the list of references used in this module.
+The source data for the figure Darknet markets ecosystem: lifetime and reason for closure of over
+150 global darknet markets offering drugs, sorted by date may be found below. See also this data
+set in our Data catalogue. 
+Darknet markets
+The Farmer's Market
+01/01/2010 01/03/2012 Raided
+Silk Road
+31/01/2011 02/10/2013 Raided
+Black Market Reloaded
+30/06/2011 02/12/2013 Hacked
+Sheep Marketplace
+28/02/2013 29/11/2013 Exit scam
+- 12 -
+
+Atlantis
+26/03/2013 20/09/2013 Exit scam
+BuyItNow
+30/04/2013 17/02/2014 Voluntary exit
+Deepbay
+30/06/2013 04/11/2013 Exit scam
+Budster
+10/10/2013 20/10/2013 Exit scam
+Project Black Flag
+14/10/2013 28/10/2013 Exit scam
+Pandora
+21/10/2013 05/11/2014 Raided
+Silk Road 2.0
+06/11/2013 05/11/2014 Raided
+TorMarket
+07/11/2013 22/12/2013 Exit scam
+BlackBox Market
+12/11/2013 01/02/2014 Voluntary exit
+Dream Market
+15/11/2013 24/03/2019 Voluntary exit
+The Marketplace
+28/11/2013 09/11/2014 Voluntary exit
+Pirate Market
+29/11/2013 15/08/2014 Exit scam
+FloMarket
+01/12/2013 01/01/2014 Hacked
+Black Market
+02/12/2013 05/11/2014 Raided
+FreeBay
+02/12/2013 28/02/2014 Voluntary exit
+Blue Sky
+03/12/2013 05/11/2014 Raided
+Agora
+03/12/2013 06/09/2015 Voluntary exit
+Tortuga
+16/12/2013 05/01/2014 Voluntary exit
+TorBay
+18/12/2013 20/04/2014 Voluntary exit
+White Rabbit
+23/12/2013 01/02/2014 Exit scam
+Outlaw Market
+29/12/2013 23/05/2017 Unknown
+GreyRoad
+04/01/2014 01/02/2014 Voluntary exit
+DrugList
+08/01/2014 28/02/2014 Exit scam
+Evolution
+14/01/2014 18/03/2015 Exit scam
+Doge Road
+18/01/2014 13/03/2014 Exit scam
+Cantina
+20/01/2014 07/02/2014 Hacked
+Tor Bazaar
+26/01/2014 05/11/2014 Raided
+DarkBay
+30/01/2014 01/05/2014 Voluntary exit
+Breaking Bad
+01/02/2014 06/02/2014 Voluntary exit
+TorEscrow
+02/02/2014 19/04/2014 Exit scam
+Black Goblin Market
+03/02/2014 04/02/2014 Hacked
+Cannabis Road
+03/02/2014 07/02/2014 Hacked
+Utopia
+03/02/2014 11/02/2014 Raided
+BlackBank Market
+05/02/2014 18/05/2015 Exit scam
+Cloud 9
+11/02/2014 05/11/2014 Raided
+Darknet Nation
+19/02/2014 01/03/2014 Hacked
+Sanitarium Market
+20/02/2014 28/03/2014 Voluntary exit
+Hansa Marketplace
+09/03/2014 20/03/2014 Voluntary exit
+Red Sun Marketplace
+20/03/2014 23/03/2014 Hacked
+EXXTACY
+23/03/2014 24/03/2014 Hacked
+Topix
+25/03/2014 05/11/2014 Raided
+Hydra
+27/03/2014 05/11/2014 Raided
+- 13 -
+
+Cannabis Road 2
+28/03/2014 25/08/2014 Hacked
+Mr Nice Guy
+29/03/2014 20/04/2014 Voluntary exit
+Andromeda
+05/04/2014 18/11/2014 Exit scam
+Silk Street
+08/04/2014 04/08/2014 Exit scam
+Underground Market
+09/04/2014 26/08/2014 Voluntary exit
+Pigeon Market
+14/04/2014 07/05/2014 Voluntary exit
+1776
+19/04/2014 02/10/2014 Voluntary exit
+Alpaca
+20/04/2014 05/11/2014 Raided
+Tortuga 2
+23/04/2014 17/06/2014 Voluntary exit
+TOM
+10/05/2014 18/12/2014 Exit scam
+Deepzon
+14/05/2014 13/07/2014 Voluntary exit
+Onionshop
+18/05/2014 17/09/2014 Hacked
+Area51
+20/06/2014 24/01/2015 Exit scam
+Middle Earth Marketplace
+22/06/2014 04/11/2015 Exit scam
+Freedom Market
+16/09/2014 25/09/2014 Voluntary exit
+Cannabis Road 3
+06/10/2014 05/11/2014 Exit scam
+Diabolus/SR3
+13/10/2014 12/02/2017 Unknown
+Nucleus Marketplace
+24/10/2014 13/04/2016 Exit scam
+Panacea
+27/10/2014 13/02/2015 Voluntary exit
+Silk Road 3.1
+10/12/2014 31/07/2017 Exit scam
+Abraxas
+13/12/2014 05/11/2015 Exit scam
+AlphaBay
+22/12/2014 28/06/2017 Raided
+Silk Road Reloaded
+13/01/2015 27/02/2016 Unknown
+Free Market
+14/01/2015 26/02/2015 Voluntary exit
+T•chka
+30/01/2015 28/11/2019 Exit scam
+Crypto Market
+14/02/2015 12/02/2017 Exit scam
+Kiss
+19/02/2015 16/05/2015 Unknown
+Mr Nice Guy 2
+21/02/2015 14/10/2015 Exit scam
+Ironclad
+17/03/2015 25/03/2015 Exit scam
+The Majestic Garden
+18/03/2015 
+Open
+TheRealDeal
+09/04/2015 22/10/2016 Unknown
+Havana/Absolem
+13/04/2015 22/05/2015 Hacked
+Oxygen
+16/04/2015 27/08/2015 Exit scam
+East India Company
+28/04/2015 01/01/2016 Exit scam
+Haven
+05/05/2015 06/06/2015 Exit scam
+Zanzibar Spice
+07/05/2015 14/06/2015 Voluntary exit
+Anarchia
+07/05/2015 09/05/2016 Unknown
+Tornado
+12/05/2015 20/05/2015 Unknown
+Horizon Market
+23/05/2015 08/07/2015 Exit scam
+Agape
+29/05/2015 04/06/2015 Voluntary exit
+Poseidon
+02/06/2015 29/06/2015 Exit scam
+Amazon Dark
+08/06/2015 25/10/2015 Exit scam
+- 14 -
+
+Simply Bear
+20/06/2015 21/10/2015 Exit scam
+Hansa
+09/08/2015 20/07/2017 Raided
+Valhalla
+01/10/2015 01/02/2019 Raided
+Hydra (2)
+01/12/2015 05/04/2022 Raided
+Acropolis
+17/12/2015 22/06/2017 Voluntary exit
+Apple Market
+23/02/2016 21/07/2017 Unknown
+House of Lions Market
+14/03/2016 27/07/2017 Unknown
+CGMC
+07/06/2016 14/05/2019 Voluntary exit
+Minerva
+13/07/2016 22/06/2017 Unknown
+TradeRoute
+01/08/2016 15/10/2017 Exit scam
+Wall Street Market
+25/10/2016 16/04/2019 Raided
+RSClub Market
+27/10/2016 26/10/2017 Hacked
+Berlusconi Market
+01/11/2016 27/09/2019 Raided
+Zion Market
+01/12/2016 17/05/2018 Exit scam
+OW Market
+14/02/2017 01/05/2018 Unknown
+Infinite Market
+01/04/2017 08/05/2018 Unknown
+Placemarket
+13/04/2017 22/06/2017 Unknown
+Libertas
+14/10/2017 19/06/2019 Voluntary exit
+Agora Reloaded
+08/11/2017 01/01/2018 Hacked
+Empire Market
+01/02/2018 24/08/2020 Exit scam
+Serpent Market
+08/02/2018 01/08/2018 Unknown
+Olympus Market
+24/02/2018 05/09/2018 Exit scam
+Apollon
+09/03/2018 
+Open
+Cannazon
+21/03/2018 14/11/2021 Voluntary exit
+Agartha Market
+19/04/2018 23/03/2021 Hacked
+Rapture Market
+21/04/2018 17/11/2018 Exit scam
+Cryptonia
+06/10/2018 23/11/2019 Exit scam
+DIabolus/SR3
+12/10/2018 01/05/2019 Exit scam
+Tor Market
+23/11/2018 
+Open
+Enigma Market
+16/02/2019 12/04/2020 Voluntary exit
+Yellow Brick Market
+18/02/2019 11/01/2021 Exit scam
+Nightmare
+01/04/2019 24/11/2019 Exit scam
+Dreamalt
+01/04/2019 30/03/2020 Exit scam
+Genesis
+01/05/2019 24/08/2019 Exit scam
+Dark Market
+20/06/2019 12/12/2021 Raided
+Grey
+01/07/2019 01/12/2019 Exit scam
+Samsara
+06/07/2019 09/11/2019 Exit scam
+Monopoly Market
+13/07/2019 28/12/2021 Unknown
+Big Blue Market
+15/08/2019 08/04/2021 Exit scam
+WhiteHouse Market (WHM)
+24/08/2019 12/10/2021 Voluntary exit
+Darkbey
+03/09/2019 01/07/2020 Unknown
+Silk Road 4
+06/09/2019 06/01/2021 Exit scam
+- 15 -
+
+Cannahome Market
+15/09/2019 26/04/2022 Voluntary exit
+Metropolis market
+04/10/2019 30/06/2021 Voluntary exit
+Avaris
+18/10/2019 09/03/2020 Exit scam
+Avior
+27/10/2019 01/05/2020 Exit scam
+Versus Market
+12/12/2019 22/05/2022 Voluntary exit
+Cypher Market
+09/02/2020 
+Open
+Square Market
+13/02/2020 01/09/2020 Exit scam
+Black market
+20/02/2020 14/06/2020 Exit scam
+Darkfox market
+24/02/2020 
+Open
+Europa Market
+25/02/2020 20/05/2020 Exit scam
+ToRReZ Market
+28/02/2020 17/12/2021 Voluntary exit
+ASAP
+25/03/2020 28/07/2023 Voluntary exit
+Icarus Market
+26/03/2020 09/09/2020 Unknown
+DeepSea
+08/04/2020 14/10/2020 Exit scam
+Yakuza market
+08/04/2020 
+Open
+Babylon
+16/04/2020 
+Open
+Archetyp
+17/05/2020 
+Open
+Dark0de (aka Dark0de Reborn) 24/05/2020 23/02/2022 Exit scam
+Vice City
+25/05/2020 27/07/2023 Exit scam
+Daeva market
+14/06/2020 28/02/2021 Unknown
+Cartel Market
+15/06/2020 24/12/2021 Unknown
+Hyper Market
+21/06/2020 26/10/2020 Voluntary exit
+Tor2door Market
+03/07/2020 14/09/2023 Exit scam
+Corona Market
+07/07/2020 14/03/2021 Exit scam
+Neptune market
+14/07/2020 25/02/2021 Unknown
+Potluck market
+25/08/2020 18/01/2021 Voluntary exit
+Invictus
+27/08/2020 
+Open
+Phoenix Market
+02/09/2020 12/01/2021 Voluntary exit
+LimeMarket
+14/09/2020 
+Open
+Aurora Market
+02/11/2020 04/05/2021 Exit scam
+World Market
+09/11/2020 08/03/2022 Exit scam
+Incognito
+14/01/2021 
+Open
+Libery
+21/01/2021 
+Open
+Revolution Market
+01/04/2021 01/06/2022 Voluntary exit
+Hermes
+01/04/2021 
+Open
+Kingdom Market
+19/04/2021 19/12/2023 Raided
+UnionMarket
+24/04/2021 
+Open
+MGM Grand Market
+26/04/2021 
+Open
+Bohemia
+01/05/2021 
+Open
+The Hive
+24/05/2021 
+Open
+Nemesis
+26/05/2021 
+Open
+Victory Market
+01/06/2021 
+Open
+- 16 -
+
+Chiron
+04/08/2021 
+Open
+Ares
+08/08/2021 
+Open
+Alphabay
+08/08/2021 28/11/2022 Exit scam
+Evil Corp
+17/08/2021 
+Open
+Casio Market
+16/09/2021 
+Open
+Abacus (Alphabet)
+28/09/2021 
+Open
+Quest
+20/10/2021 
+Open
+Kerberos
+02/02/2022 
+Open
+Alien
+08/02/2022 04/07/2022 Hacked
+Black Pyramid
+03/03/2022 
+Open
+Lion Marketplace
+10/03/2022 
+Open
+Asur
+11/03/2022 
+Open
+Omicron
+30/03/2022 23/07/2022 Hacked
+Cosmos
+04/04/2022 
+Open
+GrandBazaar
+01/05/2022 
+Open
+Solaris
+14/05/2022 
+Open
+Holy Grail
+30/05/2022 
+Open
+Courier
+01/07/2022 
+Open
+Cloud
+05/07/2022 24/12/2022 Voluntary exit
+DarkDock
+14/07/2022 
+Open
+Mellow
+01/09/2022 25/04/2023 Voluntary exit
+TorZon
+12/09/2022 
+Open
+Sonanza
+20/09/2022 
+Open
+Cannabia
+01/11/2022 
+Open
+Apocalypse
+16/12/2022 
+Open
+High supply
+31/03/2023 01/09/2023 Voluntary exit
+Euphoria
+30/05/2023 
+Open
+This PDF was generated automatically on 1/10/2026 from the web page located at this address:
+https://www.euda.europa.eu/publications/eu-drug-markets/drivers-and-facilitators/technology-and-innovation_en. Some
+errors may have occurred during this process. For the authoritative and most recent version, we recommend consulting
+the web page.
+- 17 -

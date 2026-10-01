@@ -1,0 +1,1132 @@
+Author
+Nacer Lalam, Institut des hautes études du ministère de 
+l’Intérieur (IHEMI) Ecole militaire, Paris, France
+2022
+An analysis of cash collection 
+systems related 
+to the European drug market 
+Background paper commissioned by the EMCDDA
+
+1 
+ 
+This Background paper was commissioned by the European Monitoring Centre for Drugs and Drug 
+Addiction (EMCDDA) (contract CT.21.SAS0056.1.0). We are grateful for the valuable contribution of 
+the author. The paper has been cited within various reports and is also being made available online 
+for those who would like further information on the topic. However, the views, interpretations and 
+conclusions set out in this publication are those of the authors and are not necessarily those of the 
+EMCDDA or its partners, any EU Member State or any agency or institution of the European Union. 
+ 
+ 
+ 
+ 
+ 
+ 
+
+2 
+ 
+Contents 
+ 
+Introduction.............................................................................................................................................. 3 
+A. The main actors .................................................................................................................................. 4 
+A.1. The collector ................................................................................................................................. 5 
+Methods for recruiting collectors ...................................................................................................... 5 
+A.2. The facilitator ................................................................................................................................ 6 
+An essential tool: the banknote counting machines ........................................................................ 7 
+A.3. An example of a ‘super-facilitator’: the Saraf ................................................................................. 7 
+B. The organisational aspects of the shadow banking system ............................................................. 10 
+B.1. Reducing transaction costs: the role of trust .............................................................................. 11 
+B.2. Social capital: a key notion in understanding the networks ....................................................... 12 
+B.3. A money-laundering channel that is more opaque and linked to the complex finance and trade 
+flows between China and France ...................................................................................................... 14 
+B.4. Some benchmarks of the Chinese banking system ................................................................... 15 
+C. The public response: an unequal consideration ............................................................................... 17 
+C.1. Some European countries are more heavily impacted due to a prevalence of criminal activities
+ ........................................................................................................................................................... 17 
+Spain .............................................................................................................................................. 17 
+Italy................................................................................................................................................. 18 
+The Netherlands ............................................................................................................................ 19 
+C.2. Analysis ...................................................................................................................................... 20 
+Conclusion............................................................................................................................................. 21 
+Bibliography .......................................................................................................................................... 23 
+Annex 1: Interview guide — questionnaire ........................................................................................... 24 
+ 
+ 
+ 
+
+3 
+ 
+Introduction 
+Money laundering is practised exclusively by criminal organisations that have attained a proven level 
+of professionalism. It occurs at a certain point in the criminal cycle because it enables an illicit 
+enterprise to legitimise the origin of their funds and benefit from their gains while remaining 
+unpunished. Nonetheless, most professional traffickers think in a sequential manner, that is, first they 
+are interested in how to set up their activity (purchase, logistics, distribution) and only much later in 
+how they are going to hide the origin of the profits they make. 
+However, the money-laundering phase is crucial for those involved in the criminal world. 
+Moreover, public authorities have been working to combat money laundering for more than thirty 
+years, with, of course, varying degrees of success, depending on the relevant legal provisions, their 
+application and preventive effects. 
+In the context of the European drug market, this paper provides an exploratory analysis of a method 
+of laundering drug money that law enforcement agencies (LEAs) identify through the use of ‘cash 
+collectors’. We first highlight the main actors of cash collecting linked to drug trafficking, then we 
+discuss its organisation, especially the interpenetration of networks, and, finally, we highlight some 
+salient elements of public responses to the problem in a number of European countries. 
+From a methodological point of view, qualitative material was mainly obtained from the French 
+Judicial Police (OCRGDF-DCPJ) (1) and from interviews conducted with public authorities in charge 
+of anti-money laundering operations in Spain, Italy and the Netherlands, first in the second half of 
+2019, and further in the second half of 2021. From the outset, it emerged that knowledge of the 
+phenomenon is unevenly distributed and undoubtedly should be shared more widely in order to 
+update a number of criminal police services and thus make government responses to this threat more 
+effective. This study is based on case studies that involve many European countries (cases known as 
+‘Virus’, ‘Retrovirus’, ‘Emporio’ and ‘Kouri’). Significant data are available from police records. 
+In addition to France, three other countries — Spain, the Netherlands and Italy — have been 
+subjected to specific scrutiny, and the criteria underlying this choice are based on practical reasons 
+pertaining to cooperation with the French judicial police specialised in fighting financial crime. The 
+interviews were conducted with members of law enforcement agencies specialised in anti-money 
+laundering investigations and with experts from the respective financial intelligence units of each 
+country. A questionnaire was used to conduct the interviews. The preliminary contacts suggest that 
+there is no systematic statistical data on this type of money laundering either at the national or 
+European level. At least two experts (LEA and scholars) were interviewed in each country (see 
+Annexes 1 and 2). 
+Drug revenues are considered to be the principal source of criminal proceeds, especially in relation to 
+the supply of cannabis in Europe. This means that it is necessary to distinguish between the part of 
+this income that will be laundered and the part that will be reinvested in the criminal economy. 
+This exploratory study emphasises how an underground banking system has emerged for drug 
+traffickers, with the understanding that it is mostly used for legal practices (e.g., remittances). Without 
+doubt, the stringent anti-money laundering controls placed on financial institutions have led criminals 
+to become more reliant on the services and skills provided by professionals to manage their illicit 
+funds. The ‘informal value transfer system’ appears to have the capacity to deal with huge amounts of 
+money while offering a limited risk of interception and a real potential to circumvent detection 
+strategies. Cash collection systems are a combination of sophisticated and artisanal methods. For 
+instance, the collectors use encryption techniques for their communications and, at the same time, 
+they hide the banknotes in ordinary sports bags. 
+ 
+(1) Office central pour la répression de la grande délinquance financière. Direction centrale de la police judiciaire. 
+
+4 
+ 
+Our analysis operates at different levels, mainly at the micro level, focusing on the sociodemographic 
+profiles of the actors involved in the cash collection system, their skills and abilities, their earnings and 
+the role of the extended family. At the meso level, the report looks at the organisational aspects of this 
+informal banking system, the networks, the cultural references and trade-based money laundering. 
+The last section is dedicated to public policy analysis — especially in an international context, with an 
+emphasis on the problematic issue of cooperation between countries. 
+A. The main actors 
+According to Ben Lakhdar (2013), it appears that, schematically, cannabis distribution networks in 
+France are made up of four different strata of actors: the wholesale seller upstream of the distribution 
+line; an intermediary A; an intermediary B; and the retail dealer. Cannabis trafficking is said to be 
+unprofitable at the bottom level of distribution. In fact, the ‘small’ street dealers, the most numerous 
+group, earn limited sums of money, while the intermediaries in the trafficking chain, just below the 
+semi-wholesalers, tend to spend the proceeds of their drug dealing ostentatiously but do not resort to 
+money-laundering techniques. Thus, in many cases, drug money responds to a logic of individual 
+social promotion based on a need for social recognition. Most drug dealers do not project themselves 
+into a logic of accumulation, but rather blow the money they make by purchasing luxury products. 
+They follow a short-term logic, in the process sacrificing their prospects of legal integration. It might be 
+said that this is the most basic, most primitive way of laundering money, by diluting the sums earned 
+in the legal economy. These traffickers generally only handle cash. Semi-wholesalers, on the other 
+hand, make enough profit to consider using financial engineering to conceal the origin of the money 
+made from the resale of cannabis. The traffickers who resort to money-laundering techniques are 
+actually few compared to the mass of small dealers and intermediaries. Among the population that 
+profits from drug trafficking, the majority rather use what can be described as artisanal methods. At 
+this stage, let us mention the method of expatriating funds abroad. This rudimentary method is 
+gaining renewed interest from criminals given the increasing control over deposits implemented by the 
+banking system. Once these funds arrive in the destination country, they are invested in small 
+businesses or real estate; they can also be placed in local banks and then transferred again to France 
+(in the cases cited in our research), thus justifying new bank loans. 
+It is not a question of listing all laundering techniques, but rather of focusing on those that enable the 
+trafficker to solve the equation balance the cost of laundering against minimizing minimising the risk of 
+detection and interception. Some traffickers are willing to pay a significant percentage of their turnover 
+to enjoy the benefits from of a reliable and trustworthy money- laundering method. However, the 
+traffickers’ rationale often leads them to look for inexpensive methods. The margins charged by the 
+intermediaries and the transaction costs (with regard to implementing the strategy and managing the 
+risk) are likely to deter traffickers from undertaking money laundering, which could explain why some 
+of them hide cash in more or less elaborate hiding places. Others, given the control mechanisms set 
+up within the banking system, may use so-called clearing methods (characterised by reduced 
+management fees, lack of formalities, etc.), one of which is called Hawala. 
+Hawala is an informal financial network based on centuries-old practices of mutual assistance, which 
+was originally justified by the weakness of the formal banking network, particularly in South Asia. A 
+migrant worker sending money to his family is an example of the use of this technique. It is an 
+informal remittance system (Passas, 2005) used in various parts of the world to move capital from 
+one country to another. Based on a ‘contract of trust’ (ethnicity, same village, etc.), it is cheap, quick 
+and less bureaucratic than the formal financial system. Considered legitimate by many international 
+organisations (of the United Nations system), Hawala can however be diverted from its primary 
+mission, with the reduced formalities and relative anonymity making it easy to use for money 
+laundering and financing illicit activities. 
+
+5 
+ 
+At one end of the drug trafficking supply chain, distribution networks handle large amounts of cash. To 
+transfer their profits abroad they employ different methods, but the use of collectors is the one 
+currently preferred and is becoming more prevalent. 
+Three main levels can be identified: the collector, the facilitator (or supervisor) and the ‘superfacilitator’. 
+A.1. The collector 
+This analysis focuses on what are known as ‘cash collectors’ because they represent the largest 
+number of actors in this money laundering process, and, like street traffickers, they tend to conceal 
+the true nature of the system in which they work. Indeed, collectors are in touch with the informal 
+economy, and this fact along with their community ties mean that they are chosen to perform a basic 
+but trusted function. 
+Both the drug trafficking and money laundering sectors are rather singular and marked by their level 
+of specialisation and professionalisation. Many of the collectors do not know the remitter, nor where 
+the money comes from. The meeting points for cash delivery are very unremarkable, for example, 
+near a fast-food restaurant belonging to a well-known chain, or a petrol station. 
+Based on approximately 10 cases from three European countries, collectors appear to be 
+predominantly men, ranging in age from 25 to over 60, and able to speak at least two languages, 
+although they often have a low level of qualifications; they are also unlikely to have a significant 
+criminal record. While they are discreet, they are not familiar with police surveillance techniques. Most 
+of them have little or no awareness of the scale of the penalties that can be incurred. 
+The collectors generally are members of an extended family, which suggests they can rely on their 
+relatives to do certain tasks. 
+As indicated, where information is available, it appears that collectors’ level of education is relatively 
+low. However, there was one collector who presented himself as a student. We should specify that 
+the required expertise seems attainable; what is expected is rather social skills, such as reliability, 
+punctuality and discretion. Among those acting as collectors, we find, for example, cab drivers, 
+ambulance drivers and deliverymen, indicating that mobility is an asset in this context. 
+It should be added that the collectors are in contact with cash and not with illicit drugs, which 
+contributes to a feeling of being less reprehensible, even if the transactions involve very large 
+amounts of money. 
+The collector gets paid a small percentage (not more than 1 %) of the money collected, which he 
+receives at each collection operation. The average transaction is around EUR 200 000 to 
+EUR 300 000. The unit of account is approximately EUR 100 000 and the global amount, in the 
+course of one year, can reach several million euros. 
+Methods for recruiting collectors 
+Over the last 10 years or so, ‘underground banking’ and in particular the intervention of collectors, has 
+played a major role in drug money laundering circuits. Collectors have thus established themselves 
+during the first stage, known as the placement phase. The pre-existing system, relatively basic in its 
+implementation, has now become more professional. Initial recruitment in family circles close to the 
+‘broker’ or ‘super-facilitator’ has been extended to other people in concentric circles further removed 
+from the nuclear family. These are primarily so-called patriarchal These are primarily so-called 
+patriarchal families, that are characterized by the saying ‘all sons marry and settle in the father’s 
+home’: a controlled division of labour can thus be established, and this proximity is useful for the 
+discharge of business. The laundering network is transnational and involves countries where what 
+sociologists refer to as the ‘family-source’ still exists, bringing three generations together under the 
+
+6 
+ 
+same roof. Alongside the father and mother, one or more sons, their wives and children live together. 
+In these families, the income resulting from informal activities is mixed with that from official sources. 
+Recruitment from the extended family provides the most convenient point of access. After that, it 
+appears that recruitment from the same village or urban neighbourhood is combined with an ethnic 
+dimension, followed by recruitment among those who share the same language. A fortiori, trust 
+remains the basis of this informal financial arrangement. The intersection of the anthropology of the 
+family with an informal activity only reinforces the idea of the power of proximity (ensuring that one's 
+family benefits from this proximity in survival or accumulation strategies). The recruitment carried out 
+by the main organiser of this informal financial system is not undertaken blindly: besides trust, various 
+attributes, skills and knowledge remain criteria for inclusion, such as the following (in no particular 
+hierarchical order): 
+► 
+knowing how to move around within a more or less large geographical radius; 
+► 
+mastery of communication technologies (a greater exposure to and familiarity with digital 
+technology); 
+► 
+facility with languages; 
+► 
+knowing how to count; 
+► 
+showing discretion, obeying instructions; 
+► 
+being uncooperative with police investigators in the event of arrest; 
+► 
+not using drugs or alcohol. 
+ 
+In some networks, the organiser will choose an unemployed collector who can be motivated by the 
+prospect of earning money. In others, the organiser will choose a person with a job who wants to 
+increase their income. Someone with a formal job is less likely to attract the attention of the 
+authorities. The sparse data available tends to show that collectors have only a minor or no criminal 
+record; they do not appear to come from the criminal world. The same is true of the ‘brokers’ or 
+‘super-facilitators’ who see themselves as a stockbroker, an economic actor in their own right. 
+The records show that these ‘brokers’ will be located in a country where the informal economy and 
+related financial systems are prevalent. The example of the Saraf in Morocco precisely illustrates this 
+activity at the confluence of the informal and the formal. 
+A.2. The facilitator 
+The facilitator is the person who centralises the cash and may be viewed as providing a type of 
+temporary storage service. Facilitators are based in an ordinary location without any special security. 
+In one case for instance, in Paris, a facilitator hid large amounts of cash under the mattress in the 
+room next to his grocery store. 
+Facilitators occupy a strategic position in the process since they are in contact with both the collectors 
+and the informal banker. They have no criminal background and occupy a hybrid space, between 
+legal and illegal activities. 
+The role of the facilitator is mainly to count the money and inform the banker of the amounts received 
+and remitted. At this nodal point, a demand for cash from a third party (e.g., a legal import-export 
+entrepreneur) can be satisfied directly with money from the drug trafficking. Part of this total will be 
+given directly to third parties for cash, and some will physically travel to other destinations (e.g., North 
+Africa, Belgium, the Netherlands, etc.). 
+ 
+
+7 
+ 
+An essential tool: the banknote counting machines 
+Among the objects often discovered during police searches are banknote counting machines, some of 
+which are quite sophisticated and expensive. 
+There is a wide range of banknote counting machines (costing from EUR 65 to EUR 2 000), the most 
+expensive one counts 1 200 banknotes per minute, and can detect false currency. The banknote 
+counting machine is put to use as soon as the collectors bring the cash to the facilitator in order to 
+count the number and the value of banknotes. The main denominations are 10 euros, 20 euros and 
+50 euros. 
+According to one arrested collector, there was concern over the noise generated by the machine and 
+the risk that the neighbours would ask questions. 
+This machine is highly valued because the data it delivers (number of bills and face value) is hard to 
+question. All the actors involved in this process own this type of machine. 
+A.3. An example of a ‘super-facilitator’: the Saraf 
+The figure of the ‘super-facilitator’ is known as the ‘broker’ (2) in Latin America and the Saraf in North 
+African countries. These individuals may operate in markets, bazaars, the backroom of a telephone 
+shop, a butcher's shop, a hairdresser’s, or even within the public space, as can be seen in Pakistan 
+and Afghanistan where street hawaladars, people (or places) that facilitate hawala transactions, 
+outnumber the branches of official bank. 
+The Saraf, who presents themself as the head of a stock exchange or financial office, is in reality an 
+actor inserted in the local economy. They facilitate access to local currency for holders of international 
+currencies and vice versa at exchange rates that are more attractive than those offered by legal 
+banks. In addition to foreign exchange activity, the Saraf can negotiate loans between third parties, or 
+facilitate the initiation of a tontine, and thus generally has a positive image. They do not comply with 
+the rules of due diligence as enacted in the legal finance sector. The Sarafs provide a benefit to their 
+clients as the money they handle comes mainly from the funds of migrant workers in foreign 
+countries. Even though they operate without an official licence they keep written accounts to keep 
+track of all the money transfers. Sarafs also possess better than average telecommunications 
+resources. In addition, one of their areas of expertise relates to the link between trade and the 
+handling of undeclared funds. The line between informal finance and micro-finance is thin. 
+Furthermore, it is difficult to know what the turnover of these individuals might be. Exchange rates and 
+fees are more accessible, however, giving a relative idea of the gains made by these superfacilitators: a Saraf established in one of the souks of Casablanca might earn up to several tens of 
+millions of dirhams annually, or for a Saraf established in a back shop in the capital of Algeria or a 
+smaller metropolis the amount might be hundreds of millions of dinars per year (3). 
+Among the Sarafs, some of them are real ‘money-laundering brokers’ with obvious know-how in cash 
+transportation and/or financial compensation (where the money does not necessarily cross borders). 
+As bankers, fundraisers, money changers and insurers, these brokers are able to launder large sums 
+of money without attracting attention. 
+ 
+(2) What we call here the super-facilitator or broker would correspond to the banker, i.e., the person who ensures the 
+consolidation of physical or non-physical movements of money and who brings the supply and demand sides together. These 
+individuals also assume the role of facilitator, i.e., by ensuring the cash is initially centralised via the collectors. The collectors 
+are the small fry of the organisation who handle cash collection and transport. Transposing the legal financial system, i.e., the 
+banks, to the informal system remains an artificial exercise because the informal route relies on minimal infrastructure and 
+therefore low structural costs. 
+(3) 1 euro = 10 Moroccan dirhams; 1 euro = 160 Algerian dinars (January 2021). 
+
+8 
+ 
+Why do they offer their services to criminals looking for a fast and efficient structure? On the one 
+hand, the profit margins are greater than those to be made from, for example, migrant workers' 
+remittances (4). On the other hand, they can act as intermediaries assisting criminals in investing part 
+of their profits locally, for which the Sarafs will then receive a sizable commission. These are all 
+services that can be offered by the Sarafs thanks to their prominence within the community. 
+Moreover, individuals tend to repeat actions that have been successful before, in the absence of any 
+overriding reasons to change. 
+The Sarafs can be considered as figures with local legitimacy, who grew up in a particular 
+neighbourhood and know both the old notables and the young connected elite, which gives them the 
+capacity to mediate between both groups. They are a type of ‘proximity elite’. Sarafs are generally 
+found through word of mouth. The deals they make are mostly based on an oral commitment. Written 
+records are reduced to the most basic form: a name or a pseudonym, a number even, alongside the 
+amount of the transaction and a telephone number if necessary. Hybridity is also one of their 
+characteristics, in the sense that they act in both the illegal (flows of criminal origin) and legal (trade, 
+real estate) spheres. For example, they are able to finance a student trip abroad, or organise the 
+return of the body of a deceased person from Europe. 
+Sociologist Alain Tarrius has provided valuable insight into the mobility of certain fringe traders, he 
+speaks of transmigration, or ‘a recent type of international migration: hundreds of thousands of small 
+entrepreneurs deploy themselves in networks of advantageous resale of products for lawful uses 
+without tax, all over the world, a true commercial cross-border labour force of large globalised firms, 
+hindered in their expansion by the inter-state rules of official trade’. Some of these border-crossing 
+transmigrants can be exploited by criminal networks to transport illicit products (drugs, counterfeits) 
+and currency. Pendulum movements are emerging between North Africa, Europe and the Arabian 
+Peninsula. These transmigrants operate in ‘ethnic networks and are unique in that they develop a 
+code of honour, a commercial metalanguage, free of religious or ideological references, which not 
+only avoids conflicts, but also synergises diversity in obtaining and distributing a product or service’ 
+(Tarrius, 2002). 
+The pattern which emerges from these flexible and reactive channels is thus, on one hand, 
+territorial anchorage with respect to the Sarafs, and, on the other hand, transnational mobility for 
+supervisors and cash collectors. While, upstream, the intervention of European law enforcement 
+services disrupts these channels, downstream, on the collectors’ side, the Sarafs are difficult to reach, 
+especially since they are protected to a certain extent thanks to their contacts with local authorities. 
+Official state rules (the adoption and transposition of international anti-money-laundering standards) 
+may thus diverge from local social standards. 
+ 
+ 
+ 
+ 
+(4) The World Bank estimates that officially recorded annual remittances to low- and middle-income countries reached USD 529 
+billion in 2018, an increase of 9.6 % over the previous record of USD 483 billion in 2017. Global remittances, which include 
+flows to high-income countries, reached USD 689 billion in 2018, up from USD 633 billion in 2017. Among the major recipient 
+countries, India leads the way with USD 79 billion, followed by China with USD 67 billion, Mexico with USD 36 billion, the 
+Philippines with USD 34 billion and Egypt with USD 29 billion. 
+
+9 
+ 
+The ‘Virus’ case: a complex financial circuit 
+The ‘Virus’ case concerned money laundering from drug trafficking between Morocco, Spain and 
+France. The investigation found that drug money was laundered through clearing operations between 
+France, Switzerland, UK, Morocco and China. 
+Searches were performed by the French authorities on 10 October 2012. More than 40 people were 
+arrested, and in Switzerland, a bank employee and an asset manager were charged with aggravated 
+money laundering. This operation also resulted in the confiscation of many million euros in a few 
+months. 
+It was by combining a financial and criminal approach that the investigators managed to make the 
+connection between cannabis trafficking and money laundering. Three brothers operated from 
+France, Switzerland and Morocco. Firstly, they recovered the money from the sale of cannabis resin, 
+then (in Geneva in this case) they injected the equivalent amount into a complex financial circuit 
+passing through several countries: the United Kingdom, the United Arab Emirates, Spain, Morocco, 
+China, and even Panama, before redistributing it to the traffickers. 
+More precisely, the money from drug trafficking was transferred to retail outlets and then handed over 
+in France to notables who could thus recover (in exchange for an 8 % commission) the equivalent in 
+cash out of sight of the tax authorities in accounts outside France. Among the notables identified by 
+the judiciary who benefited from the system were a local elected official, a lawyer, a dentist, an art 
+dealer, a doctor, a sound engineer, an entrepreneur and two company directors. With the motive of 
+evading taxes, all of them profited, often without knowing it, from cash coming directly from drug 
+trafficking 
+Those responsible only for collecting the money were not drug traffickers; their role was to deposit the 
+cash in a local business, where it was received by a ‘main collector’. In just six months, 182 
+collections were identified, with a total value of over EUR 7 million. Invariably, the money that entered 
+the small supermarket ended up leaving in the same way, in plastic bags. The money passed from 
+hand to hand, from traffickers to collectors, then from collectors to notables, without ever leaving the 
+Paris region. The affair continued on the other side of the Franco-Swiss border, in Geneva, where two 
+of the brothers managed the opaque phases of the operation. The first brother, a financial engineering 
+professional, worked as an executive at HSBC Private Bank. The second brother had taken over a 
+financial management company that hosted a charity, thus creating a philanthropic facade which 
+concealed the money laundering activity that was the true purpose of the organisation. On a daily 
+basis, several employees of the management company were in charge of maintaining ‘commercial 
+fictions’ attached to hundreds of trusts, family foundations and other offshore companies sheltering 
+hidden funds. The investigations also brought to light the existence of 350 trusts, mainly set up in 
+Panama, thanks to the support of the law firm Mossack Fonseca. 
+How did the link between Moroccan traffickers and Swiss bankers operate? The whole system set up 
+by the brothers between Paris and Geneva was based on the very old modus operandi of the ‘Saraf’, 
+a hidden banker at the heart of the system. In their referral order, the judges described this central 
+figure as a ‘great professional, semi-official, putting his expertise at the service of criminals in 
+particular’. The Sarafs’ function is to enable the exchange of international currency held by traffickers 
+in Europe for local currency or arrange a transfer to a bank account. In the Virus case, the role of 
+Saraf was played by a French-Moroccan man in his fifties who lived in Morocco and was a childhood 
+friend of the brothers. He was the missing link and formed the connection between the two worlds. 
+The principle is always the same: using a cascade of intermediaries, the Saraf collects the trafficker’s 
+funds and makes them available to the tax evader. In exchange, the latter makes a bank transfer from 
+his Swiss account to another foreign account designated by the trafficker, who can then freely enjoy 
+his millions in Spain, Morocco or the Emirates. There is no need to cross borders. The cleared funds 
+change owners without being physically moved. For each transaction, the Saraf received a 
+commission of between 5 and 15 %. The judges emphasised that the system functioned with the 
+complicity of multiple individuals. The multiplicity of actors guaranteed the security of the operations, 
+as most of the protagonists did not know each other. 
+ 
+ 
+
+10 
+ 
+B. The organisational aspects of the shadow banking system 
+When focusing on this method of money laundering leads it is necessary to consider the question of 
+distance and proximity: the geographical distance between the principals and the collectors versus 
+the cultural or affective proximity between these actors. In fact, geographical distance is not an 
+obstacle to carrying out financial transactions that are not reported to the authorities, as long as trust 
+remains the fundamental lubricant. Transactions are recorded on a basic document such as a 
+handwritten piece of paper or notebook. 
+The organisation is viewed here as an entity of cooperation between actors with a common goal, it is 
+first and foremost a network of interpersonal relationships. 
+What is remarkable about this type of money laundering is its great adaptability to the world of tax 
+evasion and the use of certain offshore locations and shell companies. The two worlds of financial 
+crime and informal finance rub shoulders without crossing paths. The so-called ‘Virus case’ in France 
+provides an example of this interpenetration (see Annex 3). 
+As described above, the Saraf, usually based in a third country, is the key actor in the system, 
+allocating the tasks and distributing the ‘payments’. The basic subdivision of collecting (through 
+supervisors or facilitators and collectors, or cash smugglers) implies cash recoveries from a member 
+of the drug distribution network and the storage, dispatch and transportation of banknotes. The 
+system has a less vertical structure than drug trafficking. 
+The networks involved in this parallel banking system are interconnected, with the various nodes 
+operating from different countries and mixing cash originating from a range of sources: illegal 
+activities, remittances or trade. 
+The networks themselves have interesting characteristics. Unlike legal markets, where agents tend to 
+clarify areas where information is missing and choose a working organisation that minimises the cost 
+of transactions, Sarafs, who organise in networks, control the circulation of information and, for 
+reasons of security, use vernacular languages and codes. This is why the functioning of the network 
+does not follow a single vertical path, where the hierarchy of firms corresponds to a functional division 
+of the production activities. 
+Beyond the immediate social circle, the community factor can also favour or even facilitate the entry 
+of newcomers into this parallel banking system. In that sense, the diaspora fosters the migration 
+business between the Paris region and the Rif region of Morocco. 
+There is a great diversity of informal banking systems or informal value transfer systems (Passas, 
+2005), some of which specialise in a particular illegal activity (e.g. drug trafficking, human trafficking) 
+while others operate mainly in the field of remittances (see Figure 1). 
+ 
+ 
+
+11 
+ 
+Figure 1: Main characteristics of the different configurations of money laundering from the usual 
+parallel banking system to collectors specialised in drug trafficking revenues 
+ 
+Source: Interviews, 2019. 
+ 
+Figure 1 shows, on the one hand, the specialisation of the money laundering system in terms of 
+criminal activities, in particular drug trafficking, and, on the other hand, the tendency to make it an 
+exclusive activity. 
+B.1. Reducing transaction costs: the role of trust 
+The spoken word is dominant in exchanges and contracts, even if a register may record more or 
+less succinct accounting items. Trust and giving one’s word are cardinal principles: the reputation of 
+both parties involved in the transaction is at stake. Failure to be true to one’s word can result in 
+exclusion or bankruptcy. However, during these exchanges, which can involve several hundred 
+thousand euros, critical moments arise when the collector who recovers the cash from the trafficker 
+assumes a high level of risk, as does the person to whom the collected funds are to be reverted. 
+These moments of handover are fleeting and the means of control are limited (surveillance, 
+protection), presumably to avoid attracting attention and to limit costs. 
+As already mentioned above discretion is a key requirement for collectors, hence why people 
+with the most ordinary jobs are chosen for this role. In our research, few examples were provided 
+regarding the use of violence and the presence of firearms in managing disputes. It would seem that 
+in these money-laundering networks, the highest risks (i.e., the loss of the sums collected) are 
+assumed by the Saraf, who acts as the insurer of last resort. The Saraf handles enough cash for any 
+losses to be diluted or even mutualised across the bulk of transactions. This means that other 
+investigation files should be consulted to determine whether the drug trafficker systematically ‘wins’ by 
+using this money laundering scheme. Questions would then arise regarding the existence of any 
+records or other evidence indicating the amount of the remittances made by the traffickers. This is 
+relevant to the methods of investigation used, which certainly require an interest in the cash itself, but 
+also in the documents and traces left by these transactions. The fact that the same Saraf can 
+participate in the money laundering operations of several trafficking organisations throughout Europe 
+(Spain, France, Belgium, the Netherlands) is an indication of the reach of their reputation and the 
+Collectors specialised in 
+drug trafficking profits 
+Collectors operating across a 
+large spectrum of criminal 
+activities 
+Opportunities (frauds) 
+International level and 
+connections with China 
+Parallel banking system 
+Bulk of cash: trade 
+Credits and investments in 
+various sectors 
+Individual entrepreneurs 
+Single activities 
+
+12 
+ 
+financial resources involved. 
+Economic analysis (5) can provide a useful interpretative framework for reporting on the relationship 
+between traffickers and collectors. Indeed, transaction costs are defined as the costs of organising 
+and operating markets, as well as the costs of enforcing the rights exchanged. More specifically, 
+transaction costs cover the direct costs of obtaining information on the terms of the trade (in this case, 
+the reliability of the money-laundering network in which it takes place), trading costs (time, price), as 
+well as indirect costs, such as losses incurred due to non-compliance with the terms of the contract or 
+as a result of economic distortions created by the contract’s stipulations (e.g. the protagonists agree 
+on a transfer denominated in euros and it eventually reaches the account in US dollars), which is 
+known as ‘moral hazard’ (Grellet and Grellet, 1999). 
+Trust is seen as a belief in, or a conjecture upon the behaviour of the other, which is assumed to be 
+dictated by the pursuit of a common interest over time rather than by the desire to maximise shortterm self-interest. This definition has a twofold aspect. On the one hand, it links trust not to calculation 
+but to a gamble, and, on the other hand, it makes it possible to lighten governance arrangements by 
+limiting recourse to mechanisms of supervision, incitement and the threat of violence. Thus, it 
+becomes possible to increase the effectiveness of coordination while reducing transaction costs. 
+B.2. Social capital: a key notion in understanding the networks 
+Social capital appears to be a potentially useful concept in understanding the role played by networks 
+and relationships in the informal banking system. By social capital, we mean the value of the 
+resources a person has in the form of social relationships within their families and communities. 
+Although there is still no consensus regarding its definition, some convergence in analysis can be 
+observed. As a general rule, social capital is defined as a collection of networks, norms and values 
+that help those concerned achieve common goals. The OECD definition is often cited: ‘networks, 
+together with shared norms, values and understandings that facilitate co-operation within or among 
+groups’ (OECD, 2001). 
+Unlike human capital, which tends to be the property of an individual, social capital is primarily 
+analysed as a relational variable. In other words, it is formed in the relationships between individuals, 
+groups and communities. It involves family, school, social groups, villages, etc. Social capital is a 
+contextual concept: it varies according to the setting in which it arises and grows. The inherent 
+difficulties of measuring social capital should be noted, as it is multidimensional, protean and 
+relational, and comprises different levels and units of analysis. Essentially, it is tacit and relational in 
+nature and cannot easily be measured or codified (Putnam, 2002). 
+In our case, it seems that the seminal definition given by Coleman (1990) is more appropriate: ‘I will 
+conceive of these social-structural resources as a capital asset for the individual, that is, as social 
+capital. Social capital is defined by its function. It is not a single entity, but a variety of different entities 
+having two characteristics in common: They all consist of some aspect of a social structure, and they 
+facilitate certain actions of individuals who are within the structure’ (Coleman, 1990). According to 
+Coleman, social capital has the primary virtue of producing trust, and, as a result, facilitating 
+transactions in markets. More generally, social capital and trust improve the ability of individuals to 
+work together and act collectively, thus enabling them to significantly increase the income they obtain 
+from their activities. 
+ 
+(5) Agency theory can be applied in this type of transaction between a trafficker and a money-laundering specialist: an agency 
+relationship links two economic agents, one of whom is the principal and the other the agent. The principal is the individual 
+who, in return for payment, mandates the agent to perform a task provided for in a contract. They thus delegate all or part of 
+their decision-making power to another individual. The differentiation stems from the asymmetry of information existing between 
+the two co-contractors at the time of signature. The agent has privileged information in relation to the principal: elements that 
+may influence the outcome of the transaction remain unknown to the principal. This concept of agency has been extended to all 
+forms of cooperation between two partners. 
+
+13 
+ 
+The notoriety of an individual who is considered a member of the ‘underworld’ is based on the density 
+of their entire social network (the volume and value of their contacts list) and the extent of their 
+finances and/or assets. In the world of informal banking, the networks of transmigrants (Tarrius, 2015) 
+have enabled them to become important players in money laundering. Their family relationships 
+(diaspora), which extend throughout the country, enable the traveller community to find points of 
+support for banking. In addition, loyalty within the community and the strength of family ties protect 
+them from police scrutiny and competitors. 
+Shadow banking is structured on the basis of an interconnection of networks: 
+• 
+networks of information; 
+• 
+networks of people; 
+• 
+financial networks; 
+• 
+networks of product flows. 
+As such, one element plays a central role in this area: the list of contacts, comprising people, both 
+professional and non-professional, who can assist, facilitate and organise the collecting of cash. This 
+list of contacts can exist in physical form, with names, often coded, written in a notebook or planner, 
+or perhaps may simply be memorised by individuals. The extreme diversity of the people on such lists 
+indicates the potential extent of the organisation. 
+The circulation of information is of key importance. In addition to often being coded, it is retained by 
+organisations and feeds the formation of high-quality strategic capital. Within organisations, 
+information is disseminated sparingly, enough to give rise to action, but no more, so as to avoid leaks 
+and exposure to law enforcement services and competitors. Between organisations, information has a 
+price: it is a real asset that can be traded and strategically manipulated. 
+Long-established informal bankers have been able to set up protection systems thanks to their strong 
+social connections. These systems comprise individuals who are called upon to help in one or more 
+operations, thanks to the multiple contacts they have made over the course of their lives. 
+According to interviews conducted with OCRGDF investigators, the increasing use of collectors by 
+cannabis traffickers became apparent around 2010. Although initially low-key, news of this 
+phenomenon gradually spread among the major traffickers because of the reliability of the system, 
+which combines both rudimentary methods of cash movement within the national territory (the 
+collector collecting the cash from a point located in the trafficking region) and traditional methods of 
+transferring the equivalent amount to a bank account (in France or abroad) minus a commission that 
+may include exchange fees. The most significant risk to which the trafficker is exposed is the seizure 
+of the cash when it is handed over to the collector. Very few examples were given of the possible 
+defection of a collector or operators in the money-laundering industry, although delays can sometimes 
+occur. In reality, within this chain, one part remains hidden from the trafficker, that is, where 
+compensation or risky commercial transactions involving several countries takes place, often 
+including Chinese entities. The law enforcement agencies in charge of the fight against money 
+laundering highlight the recurrent involvement of Chinese pharmacies, particularly in connection with 
+trade and the textile industry, but also the financial sector (banks, branches, savings banks, foreign 
+exchange agencies). 
+Table 1 compares the costs of money laundering with regard to a number of key countries that 
+receive the cash (in physical or virtual form) and are involved in the so-called stacking phase that 
+obscures the origin of the funds. These rates relate to the sums of money to be laundered, and a 
+wide disparity can be detected, depending not only on the amounts to be laundered (bulk 
+discounts exist), the more or less professionalised and reputable channels used but also on the 
+risks of tracing, detection, seizure and confiscation of funds. These costs need to be analysed to 
+determine whether they relate to money laundering or corruption, for example. 
+
+14 
+ 
+ 
+Table 1: Average money laundering costs of the collector system 
+Average costs of ML 
+as a % of money to be 
+laundered (commissions) 
+Number of 
+intermediaries to 
+reach the 
+broker 
+Carriers 
+Colombia* 
+10–15 % 
+3 
+Air route 
+Morocco* 
+5–10 % 
+2–3 
+Overland route 
+Indian 
+subcontinent** 
+6–10 % 
+3–4 
+Land and air 
+China** 
+1–2 % 
+3 
+Air route 
+Australia** 
+8 % 
+No information 
+No information 
+United States** 
+10–11 % 
+No information 
+No information 
+Notes: * According to interviews conducted with Cuerpo nacional de policía and Guardia civil (Spain), July 2019. 
+** According to interviews conducted with Dutch police (KLPD), December 2019. 
+ 
+Carriers generally hold regular jobs that do not attract the attention of the police. While the majority of 
+carriers are men between 25 and 45 years old, a small proportion of them are women over 50 years 
+old (Cuerpo nacional de policía, Spain). 
+B.3. A money-laundering channel that is more opaque and linked to the complex 
+finance and trade flows between China and France 
+There are two driving forces behind informal exchanges between China and France: 
+• 
+First, the presence of Chinese workers in France who wish to send part of their income back 
+to their country of origin in order to support their family, community or village. Remittances 
+use channels that have been in place for a long time, but through which flows have expanded 
+in recent years. The migration of Chinese students to Europe also contributes to the 
+necessary fluidity of (in)formal financial flows; 
+• 
+Second, the increase in commercial activities between France and China and the 
+establishment of wholesale centres for women's and men's ready-to-wear clothing 
+(Aubervilliers, Tremblay-en-France, Marseille). These centres have become places where 
+local criminals and traders meet. Moreover, it is still difficult to distinguish between formal and 
+informal trade flows or between legal and illegal flows because of the often hybrid and 
+composite way goods and capital are channelled. The interweaving, even interdependent and 
+complementary nature of the exchanges between the formal and informal trade sectors have 
+often been pointed out, both at the level of specific practices and that of actors or sectors 
+(Meagher, 2010). 
+The aim here is not to participate in the stigmatisation or criminalisation of the commercial activities 
+taking place in these centres or the transfer of funds by Chinese workers, but to highlight, in support 
+of a number of police cases related to collectors, that gaps in the system allow for the intrusion of 
+traffickers and members of the criminal community. In this regard, good practices are being 
+exchanged for illicit activity. Chinese merchants are in need of euros (cash) and traffickers offer this 
+cash in exchange for an international transaction enabling them to recover the funds in question by 
+having them transferred to a bank account, usually abroad. In doing so, the traffickers benefit from 
+these resources and are able to reinvest these funds, be it in Europe or in North Africa. 
+
+15 
+ 
+The demand for cash from Chinese traders is also explained by the fact that they act as an exchange 
+office for Chinese tourists travelling to Europe (offering more advantageous exchange rates between 
+yuan (6) and euros). 
+There is an abundance of literature on the place held by remittances: firstly, from a macroeconomic 
+point of view, in relation to foreign exchange inflows into the economy of the country of origin; 
+secondly, in terms of the dynamism of the local economy; and thirdly, in regard to supporting the 
+community and the migrant’s family back home. All indicators tend to show that remittances form a 
+major source of development that exceeds comparable official assistance. Already in 2003, El 
+Qorchi and colleagues, in an IMF publication, highlighted the diversity of remittance companies. 
+They proposed a typology of historical structures, distinguishing between those opting for 
+legitimate and illegitimate uses. In their view, we should not make the mistake of assuming that 
+illegitimate uses are predominant, quite the opposite in fact (El Qorchi et al., 2003). Remittance 
+offices involved in illegal transactions bring the whole business into disrepute. Furthermore, it 
+would be strategically inefficient to apply the same regulation to all of them. 
+From high-profile investigation cases such as ‘Operation Virus’ and ‘Babel’ it is apparent that Chinese 
+products are in demand among Moroccan traders. We know that interdependencies have been built 
+up between the two continents, and, obviously, the Chinese are not the only actors responsible for the 
+distribution on African soil of goods manufactured in the tens of thousands of factories in Guangdong 
+province. ‘More and more Africans are selling goods from China and those who were initially 
+employed by the Chinese are setting up their own businesses, benefiting from the know-how and 
+networks of their former employers’ (Bredeloup and Bertoncello, 2006). The multiplication of ChinaEurope-Africa relations is conducive to the intrusion of practices that fall within the grey areas of trade 
+(over-invoicing, under-invoicing, the circumvention of customs and tax obligations), which themselves 
+favour opportunistic behaviour by criminals, from drug traffickers to international fraudsters. 
+B.4. Some benchmarks of the Chinese banking system 
+China’s banking landscape has been enriched over the years since 1978, which was a key year in the 
+reform of the banking and financial system, and heralded the creation of four specialised banks, which 
+saw their mandates broaden to become all-encompassing (Aguignier, 2012): 
+• 
+Bank of China (BoC) for international transactions; 
+• 
+Agricultural Bank of China (ABC) for rural banking services; 
+• 
+Construction Bank of China (CBC) for infrastructure financing; 
+• 
+Industrial and Commercial Bank of China (ICBC) for commercial banking in cities. 
+These banks still dominate the Chinese domestic market to this day, with a market share of deposits 
+close to 50 %, and they all rank among the 10 largest banks in the world in terms of capital (or market 
+capitalisation). They are true leviathans, with thousands of branches and hundreds of thousands of 
+employees; but despite this, their presence does not extend beyond the major cities. 
+In 1994, the government created a number of development banks, such as the China Development 
+Bank and the Agricultural Development Bank of China. There has also been a proliferation of 
+institutions such as trust companies (ITICs) (7), operating outside of the control of the banking 
+regulator. The system is gradually being modernised, with the establishment of a legal, regulatory and 
+technical framework, but governance and the culture of risk control are not keeping pace with this 
+development. In the early 2000s, the Chinese authorities strengthened the regulatory system by 
+creating the China Banking Regulatory Commission (CBRC), the equivalent of the French Autorité de 
+ 
+(6) Yuan or renminbi. 
+(7) ITICs: international development and trust companies. 
+
+16 
+ 
+contrôle prudentiel et de résolution (ACPR) (8), including a massive effort to train staff (with support 
+from the World Bank). After a series of reforms and consolidation measures, Chinese banks are now 
+becoming profitable. 
+The Chinese banking system has experienced many crises (the crisis of the 1990s cost around 30 % 
+of the country’s GNP). Nevertheless, today it has adopted prudential ratios (a high-quality standard), 
+especially compliance with solvency ratios, with regulators and bankers increasingly aware of the risk 
+culture. Moreover, it is now equipped with technical and regulatory tools that comply with international 
+standards. China is becoming the world’s largest banking sector in terms of asset size. However, 
+some of the smaller local banks are encountering problems (too much credit given to state-owned 
+enterprises with deteriorating balance sheets), suggesting they are less concerned about financial 
+flows from abroad. Shadow banking has also developed to meet the financing needs of the growing 
+economy. The Chinese banking system, with small, fragile banks and large, solid banks, has flaws that 
+may explain why the regulator is not focused on the nature of funds coming from or transiting through 
+the country from abroad. In addition, there are obvious problems in certain peer-to-peer (P2P) 
+activities in the country. High levels of enthusiasm for financial innovation and effective lobbying by 
+some ‘fintech’ sponsors have allowed major bubbles to develop. Several cases of massive P2P fraud 
+(or ‘crowd funding’) have led the authorities to practically ban this activity. Where there were more than 
+4 000 operators in 2018, only a few dozen remain today. There are other grey areas, such as 
+actors in the trust or leasing company sector that in reality are often merely ‘sock puppets’, designed 
+to allow banks to circumvent credit quotas. 
+Most Chinese banks are relatively inactive outside China; only the big banks and policy banks are 
+active abroad. This leads the diaspora to use a variety of channels, some of which are informal, to 
+repatriate their funds to local banks whose cash flow is severely lacking (OCDE, 2019). Today, the 
+Chinese digital giants (Alibaba, Tencent, etc.) are increasingly interested in the field of financial 
+services. Since they are not banks, they are not subject to banking regulations and offer services in 
+direct competition with banks. To close this Chinese loophole — which is important because a 
+growing part of the illicit financial flows resulting from drug trafficking in Europe and certain 
+international scams ends up in, or transits through, China — the banking regulator, the CBRC, has 
+enforcement powers over a range of financial service providers, although it remains under ‘political’ 
+influence. 
+ 
+ 
+ 
+(8) Not to be confused with the financial intelligence unit, which in France is called Tracfin. 
+
+17 
+ 
+C. The public response: an unequal consideration 
+When it comes to drug trafficking, the information collected by law enforcement agents is 
+characterised by the nature of their missions and objectives within the broader context of criminal 
+policy. Given this caveat, it is necessary to consolidate that information with other types of knowledge 
+(government witnesses, interviews with offenders in prison) to achieve a systematised body of 
+knowledge regarding the practices and sociological profiles of those involved in money laundering — 
+provided the case files kept by the police and security services supply biographical information that 
+contributes to a truly heuristic approach. 
+A money-laundering typology describes the characteristics that point towards money laundering on 
+the basis of experience. This underlying framework is usually created through extensive analysis of 
+criminal investigations. Typologies are established by the Financial Action Task Force (FATF) at the 
+international level, and at the national level by the Financial Intelligence Unit (FIU). In 2013, the FATF 
+produced a report that highlighted the problem of misusing informal banking, entitled ‘The role of 
+Hawala and other similar service providers in money laundering and terrorist financing’. The report 
+shed light on two often competing and conflicting views on Hawala that still stand: ‘Many countries 
+and communities, as well as the development community, view them as essential providers of 
+financial services to the unbanked in countries with limited financial access. In significant numbers of 
+jurisdictions and sometimes in the same jurisdiction, law enforcement views them as one of the 
+leading channels for terrorist financing and money laundering’ (FATF, 2013, p. 9). 
+In the fight against money laundering, Europe is viewed as a model and lays the foundations for 
+combating the problem on an international scale. Since the early 1990s, legislative tools and human 
+and financial resources have continued to improve the systems for dealing with money laundering. 
+Many European countries have adopted anti-money laundering standards under the aegis of the 
+European Union’s 5th anti-money laundering Directive, while countries’ financial intelligence units play 
+an increasingly important role in prevention, detection and deterrence. However, the question of the 
+effective application of these standards remains. One of the shortcomings in this area concerns the 
+link between law enforcement action and its translation into justice. In some countries, like Spain, 
+judges and prosecutors remain concerned about giving precedence to individual liberties and are 
+reluctant to support the reversal of the burden of proof. 
+C.1. Some European countries are more heavily impacted due to a prevalence of 
+criminal activities 
+Spain 
+In most European countries, in the spirit of the free movement of capital, the transporting of cash is 
+allowed up to a limit of EUR10 000. However, in Spain, this threshold is fixed at EUR100 000 within 
+the country, well over the amount authorised in other EU countries. This factor, along with a number 
+of other reasons, indicates why some organised crime groups choose Spain as a base from which to 
+manage their activities. According to Spanish authorities and the European Central Bank, the 
+circulation of EUR 500 banknotes was particularly intensive in the region of southern Spain, including 
+Andalusia. The EUR 500 banknote, the production of which was stopped in May 2016, is still legal 
+tender. 
+According to the Spanish National Police (Brigada de Investigación del Blanqueo de Capitales y 
+Anticorrupción / Unidad central de delincuencia económica y fiscal), the country occupies a major 
+place in the European drug market; indeed, it is one of the main gateways for cocaine and cannabis 
+resin (hashish). As a result, Spain records cash shipments to Colombia on the one hand and to 
+Morocco, France and Belgium on the other. 
+
+18 
+ 
+The Spanish authorities are currently cooperating with their counterparts in Colombia to better control 
+money transfers. They report a modus operandi whereby a bank card or cards are sent to Colombia 
+to make withdrawals, thus avoiding the physical movement of cash from one country to another. 
+The so-called ‘Rigoler’ case involved smuggling by way of the Chinese industrial sector and cash 
+mules to Colombia. Part of the funds collected went to branches of Chinese banks in Bulgaria and 
+Hungary. The Servicio Ejecutivo de la Comisión de Prevención del Blanqueo de Capitales e 
+Infracciones Monetarias (Sepblac) (the Spanish FIU) points out that requests for information directed 
+to China’s financial intelligence unit by the judicial police services of European countries mostly have 
+no effect and rarely lead to cooperation. According to the Sepblac officials, if China were to become a 
+member of the Egmont Group such exchanges would be facilitated. 
+A specialised officer of the Spanish National Police further stated that ‘the growing exchanges 
+between Spain and the United Arab Emirates are conducive to the intrusion of criminal funds. The 
+investments made by Emiratis in southern Spain in the real estate and trade sectors create 
+opportunities for contacts with certain intermediaries working in the legal and illegal spheres. Dubai is 
+also an attractive place for criminals, some of whom go so far as to acquire real estate there’. 
+Cash transporters active in Spain very often originate from South America (Colombia, Venezuela or 
+Peru). The proximity of Portugal also offers opportunities for transit and transfer to Portuguese 
+speaking countries (e.g. Brazil, Angola), also taking advantage of existing trade routes. 
+According to the Audiencia Nacional magistrates we interviewed, Spain has territories (Ceuta, Melilla, 
+the Canary Islands) and strong connections with Gibraltar and Andorra, where banks are the main 
+money laundering channel open to traffickers, and few examples were given regarding the issue of 
+collectors. On the other hand, the interviews conducted with the Central Operative Unit (UCO) of the 
+Guardia Civil revealed an operation carried out over a year and a half in 2013–2014 called ‘Filósofos’ 
+(involving the tapping of nearly 30 phones) which followed collectors linked to cocaine trafficking — as 
+a result of which several million euros were seized identified. This case led to the arrest of five SyrianLebanese organisers (including a facilitator in Spain and a super-facilitator or ‘broker’ in Venezuela) in 
+the Spanish part of an international investigation (covering the Netherlands, Italy, Portugal and 
+Venezuela), also conducted with Operation Cassandra of the Drug Enforcement Administration 
+(DEA). The DEA has a high level of expertise because of its knowledge of money-laundering methods 
+in the Americas. Indeed, the cases revealed in connection with the ‘black market peso exchange’, 
+especially with regard to Colombia and Venezuela, have enabled the US authorities to accumulate 
+knowledge that could be useful for Europeans. 
+According to the investigators, the cost to the traffickers of this laundering method is estimated at 
+between 7 and 14 % (see Table 1) of the sums laundered, including a form of insurance in case of 
+loss or theft. They add that there are people who can take custody of the money, for 1 % of the 
+amounts involved per day. 
+Transactions made by using ‘tokens’ or a method that does not catch the attention of law enforcement 
+bodies, for instance the exchange of a serial number on a banknote, are intended to ensure trust 
+between parties and facilitate the identification process (with no need to show an official document 
+such as an ID card). Contacts are made by telephone with Messaging applications such as Telegram 
+and Whatsapp in order to determine various ordinary collection points (public squares, fast-food 
+restaurants, car parks, etc.). It would appear that the responsibility for transporting the money lies with 
+the carrier. 
+Guardia Civil officials spoke of another case that mobilised law enforcement agencies in several 
+countries (Spain, Portugal, Belgium, the Netherlands, Italy) and led to the arrest of 38 collectors. At 
+this stage, the information gathered is not sufficient to build a model of the phenomenon. 
+Italy 
+In Italy, although the Guardia di Finanza’s priorities include border checks on passengers, stopping 
+
+19 
+ 
+collectors remains a marginal issue. It is far outweighed by large-scale transnational moneylaundering operations using the ordinary banking system, the productive sectors and offshore centres. 
+The Italian Mafias have developed such financial capacities that they have long had financial 
+specialists acting as middlemen between the legal world and criminal markets. Nevertheless, the 
+Italian authorities monitor the (undeclared) movements of currency in and out of Italy, particularly 
+between the peninsula and abroad, notably China. Cash transporters can assess the various risks of 
+discovery at particular airports. Guardia di Finanza officials explain that Chinese organisations choose 
+which border to cross according to the degree of control in place at a particular time, as evidenced by 
+the switching of a number of transporters’ departures from Rome to Milan airport. The Financial 
+Intelligence Unit records suspicious reports from the three main money transfer companies (RIA, 
+Western Union and Moneygram), in particular it looked at transactions that showed a splitting of 
+transfers from Italy to China and the use of forged identity documents. However, the funds involved 
+appeared to originate not from drug trafficking but from the textile business. In this respect, there has 
+been an increase in transfers from the city of Prato (Tuscany), which specialises in this sector. 
+From January to October 2019, the Italian authorities seized cash totalling EUR 10 172 490 at the 
+borders (source: Guardia di Finanza, interview, November 2019), the majority of which came from 
+people leaving for China. Cash seizures are also being made at the French-Italian borders, but 
+according to the same authorities, it remains difficult to determine the origin of these funds. 
+Finally, a number of officers referred to the physical movement of cash between Italy and Albania, 
+some of which was said to be the result of criminal activities by Albanian groups involved in the 
+trafficking of marijuana, cocaine and heroin. 
+Other organisations, both Nigerian and Lebanese, were mentioned by the Italian authorities. Nigerian 
+groups are mainly active in the area of trafficking human beings, small-scale drug trafficking and 
+some forms of cybercrime. These individuals are experienced in the use of the Hawala system, as it is 
+also a way of transferring funds of legal origin. 
+Ultimately, it appears that in Italy, the issue of drug money collectors is subject to minimal police 
+scrutiny given the wide range of money-laundering methods used by the Mafias. 
+The Netherlands 
+In the Netherlands, three specialised teams are spread out over the territory in order to identify money 
+laundering activity, which they know has existed for a long time but which in recent years has 
+assumed an unprecedented scale. Once again, a correlation is made between the strengthening of 
+controls on the legal banking system and the shift of criminals to alternative and informal remittance 
+systems. 
+Again, the involvement of certain parts of the Chinese textile trade in the laundering process was 
+reported in the Netherlands. Better known as ‘trade-based money laundering’, some traders are 
+involved in a highly simplified scheme involving processes of compensation between textile exports 
+and the provision of foreign currency (euros, dollars) in the importing country, as well as transfers to 
+third countries. 
+Moreover, this practice appears to have been extended or at least ‘democratised’: groups of Dutch 
+nationals, Latin Americans, Moroccans, Indo-Pakistanis (from the UK), Syrian-Lebanese, Hungarians 
+and Turks have been found in the country using this money-laundering technique. It is useful to 
+indicate the origins of these groups in order to recall both the cardinal notion of trust and the role of 
+the wider field of criminal activity. For example, Turkish groups launder money from heroin trafficking, 
+while Latin Americans launder money from cocaine trafficking and Moroccans from hashish 
+trafficking. The Dutch police also note that there is an advantageous environment provided by, for 
+example, the presence of networks from former Dutch colonies (Suriname, Curaçao and Aruba), while 
+their proximity to Venezuela, a rear base for Colombian cocaine trafficking, constitutes an asset for 
+traffickers from these territories. In addition, the Netherlands is a synthetic drug production area 
+
+20 
+ 
+connected to the drug markets of several countries; Mexico, the Dominican Republic, Australia and 
+Great Britain, to mention a few, regularly import synthetic drugs and the payments for these may 
+ultimately be managed by a broker located in a Dutch metropolis. However, law enforcement attention 
+is focused more on the outflow of cash from the Netherlands than on its inflow, while the sums 
+collected range from EUR 50 000 to EUR 500 000. Gradually, collectors have been entrusted with 
+smaller sums in order to reduce losses in the event of theft or seizure by the police. According to one 
+of the officers, ‘the facilitator is careful not to build up stocks and works on a just-in-time basis’. The 
+use of collectors guarantees a certain degree of anonymity and trust is mediated by an object: the 
+serial number of a banknote or a token. 
+Dutch police officers claim that Indo-Pakistani people have a long history of using this informal 
+financial system, including through the trade in textiles, and the purchase of phones and related 
+accessories. Violence is a latent presence in these circles, and grenades and firearms (Kalashnikovs) 
+have frequently been discovered. Nonetheless, law enforcement seldom report overt violence in this 
+community. 
+Among the practices of the collector network, the use of encrypted messaging is widespread. This is 
+nothing out of the ordinary when compared with criminal activities that fall within the scope of 
+organised crime. The use of multiple telecommunication devices, some of which are used only once, 
+is also commonplace. This is reflected in the cost of investigations, which include phone tapping and 
+potentially hours of interpreting. Attention was drawn to the implementation of the Anti-Money 
+Laundering Act in the Netherlands. Dutch police officers believe in the virtues of intelligence, 
+international cooperation and the coordination of specialised anti-money laundering police. For 
+example, reference was made to the strengths of the Joint Investigation Teams under the aegis of 
+Eurojust and Europol, as demonstrated in a recent case involving the Netherlands, Belgium and 
+France (Operation Kouri). There is no doubt that, despite increased knowledge of the collectors' 
+modus operandi in recent years, the police are already turning their attention to crypto-money as a 
+means of laundering drug money. 
+It appears that the attention of the authorities was drawn to this method of collecting cash within an 
+informal banking system only through incidental cases, but in view of the apparent scale of the 
+phenomenon, it can be assumed that it had been in place for several years. Collectors’ files are taken 
+into account and processed on the initiative of specialised police forces. In this respect, it is worth 
+noting the role played by the ‘International Anti-Money Laundering Operation Network’ (AMON), an 
+international network of informal cooperation dedicated to the fight against laundering, bringing 
+together some 40 member countries. 
+C.2. Analysis 
+A few key points emerge from this survey regarding the public response to this issue: 
+• 
+It remains difficult to regulate the informal banking system in so far as the obligations that 
+apply to the legal banking system are impossible to apply in its case. The benefits are far too 
+great for the users of this informal system, suggesting that other resources must be employed 
+to curb its use by criminals. This requires working with community representatives in the 
+origin and destination countries of the funds, not to prohibit the practices but to push for selfregulation. 
+• 
+The crucial role of intelligence in this field suggests that this resource must be stressed in the 
+training of specialised judicial police, customs and FIU; in the same way, the exchange of 
+knowledge between intelligence units could help to identify salient features and recurrences. 
+• 
+The investigation techniques used in fighting organised crime can be employed in relation to 
+the illegal banking system (wiretapping, undercover operations, sound recording, etc.). 
+
+21 
+ 
+• 
+Joint Investigation Teams (JITs) can be very productive as they have a number of advantages 
+(FATF, 2013): 
+− 
+no requirement for international mutual legal assistance requests; 
+− 
+intelligence and evidence sharing between JIT members; 
+− 
+evidence can be used in court; 
+− 
+members of the JIT can be present at house searches, interviews of suspects and other 
+associated areas of operational activity in all jurisdictions covered; 
+− 
+funding for the establishment of JITs is available from Eurojust. This funding is available 
+for reimbursing the cost of travel, accommodation, translation and interpretation; in 
+addition, Eurojust can fund/host operational meetings. 
+Conclusion 
+The present study is exploratory and should be continued to provide a better understanding of money 
+laundering methods that appear outside the legal banking and financial system, which, as some 
+investigators point out, remain under the radar of the police and justice services. Knowledge can also 
+be shared between specialised law enforcement agencies (including taking advantage of customs 
+services’ high degree of involvement in the fight against fraud), in France and internationally. Knowing 
+more about these collectors is likely to guide criminal policies, which can then aim to disrupt their 
+practices, putting the system of illicit drug supply under pressure and depriving traffickers of the 
+income from their activities. 
+Criminal networks are unfalteringly imaginative in developing new and innovative methods of 
+laundering the proceeds of illicit activity and circumventing legislative and institutional safeguards. 
+The laundering of cash from organised crime reveals two constants: a highly controlled collection of 
+the proceeds of trafficking and the use of community-based laundering networks. The cash is then 
+laundered in three different ways: by transporting it; through converting it into resaleable goods; or by 
+using a clearing mechanism. This is a real ‘cash market’ that responds to the law of supply and 
+demand, coordinated by a main protagonist, the ‘super-facilitator’ or ‘Saraf’, at the head of an 
+international hidden banking system. The actors involved are constantly adapting to changes in 
+legislation, customs and police controls, fluctuating exchange rates between currencies and the stock 
+market prices of certain raw materials. 
+The interviews carried out in France, Spain, Italy and the Netherlands show that the problems posed 
+by collectors are unevenly addressed, largely due to security objectives and plans linked to the 
+contingencies of domestic criminogenic realities. The French judicial police have mastered some of 
+the workings of these money laundering methods and channels, and are pioneers in this field, but 
+their investigation strategy rapidly takes on a European and international dimension and thus 
+becomes very dependent on international judicial cooperation. In May 2019, the French authorities 
+(DCPJ) hosted a seminar in Paris entitled, ‘Cash collectors in money laundering’, to help share 
+knowledge and facilitate connections between law enforcement officials. The participation of expert 
+researchers, such as Nikos Passas, reminds us of the importance of knowledge transfer in this field of 
+study, which remains insufficiently analysed in the social sciences. 
+The analytical approach to this method of laundering still leaves large knowledge gaps, both 
+qualitative and quantitative (with statistical data being scarce and scattered). This paper highlights the 
+skills required of collectors (discretion, mobility, the ability to use encrypted telecommunications, 
+counting, etc.) and stresses the key role played by ‘Sarafs’ as informal bankers in the financial 
+clearing mechanism. The traditional system of Hawala is based on a fundamental criterion — trust. 
+
+22 
+ 
+Tracing the movements of laundered funds makes it necessary to include China in the analysis since 
+many money-laundering cases tend to highlight the country’s major role in international financial 
+exchanges when it comes to concealing the origin of funds and recovering them through accounts 
+located in third countries. The controls carried out by the Chinese financial unit fall short of the 
+expectations set by international standards. 
+Future research should focus on the role of the United Arab Emirates, particularly Dubai, and other 
+Persian Gulf countries. Dubai has become a financial and economic centre that plays a pivotal role in 
+laundering schemes operating between China, the Indian subcontinent, Europe and North Africa. This 
+is an area that requires in-depth analysis as a matter of urgency. 
+ 
+ 
+
+23 
+ 
+Bibliography 
+Aguignier, P. (2012), ‘Four Chinese banks among top 10 banks worldwide. Illusion or reality?’, in 
+Cabestan, J-P., Di Meglio, J-F. and Richet, X. (eds.), China and the global financial crisis: a comparison 
+with Europe, Routledge Studies on the Chinese Economy, Routledge, Abingdon. 
+Ben Lakhdar, C. (2013), ‘Eléments sur le trafic de cannabis’, in Julienne, M. (ed.), Le cannabis ? 
+Comprendre vite et mieux. Éditions Belin, Paris. 
+Ben Lakhdar, C., Lalam, N. and Weinberger, D. (2015), ‘L’évaluation de l’argent de la drogue en 
+France en 2010’, rapport pour la Mission interministérielle de lutte contre la drogue et la toxicomanie, 
+INHESJ. 
+Ben Lakhdar, C., Lalam, N. and Weinberger, D. (2016), Estimation des marchés des drogues illicites en 
+France, MILDECA-INHESJ. 
+Bredeloup, S. and Bertoncello, B. (2006), ‘La migration chinoise en Afrique: accélérateur du 
+développement ou “sanglot de l’homme noir”?’, Afrique Contemporaine, 2(218), pp. 199–224. 
+Coleman J. (1990), Foundations of social theory, Harvard University Press, Cambridge. 
+El Qorchi, M., Maimbo, S.M. and Wilson, J.F. (2003), Informal funds transfer systems: an analysis of the 
+informal hawala system, International Monetary Fund, Washington D.C. 
+FATF (2013), The role of Hawala and other similar service providers in money laundering and terrorist 
+financing, OECD, Paris. 
+Grellet, G. and Grellet, N. (1999), ‘Développement des marchés et coûts de transaction : une critique 
+des politiques économiques libérales’, Revue Tiers Monde XI, p. 157, janvier–mars. 
+Meagher, K. (2010), Identity economics: social networks & the informal economy in Nigeria, James 
+Currey, Oxford. 
+OCDE (2019), Etude économique de l’OCDE : Chine, OCDE, Paris. 
+OECD (2001), The well-being of nations: the role of human and social capital, education and skills, 
+OECD Centre for Educational Research and Innovation, Paris. 
+Passas, N. (2003), ‘Hawala and other informal value transfer systems: how to regulate them?’, Risk 
+Management, 5(2), pp. 49–59. 
+Passas, N. (2005), Informal value transfer systems, terrorism and money laundering, US Department 
+of Justice, January. 
+Poisson, V. and Gao, Y. (2005), Le trafic et l’exploitation des immigrants chinois en France, Bureau 
+International du Travail, Genève, mars. 
+Putnam, R. (ed.) (2002), Democracies in flux: the evolution of social capital in contemporary societies, 
+Oxford University Press, Oxford. 
+Reuter, P. and Soudijn, M. (2016), ‘Cash and carry: the high cost of currency smuggling in the drug 
+trade’, Crime, Law and Social Change, 66(3), pp. 271–290. 
+Spilka, S. and Legleye, S. (2020), ‘Chiffre d’affaires du cannabis en 2017. Une nouvelle estimation 
+directe par la dépense’, Tendances, OFDT, n°137. 
+Tarrius, A. (2002), La mondialisation par le bas. Les nouveaux nomades de l’économie souterraine, 
+Balland, Paris. 
+Tarrius, A. (2015), La mondialisation criminelle, Éditions de L’Aube, La Tour d’Aigues. 
+
+24 
+ 
+Annex 1: Interview guide — questionnaire 
+The socio-demographic profile of the actors 
+ 
+Age, socio-professional category, gender, degree, nationality, criminal record ... 
+ 
+The rationality of the collector (inscribed in a family, clan, community logic) 
+ 
+Gains and risks related to the activity 
+ 
+Use of earnings 
+ 
+Input and output processes in the collector activity 
+ 
+The skills mobilised (knowing how to circulate, how to use basic accounting methods) 
+The organisation and operation of the collectors 
+ 
+The different segments and their connections: the collector, the facilitator, super-facilitator 
+ 
+The contract, the place of the spoken word in dispute management 
+ 
+The role of trust 
+ 
+Defections 
+ 
+Violence and/or the threat of violence (settling of scores?) 
+ 
+Costs and profits 
+ 
+The relay points 
+ 
+The articulation between the informal system and legal financial structures 
+ 
+How are the logistics activities related to the laundering process financed? 
+ 
+What are the proceeds of the laundering, what are they spent on? 
+ 
+Which criminal activities make most use of collectors? 
+ 
+What are the insurance mechanisms? Who is responsible in case of loss, seizure, theft of 
+cash? 
+ 
+Reputation and publicity? 
+ 
+The use of new technologies (encrypted messaging, social networks, etc.) 
+The public response 
+ 
+What is the reality of considering the collectors by all services? 
+ 
+The action of law enforcement structures police — justice ... 
+ 
+State of the domestic anti-money laundering legislation 
+ 
+What are the main obstacles to apply this legislation? 
+ 
+Importance of money laundering penalties in the scale of offences 
+ 
+Operational and legal means granted to law enforcement services in charge of the fight 
+against money laundering. 
+ 
+Are there any plans for legislative changes aimed at strengthening the procedural means of 
+investigators? 
+ 
+How to fight against this modus operandi without prejudice to the remittances? 
+ 
+Do informal police networks such as AMON help to improve information exchange and 
+cooperation?

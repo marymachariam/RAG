@@ -1,0 +1,12 @@
+#,Question,Type,Expected Source,Right Chunk Retrieved?,Answer Correct?,Faithful to Sources?
+1,How many vendors did the LSD Avengers review?,Single-doc,TDXD16001ENN_FINAL.pdf,Yes,Yes,Yes
+2,On what date did the AlphaBay marketplace go online?,Single-doc,AlphaBay-final-paper.pdf,Yes,Yes,Yes
+3,What proportion of opioid agonist treatment clients in Europe are aged 40 or older?,Single-doc,edr-2024-compiled-pdf-14.06.2024.pdf,Yes,No,No
+4,Which combination of substances is identified as posing a particularly high risk of overdose?,Single-doc,TDAT16001ENN.pdf,No,Partial,Yes
+5,What percentage of new AIDS cases in Europe in 2014 were attributed to injecting drug use?,Single-doc,TDAT16001ENN (1).pdf,Yes,Yes,Yes
+6,What type of darknet market entity is run by a single vendor?,Single-doc,31692_en.pdf,Yes,Yes,Yes
+7,"What were the most frequently used cryptocurrencies for drug purchases on EU darknet markets in 2022, and how did their prevalence differ between Western and Eastern European countries?",Synthesis,2022edmr_cryptocurrencies (1).pdf + 2022edmr_cryptocurrencies (2).pdf,No,No,No
+8,"How is MDMA smuggled to distant markets such as Australia, and what other substances have been found in ecstasy tablets?",Synthesis,32147_en.pdf + 32148_en.pdf,No,Yes,Yes
+8,How do law‑enforcement takedowns of darknet markets compare with voluntary market closures in terms of their short‑term versus long‑term effects on drug supply and overall market stability?,Synthesis,TD0417834ENN.pdf + 31692_en.pdf,Yes,Yes,Yes
+9,What is the effect of tobacco taxation on smoking rates?,Out-of-scope,none (must abstain),Yes,Yes,Yes
+10,What are the main causes of coastal erosion?,Out-of-scope,none (must abstain),Yes,Yes,Yes

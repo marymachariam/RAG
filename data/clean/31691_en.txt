@@ -1,0 +1,260 @@
+EU Drug Market: Drivers and facilitators —
+Globalisation
+Globalisation is the process by which entities become globally
+interconnected through networks of communication, trade and
+transportation. This has a significant effect on illicit drug markets,
+as criminal networks exploit globalisation to achieve similar
+benefits to participants in the legal economy. Globalisation has
+provided significant opportunities for criminal cooperation, while
+also enabling cheaper, faster and more efficient criminal
+operations – as seen in the trafficking of large quantities of illicit
+drugs.
+Criminal cooperation
+Globalisation provides opportunities for criminal cooperation and integration along the supply
+chain, thus making operations more efficient. Drug trafficking stands out as one of the main
+activities of the most threatening criminal networks in the EU, with about half of the reported
+networks involved in this crime area (Europol, 2024a). The impact of globalisation on
+communication channels, specifically the process of digitalisation, has played a key role in enabling
+cooperation between criminal networks in Europe and globally (see Box Digital cooperation).
+Greater interconnectedness between criminal networks has also boosted the emergence of key
+facilitators that provide their services to several different networks. Criminal ventures increasingly
+mirror licit business models, where partnerships are formed opportunistically based on business
+needs, while some services are outsourced to specialised criminal service providers. Ad hoc or
+more permanent partnerships are often established between different criminal networks, in which
+brokers or criminal service providers work together with individual criminals or groups tied to core
+criminal activities, such as drug trafficking. This has led to a serious and organised crime
+environment that is simultaneously characterised by fragmentation and networking, where profit
+is the main motivation for cooperation.
+This resource is part of EU
+Drug Market: Drivers and
+facilitators by the EMCDDA
+and Europol.
+Last update: 30 May 2024
+- 1 -
+
+Digital cooperation
+The digital transformation of our societies, economies and private lives is reflected in the
+operations of criminal networks. The internet and new technologies increasingly facilitate rapid
+communication between participants in drug exchanges and allow new models of criminal groups
+to develop and operate. Administrators of darknet markets and online vendors of illicit drugs
+illustrate a model of digital criminal cooperation (Leukfeldt et al., 2019). Other communication
+channels featuring end-to-end encryption, such as instant messaging applications, are also used
+by criminal networks for rapid communication, with reduced visibility to law enforcement (see
+Section Encrypted communication).
+Services provided to drug-trafficking networks
+The use of criminal service providers by drug-trafficking networks has become widespread in
+recent years. While some networks manage most of their operations independently, drug
+trafficking typically requires establishing fluid collaboration between networks, sharing
+responsibilities and outsourcing certain functions or even entire stages of the trafficking chain to
+specialised networks or individuals. In this context, crime-as-a-service provides flexibility to drugtrafficking networks in managing their illicit activities, which involve distinct stages and often span
+different countries or continents (see Box Crime-as-a-service). Services include transportation and
+logistics, supply chain management, waste disposal, provision of fraudulent documents (e.g. to
+facilitate the transportation of drugs or procurement of essential chemicals and equipment) and
+money laundering.
+Crime-as-a-service
+The increasing availability of knowledge, tools and expertise provided to criminal networks
+through crime-as-a-service, in which criminals use the services of other, more specialised
+criminals, has enabled a greater number of criminal networks to engage in multiple criminal
+activities despite lacking specific expertise or experience. The crime-as-a-service component also
+allows criminal networks involved in drug trafficking to be more geographically flexible and to
+optimise their business models by outsourcing specific activities to dedicated service providers.
+More criminal individuals and networks offer a wider range of specialised services to other
+criminal networks, both offline and online (Roddy and Holt, 2020). For example, certain criminal
+networks are specialised in the management of the logistics and supply chains for drug producers
+in the European Union. Their specialised services include procurement of drug precursors and
+other chemicals required for drug production, and the provision of equipment or expertise needed
+to establish drug production facilities. Often, legal business structures are set up (or purchased) to
+access chemicals and to facilitate and conceal trafficking operations. Other service providers may
+include specialists who customise vehicles to conceal drugs, those who arrange the transportation
+of drug consignments to destination countries or IT specialists who manage and maintain the
+infrastructure for the online drugs trade.
+- 2 -
+
+Brokers are also present in all stages of criminal business operations and serve multiple criminal
+networks. They are essential in connecting these networks to each other and to criminal service
+providers. In the context of drug-trafficking operations, brokers connect drug producers to
+wholesale distributors, to transportation providers and to retail distributors. This may lead to a
+shift between or expansion of the range of drugs offered by certain networks (see Box Poly-drug
+trafficking). They also facilitate contact with other criminal specialists who provide firearms,
+fraudulent documents, chemicals, equipment and expertise for drugs production. Some brokers
+coordinate the movement of drugs consignments and facilitate money laundering, waste disposal
+and access to compromised individuals.
+Poly-drug trafficking
+Criminal networks involved in drug trafficking in the European Union are often involved in trading
+different types of drugs. While poly-drug trafficking has remained a very visible feature among
+mid-level suppliers and distributors, top-level criminal networks also traffic large-scale
+consignments that include more than one type of drug. Another aspect of the poly-drug nature of
+drug trafficking in Europe is the use of drugs and precursors as currency, occasionally seen in the
+form of drug swaps between criminal networks (for example, cannabis traded for heroin on the
+Balkan route in Türkiye).
+Transportation and logistics
+A key aspect of globalisation is the interconnectedness of global supply chains caused by the
+digitalisation of international logistics. The role played by information technology in checking and
+managing traffic flows at seaports and airports has increased the importance to criminals of
+having access to automated logistics systems. They may obtain such access through the
+corruption or cooperation of key staff, such as through bribes or extortion, and by hacking into
+computer networks or via publicly accessible databases (as both maritime and air traffic data are
+often publicly available). A recent assessment of the threat of infiltration of EU port infrastructure
+by organised crime highlighted the techniques that criminal networks use to exploit loopholes in
+logistical processes, such as misappropriating container reference codes to gain access to
+containers in which drugs are trafficked (known as PIN code fraud) (Europol and the Security
+Steering Committee of the ports of Antwerp, Hamburg/Bremerhaven and Rotterdam, 2023). In
+future, it is plausible that entire logistical chains will be automated, which may create the potential
+for exploitation by criminal networks (for example, if criminals are able to compromise one part of
+the system, they may then gain access to the whole logistical chain). Appropriate technological
+responses are therefore needed to mitigate these threats (see Box Real-time vessel tracking
+capability developed by Frontex).
+- 3 -
+
+Real-time vessel tracking capability developed by Frontex
+The concept of ‘connected’ or ‘smart containers’ (electronic tracking of containers) provides
+opportunities to mitigate the threats posed by criminal networks that exploit containerised
+shipping. Using sensors, connected shipping containers provide real-time visibility of global cargo
+flows and indications of when, where and possibly why disruptions or delays have occurred (DHL,
+2022). Connected containers thus have the potential to reduce the risk of criminal exploitation
+during transportation.
+This concept has been operationalised by the European Border and Coast Guard Agency (Frontex),
+which has developed the Joint Operations Reporting Application (JORA): an information collection
+and analysis tool for tracking the itinerary of target vessels in real time. The tool is available to
+Member States upon request. It supports the authorities’ operations by allowing them to track
+vessels suspected of carrying drugs and thus providing an accurate picture of the routes taken by
+traffickers from origin or transit areas to destination ports in Europe.
+Maritime transportation
+According to the UNODC, an estimated 90 % of the global cargo trade is transported by sea every
+year (amounting to over 750 million 20-foot equivalent units) (1) (UNODC, date unspecified). Given
+that maritime transport is used in 77 % of EU external trade and 35 % of all trade by value between
+EU Member States, it forms a key part of the international supply chain. Despite a temporary dip in
+activity in 2020 due to the COVID-19 pandemic, the maritime transport sector continues to grow,
+fuelled by rising demand for primary resources and container shipping (EEA and EMSA, 2021).
+The criminal exploitation of maritime routes continues to be a critical enabler of drug trafficking,
+as only a small fraction of shipping containers globally is screened. Large container ports in Europe
+and other continents continue to be exploited by drug traffickers for bulk transportation. In 2020,
+72 % of the 609 drug detections made during Frontex-coordinated joint operations were reported
+at sea borders or adjacent areas (Frontex, 2021). As detailed in other EU Drug Markets resources
+(see EU Drug Market: Cocaine), most of the cocaine available on the EU market enters via the
+largest container ports in Europe, although increasingly, smaller ports are also utilised. Maritime
+routes have also risen in prominence for the trafficking of other drugs such as heroin (see EU Drug
+Market: Heroin and other opioids). Recently, large quantities of cannabis have also been trafficked
+in maritime containers to Europe, including from North America (see EU Drug Market: Cannabis
+). In August 2023, more than 1 tonne of cannabis was seized in Rotterdam from a container
+shipped from Canada (Openbaar Ministerie, 2023). These developments underscore how
+globalisation is erasing barriers between origin, transit and consumer destinations for illicit drug
+flows.
+Factors affecting the maritime sector are likely to influence the global drug trade. For example,
+conflict, instability and economic pressures may lead to shifting supply routes, as already observed
+in the rise in heroin trafficking along the southern maritime route from Afghanistan to Europe (see
+- 4 -
+
+EU Drug Market: Heroin and other opioids). Such changes may in turn affect drug-trafficking
+routes, prices (and purities) along the supply chain, or lead to other routes or transportation
+methods being used to move drug consignments globally.
+Diversification of maritime trafficking methods
+In recent years, diversification has been observed in the methods used for maritime drug
+trafficking (see EU Drug Market: Cocaine; see also Figure Maritime trafficking: diversification of
+modi operandi). Typically, drug traffickers operate front companies, which they establish
+themselves or preferably buy, becoming the owners of businesses with a history of legal activity.
+This enables them to conceal activities related to illicit drugs, such as purchasing equipment or
+moving funds, but crucially also to hide drug consignments in legitimate maritime shipments.
+Alternatively, traffickers appropriate the containers of other companies and use them to transport
+large quantities of drugs. This is achieved by breaking open the containers before export,
+depositing the drugs inside and re-sealing the container with cloned seals to hide the tampering
+(known as rip-on/rip-off). In some cases, the containers are contaminated en route to the
+destination, in transhipment locations.
+On arrival, the traffickers require access to the port to retrieve the stashed drugs from the
+containers. To do so, they may either trespass or pay port workers in order to obtain access.
+Corruption, as well as being a negative consequence of drug markets, is a key enabler of
+organised criminal activity – and opportunities for corruption exist at every stage of the drug
+supply chain.
+- 5 -
+
+Maritime trafficking: diversification of modi operandi
+- 6 -
+
+Civil aviation
+In addition to maritime transport, air transport is also used for drug trafficking to and within the
+European Union. The two main categories of civil aviation used are scheduled air transport,
+including passenger and cargo flights operating on regular routes, and general aviation, which
+includes all other commercial and private flights. Detecting consignments of drugs trafficked via
+general aviation is particularly challenging as it is less regulated than scheduled air transport, and
+as a result there is limited opportunity to inspect air cargo. Criminal networks use general aviation,
+from small aircraft to business jets, for trafficking drugs making use of the services provided by
+skilled collaborators, mostly well-experienced pilots commissioned for ad hoc projects
+Air cargo has become a key facilitator for the online trade, and this has also had an impact on drug
+trafficking. In 2021, air cargo represented a third of the revenue of International Air Transport
+Association member airlines, driven by an increase in demand and a decrease in passenger travel
+during the pandemic (IATA, 2021b). Estimates show that around 80 % of cross-border online trade
+(e-commerce) is transported by air (IATA, 2021a).
+Criminal networks increasingly exploit the opportunities of air cargo services for drug trafficking
+by concealing drugs among legitimate cargo or within the airplane itself. An in-depth analysis of 16
+cases from the Dutch Organised Crime Monitor found that traffickers use Amsterdam Airport
+Schiphol as a key logistical node by exploiting the infrastructure set up for legal economic activities
+(Madarie and Kruisbergen, 2020). In one case, a criminal group established a cleaning company at
+the airport to gain access to aircraft and IT systems (Madarie and Kruisbergen, 2020). The use of
+airports for drug trafficking can be likened to that of maritime ports, in terms of the mechanisms
+involved to evade security, for example by using corrupt employees or law enforcement agents.
+Differences in the way airports operate and their security arrangements, however, mean that
+criminal networks sometimes use different methods to those used in seaports.
+Post and parcel services
+Globalisation and digitalisation have paved the way for the expansion of express post and parcel
+delivery services, with the growing trend for online shopping associated with an increase in parcel
+deliveries in Europe (Eurostat, 2022; Statista, 2021). The overall quantity of drugs trafficked by
+these means remains limited compared with other forms of transportation (such as maritime and
+air traffic). Nevertheless, the increase in postal delivery volumes poses challenges for the
+systematic inspection of parcels and presents an opportunity for drug traffickers to traffic smaller
+quantities of drugs rapidly at global level. As a consequence, law enforcement authorities in EU
+Member States, and customs agencies in particular, have sought to increase checks in post and
+parcel hubs.
+Criminals often conceal the origin and content of parcels by making false declarations and using
+fraudulent documents to circumvent risk indicators used to identify parcels for checks. To some
+degree, the identification of suppliers is also hampered by differences in regulatory frameworks
+and reporting between EU and non-EU postal systems and the use of parcel-forwarding services
+(see Box Parcel-forwarding services).
+- 7 -
+
+Parcel-forwarding services
+Criminals use parcel-forwarding services to facilitate the trafficking of illicit commodities. In this
+method, postal companies may provide their clients with addresses in other jurisdictions, repack
+the parcels and guarantee international shipment to the final destination. This creates
+opportunities for criminals intending to conceal the origin, final destination and nature of illicit
+shipments. Since these companies do not usually open the packages, criminals can conceal the
+nature of the shipments by sending false customs declarations.
+In particular, the postal system is often used for deliveries of online drug purchases (through
+social media, the surface web and darknet markets). This trend appears to have rapidly expanded
+and intensified during the COVID-19 pandemic. Examples from Germany and the Netherlands
+illustrate how criminals use this method, which affects all Member States, and a number of
+countries have reported considerable increases in letters and parcels containing drugs (see Box
+Post and parcel seizures in Germany and the Netherlands). The specific routing of parcels varies
+widely, including direct routes from source to destination or via EU transit hubs and non-EU
+locations.
+Post and parcel seizures in Germany and the Netherlands
+During checks of outgoing mail at the International Mail Centre in Frankfurt between September
+2016 and the end of 2019, German Customs seized a total of around 28 500 letters containing
+approximately 2 000 kg of illicit drugs, including over 1.4 million MDMA tablets. These mail
+consignments were destined to over 90 different countries. At the end of 2019, Austria was ranked
+the second recipient destination (after the United States) for the seizures made in Frankfurt. The
+items destined for Austria contained over 240 kilograms of illicit drugs, mainly amphetamine and
+MDMA (BMI, 2021).
+In 2020, Dutch Customs, in collaboration with the Public Prosecution Service, launched a
+programme of more rigorous checking of postal shipments. By mid-2021, the programme had
+resulted in the seizure of more than 8 000 packages and letters containing mainly synthetic drugs.
+More than 2 700 postal items contained MDMA; over 1 300 items contained cannabis products;
+and the rest contained a range of other substances, including cocaine, heroin, ketamine and LSD
+(Rijksoverheid, 2021). Illicit drugs produced in the Netherlands and purchased online are not only
+shipped directly from the country, but are often also dispatched by mail from neighbouring
+Belgium and Germany (National Police of the Netherlands, 2022).
+Targeted screening, supported by artificial intelligence, can make it easier to identify postal items
+with illicit contents. Such measures can significantly disrupt the distribution of illicit drugs by this
+modus operandi. They can also help protect postal service staff from coming into contact with
+potentially dangerous substances. Dutch Customs, in partnership with PostNL and the police, are
+working to introduce algorithms in the scanning process to check mail more effectively in postal
+sorting centres (Rijksoverheid, 2021).
+(1) A 20-foot equivalent unit represents the cargo capacity of a standard multimodal container.
+- 8 -
+
+References
+Consult the list of references used in this module.
+This PDF was generated automatically on 1/10/2026 from the web page located at this address:
+https://www.euda.europa.eu/publications/eu-drug-markets/drivers-and-facilitators/globalisation_en. Some errors may
+have occurred during this process. For the authoritative and most recent version, we recommend consulting the web
+page.
+- 9 -

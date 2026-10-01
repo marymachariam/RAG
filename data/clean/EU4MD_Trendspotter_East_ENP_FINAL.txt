@@ -1,0 +1,852 @@
+1 
+ 
+ 
+ 
+ 
+The situation regarding the COVID-19 pandemic and responses to it continues to evolve rapidly. 
+Regular updates are provided by the European Centre for Disease Prevention and Control and 
+the World Health Organization, and in most countries national public health guidelines are 
+available. The EMCDDA has created a COVID-19 resource hub that provides access to up-todate materials on drugs and COVID-19-related issues. 
+ 
+Since 2019, the EMCDDA has enhanced cooperation with the European Neighbourhood Policy 
+partners (1) within the framework of the EU4Monitoring Drugs (EU4MD) project funded by the European 
+Union. The project supports national and regional readiness to identify and respond to drug-related 
+security and health threats. 
+ 
+ 
+ 
+ 
+(1) Algeria, Armenia, Azerbaijan, Belarus, Egypt, Georgia, Israel, Jordan, Lebanon, Libya, Moldova, Morocco, Palestine*, Tunisia and 
+Ukraine 
+*This designation shall not be construed as recognition of a State of Palestine and is without prejudice to the individual positions of the 
+Member States on this issue. 
+EMCDDA trendspotter briefing 
+September 2020 
+Impact of COVID-19 on drug markets, drug use, 
+drug-related harms and responses in east 
+European Neighbourhood Policy countries 
+
+ 
+2 
+ 
+Summary 
+Since the beginning of 2020, the world has been experiencing an unprecedented public health emergency 
+caused by the coronavirus disease (COVID-19) pandemic, which has led to the progressive introduction of 
+social distancing and other control measures by national governments. To investigate the effects of the 
+pandemic on and the implications for drug markets, drug services and people who use drugs in the 
+European Neighbourhood Policy (ENP) countries, the European Monitoring Centre for Drugs and Drug 
+Addiction (EMCDDA) launched a trendspotter study. This briefing provides a snapshot of the state of play 
+with respect to the impact of COVID-19 on drug markets, drug services and people who use drugs in east 
+ENP countries (2) between March and May 2020. 
+How have drug markets changed? 
+§ 
+The study suggests that, following the introduction of COVID-19-related confinement measures, drug 
+markets across the region contracted to a small to moderate extent, with disruptions in supply chains 
+evidenced by a reduction in the volume and number of seizures at borders and increases in retaillevel prices for certain types of drugs in some countries. 
+§ 
+There are indications that this market disruption may have prompted the resurgence of small-scale 
+(home) production of amphetamines in some countries. 
+§ 
+At the retail level, contactless drug dealing activities have prevailed. These are likely to have been 
+prompted by the introduction of national restrictions on movement, heightened public order 
+measures and strategies to limit COVID-19 by restricting person-to-person contact. 
+§ 
+At the same time, law enforcement activities have also been affected in various ways, and a decline 
+in the number of drug law offences reported may reflect temporary changes in national priorities, 
+with the focus for policing priorities shifting during this period towards ensuring public safety and 
+order. 
+What has been the impact on drug use, drug-related harms and drug-related health 
+services? 
+§ 
+Cannabis use appears to have been least affected, but with divergent patterns noted between those 
+who use cannabis recreationally and more frequent users. 
+§ 
+Several sources suggest that the availability of the majority of illicit substances smuggled across 
+borders into the region, such as heroin, MDMA, amphetamines and cocaine, has decreased, which 
+is thought to have led to a reduction in use of these substances although this is difficult to empirically 
+substantiate at this time. 
+§ 
+Localised heroin shortages may have contributed to increased demand for treatment: an increase in 
+attempts to access opioid substitution treatment (OST) services and an observed increase in the 
+demand for drug treatment in general. 
+§ 
+The reduction in availability of some established illicit drugs in some contexts appear to have 
+resulted in an increased use of licit substitutes, such as alcohol, or the misuse of pharmaceuticals, 
+including OST medications, or other psychotropic pharmaceutical substances, frequently used in 
+combination with illicit substances. 
+§ 
+There was an overall reduction in health service provision during the initial phases of national 
+confinement measures, impacting on most healthcare services not related to COVID-19 treatment. 
+ 
+(2) Armenia, Azerbaijan, Belarus, Georgia, Moldova, and Ukraine 
+
+ 
+3 
+ 
+As a result, it appears that people who use drugs may have experienced a decrease in the 
+availability of and had less access to their usual drug-related services. In some countries, the entry 
+of new clients to drug treatment services, particularly OST services, and access to testing for bloodborne infections were also limited. 
+§ 
+Both national health services and non-governmental organisations (NGOs) involved in the delivery of 
+needle and syringe provisions implemented adaptations to their service models, with remote and 
+mobile services being provided where this was possible. 
+§ 
+Most countries in the region have rapidly adapted practices to provide take-home OST medications, 
+ensuring the uninterrupted delivery of treatment. In Ukraine, an increased demand for methadone 
+through private practitioners was observed. Advocates for people who use drugs have welcomed the 
+new practices of national programmes, although some reports suggest a need for the closer 
+monitoring of adherence to take-home OST dosing, as well as of the need to support the work of 
+private practitioners. 
+What are the possible long-term impacts of COVID-19 on drug markets, drug 
+services and people who use drugs in the east ENP region? 
+§ 
+Findings of this study and similar studies in Europe and the region suggest that, once the borders 
+reopen, it will be necessary to remain vigilant about the developments in the activities of criminal 
+networks and distribution methods (surface and darknet markets, encrypted communication, face-toface delivery) (EMCDDA and Europol, 2020). This should also be reflected in the strategies of 
+competent authorities and experts calls for more to be invested in staff training, to ensure that staff 
+are prepared to respond to any new business models developing within the drug market. 
+§ 
+In terms of drug use, the long-term impacts of COVID-19 and the subsequent relaxation of lockdown 
+measures remain to be seen. The situation requires ongoing monitoring given reports of the reduced 
+availability and use of some drugs such as heroin and cocaine, combined with the emergence of the 
+home-based production of amphetamines in some countries and the increased use of other, more 
+readily available, psychoactive substances. 
+§ 
+National authorities and service providers may need to consider how to maintain innovative 
+approaches, such as online consultations and psychological support, take-home OST dosing and 
+remote services, to reduce drug-related harm, as this may be essential for attracting and retaining 
+those in need of drug-related services. At the same time, health services may continue to experience 
+an additional burden of maintaining the safety of both clients and healthcare providers until an 
+effective treatment for COVID-19 or a suitable vaccine against the virus responsible emerges. 
+ 
+ 
+
+ 
+4 
+ 
+Introduction 
+In response to the outbreak of the COVID-19 pandemic, governments in east ENP countries have one by 
+one, since mid-March 2020, implemented a range of confinement measures aimed at reducing the spread of 
+the virus among their general populations (Figure 1). 
+ 
+FIGURE 1 
+Introduction of COVID-19-related national confinement measures in the east ENP region in early 2020 
+ 
+Source: ACAPS (https://www.acaps.org/; accessed on 26 June 2020). 
+ 
+Concerns and questions about how national COVID-19 response measures would affect drug markets and 
+people who use drugs, and how drug services would be able to meet the needs of their clients arose in the 
+first weeks of the pandemic. Furthermore, anecdotal information began to emerge about changes and 
+adaptations in drug use patterns and behaviours. 
+To gain insights into the impact of COVID-19 on drug supply and drug markets, drug use, drug-related harms 
+and drug services in the ENP countries, the EMCDDA initiated an investigative rapid assessment using the 
+
+ 
+5 
+ 
+agency’s trendspotter methodology (EMCDDA, 2018). This study was initiated in April 2020 and has two 
+parts. One part focused on east ENP countries (3) and the other on south ENP countries (4). 
+When focusing on the possible changes in drug markets and drug supply in the east ENP countries, it is 
+important to highlight that these countries are located along well-established routes for drug smuggling to the 
+EU, the most well-known being the route used for heroin trafficking. At the same time, they also represent a 
+relatively large market of consumers of drugs produced in the EU and provide a transit route for drugs 
+originating in or transiting through the EU towards other regions in the east. 
+Traditionally, apart from cannabis, the main drugs of use in the east ENP countries have been opium-based 
+products and home-produced amphetamine-type stimulants. However, in recent years, the use of new 
+psychoactive substances has been increasingly reported among a wide range of populations, including 
+among people who inject drugs. Furthermore, polysubstance use is a common phenomenon among people 
+who inject drugs. (EMCDDA, forthcoming). 
+Injecting drug use in the region, which is well above the global rate of 0.33 % (UNODC, 2019), continues to 
+fuel ongoing transmission of HIV and other infections caused by blood-borne viruses in many partner 
+countries. For example, the prevalence of HIV among people who inject drugs is estimated to be as high as 
+30.8 % and 22.6 % in Belarus and Ukraine, respectively (UNAIDS, 2019). 
+In general, drug-related services, such as drug treatment and harm reduction programmes, in the east ENP 
+countries have been established and are operational. OST and needle and syringe programmes are 
+available in all east ENP countries; however, the coverage of these services is highly variable. Many of them 
+are still funded by external donors or are delivered under the frameworks of national HIV/AIDS programmes. 
+Within this context, these programmes and interventions were designed to target people who inject drugs, 
+while services and programmes for people who use other psychoactive substances or require long-term 
+residential treatment often remain underdeveloped. 
+The trendspotter methodology 
+The trendspotter methodology is based on the triangulation of a range of rapid investigative approaches and 
+data collection from multiple qualitative and quantitative sources with a systematic analysis incorporating 
+expert opinion (EMCDDA, 2018). Specifically, for studies on the impact of COVID-19 in Europe and the ENP 
+area, the methodology was adapted to suit online investigation, considering the national emergency 
+restrictions on both the EMCDDA team and the study participants (EMCDDA, 2020); however, the three 
+main phases of the study methodology were retained (Figure 2). 
+For this online briefing, the results of the following data collection exercises have been brought together in 
+the analysis: 
+§ 
+a search of peer-reviewed articles (5) published on the topic of coronavirus and illicit drugs in 
+international peer-reviewed journals and open source monitoring for relevant reports on the internet; 
+§ 
+two online surveys on drug-related health and security: the health survey was sent to the 
+EU4Monitoring Drugs (EU4MD) project national contact points and a network of health experts 
+(n = 19); the survey on drug-related security was disseminated through the EU4MD national contact 
+points. In total, seven responses to the health survey and five to the security survey were received 
+ 
+(3) Armenia, Azerbaijan, Belarus, Georgia, Moldova and Ukraine. 
+(4) Algeria, Egypt, Israel, Jordan, Lebanon, Libya, Morocco, Palestine and Tunisia. 
+(5) No articles on the topic of COVID-19/coronavirus and illicit drugs and east ENP partners were available in peer-reviewed publications 
+by 7 May 2020. 
+
+ 
+6 
+ 
+from the east ENP countries (the surveys were in English, and responses in English, Russian and 
+French were accepted); 
+§ 
+the European Web Survey on Drugs: COVID-19 (EWSD-COVID), available in 21 languages, 
+including Russian and French, targeting adults aged 18 years and over with experience of illicit drug 
+use, aimed at gathering information on changes in drug consumption behaviours in ENP partner 
+countries due to COVID-19 (see Box 1); 
+§ 
+a virtually facilitated group of five security and nine health experts, drug professionals, service 
+providers, and representatives of NGOs and networks of people who use drugs from the east ENP 
+countries. 
+For any literature-based results presented, references are cited; other findings are based on the sources 
+described above. 
+ 
+FIGURE 2 
+Online trendspotter methodology 
+ 
+ 
+ 
+
+ 
+7 
+ 
+ 
+Box 1: The European Web Survey on Drugs — impact of COVID-19 on patterns of use for ENP 
+partner countries 
+ 
+The EMCDDA European Web Survey on Drugs: COVID-19 (EWSD-COVID) was disseminated in 
+the ENP partner countries. It aimed to collect information on experiences and perspectives from 
+people who use drugs in relation to the impact of COVID-19-related restrictions. A total of 111 
+respondents residing in the ENP region completed the online questionnaire (with around 30 
+questions) in one of the 21 languages, including Russian and French, made available between 
+8 April and 25 May 2020. 
+Respondents from Ukraine accounted for 86 % of the sample. In the absence of appropriate 
+sampling frames covering all people who use drugs, this method relies on self-selected samples, 
+which limits generalisability and introduces the potential for multiple responses and unknown biases; 
+these limitations need to be borne in mind when considering the results presented here. 
+While web surveys are not representative of the general population of people who use drugs, when 
+carefully conducted, they can provide a timely and more detailed picture of the behaviour of groups 
+of drug users who are often difficult to access by other means. This survey therefore contributes to 
+the overall analysis of the situation and of the changes associated with the COVID-19 pandemic and 
+its consequences. However, follow-up and triangulation with other data sources will be required to 
+increase confidence that the findings are applicable to wider patterns of drug use in the ENP region. 
+Overall, the average age of the EWSD-COVID respondents from ENP countries was 31 years, and 
+half were male. Around 89 % of all respondents and 97 % of the sample from Ukraine reported 
+some level of illicit drug use in the last year, and only this sample has been included in the analysis 
+presented in this briefing. Almost 84 % of the sample reported use of some form of cannabis product 
+in the 30 days prior to responding to the survey, while use of other drugs in the same period was 
+less common: ecstasy/MDMA (39 % of the sample), amphetamines (31 %), LSD (lysergic acid 
+diethylamide) (20 %), non-prescribed opioids other than heroin (16 %), synthetic cannabinoids 
+(9 %), synthetic cathinones (6 %), cocaine (4 %) and heroin (3 %). 
+ 
+ 
+Presentation and interpretation of the results 
+The data collected in this study were analysed using three broad, but closely related, topics: the impact of 
+the COVID-19 pandemic on drug markets and drug supply, the impact on drug use and drug-related harms, 
+and the impact on drug-related health services. Results, as presented below, are guided by research 
+questions and are structured loosely by themes emerging from the analysis. Several important issues need 
+to be taken into account when considering these results. 
+First, any generalisations from the findings should be made only with caution. It is important to note that 
+national drug monitoring systems in east ENP countries are nascent and therefore there is a paucity of 
+routine monitoring data on the security and health aspects of the drugs phenomenon from official sources. 
+The data presented in this report were derived from a relatively small number of survey respondents, such 
+as national experts, as well as a modest non-representative sample of people who use drugs. Furthermore, 
+respondents to the EWSD-COVID may represent a specific population of people who use drugs who are 
+computer literate, and this may not be the case for larger populations of problematic users. 
+
+ 
+8 
+ 
+Nevertheless, despite the abovementioned limitations of the study, many of the findings are corroborated by 
+similar findings in other recent studies, which have been referred to throughout the text. The findings provide 
+informative insights into drug markets, drug use and drug-related harms, as well as drug services, in the era 
+of COVID-19, and hence could be useful for policymakers and programme managers. 
+What were the main changes in drug markets and drug supply 
+after the emergence of COVID-19? 
+Production — domestic products may have gained importance 
+It appears that drug production in the ENP countries is mainly focused on herbal cannabis and 
+amphetamines, with local markets being the main targets for the distribution. The domestic production of 
+cannabis is present in all partner countries, but heterogenous in respect to the volumes produced and 
+production patterns. Some law enforcement experts were of the opinion that the local production of herbal 
+cannabis may have been on the rise; however, this study did not find any substantive evidence to confirm 
+this suggestion. 
+Amphetamines remain one of the most commonly produced synthetic illicit substances in the region 
+(EMCDDA, 2016; UNODC, 2020b). However, the technologies as well as the precursors used in the 
+manufacturing process vary from country to country, as does the scale of production. Anecdotal reports of a 
+deficit in some precursors were observed in the initial stages of the COVID-19 pandemic. However, 
+according to lead law enforcement experts in the region, this situation did not last long, as traffickers found 
+new ways to obtain the precursor chemicals necessary for production relatively quickly. This is similar to the 
+situation seen in the major synthetic production hubs in Europe (EMCDDA and Europol, 2020). On the other 
+hand, there are indications that some users may have returned to the home-based production of stimulants, 
+such as the production of a substance known locally as ‘vint’ in Ukraine or an amphetamine-type stimulant 
+derived from locally grown ephedra plants in Georgia (Otiashvili et al., 2017). However, the scale of this 
+activity, as well as its potential to significantly affect local markets, remains unknown. This area therefore 
+may be important for subsequent follow-up activities. 
+Trafficking — no signs of major disruptions 
+Closing the borders and more enforcement of security measures by all countries in the region may have had 
+an impact on the modus operandi of organised crime groups (OCGs) involved in drugs trafficking, with a 
+direct consequence being smaller volumes of drugs being trafficked across borders. There are also signs 
+that the ‘business’ did not stop during the pandemic but rather adapted to the new reality, with more targeting 
+of people who transport licit goods and shifts towards using online environments and methods of distribution 
+that avoid physical contact. 
+A recent assessment of the impact of COVID-19 prevention measures on EU drug markets suggested that, 
+at least in the initial months, the pandemic had little impact on the trafficking of drugs across EU borders 
+(EMCDDA and Europol, 2020). Some law enforcement experts across the east ENP region reported a 
+decrease in the volume and number of seizures of illicit drugs smuggled from abroad, indicating that this is 
+likely to be the result of travel restrictions for passengers and bans on the movement across the borders of 
+non-essential goods. 
+This study examined possible impacts of national restrictions, implemented by governments, on the 
+operation of the northern drug trafficking route towards EU. Like other similar analysis (EMCDDA and 
+Europol, 2020), it did not find compelling evidence of major disruptions to the operations of OCGs using this 
+route. As reported by earlier studies, it remains clear that operations along this route did not cease as a 
+result of national lockdowns. 
+
+ 
+9 
+ 
+§ 
+Azerbaijan and Georgia, as well as neighbouring Iran, continued to report in March and April 2020 
+large-volume seizures of opium and heroin originating from Afghanistan (CARICC, 2020a-h; 
+Dumbadze, 2020); 
+§ 
+law enforcement officers from Armenia and Moldova indicated that OCGs may have adapted their 
+modus operandi by exploiting their involvement in cross-border shipment activities whose operations 
+had not been affected, such as lorry drivers transporting licit goods. 
+Distribution — online and contactless modes in the spotlight 
+The EMCDDA-Europol update on EU drug markets indicated that drug distribution using post and parcel 
+services may have increased in some EU countries during the pandemic (EMCDDA and Europol, 2020). 
+This mode of delivery frequently goes hand in hand with purchasing illicit drugs online. The results from the 
+current trendspotter study are inconclusive on whether or not purchasing illicit substances on online 
+platforms, mobile applications or darknet markets has become more frequent among people who use drugs 
+in the east ENP region. 
+§ 
+A small number of law enforcement experts expressed the view that drug sales using online 
+technologies increased in importance during the lockdown. 
+§ 
+In Armenia, for example, the number of international mail parcels containing illicit substances seized 
+increased after the introduction of COVID-19-related restrictions, even though there was a decline in 
+the overall number of international postal shipments. 
+§ 
+The monitoring of the main online market for illicit drug sales in Georgia — Matanga — indicated that 
+vendors, offers, numbers of daily transactions and values of sales, in comparison with March, 
+dropped in April and remained the same in May (Figure 3). 
+§ 
+Data from Ukraine indicated that number of detected drug sales on darknet markets in the first few 
+months of 2020 was substantially higher that the number of detected drug sales for the same period 
+in 2019. However, almost half of EWSD-COVID respondents from Ukraine reported no change in the 
+way in which they had obtained illicit substances, with only a small number indicating that they had 
+purchased illicit drugs online and on the darknet more often than they had before the COVID-19 
+pandemic. 
+ 
+Contactless purchases or drug drops, also known as ‘dead drops’, are a well-established method for streetlevel dealing in a number of east ENP countries, including Georgia, Moldova and Ukraine. This method aims 
+to minimise physical contact between dealers and buyers, and thus reduce the risk of arrest (Box 2). It has 
+been documented that, with the onset of the COVID-19 pandemic and related prevention measures, this 
+modus operandi gained popularity in Europe (EMCDDA and Europol, 2020). It is possible that this form of 
+distribution may also have become more prominent in the ENP countries after the emergence of COVID-19. 
+Further analyses of EWSD-COVID data indicate that avoiding ‘face to face contacts’ while obtaining drugs is 
+an adaptation strategy used by about 10 % of the sample. 
+ 
+ 
+ 
+
+ 
+10 
+ 
+ 
+Box 2: Drug drops or ‘dead drops’ 
+This distribution method involves the buyer transferring funds to the seller, after which the drugs are 
+deposited in a hiding place and the coordinates and a description of this hiding place are sent to the buyer 
+so they can be retrieved. Frequently, cryptocurrencies and encrypted communication channels are used, 
+such as Telegram, Wickr, Signal, etc. (EMCDDA and Europol, 2020). 
+ 
+ 
+FIGURE 3 
+Activity of Matanga darknet market in Georgia: number of vendors, offers and daily transactions, and 
+the daily values of sales from 25 March to 31 May 2020 
+ 
+ 
+Source: Data from an on-going study entitled ‘COVID-19 impact on drug markets and users’ behavior in 
+Ukraine and Georgia’, Alternative Georgia. 
+
+ 
+11 
+ 
+This, however, may be a temporary response to heightened drug law enforcement operations. In Ukraine, 
+people who use drugs indicated experiencing increased law enforcement activity (INPUD, 2020), and data 
+from the Ministry of Internal Affairs indicate an increase in seizures in the first 4 months of 2020 compared 
+with the same period of 2019. In Georgia, ‘dead drop’ activity relocated from central parts of Tbilisi to 
+neighbourhoods where the law enforcement presence and controls were not so stringent. On the other hand, 
+the Ministry of Internal Affairs of Republic of Moldova reported that the number of drug-related offences 
+(production, trafficking, distribution, possession of drugs) had significantly decreased when compared with 
+the same period in 2019 (Figure 4). This may indicate that the operations of dealers and criminal groups had 
+become more discrete, as well as a shift in law enforcement priorities towards enforcing heightened public 
+order measures during the emergency situation. 
+ 
+FIGURE 4 
+Drug law offences (crimes) in the Republic of Moldova, January to April 2019 and 2020 
+ 
+Source: Ministry of Internal Affairs of Republic of Moldova. 
+Availability — decline in availability of some drugs may have fuelled a surge in 
+prices 
+As reported in other studies, COVID-19-related confinement measures initially had a negative effect on the 
+availability of all illicit drugs, determined by temporary disruptions to global drug supply chains, due to border 
+closures, or to street-level supply, as a result of restricted movement and the increased presence of law 
+enforcement officers (EMCDDA and Europol, 2020, UNODC, 2020a). Experts from Georgia, for example, 
+reported that the availability of all drugs was affected adversely during the first weeks of the lockdown, while 
+in Moldova less cocaine, heroin, MDMA and amphetamine were seen on the market. The neighbouring 
+Ukraine also saw less cocaine and MDMA, but reported a slight increase in amphetamines and new 
+psychoactive substances. 
+This limited availability may also be reflected in the increase in prices at wholesale and retail levels. Data 
+from Georgian authorities indicate that the prices of some drugs almost doubled from October 2019 to March 
+2020, as can be seen in Figure 5. This could reflect the situation in the region as a whole, but should be 
+interpreted with caution in terms of the applicability to the other countries, since the situation differs from 
+country to country (Figure 6). The increase in heroin and cocaine prices could be explained by the fact that 
+
+ 
+12 
+ 
+these drugs are imported into the countries of the region and this process may have become more difficult as 
+a result of the confinement measures. These data are partially corroborated by people who use drugs, as, 
+although almost half of the EWSD-COVID respondents reported no change in prices after the onset of the 
+COVID-19 pandemic, around 15 % of respondents, mainly those who reported using cannabis, MDMA, LSD 
+or amphetamines in the past 30 days, indicated that prices had increased since the outbreak of COVID-19. 
+ 
+FIGURE 5 
+Evolution of drug prices at retail (street) level in Georgia from October 2019 to March 2020 
+ 
+Source: Ministry of Internal Affairs of Georgia. 
+ 
+The study provided only limited data about the purity of substances (Figure 6). 
+ 
+ 
+
+ 
+13 
+ 
+FIGURE 6 
+Changes in drug prices and purities in selected countries during initial months of COVID-19 
+pandemic 
+ 
+Source: A survey among national law enforcement experts (submitted by Armenia (06.05.2020), Georgia 
+(11.05.2020), Republic of Moldova (24.04.2020) and Ukraine (08.05.2020)). 
+How has COVID-19 affected drug use? 
+Alterations or disruptions to drug markets and drug supply may also change the drug use patterns and 
+practices of people who use drugs. In Europe, the combination of COVID-19 control measures, such as 
+restrictions on movement, the closure of entertainment venues and bans on public gatherings, and a decline 
+in access to the sellers of some substances contributed to some reduction in illicit drug consumption during 
+the early period of the COVID-19 pandemic (EMCDDA, 2020). 
+Overall, the east ENP countries have only limited monitoring tools in place to rapidly assess drug use 
+patterns at national levels. The data available from the region originate from small non-representative 
+samples of people who use drugs or expert opinions. However, when considered along with the results of 
+similar analyses from across the world and data derived from drug market analyses, they shed light on a 
+diverse picture of changes in drug use patterns in the initial phases of the COVID-19 pandemic among 
+different populations. 
+Expert opinions highlight that the decreased availability of some well-established illicit substances soon after 
+the introduction of COVID-19 control measures has led to changes in drug use habits, more erratic 
+behaviours and changes in choices of drugs. The EWSD-COVID data from Ukraine indicate that nearly a 
+quarter of people who use drugs in this sample did not change their drug use habits, while three out of 10 
+indicated using fewer drugs and one in 10 reported stopping drug use following the emergence of the 
+COVID-19 pandemic. Respondents provided diverse explanations for reductions in drug use, with the most 
+cited reasons being fewer social opportunities, constraints on living arrangements and loss of income/less 
+money to buy drugs. Health concerns, financial uncertainty and reduced ability to buy and collect drugs have 
+been also mentioned. On the other hand, one in five participants of the EWSD-COVID in Ukraine reported 
+increasing their drug use during the period under study, with reasons reported being boredom, anxiety, to 
+
+ 
+14 
+ 
+help them cope with COVID-19 and because they had stockpiled drugs. A small proportion of respondents 
+were unable to assess a change in their illicit drug use pattern since the start of the COVID-19 pandemic. 
+Overall, our findings on drug use patterns are similar to those that emerged from the EWSD-COVID data 
+from the EU countries (EMCDDA, 2020). 
+ 
+FIGURE 7 
+EWSD-COVID respondents in Ukraine reporting how their use of drugs changed after the 
+implementation of COVID-19 containment measures 
+ 
+Note: The percentages calculated for those who reported the use of one of the following substances in the 
+past 12 months were based on the following numbers: 82 persons who used cannabis, 68 who used 
+MDMA,44 who used amphetamines and 42 who used LSD. 
+Cannabis — increased for some, decreased for others, but general trend remains 
+stable 
+Overall, cannabis use patterns have remained relatively stable. 
+§ 
+Reports from Moldova indicate that cannabis use increased in the initial months of the COVID19 pandemic, while data from Georgia suggest some decrease in use during the initial weeks of 
+the pandemic, mainly attributed to strict confinement measures and an overnight curfew. 
+§ 
+Compared with other illicit drugs in Ukraine, a higher proportion of web survey respondents 
+reported using cannabis more frequently and in greater quantities during the confinement period 
+(Figure 6). It is likely that some of those who had used cannabis frequently prior to the COVID19 pandemic maintained or even increased their use, while those who had used cannabis less 
+often, in a more recreational way, were more likely to have discontinued its use. These 
+observations are consistent with the EWSD-COVID findings for the EU (EMCDDA, 2020). 
+§ 
+One in 10 respondents of the EWSD-COVID in Ukraine who had used cannabis in the study 
+period reported buying larger quantities of illicit drugs, which may indicate stockpiling. 
+
+ 
+15 
+ 
+Nevertheless, there is insufficient information to determine if this led to greater or more frequent 
+use. 
+Synthetic stimulants — divergent trends and possible emergence of home-based 
+production 
+Data on synthetic stimulant use are very divergent across the region and reflect the established use 
+behaviour in certain user groups and diversity in the choice of products resulting from domestic production, 
+meaning that these substances were relatively easy to access during the initial stages of the COVID-19 
+pandemic. 
+§ 
+There are indications of declines in amphetamine use among some groups, although experts in 
+Georgia and Ukraine reported an increase in the consumption of home-based amphetaminetype stimulants (6). 
+§ 
+An expert reported that, in Azerbaijan, some users of pharmaceutical drugs, such as tramadol or 
+pregabalin (Lyrica ®), have reported switching to the use of methamphetamine because of the 
+closure of pharmacies and the reduction in their opening hours during the pandemic. 
+§ 
+In Georgia and Ukraine, the use of new psychoactive substances, such as synthetic cathinones 
+and synthetic cannabinoids, may have declined in the initial phases of the COVID-19 pandemic. 
+This is supported by reports from Estonia indicating a decline in the supply of alpha-PVP (alphapyrrolidinopentiophenone, a synthetic cathinone) (EMCDDA, 2020). 
+MDMA use is mostly associated with recreational settings and the night-time economy, which has been 
+seriously affected by the national measures to limit the spread of COVID-19. A ban on social gatherings and 
+the closure of venues was reported across the region, except in Belarus, from the first days of pandemic: 
+§ 
+several sources used for this study point to a likely reduction in MDMA use across the region, 
+which is also consistent with the observations for the EU (EMCDDA, 2020); 
+§ 
+data from experts and targeted studies indicate that some MDMA users may have discontinued 
+use, while others may have opted for alternatives, such as LSD (e.g. Georgia) or ketamine (e.g. 
+Georgia and Ukraine). 
+Opioids — some decline in heroin availability may have driven an increase in 
+demand for opioid substitution treatment 
+National experts indicated that heroin use is likely to have reduced in the initial period of the COVID-19 
+pandemic in most of the countries studied as a result of the low availability of the drug. This has created 
+certain pressures on drug treatment services, which have witnessed an increase in demand for OST. 
+Ongoing studies in Georgia and Ukraine indicate that there was a possible increase in the misuse of 
+medicines used for OST within a month of the introduction of COVID-19 containment measures (Box 3.). 
+ 
+ 
+ 
+ 
+(6) ‘Vint’ in Ukraine and stimulants based on the ephedra plant in Georgia. 
+
+ 
+16 
+ 
+Box 3. Should there be concerns about a potential diversion of opioid 
+substitution treatment medicines? 
+Following reports of a reduced availability of heroin in the early stages of the COVID-19 pandemic, 
+signals began to emerge suggesting an increased demand for OST in several countries (Armenia, 
+Azerbaijan, Georgia and Ukraine). While most countries ensured continuous access to OST for those 
+who were already enrolled in OST programmes prior to the onset of the pandemic, mainly through 
+expanded take-home programmes, the initiation of treatment for new clients was halted or reduced 
+because of limited national capacities. At the same time, there were indications that some of the people 
+who experienced difficulties accessing their opioids of choice on the illicit market may have attempted to 
+obtain OST medicines either through acquaintances enrolled in OST programmes or, as in case of 
+Ukraine, through private practitioners. 
+An increase in the misuse of methadone, either diverted from OST programmes or from private 
+practitioners who can prescribe it for detoxification, has been reported by a study that is under way in 
+Kyiv, Ukraine. A similar study in Tbilisi, Georgia, has also reported that a sample of people who use 
+drugs had used methadone diverted from OST programmes since the onset of the COVID-19 pandemic, 
+while the same sample did not report using diverted methadone in the 12 months prior the COVID-19 
+pandemic (Figure 8). This is also consistent with reports from Georgian harm reduction services of a 
+decrease in demand for 1-ml syringes, while requests have increased for larger volume instruments, of 
+5, 10 and 20 ml, reportedly used for injecting methadone. 
+These findings need to be interpreted with caution and in the context of the long-term presence of ‘street 
+methadone’ (1) in some countries. For example, Ukraine reported illicit methadone seizures in 2019 as 
+well as methadone-related deaths in 2018 (CMHMDA, 2019) and Ukrainian experts indicated that 
+production of the illicit methadone has been on raise also in the beginning of the year. Close monitoring 
+will be required in the coming months to assess the share of diverted OST in the illicit drug market, the 
+possible long-term risk of diversion of OST medicines and the need to implement relevant risk reduction 
+measures, such as introduce and monitor application of prescription guidelines and good practices that 
+balance potential harms with the well-documented public health benefits of OST. 
+ 
+ 
+(1) Street methadone in this context refers to an illicitly produced substance that is called ‘methadone’ by people who use drugs and 
+that is available on the illicit market in many former Soviet Union countries. It comes as a powder and is injected and is sometimes 
+also referred to as ‘crystal methadone’. 
+ 
+ 
+
+ 
+17 
+ 
+FIGURE 8 
+Trends in use of street methadone and buprenorphine-based products and misuse of methadone 
+and buprenorphine-based medicines among two cohorts of people who use drugs in Kyiv, Ukraine, 
+and Georgia, April-June 2020 
+ 
+Source: Data from an ongoing study entitled ‘COVID-19 impact on drug markets and users’ behavior in 
+Ukraine and Georgia’, Ukrainian Institute of Public Health and Policy and Alternative Georgia. The question 
+asked in the survey was ‘Indicate which substance did you use during the past 14 days without doctor’s 
+prescription and by what route’. 
+Other psychoactive substances — use as replacements for or to enhance effects of 
+illicit drugs 
+The study highlights that people who use drugs may have increased their consumption of alcohol and 
+pharmaceutical drugs with psychotropic effects (e.g. muscle relaxants (7), sedatives) during the pandemic in 
+the absence of their main drug of choice or in addition to a reduced amount of their main substance of choice 
+due to decreased availability. The Eurasian Harm Reduction Association (EHRA) also observed that, as 
+access to some substances became more difficult, people who use drugs resorted to using other substances 
+that they were able to obtain, including various prescription drugs mixed with alcohol (EHRN, 2020). 
+ 
+ 
+(7) A group of chemical compounds used to relax the skeletal muscles. 
+
+ 
+18 
+ 
+What has been the impact of COVID-19 on the occurrence of 
+drug-related harms and what are the other health and social 
+consequences? 
+Unsafe injecting practices are a well-documented risk factor for the transmission of blood-borne viruses such 
+as HIV and the hepatitis viruses among people who inject drugs. While somewhat limited information 
+emerged from the surveys in terms of the impact of COVID-19 on drug-related harms and other health and 
+social consequences, reports from Georgia and Ukraine indicated that some risky injecting practices, such 
+as the sharing of substances and injection equipment among users, may have increased during the early 
+phase of the pandemic. This was reportedly because, following the introduction of COVID-19-related 
+confinement measures, it became more difficult to acquire and distribute clean injecting equipment. Experts 
+from Georgia shared examples of people who use drugs helping each other to find clean equipment and/or 
+sharing clean equipment, but also sometimes illicit substances, at times free of charge. In addition, the study 
+found evidence for a reduced uptake of testing for blood-borne viruses in some countries. 
+Information about the impact of COVID-19 on the occurrence of fatal and non-fatal drug-related overdoses 
+was not available at the time of the study. However, drug professionals who participated in the study 
+expressed concerns that the illicit use of methadone, as well as the supplementing of illicit drugs with 
+sedatives or new psychoactive substances, could have contributed to a higher risk of overdose. To address 
+this possibility, experts in Ukraine reported that efforts were made to increase naloxone availability at the 
+community level. The prevention of overdose as well as the provision of advice on the reduction of harms 
+associated with the use of NPS are pertinent among people who use drugs, as also reported by respondents 
+of the EHRA study (EHRA, 2020). 
+What has been the main impact of COVID-19 on the delivery of 
+drug-related health services and how have these services 
+adapted to the emergency? 
+The coronavirus pandemic is reported to have affected both the availability of and the demand for drugrelated services. One of the leading experts in the region noted that the emergence of COVID-19 was a 
+‘catalyser of change for development and innovation’ in drug-related services where there was a perceived 
+need. From one side, the introduction of restrictions, in terms of the movement of people, physical distancing 
+measures, the unavailability of public transport and policies to limit non-emergency care, have resulted in a 
+decrease in the availability of and access to services. At the same time, some adaptations took place within 
+a matter of days to ensure uninterrupted treatment and care for people who use drugs. 
+These results are corroborated by findings from a recent survey of 222 people who use drugs from 50 
+countries, implemented by the International Network of People Who Use Drugs (INPUD). This study also 
+found that access to harm reduction services had decreased and that some government-run services had 
+been closed completely because of COVID-19. In some countries, such as Belarus, INPUD reports that the 
+only drug services that remained operational and accessible were those run by NGOs and peers (INPUD, 
+2020). 
+ 
+
+ 
+19 
+ 
+Opioid substitution treatment — increase in demand and upscaling of take-home 
+doses 
+§ 
+Armenia, Azerbaijan, Belarus, Georgia and Ukraine witnessed an increase in OST demand in 
+the early stages of the COVID-19 pandemic, probably resulting from a combination of: a 
+reduction or absence of heroin on the market; changes in OST delivery modalities that made 
+services more accessible; and the loss of income of drug users. 
+§ 
+Armenia, Georgia, Moldova and Ukraine put in place appropriate actions in the first weeks of the 
+pandemic to either scale up the distribution of take-home OST medicines or implement a takehome OST provision for the first time (EHRA, 2020). The take-home doses ranged from 5 to 10 
+days’ supply. This may have also contributed to improved treatment adherence among clients. 
+§ 
+In Ukraine, the Alliance of Public Health reported that more than 95 % of almost 13 000 OST 
+clients were receiving up to 10 days’ take-home medication by the end of March. This was 
+complemented by psycho-social support provided remotely via Skype, Viber or phone. 
+§ 
+At the same time, many countries had to cease accepting new clients for national OST 
+programmes, mainly because of the existing ceiling in the number of treatment places in OST 
+programmes or shortages of medicines. 
+§ 
+The Ministry of Health and service providers in Moldova reported having difficulties importing 
+OST medication from an Italian-based producer. Extra efforts were made by national authorities, 
+international organisations and partners in neighbouring countries to import the treatment 
+supplies needed from Ukraine. 
+Telemedicine, and ‘remote’ and contactless services — a new development for 
+many drug-related health services 
+When physical access to services was limited and to ensure social distancing and comply with ‘stay at home’ 
+requirements, most providers explored the use of one or more types of telemedicine or remote services, or 
+introduced mobile services. For example, in Ukraine online consultations were organised through the 
+national hotline on drug dependence issues as an alternative to face-to-face consultations. Postal or home 
+deliveries were also used to ensure the uninterrupted supply of antiretroviral medications for the treatment of 
+HIV infection; in this region, many of those infected with HIV are people who use drugs. 
+Overcoming challenges and ensuring a safe environment for clients and staff 
+Whether in a hospital or an outpatient clinic, or through low-threshold or harm reduction services, the safety 
+and security of staff is crucial to protect not only health workers but also clients, many of whom are 
+potentially vulnerable to infection with SARS-CoV-2, the virus responsible for COVID-19. At the time of the 
+study, only a few cases of SARS-CoV-2 infection had been reported among people who use drugs in the 
+east ENP countries. Overall, services adjusted quickly to the new situation; however, there have been 
+numerous challenges. The lack of the human resources needed to continue to provide drug-related health 
+services on the one hand, caused even by staff being unable to get to service locations, and the 
+unavailability or scarcity of personal protective equipment (PPE) on the other hand have been experienced 
+acutely in the region. Nevertheless, protective measures, sanitisers, disinfectants, gloves and masks had 
+been put in place in services that continue to receive clients. Some services have relocated from within the 
+healthcare premises to elsewhere. Health experts have also shared anecdotal details of cases when they 
+had to address common misconceptions and beliefs related to the SARS-CoV-2 infection risk. 
+
+ 
+20 
+ 
+What is the outlook following COVID-19 for east ENP 
+countries? 
+After almost four months of the lockdown measures implemented by governments in the east ENP countries, 
+these measures are gradually being relaxed by some countries, while other countries, such as Armenia, and 
+Azerbaijan, maintain, as at end of July 2020, the strict control measures because of a resurgence in cases of 
+COVID-19 in the population. 
+As reported by this study as well as a Europe-wide trendspotter study (EMCDDA, 2020), COVID-19 control 
+measures have affected, in different ways, the drug supply and drug markets, drug use and drug-related 
+related harms, as well as access to and uptake of drug-related services. While countries have learned much 
+during this unprecedented international public health emergency posed by SARS-CoV-2, many questions 
+remain unanswered. Uncertainties exist about what the ‘new normal’ will look like after the reopening of 
+national borders, shops, restaurants and the many other places where large numbers of people congregate, 
+as well as how possible second waves of coronavirus infection could impact on drug supply, drug markets, 
+drug use, drug-related harms and drug services. 
+What will happen to drug markets in the east ENP region as 
+countries emerge from the lockdown? 
+As reported in this study, the impact of COVID-19 on drug markets in the east ENP countries may have 
+resulted in fewer seizures and lower volumes of seizures, and drugs being more difficult to access, at least at 
+the beginning of the pandemic, when lockdown measures were first introduced. Furthermore, disruptions to 
+the supply of precursors seem to have remained timebound, as criminal groups quickly adapted to the new 
+situation and adjusted their actions. 
+What will happen to the quantity and weight of seizures, as well as the availability of precursors, when 
+international borders reopen remains to be seen. Nevertheless, law enforcement experts considered it 
+essential to strengthen border control in general as well as to control the illicit trafficking of precursors. 
+There is some anticipation that, following a disruption in drug sales, an activation of criminal networks may 
+be observed post COVID-19. Some changes in terms of the sale of drugs and distribution methods observed 
+during the initial stages of the COVID-19 epidemic may continue to persist. Special attention should be paid 
+to monitoring online and darknet markets. The law enforcement experts consulted in the region agreed upon 
+the need to invest more in the training of drug law enforcement officers in investigating and countering 
+darknet drug markets. In addition, the importance of relevant equipment and tools was highlighted by the 
+countries. Finally, the role of enhanced cooperation between relevant agencies, including international 
+cooperation, was viewed as critical because of the nature of the pandemic. 
+How will COVID-19-related measures affect drug use, drugrelated harms and drug services in the short to medium term? 
+Changes in patterns of drug use have emerged, as reported by this study: while the availability of some 
+substances decreased during the early stages of the pandemic, there was an increase in the demand for and 
+use of other illicit and licit substances. At the same time, some people who use drugs reported a reduction in 
+drug use or discontinuing use altogether. It is possible that, following the opening of international borders, 
+there will be an increase in the supply and availability of some substances. Such a scenario is of concern, as 
+people who used drugs such as opioids less during the lockdown may be at an increased risk of drug-related 
+overdose due to a decrease in their tolerance levels. Considering the limited access to harm reduction 
+
+ 
+21 
+ 
+services in most countries during the lockdown, coupled with the common practice of sharing injection 
+equipment, there may be some increased risk of acquiring blood-borne viruses during this period. 
+COVID-19 has certainly caused disruptions in the provision of drug-related services, while also providing an 
+opportunity to innovate and develop new modes of service delivery. Service disruptions are of concern, as 
+people who use drugs need services on an ongoing basis, as interruptions to access to services can lead to 
+an increased risk of infectious diseases, as well as fatal and non-fatal overdoses, among many other harms. 
+Some ‘lessons learned’ were reported by health service providers interviewed as part of this study. Perhaps 
+the most important recommendation was for health services to ‘be prepared’ and have comprehensive drugrelated crisis management plans in place in case of a second wave of coronavirus. The east ENP countries 
+already face challenges related to limited financial and human resources in healthcare; nonetheless, 
+services were able to adapt and innovate quickly despite the novel situation. 
+Some of these innovations, such as online consultations and psychological support, take-home medicines 
+such as those used for OST, alternative approaches to the distribution of harm reduction equipment, social 
+distancing and other measures such as a ‘quota’ for the maximum number of clients in a room at a given 
+time and the distribution and use of PPE, may well become routine practice in some healthcare settings, at 
+least until an effective treatment for COVID-19 or a vaccine against the virus that causes it becomes 
+available. Ethical aspects may require careful consideration should the use of ‘remote’ and ‘online’ services 
+continue as common service delivery approaches. Finally, the ongoing education, training and protection of 
+healthcare staff and clients remain at the core of the COVID-19 response of drug-related health services. 
+ 
+ 
+ 
+
+ 
+22 
+ 
+References 
+CARICC (Central Asian Regional Information and Coordination Centre for Combating the Illicit Trafficking of 
+Narcotic Drugs, Psychotropic Substances and their Precursors) (2020a), CARICC weekly summary — 
+unofficial translation: 02.03-08.03.2020, 
+https://caricc.org/index.php/en/publications/reports/item/download/1367_9b7ba73d09fd22d392f834f0d51e3a
+f8, accessed on 27 July 2020. 
+CARICC (2020b), CARICC weekly summary — unofficial translation: 09.03-15.03.2020, 
+https://caricc.org/index.php/en/publications/reports/item/download/1372_044963a62e276a4677782545a018f
+bad, accessed on 27 July 2020. 
+CARICC (2020c), CARICC weekly summary — unofficial translation: 16.03-22.03.2020, 
+https://caricc.org/index.php/en/publications/reports/item/download/1374_cd771c4833a8aa0c2f78d16bd5209
+c3e, accessed on 27 July 2020. 
+CARICC (2020d), CARICC weekly summary — unofficial translation: 23.03-29.03.2020, 
+https://caricc.org/index.php/en/publications/reports/item/download/1376_6f12102fb4626f2390cb0146d65590
+93, accessed on 27 July 2020. 
+CARICC (2020e), CARICC weekly summary — unofficial translation: 30.03-05.04.2020, 
+https://caricc.org/index.php/en/publications/reports/item/download/1378_e0bbf1d75f84a0e83ced2abc11d374
+07, accessed on 27 July 2020. 
+CARICC (2020f), CARICC weekly summary — unofficial translation: 06-12.04.2020, 
+https://caricc.org/index.php/en/publications/reports/item/download/1380_704b291237a69dee152849d0c94c3
+dee, accessed on 27 July 2020. 
+CARICC (2020g), CARICC weekly summary — unofficial translation: 13-19.04.2020, 
+https://caricc.org/index.php/en/publications/reports/item/download/1382_a16064b78a524cf9381d1bf9a16bb9
+50, accessed on 27 July 2020. 
+CARICC (2020h), CARICC weekly summary — unofficial translation: 20-26.04.2020, 
+https://caricc.org/index.php/en/publications/reports/item/download/1384_d4f16b3e1f609ee0bfe06348c74c78
+95, accessed on 27 July 2020. 
+CMHMDA (Center for Mental Health and Monitoring of Drugs and Alcohol of the Ministry of Health of 
+Ukraine) (2019), The 2019 report on the drug situation in Ukraine, CMHMDA, Kiev. 
+Dumbadze, A. (2020), ‘MIA, US Central Criminal Department Seize 40 kg of Heroin in Joint Operation’, 
+Georgia Today, 26 April 2020 (http://georgiatoday.ge/news/20848/MIA%2C-US-Central-CriminalDepartment-Seize-40-kg-of-Heroin-in-Joint-Operation). 
+EHRA (Eurasian Harm Reduction Association) (2020), Harm reduction programmes during the COVID-19 
+crisis in central and eastern Europe and central Asia, Eurasian Harm Reduction Association 
+(https://harmreductioneurasia.org/hr-programs-overview-in-a-covid-19-situation/). 
+EMCDDA (European Monitoring Centre for Drugs and Drug Addiction) (2016), Ukraine country overview, 
+https://www.emcdda.europa.eu/countries/ukraine_en, accessed on 27 July 2020. 
+EMCDDA (2018), Trendspotter manual: a handbook for the rapid assessment of emerging drug-related 
+trends, EMCDDA Manuals 10, Publications Office of the European Union, Luxembourg 
+(https://www.emcdda.europa.eu/publications/manuals/trendspotter-manual_en). 
+EMCDDA (2020), Impact of COVID-19 on patterns of drug use and drug-related harms, EMCDDA 
+trendspotter briefing, EMCDDA, Lisbon (https://www.emcdda.europa.eu/publications/ad-hocpublication/impact-covid-19-patterns-drug-use-and-harms_en). 
+
+ 
+23 
+ 
+EMCDDA (forthcoming), Emerging drug-related trends and threats in eastern European Neighbourhood 
+Policy (ENP) area. 
+EMCDDA and Europol (2020). EU drug markets: impact of COVID-19, Publications Office of the European 
+Union, Luxembourg (https://www.emcdda.europa.eu/publications/joint-publications/eu-drug-markets-impactof-covid-19_en). 
+INPUD (International Network of People Who Use Drugs) (2020), COVID-19 survey report 1: health & rights 
+of people who use drugs in a COVID-19 environment, INPUD, London (https://www.inpud.net/es/en/covid19-survey-report-1-health-rights-people-who-use-drugs-covid-19-environment). 
+Otiashvili, D., Kirtadze, I. and Bergen-Cico, D. (2017), ‘Exploring the new phenomena of home-made 
+extraction and injection of ephedra plant product in Georgia’, Substance Use and Misuse 52(6), pp. 826-829, 
+doi:10.1080/10826084.2016.1263664. 
+UNAIDS (Joint United Nations Programme on HIV/AIDS) (2019), Trend of new HIV infections, 
+https://aidsinfo.unaids.org/, accessed on 27 July 2020. 
+UNODC (United Nations Office on Drugs and Crime) (2019), World drug report 2018, UNODC, Vienna. 
+UNODC (2020a), Research brief: ‘COVID-19 and the drug supply chain: from production and trafficking to 
+use’, UNODC, Vienna. https://www.unodc.org/documents/data-and-analysis/covid/Covid-19-and-drugsupply-chain-Mai2020.pdf 
+UNODC (2020b), Annual drug seizures, https://dataunodc.un.org/data/drugs/Annual%20Drug%20Seizures, 
+accessed on 27 July 2020. 
+ 
+Resources on COVID-19 
+EMCDDA 
+Topics page on COVID-19 and drugs: http://www.emcdda.europa.eu/topics/covid-19 
+ 
+Europe 
+European Centre for Disease Prevention and Control: https://www.ecdc.europa.eu/en/novel-coronaviruschina 
+European Commission action and response team: https://ec.europa.eu/info/live-work-traveleu/health/coronavirus-response_en 
+European Science Media Hub (European Parliament): https://sciencemediahub.eu/ 
+WHO Europe: http://www.euro.who.int/en/home 
+ 
+World 
+Centers for Disease Control and Prevention: https://www.cdc.gov/coronavirus/2019-nCoV/index.html and 
+https://www.cdc.gov/coronavirus/2019-ncov/community/homeless-shelters/plan-prepare-respond.html 
+WHO: https://www.who.int/emergencies/diseases/novel-coronavirus-2019 
+ 
+
+ 
+24 
+ 
+Acknowledgements 
+The EU4MD trendspotter team and other EMCDDA staff members (in alphabetical order): Anne 
+Bergenström, Alessandro Pirona, Frédéric Denecker, Ionut Serbanica, Ilze Jekabsone, João Matias, Jane 
+Mounteney, Kateřina Škařupová, Paul Griffiths, Robert Patrancus, Thomas Néfau, Vanda Moreira. 
+ 
+The experts in the east ENP countries who provided data (in alphabetical order): Anna Asatryan, Alexey 
+Alexandrov, Anton Basenko, Yurii Buchinski, Garegin Dallakyan, Konstyatyn Dumchev, Artashes 
+Ghambaryan, Irma Kirtadze, Nika Kobakhidze, Natalia Lebed, Hela Kalandiia, Andrei Modringa, Ivan 
+Ponomarev, David Otiashvili, Levan Salamadze, Ketevan Sarajishvili, Dmytro Shved, Aysel Sultan, Kateryna 
+Terykh, Olga Varetska, Dumitru Vleju; the EU4MD national contact persons; and the respondents to the 
+European Web Survey on Drugs — Impact of COVID-19 in the ENP countries.

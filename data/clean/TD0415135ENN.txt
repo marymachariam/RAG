@@ -1,0 +1,753 @@
+An update from the EU Early Warning System 
+March 2015
+New psychoactive 
+substances in Europe
+
+Praça Europa 1, Cais do Sodré, 1249-289 Lisbon, Portugal 
+Tel. +351 211210200 
+info@emcdda.europa.eu I www.emcdda.europa.eu 
+twitter.com/emcdda I facebook.com/emcdda
+I Legal notice
+This publication of the European Monitoring Centre for Drugs and Drug Addiction (EMCDDA) is protected by 
+copyright. The EMCDDA accepts no responsibility or liability for any consequences arising from the use of the data 
+contained in this document. The contents of this publication do not necessarily reflect the official opinions of the 
+EMCDDA’s partners, any EU Member State or any agency or institution of the European Union.
+Europe Direct is a service to help you find answers to your questions about the European Union.
+Freephone number (*): 00 800 6 7 8 9 10 11
+(*) The information given is free, as are most calls (though some operators, phone boxes or hotels may charge you).
+More information on the European Union is available on the Internet (http://europa.eu).
+Luxembourg: Publications Office of the European Union, 2015
+ISBN: 978-92-9168-764-0 
+doi:10.2810/372415
+© European Monitoring Centre for Drugs and Drug Addiction, 2015 
+Reproduction is authorised provided the source is acknowledged. 
+Photo credits: iStock, alamy.
+Recommended citation: European Monitoring Centre for Drugs and Drug Addiction (2015), New psychoactive 
+substances in Europe. An update from the EU Early Warning System (March 2015), Publications Office of the 
+European Union, Luxembourg.
+Available online: www.emcdda.europa.eu/publications/2015/new-psychoactive-substances
+Printed in Spain
+Printed on elemental chlorine-free bleached paper (ECF)
+
+ I Contents
+4 I Introduction
+4 I At a glance
+6 I The market in new psychoactive substances
+8 I Synthetic cannabinoids
+9 I Synthetic cathinones
+10 I Opioids
+10 I Monitoring and responding to serious harms
+10 I Summary
+10 I Resources
+Acknowledgements
+The EMCDDA would like to thank the national early warning systems and the Reitox 
+national focal points in the EU Member States, Turkey and Norway.
+Authors: Michael Evans-Brown, Ana Gallegos, William Francis, Rachel Christie, 
+Andrew Cunningham, Joanna Sekula, Anabela Almeida and Roumen Sedefov
+
+4
+I Introduction
+This short report provides an update on new psychoactive 
+substances (NPS) in Europe for 2014. It is based on an 
+analysis of information collected by the EU Early Warning 
+System, which includes the 28 Member States of the 
+European Union, Turkey and Norway (see opposite). The 
+report highlights recent developments, including the 
+growth of the market over the past few years, as illustrated 
+by seizures by law enforcement and other indicators, as 
+well as the growing number of serious harms that are being 
+reported as a result. The seizure data collected on NPS 
+presented in this report should be regarded as minimum 
+estimates due to the lack of standardised reporting in this 
+area. It should be noted that these data are not directly 
+comparable with the data on established illicit drugs. 
+I At a glance
+Over the past five years or so there has been an 
+unprecedented increase in the number, type and 
+availability of new psychoactive substances in Europe. 
+Continuing this trend, during 2014 a total of 101 new 
+substances were reported for the first time to the EU Early 
+Warning System: 31 cathinones, 30 cannabinoids, 
+9 phenethylamines, 5 opioids, 5 tryptamines, 
+4 benzodiazepines, 4 arylalkylamines and 13 substances 
+that do not conform to the aforementioned groups 
+(Figure 1). This brings the total number of substances 
+being monitored by the European Monitoring Centre for 
+Drugs and Drug Addiction (EMCDDA) to more than 450 
+— close to double the number of substances controlled 
+under the United Nations international drug control 
+conventions — with more than half of these being reported 
+in the last three years alone. 
+Seizure data from law enforcement also confirm the 
+growth and importance of this drug market. Between 2008 
+and 2013 there was a seven-fold increase in the number of 
+seizures reported across Europe. In 2013 almost 47 000 
+seizures weighing more than 3.1 tonnes (Figures 2 and 3) 
+were reported to the EU Early Warning System. Synthetic 
+cannabinoids, which are sold as legal replacements for 
+cannabis, accounted for the majority of these figures, with 
+over 21 000 seizures weighing almost 1.6 tonnes. 
+Synthetic cathinones, which are sold as legal 
+replacements for stimulants such as amphetamine and 
+MDMA, were the second largest group, with almost 11 000 
+seizures weighing more than 1.1 tonnes. Together, 
+synthetic cannabinoids and cathinones accounted for 
+almost 70 % of the total number of seizures and over 85 % 
+of the weight seized during 2013 (Figure 3). 
+Since 1997, the EMCDDA has played a central role in 
+Europe’s response to new psychoactive substances. 
+Its main responsibilities in this field are to operate the 
+EU Early Warning System, with its partner Europol, 
+and to undertake risk assessments of new 
+substances when necessary. The EU Early Warning 
+System works by collecting information on the 
+appearance of new substances from the 28 Member 
+States, Turkey and Norway, and then monitoring them 
+for signals of harm, allowing the EU to respond rapidly 
+to emerging threats.
+More information can be found on the EMCDDA 
+website under Action on new drugs (emcdda.europa.
+eu/activities/action-on-new-drugs).
+EU Early Warning System
+Key figures
+101 new psychoactive substances reported for the first 
+time in 2014 
+More than 450 new psychoactive substances currently 
+being monitored by the EMCDDA
+46 730 seizures of new psychoactive substances 
+amounting to more than 3.1 tonnes in 2013
+21 495 seizures of synthetic cannabinoids amounting to 
+almost 1.6 tonnes in 2013
+10 657 seizures of synthetic cathinones amounting to 
+more than 1.1 tonnes in 2013
+Seven-fold increase in reported seizures of new 
+psychoactive substances between 2008 and 2013
+299 different new psychoactive substances detected 
+across Europe in 2013, including many of those seen in 
+previous years
+16 public health alerts issued in 2014
+6 risk assessments in 2014
+
+5
+An update from the EU Early Warning System I March 2015
+FIGURE 1
+Number of new psychoactive substances reported to the 
+EU Early Warning System, 2005–14
+2005
+2006
+2007
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+101
+Piperazines
+Benzodiazepines
+Arylamines
+Tryptamines
+Opioids
+Phenethylamines
+Others
+Synthetic cannabinoids
+Synthetic cathinones
+20
+0
+40
+60
+80
+100
+FIGURE 2
+Number of seizures of new psychoactive substances per 
+country (map) and proportion of seizures by category of 
+substance (pie chart), 2013
+2 %
+2 %
+>1 500
+500–1 499
+100–499
+<100
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1
+.
+6
+ 
+t
+o
+n
+n
+e
+s
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1
+.
+1
+ 
+t
+o
+n
+n
+e
+s
+46 %
+12 %
+6 %
+23 %
+8 %
+0.2 %
+1 %
+Piperazines
+Benzodiazepines
+Arylamines
+Tryptamines
+Opioids
+Phenethylamines
+Others
+Synthetic cannabinoids
+Synthetic cathinones
+The growth in the market is also responsible for the 
+increase in serious harms reported to the EMCDDA in 
+recent years. Most of these concern non-fatal intoxications 
+and deaths, but they also include broader social harms, 
+such as those caused by high-risk drug users switching 
+from injecting heroin to synthetic cathinones. During 2014 
+serious harms that required urgent attention led to 
+16 public health alerts being issued by the EMCDDA, while 
+6 new substances — 25I-NBOMe, AH-7921, 
+methoxetamine, MDPV, 4,4′-DMAR and MT-45 — required 
+risk assessment by the EMCDDA’s Scientific Committee. 
+It is likely that the growth of the market in new 
+psychoactive substances will continue to pose a range of 
+challenges for public health and drug policy over the next 
+few years. The major drivers of many of these are the 
+speed at which they appear, their open sale, and that there 
+is little or no information on their effects and harms. The 
+stimulant 4,4′-DMAR and the opioid MT-45 are prime 
+examples of the challenges faced, and demonstrate just 
+how rapidly new psychoactive substances can move from 
+obscurity to infamy by causing serious harm, with 59 
+deaths from these two substances reported in just one 
+year. It is here that strong early warning systems can play a 
+critical role in ensuring a timely response in order to 
+protect public health.
+FIGURE 3
+Number of seizures of new psychoactive substances and 
+quantity seized, 2005–13
+1 600
+800
+2 400
+3 200
+4 000
+10 000
+20 000
+30 000
+40 000
+50 000
+2005
+2008
+2007
+2006
+2009
+2010
+2011
+2012
+2013
+in seizures 2008–13
+7-fold increase
+Number of seizures
+Quantity seized (kg)
+ 
+Note: 2009 data exclude six tonnes of ketamine seized by one country, due 
+to a lack of contextual information.
+
+6
+I
+ The market in new psychoactive 
+substances
+Until about a decade ago, only a handful of new 
+psychoactive substances were reported each year in 
+Europe. Most were sold on the illicit drug market, where 
+they would usually be passed off as amphetamine or 
+ecstasy. Some were specifically sold and sought after by 
+name; others were sold as a new type of ‘ecstasy’. They 
+were produced in small amounts in amateur laboratories or 
+on a commercial scale in clandestine laboratories by 
+organised crime groups. These new psychoactive 
+substances were called ‘designer drugs’. Today, such 
+drugs are still a part of Europe’s drug market. Usually they 
+appear as a result of the activities of organised crime. 
+Sometimes this is because these criminal groups use an 
+uncontrolled precursor chemical and end up making a new 
+substance either accidentally or deliberately; this has been 
+the case with MDMA manufacturers making PMMA, and, 
+more recently, amphetamine manufacturers making 
+4-methylamphetamine (see ‘Organised crime and the new 
+psychoactive substances market’). At other times, new 
+psychoactive substances can emerge from this route 
+because established illicit drugs are in short supply.
+The emergence of the ‘legal highs’ and ‘research 
+chemicals’ markets, which took off in the mid-2000s with 
+the stimulants BZP and methylone (soon followed by 
+mephedrone), was largely responsible for the dramatic 
+growth in the market in recent years, and for catapulting 
+new psychoactive substances onto the global policy 
+agenda. Key to the success of both these markets was the 
+fact that they were sold openly in specialised ‘head shops’ 
+in towns and cities as well as via the Internet.
+One of the largest groups of ‘legal high’ products is smoking 
+mixtures that contain synthetic cannabinoids, which are 
+intended as legal replacements to cannabis. These products 
+were first popularised in Europe by the ‘Spice’ brand in the 
+mid-2000s which were sold as herbal smoking mixtures 
+under the guise of incense or room odorisers, but since then 
+hundreds of different products have been advertised and 
+sold. These products have also been responsible for a large 
+number of serious harms in recent years, exemplified by 
+outbreaks of intoxications requiring emergency treatment in 
+hospital in the United States and Russia. 
+Alongside the ‘legal highs’ and ‘research chemicals’ 
+markets is a range of products containing new 
+psychoactive substances that are sold under the guise of 
+being ‘food supplements’ (Figure 4). These products are 
+aimed not at recreational drug users but at the growing 
+number of people looking to enhance their body and mind, 
+allowing new psychoactive substances to reach new 
+groups of consumers. One such substance that was 
+detected for the first time in Europe in 2014 is adrafinil, 
+which is a derivative of the medicine modafinil. This 
+substance is sold as a ‘nootropic’ supplement with claims 
+that it will increase energy, focus and memory.
+New psychoactive substances can also emerge on the drug 
+market from the diversion of medicines. In recent years this 
+group has become more important as a result of the misuse 
+of prescribed medicines within the EU and the growing 
+illegal importation of medicines from outside the EU.
+Although there is limited evidence of the involvement 
+of organised crime groups in the market, it appears 
+that this is an emerging threat. Perhaps in an effort to 
+increase profits, clandestine synthetic production 
+within the EU — normally associated with synthetic 
+drugs such as amphetamine and MDMA — has been 
+reported for new psychoactive substances in the 
+past few years; while chemical precursors for 
+producing these substances have also been seized 
+by law enforcement agencies at clandestine synthetic 
+drug production facilities.
+Organised crime and the new 
+psychoactive substances market
+
+7
+An update from the EU Early Warning System I March 2015
+FIGURE 4
+The new psychoactive substances market
+Legal highs
+Marketed in bright and attractive 
+packaging. Sold openly in head/smart 
+shops and online. Aimed at recreational 
+users.
+Research chemicals
+Sold under the guise of being used for 
+scientific research. Aimed at 
+'psychonauts' who explore the effects of 
+psychoactive substances. Sold openly 
+online.
+Food supplements
+Sold under the guise of being food or 
+dietary supplements. Aimed at people 
+wanting to enhance their body and mind. 
+Sold openly in fitness shops and online.
+Designer drugs
+Passed off as drugs such as MDMA and 
+heroin. Produced in clandestine labs by 
+organised crime. Sold on illicit drug 
+market by drug dealers. 
+Medicines
+Medicines that are diverted from patients 
+or illegally imported into Europe. Sold on 
+illicit drug market by drug dealers. 
+Overall, the growth in the market of new psychoactive 
+substances has only been possible because of the growing 
+interconnectedness of the world, driven by globalisation 
+and the Internet. Many of the new psychoactive 
+substances that are destined for these markets are 
+produced in bulk by chemical companies based in China 
+and India, and shipped to Europe by air freight, where they 
+are processed, packaged and then sold to consumers 
+(see ‘Processing and packaging “legal highs” in Europe’). 
+In 2013 the EMCDDA’s monitoring of Internet shops 
+identified 651 selling ‘legal highs’ or ‘research chemicals’ 
+to EU consumers. There are many more shops that sell 
+food supplements that contain new psychoactive 
+substances, but these are not routinely monitored by drug 
+monitoring systems.
+In 2014, in one EU country police dismantled a 
+processing and packaging facility that was producing 
+a range of ‘legal high’ products, including smoking 
+mixtures, which were intended as legal replacements 
+for cannabis. The seizure included large quantities of 
+the synthetic cannabinoid cumyl-5F-PINACA in liquid 
+form; 1 tonne of non-processed herbal material sent 
+from two other EU countries and Australia; acetone, 
+propylene glycol, vegetable glycerine, various aromas 
+and food colourants. At this facility the synthetic 
+cannabinoid was mixed with acetone, sprayed onto 
+plant material and then packaged as smoking 
+mixtures using the 150 kg of empty printed foil bags 
+sent from China.
+Processing and packaging ‘legal highs’ 
+in Europe
+Estimating the prevalence of use of new psychoactive 
+substances is often a challenge, especially through general 
+population surveys. One insight is provided by the 2014 
+Flash Eurobarometer, a survey of just over 13 000 young 
+adults aged 15–24 in the EU Member States, which asked 
+about the use of new psychoactive substances. It found 
+that 8 % of respondents had used a new psychoactive 
+substance at least once, with 3 % using them in the last 
+year. The highest levels of use in the last year were in 
+Ireland (9 %), Spain, France (both 8 %), and Slovenia (7 %), 
+with the lowest reported by Malta and Cyprus (0 %). Most 
+respondents who had used new substances in the last 
+year either bought them from, or were given them by, a 
+friend (68 %). Just over a quarter (27 %) bought them from 
+a drug dealer, while 10 % purchased them from a 
+specialised shop and 3 % bought them on the Internet 
+(multiple answers were possible).
+While the 101 new substances reported for the first time in 
+2014 to the EU Early Warning System are from a diverse 
+number of chemical families with various pharmacological 
+effects that span the range of drugs controlled under the 
+UN International Drug Control Treaties, this report focuses 
+on three groups: the synthetic cannabinoids and synthetic 
+cathinones, which together are the largest group of new 
+psychoactive substances that are monitored; and the 
+opioids, many of which pose an especially serious risk to 
+public health.
+
+8
+I Synthetic cannabinoids
+Synthetic cannabinoids were first detected in Europe 
+towards the end of 2008. In 2014 a further 30 new 
+synthetic cannabinoids were reported for the first time, 
+bringing the total number reported to the EU Early Warning 
+System to 134. This makes the synthetic cannabinoids the 
+largest group of substances monitored by the EMCDDA, 
+and reflects the overall demand for cannabis within Europe 
+and the rapid pace by which manufacturers can produce 
+and supply new cannabinoids in order to circumvent drug 
+laws (Figure 5). The overall importance of these 
+substances is also reflected in seizure data. In 2013 over 
+21 000 seizures were reported, comprising more than 
+FIGURE 5
+Rapid replacement of synthetic cannabinoids on the European market
+Substance
+JWH-018
+JWH-018 
+adamantyl 
+derivative
+JWH-018 
+adamantyl 
+carboxamide
+(Apica)
+AKB48 
+(Apinaca)
+5F-AKB48
+Year of first 
+detection
+2008
+2011
+2012
+2012
+2012
+Number of seizures 
+in 2013
+162
+8
+98
+404
+3 362
+40 % of the total number of seizures for new psychoactive 
+substances (Figure 3). The total weight of the seizures in 
+2013 came to just under 1.6 tonnes (Figures 6 and 7); 
+about 0.6 tonnes was seized as powder, often in bulk 
+amounts; the remaining amount was often seized as plant 
+material. These powders are used to manufacture ‘legal 
+high’ products, and represent millions of doses; 10 
+cannabinoids accounted for approximately 90 % of the 
+total weight of powders seized in 2013, with 39 other 
+cannabinoids making up the remainder. Notable seizures 
+of powders in 2013 include 182 kg of AM-2201, 115 kg of 
+5F-UR-144, and 114 kg of 5F-AKB48. Between 2008 and 
+2013 there has been a 200-fold increase in the number of 
+seizures of synthetic cannabinoids.
+
+9
+An update from the EU Early Warning System I March 2015
+FIGURE 6
+Number of seizures of synthetic cannabinoids per country 
+(map) and proportion of seizures by sub-category 
+(pie chart), 2013
+>500
+100–499
+50–99
+10–49
+<10
+Other
+0.5 %
+Alkyl
+indole
+1 %
+Benzyl/Phenyl 
+indole
+4 %
+Adamantyl indole
+5 %
+Quinolinyl indole
+10 %
+Cyclopropyl 
+indole
+17 %
+Naphthyl
+indole
+20 %
+Adamantyl indazole
+20 %
+Naphthyl indazole
+0.2 %
+Alkyl
+indazole
+23 %
+FIGURE 7
+Number of synthetic cannabinoid seizures and quantity 
+seized, 2008–13
+Number of seizures
+Quantity seized (kg)
+400
+800
+1 200
+1 600
+2 000
+2008
+2009
+2010
+2011
+2012
+2013
+5 000
+10 000
+15 000
+20 000
+25 000
+200-fold increase
+in seizures 2008–13
+I Synthetic cathinones
+The large number of seizures of synthetic cathinones 
+reflects the demand for stimulants in Europe, with many of 
+them used as replacements for MDMA, amphetamine and 
+cocaine. During 2014 some 31 synthetic cathinones were 
+reported for the first time. This brings the total number of 
+cathinones to 77, making them the second largest group of 
+substances monitored by the EMCDDA. Almost 11 000 
+seizures of synthetic cathinones weighing more than 
+1.1 tonnes were made in Europe during 2013 (Figure 8). In 
+terms of the main cathinones seized, 3-MMC (an isomer of 
+the popular drug mephedrone) (341 kg), 4-MEC (201 kg), 
+pentedrone (197 kg) and alpha-PVP (115 kg) accounted 
+for almost 80 % of the total amount seized. Between 2008 
+and 2013 there has been a 60-fold increase in the number 
+of seizures of synthetic cathinones (Figure 9). 
+FIGURE 8
+Number of seizures of synthetic cathinones per country 
+(map) and proportion of seizures by substance 
+(pie chart), 2013
+>500
+100–499
+50–99
+10–49
+<10
+alpha-PVP
+10 %
+MDPV
+9 %
+Other
+pyrrolidinyl cathinones
+3 %
+Other cathinone derivatives
+23 %
+Pentedrone
+14 %
+Methylone
+7 %
+Mephedrone
+20 %
+3,4-DMMC
+2 %
+4-MEC
+12 %
+FIGURE 9
+Number of synthetic cathinone seizures and quantity 
+seized (powders), 2005–13
+Number of seizures
+Quantity seized, powder only (kg)
+2005
+2006
+2007
+2008
+2009
+2010
+2011
+2012
+2013
+12 000
+10 000
+8 000
+6 000
+4 000
+2 000
+1 200
+1 000
+800
+600
+400
+200
+60-fold increase
+in seizures 2008–13
+
+10
+I Opioids
+New opioids are of special concern for public health. This is 
+because they are often highly potent and are sold as 
+heroin to unsuspecting users, and thus pose a high risk of 
+overdose and death. The fentanyls, for example, are a 
+family of drugs that have caused hundreds of deaths in 
+Europe and the United States since they first appeared as 
+‘designer drugs’ sold as ‘synthetic heroin’ in California in 
+the late 1970s. During 2014 three of the five opioids 
+reported to the EU Early Warning System were fentanyls. 
+This includes two fentanyls that were seized at a 
+clandestine laboratory in Europe and acetylfentanyl which 
+has been linked to more than 14 deaths in the United 
+States after it was sold as heroin.
+But it is not just the fentanyls that pose risks to users. More 
+than 40 deaths were reported to the EMCDDA within 
+months of the detection of the opioids AH-7921 and MT-45 
+on the European drug market. These substances were both 
+sold as ‘research chemicals’, with Internet shops based in 
+Europe and China selling kilogram quantities of the drugs.
+I
+ Monitoring and responding to serious 
+harms
+Alongside information on the appearance of new 
+psychoactive substances on the market, a key function of 
+the EU Early Warning System is to identify signals of 
+serious harms and respond as necessary. This requires 
+monitoring each of the more than 450 substances that 
+have been reported so far. As the market has grown in 
+recent years, the EMCDDA has also had to deal with a 
+growing number of reports of serious harms, often related 
+to acute toxicity leading to hospitalisation and deaths. The 
+EMCDDA has responded to this challenge by working to 
+strengthen the ability of the EU Early Warning System and 
+its network to identify, report, understand and respond to 
+such harms. One of the core activities in this respect is 
+issuing public health alerts, which serve to alert the 
+network on serious and urgent issues. Since 2005 the 
+EMCDDA has issued 117 public health alerts, with more 
+than 70 % of these issued in the last five years. During 
+2014 some 16 alerts were issued. These included alerts on 
+4,4′-DMAR and MT-45 after deaths within Europe were 
+reported (both of these substances were risk assessed 
+during 2014), and on synthetic cannabinoids such as 
+5F-PB-22, ADB-PINACA and MDMB-FUBINACA after 
+media monitoring by the EMCDDA identified serious harms 
+in countries outside Europe.
+The risk assessments conducted by the EMCDDA’s 
+Scientific Committee are another core activity in 
+responding to serious harms. Six risk assessments were 
+conducted in 2014. These were: 25I-NBOMe, a substance 
+with hallucinogenic properties that was being sold as LSD; 
+AH-7921, an opioid with similar properties to morphine 
+that was linked to 15 deaths over a short period of time; 
+MDPV, a stimulant sold as a ‘legal high’ that was being sold 
+as cocaine on the illicit market and injected by high-risk 
+drug users; methoxetamine, which was sold as a legal 
+replacement for the dissociative anaesthetic ketamine; 
+4,4′-DMAR, a stimulant initially sold as a ‘research 
+chemical’ that rapidly found its way into ecstasy tablets 
+and has been linked to 31 deaths; and MT-45, an opioid 
+that was sold as a ‘research chemical’ and was linked to 28 
+deaths over a nine-month period.
+I Summary
+The data presented in this report suggest that the growth 
+of the market in new psychoactive substances will 
+continue to pose a range of challenges for public health 
+and drug policy over the next few years. Particular 
+challenges relate to the speed at which new psychoactive 
+substances appear, their open sale and the lack of 
+information on their effects and harms. Critically, strong 
+national and regional early warning systems will continue 
+to play a central role in the early detection of harms and 
+help to ensure timely public health responses.
+I Resources
+n Learn more about the EU Early Warning System: 
+emcdda.europa.eu/ews 
+n Learn more about the EMCDDA risk assessments: 
+emcdda.europa.eu/publications/risk-assessments
+n Follow the EU Early Warning System on Twitter: 
+@toxicovigilance
+
+HOW TO OBTAIN EU PUBLICATIONS
+Free publications:
+one copy:
+via EU Bookshop (http://bookshop.europa.eu);
+more than one copy or posters/maps:
+from the European Union’s representations 
+(http://ec.europa.eu/represent_en.htm); 
+from the delegations in non-EU countries 
+(http://eeas.europa.eu/delegations/index_en.htm); 
+by contacting the Europe Direct service 
+(http://europa.eu/europedirect/index_en.htm) or
+calling 00 800 6 7 8 9 10 11 (freephone number from 
+anywhere in the EU) (*).
+Priced publications:
+via EU Bookshop (http://bookshop.europa.eu)
+(*) The information given is free, as are most calls (though some operators, 
+phone boxes or hotels may charge you).
+
+TD-04-15-135-EN-N
+About the EMCDDA
+The European Monitoring Centre for Drugs and Drug 
+Addiction (EMCDDA) is the central source and 
+confirmed authority on drug-related issues in Europe. 
+For over 20 years, it has been collecting, analysing and 
+disseminating scientifically sound information on drugs 
+and drug addiction and their consequences, providing 
+its audiences with an evidence-based picture of the 
+drug phenomenon at European level.
+The EMCDDA’s publications are a prime source of 
+information for a wide range of audiences including: 
+policymakers and their advisors; professionals and 
+researchers working in the drugs field; and, more 
+broadly, the media and general public. Based in Lisbon, 
+the EMCDDA is one of the decentralised agencies of 
+the European Union.
+doi:10.2810/372415

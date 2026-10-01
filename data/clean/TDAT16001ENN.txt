@@ -1,0 +1,7558 @@
+2016
+EN
+Trends and Developments
+ISSN 2314-9086
+European
+Drug
+Report
+
+2016
+Trends and Developments
+European
+Drug
+Report
+
+I Legal notice
+This publication of the European Monitoring Centre for Drugs and Drug Addiction (EMCDDA) is protected by 
+copyright. The EMCDDA accepts no responsibility or liability for any consequences arising from the use of the data 
+contained in this document. The contents of this publication do not necessarily reflect the official opinions of the 
+EMCDDA’s partners, any EU Member State or any agency or institution of the European Union.
+Europe Direct is a service to help you find answers to your questions about the European Union.
+Freephone number (*): 00 800 6 7 8 9 10 11
+(*) The information given is free, as are most calls (though some operators, phone boxes or hotels may charge you).
+More information on the European Union is available on the internet (http://europa.eu).
+This report is available in Bulgarian, Spanish, Czech, Danish, German, Estonian, Greek, English, French, Croatian, 
+Italian, Latvian, Lithuanian, Hungarian, Dutch, Polish, Portuguese, Romanian, Slovak, Slovenian, Finnish, Swedish, 
+Turkish and Norwegian. All translations were made by the Translation Centre for the Bodies of the European Union.
+Luxembourg: Publications Office of the European Union, 2016
+ISBN: 978-92-9168-890-6
+doi:10.2810/04312
+© European Monitoring Centre for Drugs and Drug Addiction, 2016
+Reproduction is authorised provided the source is acknowledged.
+Recommended citation: European Monitoring Centre for Drugs and Drug Addiction (2016), European Drug Report 
+2016: Trends and Developments, Publications Office of the European Union, Luxembourg.
+Printed in Spain
+Printed on elemental chlorine-free bleached paper (ECF)
+Praça Europa 1, Cais do Sodré, 1249-289 Lisbon, Portugal
+Tel. +351 211210200
+info@emcdda.europa.eu I www.emcdda.europa.eu
+twitter.com/emcdda I facebook.com/emcdda
+
+ I Contents
+ 5 Preface
+ 9 Introductory note and acknowledgements
+11 I
+ SUMMARY
+Continued signs of resilience in the European drug market
+17 I
+ CHAPTER 1 
+Drug supply and the market
+37 I
+ CHAPTER 2 
+Drug use prevalence and trends
+53 I
+ CHAPTER 3
+Drug-related harms and responses
+71 I
+ ANNEX
+National data tables
+
+5
+I Preface
+It is our great pleasure to present the EMCDDA’s 21st annual analysis of Europe’s drug 
+situation, our first as newly elected Director of the EMCDDA and as Chair of the agency’s 
+Management Board. As in previous years, the European Drug Report 2016 offers a timely 
+review of the latest trends and developments in the European drug situation, in the form of 
+an integrated multimedia package. This report is unique in bringing together an up-to-date 
+and top-level overview of drug use, drug problems and drug markets, and integrating this 
+situational analysis with information on drug policies and practice. 
+This year’s analysis once more highlights how Europe increasingly faces a more complex 
+drug problem, in which stimulants, new psychoactive substances, misused medicines and 
+problematic cannabis use all play a greater part. The report also reminds us that some of 
+the problems of the past remain with us — even if the challenges they are now presenting 
+for both policy and practice are changing. Europe’s opioids problem remains a central 
+issue in the 2016 analysis, reflecting the significant impact these drugs still have on 
+mortality and morbidity. We see now an increasingly complex relationship between use of 
+heroin and synthetic opioids, accompanied by a worrying increase in overall estimates of 
+opioid-related deaths. Treatment services in Europe are also now having to respond to the 
+more complex health needs presented by an ageing cohort of heroin users, and 
+policymakers wrestle with the difficult question of what constitutes the most appropriate 
+long-term therapeutic goals for this group. At the same time, new heroin epidemics 
+reported in other parts of the world remind us this is an area in which vigilance is required 
+and ongoing surveillance remains essential. 
+Our report is very much a collective endeavour, and we must thank here all those whose 
+contributions made this report possible. As ever, the input from Reitox national focal points 
+and national experts forms the basis for the analysis presented here. In addition, we have 
+to acknowledge the input we have received from our institutional partners at European 
+level; in particular the European Commission, Europol, the European Centre for Disease 
+Prevention and Control and the European Medicines Agency. We are also pleased to note 
+the inclusion in this year’s report of additional city-level information from European 
+research networks, which complements national data in the areas of wastewater analysis 
+and drug-related hospital emergencies and enriches our understanding of both drug 
+consumption patterns and harms across Europe.
+
+European Drug Report 2016: Trends and Developments
+6
+Finally, we note this report is released at an important time for drug policy development, 
+both in Europe and internationally. Within Europe, the achievements of the current drug 
+action plan will be evaluated, and deliberations begun on the actions necessary to take 
+forward the European drug strategy in the coming years. European countries have also 
+been active in the international debates surrounding the UN General Assembly Special 
+Session held in New York in April this year. The European position emphasised the value of 
+a balanced and evidence-based approach grounded in a strong commitment for human 
+rights. In our view, one of the reasons that Europe can speak with authority in this debate is 
+the fact that there is a commitment to understanding the changing nature of the problems 
+we face and to critically assessing what works. We are proud that this report and the work 
+of the EMCDDA and its national partners continues to contribute to this understanding, 
+and remain convinced that sound information is a prerequisite for sound policies and 
+actions in this area. 
+Laura d’Arrigo
+Chair, EMCDDA Management Board
+Alexis Goosdeel
+Director, EMCDDA
+
+9
+I Introductory note and acknowledgements
+This report is based on information provided to the EMCDDA by the EU Member States, the 
+candidate country Turkey, and Norway in the form of a national reporting package. 
+The purpose of the current report is to provide an overview and summary of the European 
+drug situation and responses to it. The statistical data reported here relate to 2014 (or the 
+last year available). Analysis of trends is based only on those countries providing sufficient 
+data to describe changes over the period specified. Statistical significance is tested at the 
+0.05 level, unless otherwise stated. The reader should also be aware that monitoring 
+patterns and trends in a hidden and stigmatised behaviour like drug use is both practically 
+and methodologically challenging. For this reason, multiple sources of data are used for 
+the purposes of analysis in this report. Although considerable improvements can be noted, 
+both nationally and in respect to what is possible to achieve in a European level analysis, 
+the methodological difficulties in this area must be acknowledged. Caution is therefore 
+required in interpretation, in particular when countries are compared on any single 
+measure. Caveats and qualifications relating to the data are to be found in the online 
+version of this report and in the Statistical Bulletin, where detailed information on 
+methodology, qualifications on analysis and comments on the limitations in the 
+information set available can be found. Information is also available on the methods and 
+data used for European level estimates, where interpolation may be used. 
+The EMCDDA would like to thank the following for their help in producing this report:
+ the heads of the Reitox national focal points and their staff;
+ the services and experts within each Member State that collected the raw data for this 
+report;
+ the members of the Management Board and the Scientific Committee of the EMCDDA;
+ the European Parliament, the Council of the European Union — in particular its 
+Horizontal Working Party on Drugs — and the European Commission;
+ the European Centre for Disease Prevention and Control (ECDC), the European 
+Medicines Agency (EMA) and Europol;
+ the Pompidou Group of the Council of Europe, the United Nations Office on Drugs and 
+Crime, the WHO Regional Office for Europe, Interpol, the World Customs Organisation, 
+the European School Survey Project on Alcohol and Other Drugs (ESPAD), the Sewage 
+Analysis Core Group Europe (SCORE), the European Drug Emergencies Network (EuroDEN) and the Swedish Council for Information on Alcohol and Other Drugs (CAN);
+ the Translation Centre for the Bodies of the European Union, Missing Element Designers, 
+Nigel Hawtin and Composiciones Rali.
+Reitox national focal points
+Reitox is the European information network on drugs and drug addiction. The 
+network is comprised of national focal points in the EU Member States, the 
+candidate country Turkey, Norway and at the European Commission. Under the 
+responsibility of their governments, the focal points are the national authorities 
+providing drug information to the EMCDDA. The contact details of the national focal 
+points may be found on the EMCDDA website.
+
+ Europe’s drug policy 
+ agenda needs to embrace 
+ a broader and more 
+ complicated set of policy issues 
+Summary
+
+11
+Summary
+Continued signs of resilience 
+in the European drug market
+The analysis presented here describes a 
+European drug market that remains 
+resilient, with some indicators for 
+cannabis and stimulant drugs, in 
+particular, now trending upwards. 
+Overall, supply data suggest that the 
+purity or potency of most illicit 
+substances is high or increasing. The 
+majority of recent survey data on 
+prevalence also show modest increases 
+in the estimated use of the more 
+commonly consumed drugs. The drug 
+marketplace is also more complex, with 
+new substances available to consumers 
+alongside more established drugs, 
+signals that medicines are becoming 
+more important, and with polydrug use 
+patterns the norm among those 
+experiencing drug problems. 
+Interdiction efforts are challenged by 
+the fact that production of cannabis, 
+synthetic drugs and even some opioids 
+and new psychoactive substances now 
+takes place within Europe, near to 
+consumer markets. Taken together this 
+new analysis highlights the need for 
+Europe’s drug policy agenda to 
+embrace a broader and more 
+complicated set of policy issues than 
+has historically been the case.
+
+I Resurgence of MDMA
+The return of MDMA as a common stimulant of choice for 
+young people is illustrative of some of the new challenges 
+posed by the contemporary drug market. Innovation in 
+sourcing precursors, new production techniques and 
+online supply all appear to be driving a revival in a market 
+now characterised by a diversity of products. High-dose 
+powders, crystals and tablets with a range of logos, colours 
+and shapes are available, with evidence of production to 
+order and the use of sophisticated and targeted marketing. 
+This may be a deliberate strategy by producers to improve 
+perception of the drug after a lengthy period in which poor 
+drug quality and adulteration had resulted in a decline in 
+use. There are signals that this may be achieving some 
+success, with indications that MDMA is becoming more 
+popular, both with established stimulant consumers and 
+with a new generation of young users. This points to the 
+need for prevention and harm reduction responses to 
+target a new population of users who may be using 
+high-dose products but lack an understanding of the 
+associated risks. 
+
+12
+European Drug Report 2016: Trends and Developments
+There is also a growing understanding of the health and 
+social costs that can accrue from cannabis use. These are 
+most pronounced among the more frequent and longerterm users, with around 1 % of European adults estimated 
+to be daily or near-daily cannabis users. For both resin and 
+herbal cannabis, potency levels are high by historical 
+standards and this is worrying, as it may increase the risks 
+of users experiencing both acute and chronic health 
+problems. The drug is also now responsible for the majority 
+of new drug treatment entrants, although treatment entry 
+data must be understood in the context of referral 
+pathways and a wide definition of what constitutes care for 
+this population. Policy responses in this area must also be 
+mindful that in Europe, unlike in some parts of the world, 
+cannabis is typically smoked with tobacco, making synergy 
+between cannabis control and tobacco control policies 
+important. 
+I
+ Synthetic cannabinoids dominate seizures of new 
+psychoactive substances 
+An equally challenging issue for international and 
+European drug policies is how to respond effectively to the 
+dynamic and constantly changing market for new drugs. 
+Very limited information is available on the use of new 
+psychoactive substances, but the 50 000 reported seizures 
+of these drugs in 2014 provide some insight into their 
+relative availability. Synthetic cannabinoids account for 
+over 60 % of these, and this drug class also features 
+prominently in the 98 new substances detected for the 
+first time in 2015 and reported to the EU Early Warning 
+System for new psychoactive substances. Twenty-four of 
+these were synthetic cannabinoids — drugs that act on the 
+same brain receptors as THC, one of the main active 
+compounds found in natural cannabis. From a health 
+perspective, however, many synthetic cannabinoids are 
+considerably more toxic, with mass poisonings and even 
+deaths reported. The threat posed by these substances is 
+highlighted by a warning issued by the EMCDDA in 
+February 2016 about the synthetic cannabinoid MDMBCHMICA — a drug that had been associated with 13 
+deaths and 23 non-fatal intoxications. This chemical was 
+identified in more than 20 different smoking mixtures, and 
+deaths or poisoning were identified in eight countries, and 
+may have occurred in others. Consumers of these products 
+would usually be ignorant of the chemicals they contain. 
+I
+ New data highlight regional patterns in stimulant 
+use and harms
+This report suggests that identifying and responding to 
+localised patterns of stimulant use and related harms 
+needs to be given greater priority. Recent findings from 
+wastewater analysis parallel seizure and survey data, all 
+highlighting regional differences in stimulant consumption 
+patterns across Europe. Cocaine use appears higher in 
+western and southern European countries, while 
+amphetamines are more prominent in northern and 
+eastern Europe. Both cocaine and amphetamine have 
+seen a medium-term increase in purity, with prices 
+remaining largely stable. Stimulant-related problems are 
+also becoming more visible. Concerns exist about an 
+increased number of new amphetamines-related 
+treatment demands in some countries, with nearly half of 
+these new entrants reporting injecting. Injecting stimulant 
+use has also been associated with recent outbreaks of HIV 
+in some marginalised populations. Stimulant injecting 
+associated with high levels of sexual risk-taking behaviours 
+is also a growing concern. This has been reported among 
+small groups of men who have sex with men in some 
+European cities, pointing to a need for increased 
+cooperation and a joined-up response from drug treatment 
+and sexual health services.
+I
+ Responding to cannabis remains a key challenge 
+for European drug policies
+Internationally, and in Europe, there is currently 
+considerable public and political debate on the costs and 
+benefits of different cannabis policy options. Data 
+presented in this report inform this discussion by 
+illustrating some of the complex issues that need to be 
+taken into consideration. This topic is important, as levels 
+of cannabis use overall do not appear to be falling and may 
+even be starting to rise in some populations. Notably, of 
+those countries that have produced a recent survey 
+estimate (since 2013), a majority have reported increased 
+use of this drug. 
+New estimates show that cannabis accounts for the 
+largest share in value of Europe’s illicit drug market. 
+Cannabis production has become a major income 
+generator for organised crime. Importation of cannabis 
+from multiple source countries and increasing domestic 
+production in Europe present a considerable challenge for 
+law enforcement, with a resulting strain on already 
+stretched police and customs resources. Cannabis 
+offences, the bulk of which are for use or possession for 
+personal use, also account for close to three-quarters of all 
+drug-related offences. 
+ Cannabis accounts for the 
+ largest share in value of 
+ Europe’s illicit drug market 
+
+13
+Summary I Continued signs of resilience in the European drug market
+AT A GLANCE — ESTIMATES OF DRUG USE IN THE EUROPEAN UNION
+NB: For the complete set of data and information on the methodology see the accompanying online Statistical Bulletin.
+40 %
+ 0
+ 0
+22.1 million
+Cannabis
+Cocaine
+Amphetamines
+MDMA
+Opioids
+New psychoactive substances
+83.2 million
+16.6 million
+3.6 million
+2.4 million
+17.1 million
+1.6 million
+12.0 million
+1.3 million
+2.5 million
+13.0 million
+2.1 million
+3.0 %
+8.0 %
+Source: 2014 Flash Eurobarometer on young people and drugs
+Adults
+(15−64) 
+Lifetime
+Last year
+Last year
+6.6 %
+24.8 %
+13.3 %
+Lowest
+3.2 %
+Highest
+23.9 %
+Used:
+Young adults
+(15−34)
+National estimates
+of use in last year
+Last year
+Lifetime
+Last year
+Used:
+Adults
+(15−64) 
+1.9 %
+Lowest
+0.2 %
+Highest
+4.2 %
+Young adults
+(15−34)
+National estimates
+of use in last year
+1.1 %
+5.1 %
+Lifetime
+Principal drug in about 
+40 % of all drug 
+treatment requests 
+in the European Union
+1.3 million
+High-risk opioid users
+Adults
+(15−64) 
+Young adults
+(15−34)
+Adults
+(15−64) 
+Younger adults
+(15−24) 
+Young adults
+(15−34)
+Drug treatment requests
+Fatal overdoses
+82 %
+644 000
+Opioid users 
+received substitution
+treatment in 2014
+Last year
+Used:
+Opioids are found in 
+82 % of fatal overdoses
+Used:
+Lifetime
+Last year
+Last year
+Used:
+Last year
+Lifetime
+Last year
+0.5 %
+3.6 %
+1.0 %
+Lowest
+0.1 %
+Highest
+2.9 %
+National estimates
+of use in last year
+0.8 %
+3.9 %
+1.7 %
+Lowest
+0.3 %
+Highest
+5.5 %
+National estimates
+of use in last year
+
+14
+European Drug Report 2016: Trends and Developments
+Afghanistan, increases in the size of heroin seizures and 
+higher purity levels, all point to a possible increase in 
+availability. There is currently, however, no strong evidence 
+of increases in new heroin uptake, treatment entrance for 
+heroin is declining or stable, and overdoses remain 
+primarily a problem among older opioid users. 
+Nonetheless, small increases have been observed in 
+overdose deaths among younger groups in some countries, 
+and this warrants closer attention.
+I Use of synthetic opioids: cause of concern
+The role of synthetic opioids and medicinal drugs also 
+appears to be important in drug deaths in parts of Europe. 
+Concerns exist about misused benzodiazepines and other 
+medicines, diverted from therapeutic providers or obtained 
+from unlicensed sources, but the role these drugs play in 
+overdose deaths in Europe remains poorly understood. 
+More data are available on synthetic opioids. Synthetic 
+opioid products, mostly but not exclusively drugs used for 
+substitution treatment, are more prominent in data on 
+drug-related deaths in some countries, and there has also 
+been an increase in treatment demand related to these 
+substances. Given the severe public health problems 
+experienced in North America and elsewhere with the 
+misuse of opioid medicines, improved surveillance to 
+detect any growing problems in this area at a European 
+level is merited. In addition, and noted in the body of this 
+report, regulatory frameworks and clinical guidelines can 
+play a positive role in reducing the risk of diversion of 
+medicines from appropriate therapeutic uses.
+I
+ New pharmacological options for 
+reducing drug harms
+The coming years are likely to see the release of a range of 
+new pharmacological options that could lead to increased 
+opportunities for reducing some of the problems related to 
+drug use. This report highlights two areas where new 
+therapies and innovative delivery methods are being 
+introduced. A number of EU countries provide the 
+overdose-reversal drug naloxone to opioid users through 
+community schemes or to drug users leaving prison with 
+the aim of reducing overdose deaths. The wider 
+implementation of take-home naloxone in Europe may be 
+in prospect, with the development of nasally administered 
+naloxone preparations, such as one recently given approval 
+for pharmacy sale in the United States. New medicines are 
+also becoming available that provide greater opportunities 
+for treating hepatitis C virus infections among active drug 
+injectors, including those in drug treatment settings. New 
+therapies have a significant potential to provide health 
+Adverse events are also associated with both uncontrolled 
+stimulants and opioids reported to the Early Warning 
+System. Responding effectively and rapidly to the sale of 
+obscure chemicals, some of which subsequently are found 
+to be highly toxic, poses one of the major policy challenges 
+in this area. Young consumers may unwittingly be acting 
+as human guinea pigs for substances for which the 
+potential health risks are largely unknown. An example 
+here is the synthetic cathinone alpha-PVP, which was 
+risk-assessed in November 2015. This potent 
+psychostimulant has been associated with almost 200 
+acute intoxications and over 100 deaths in Europe. 
+Producers of new psychoactive substances increasingly 
+appear to be targeting the more chronic and problematic 
+sectors of the drug market. Non-controlled synthetic 
+opioids, such as members of the fentanyl family, are 
+available, for example. These drugs can be particularly 
+harmful. An example of note here is acetylfentanyl, which 
+was subject to an EMCDDA–Europol joint report in 2015. 
+New psychoactive substances have also been found in 
+products marketed as replacements for medicines like 
+benzodiazepines — medicines that when misused play a 
+role in the drug problem in some countries.
+I
+ Rises in overdose deaths: heroin back 
+in the spotlight
+This year’s analysis also highlights new concerns about 
+rises in overdoses associated with heroin and other 
+opioids. Heroin features prominently in data on fatal 
+overdoses and is also the most common illicit drug 
+reported in new European city-level data on hospital 
+emergency presentations. The substances responsible for 
+drug emergencies vary considerably between cities, with 
+cannabis, cocaine and other stimulants also featuring 
+prominently in some locations. Currently, data on acute 
+drug problems are not collected systematically at a 
+European level. The pilot city-level study suggests that 
+routine monitoring in this area would be valuable to help 
+better understand and track the impact of emerging drug 
+problems.
+A number of countries, mostly in the north of Europe, with 
+long-established opioid problems report recent rises in 
+opioid-related deaths. Understanding the drivers behind 
+trends in this area, however, is complicated. Possible 
+explanations include an increase in heroin availability, 
+increasing purity, an ageing and more vulnerable user 
+cohort and changing drug consumption patterns (including 
+the use of synthetic opioids and medicines). Changes in 
+reporting practice may also be important. Supply side data, 
+including increased estimates of heroin production in 
+
+15
+Summary I Continued signs of resilience in the European drug market
+gain in the drugs area, but the challenge is to reduce 
+barriers to their uptake and ensure sufficient resources are 
+available to meet treatment needs.
+I
+ New threats and opportunities provided by 
+internet drug markets
+An important new challenge for drug policy is how to 
+respond to the internet’s role as both a communication 
+medium and an emerging source of drug supply. Attention 
+has focused primarily on the threat posed by darknet drug 
+markets. It is also necessary to understand the growing 
+role of surface websites, especially in respect to supply of 
+counterfeit medicines and new psychoactive substances, 
+and social media applications for peer-to-peer exchanges. 
+Online platforms also provide possibilities for prevention, 
+treatment and harm reduction activities, though these are 
+often overlooked. 
+The supply of drugs through online sources appears to be 
+growing, albeit from a low base, and the potential for 
+expansion of online drug supply appears considerable. 
+Moreover, the rapid rate of change in this area, driven by 
+increasing use of the internet, the deployment of new 
+payment technologies, innovations in encryption and new 
+options for the creation of distributed online marketplaces, 
+makes it difficult for societal responses to keep pace. How 
+best to respond to this growing dark cloud on the horizon 
+and how best to exploit the opportunities that this medium 
+offers for reducing drug problems are likely to represent 
+questions of critical importance for the future European 
+policy agenda. 
+
+ In the global context, Europe is an 
+ important market for drugs 
+1
+
+17
+Drug supply and the market
+In the global context, Europe is an 
+important market for drugs, supported 
+by both domestic production and drugs 
+trafficked from other world regions. 
+South America, West Asia and North 
+Africa are important source areas for 
+illicit drugs entering Europe, while China 
+and India are source countries for new 
+psychoactive substances. In addition, 
+some drugs and precursors are 
+transited through Europe en route to 
+other continents. Europe is also a 
+producing region for cannabis and 
+synthetic drugs, with cannabis mostly 
+produced for local consumption, while 
+some of the synthetic drugs are 
+manufactured for export to other parts 
+of the world.
+Monitoring drug markets, supply and laws
+The analysis presented in this chapter draws on 
+reported data on drug seizures, drug precursor 
+seizures and stopped shipments, dismantled drug 
+production facilities, drug law offences, retail drug 
+prices, purity and potency. In some cases, the 
+absence of seizure data from key countries makes 
+the analysis of trends difficult. It should be noted that 
+trends can be influenced by a range of factors, which 
+include user habits and preferences, changes in 
+production and trafficking, law enforcement activity 
+levels and the effectiveness of interdiction measures. 
+Full data sets and methodological notes can be 
+found in the online Statistical Bulletin.
+Also presented here are data on notifications and 
+seizures of new psychoactive substances reported to 
+the EU Early Warning System by the national 
+partners of the EMCDDA and Europol. As this 
+information is drawn from case reports rather than 
+routine monitoring systems, seizure estimates 
+represent a minimum. Data will be influenced by 
+factors such as increasing awareness of these 
+substances, their changing legal status and the 
+reporting practices of law enforcement agencies. A 
+full description of the EU Early Warning System can 
+be found on the EMCDDA website under Action on 
+new drugs.
+Supporting information on European drug laws and 
+policies is available on the EMCDDA website.
+Chapter 1
+
+18
+European Drug Report 2016: Trends and Developments
+substances or falsified and counterfeit medicines. They 
+can also operate on the deep web, through darknet 
+markets or cryptomarkets, like AlphaBay or the defunct Silk 
+Road. Cannabis products and MDMA are reported to be 
+the illicit drugs most frequently offered for sale on darknet 
+markets, alongside a range of medicines. 
+A darknet market is an online sales platform or 
+marketplace, supported by technologies that protect 
+privacy, which brings together vendors, listing mostly illicit 
+goods and services for sale. These markets have many 
+similar characteristics to marketplaces such as eBay and 
+Amazon, and customers can search and compare products 
+and vendors. A range of strategies is used to conceal both 
+transactions and the physical locations of servers. These 
+include anonymisation services, such as Tor (the Onion 
+Router), that hide a computer’s internet protocol (IP) 
+address; decentralised and relatively untraceable 
+cryptocurrencies, such as bitcoin and litecoin, for making 
+payments; and encrypted communication between market 
+participants. Reputation systems also play a role in 
+regulating vendors on the markets. Recent developments 
+include heightened security to prevent vendor scams, 
+including the use of sophisticated escrow systems, and 
+decentralisation of market platforms in response to threats 
+from law enforcement. At present, these markets are 
+believed to account for a small share of the trade in illicit 
+drugs, and many of the transactions are at consumer level. 
+However, the potential exists for further expansion of 
+online drug trading.
+Sizeable markets for cannabis, heroin and amphetamines 
+have existed in many European countries since the 1970s 
+and 1980s. Over time, other substances also established 
+themselves — including MDMA in the 1990s and cocaine 
+in the 2000s. The European market continues to evolve, 
+with the last decade witnessing the emergence of a wide 
+range of new psychoactive substances. Recent changes in 
+the illicit drug market, largely linked to globalisation and 
+new technology, include innovation in drug production and 
+trafficking methods and the establishment of new 
+trafficking routes. 
+Measures aimed at preventing the supply of drugs involve 
+actions by government and law enforcement agencies and 
+often depend on international cooperation. At EU level, 
+efforts are coordinated through the EU drugs strategy and 
+action plans and the EU policy cycle for organised and 
+serious crime. The approach that countries take is reflected 
+in their national drug strategies and laws. Data on arrests 
+and seizures are currently the best-documented indicators 
+of drug supply disruption efforts.
+I Drug markets: estimating financial value
+Illicit drug markets are complex systems of production and 
+distribution that generate large sums of money at different 
+levels. A conservative estimate values the retail market for 
+illicit drugs in the European Union at EUR 24.3 billion in 
+2013 (likely range EUR 21 billion to EUR 31 billion). With 
+an estimated retail value of EUR 9.3 billion (likely range 
+EUR 8.4–12.9 billion), and responsible for about 38 % of 
+the total, cannabis products account for the largest share 
+of the illicit drug market in Europe. This is followed by 
+heroin, estimated at EUR 6.8 billion (EUR 6.0–7.8 billion) 
+(28 %), and cocaine at EUR 5.7 billion (EUR 4.5–7.0 billion) 
+(24 %). Amphetamines occupy a smaller market share, 
+estimated at EUR 1.8 billion (EUR 1.2–2.5 billion) (8 %), 
+ahead of MDMA, at almost EUR 0.7 billion (EUR 0.61–0.72 
+billion) (3 %). These estimates are based on very limited 
+data, which has necessitated some broad assumptions, 
+and hence must be viewed as initial minimum estimates 
+that need revision in the future, as the information 
+underpinning them is improved.
+I New supply methods: online drug markets
+While historically, illicit drug markets have been situated in 
+physical locations, the last decade has seen the 
+emergence of new internet technologies that have 
+facilitated the development of online marketplaces. Drug 
+markets can operate on the surface web, typically retailing 
+non-controlled precursor chemicals, new psychoactive 
+ Cannabis products account for 
+ the largest share of the illicit 
+ drug market 
+
+19
+Chapter 1 I Drug supply and the market
+I Drug seizures: cannabis dominates
+Over one million seizures of illicit drugs are reported 
+annually in Europe. Most of these are small quantities of 
+drugs confiscated from users, although multi-kilogram 
+consignments seized from traffickers and producers 
+account for a large proportion of the overall quantity of 
+drugs seized. 
+Cannabis is the most commonly seized drug, accounting 
+for more than three quarters of seizures in Europe (78 %) 
+(Figure 1.1), and reflecting its relatively high prevalence of 
+use. Cocaine ranks second overall (9 %), followed by 
+amphetamines (5 %), heroin (4 %) and MDMA (2 %). 
+Herbal cannabis
+50 %
+Cannabis plants 3 %
+Cannabis resin 
+24 %
+Cocaine
+and crack
+9 %
+Amphetamines
+5 %
+Heroin
+4 %
+MDMA 
+2 %
+2 %
+Other
+substances 2 % 
+FIGURE 1.1
+Number of reported drug seizures, breakdown by drug, 2014
+2006
+100
+2014
+125
+188
+Herb
+Number of seizures
+501 000 EU + 2
+453 000 EU
+Quantities 
+seized
+Price 
+(EUR/g)
+5 €
+7 €
+11 €
+23 €
+tonnes (EU)
+tonnes (EU + 2)
+232
+139
+2006
+100
+2014
+Resin
+Number of seizures
+243 000 EU + 2
+229 000 EU
+Quantities 
+seized
+tonnes (EU)
+tonnes (EU + 2)
+606
+Price 
+(EUR/g)
+3 €
+9 €
+12 €
+22 €
+574
+118
+187
+Indexed trends:
+Price and potency
+Potency 
+(% THC)
+3 %
+8 %
+12 %
+15 %
+Indexed trends:
+Price and potency
+Potency 
+(% THC)
+7 %
+12 %
+18 %
+29 %
+NB: EU + 2 refers to EU Member States, Turkey and Norway. Price and potency of cannabis products: national mean values — minimum, maximum and interquartile 
+range. Countries covered vary by indicator.
+CANNABIS
+
+20
+European Drug Report 2016: Trends and Developments
+In 2014, around 60 % of all seizures in the European Union 
+were reported by just two countries, Spain and the United 
+Kingdom, although considerable numbers of seizures were 
+also reported by Belgium, Germany and Italy. It should also 
+be noted that recent data on the number of seizures are 
+not available for France and the Netherlands (countries 
+that reported large numbers of seizures in the past) or for 
+Finland and Poland. The absence of these data adds 
+uncertainty to the analysis reported here. In addition, 
+Turkey is an important country for drug seizures, with 
+intercepted drugs intended for other countries, both in 
+Europe and in the Middle East, as well as for local 
+consumption.
+I Cannabis: diverse products
+Herbal cannabis (marijuana) and cannabis resin (hashish) 
+are the two main cannabis products found on the 
+European drugs market. Herbal cannabis consumed in 
+Europe is both cultivated domestically and trafficked from 
+external countries. The herbal cannabis produced in 
+Europe is mostly cultivated indoors. Much of the cannabis 
+resin is imported by sea or by air from Morocco. 
+In 2014, 682 000 seizures of cannabis were reported in 
+the European Union (453 000 of herbal cannabis, 229 000 
+of cannabis resin). There were a further 33 000 seizures of 
+cannabis plants. Nevertheless, the quantity of cannabis 
+resin seized in the European Union is still much higher 
+than that of herbal cannabis (574 tonnes versus 
+139 tonnes). This is, in part, explained by the fact that 
+cannabis resin is trafficked in volume over large distances 
+and across national borders, making it more vulnerable to 
+interdiction. In the analysis of the quantity of cannabis 
+seized, a small number of countries are disproportionately 
+important due to their location on major cannabis 
+trafficking routes. Spain, for example, as a major point of 
+entry for cannabis resin produced in Morocco, reported 
+around two-thirds of the total quantity seized in Europe in 
+2014 (Figure 1.2). In recent years, Turkey has been 
+reporting larger quantities of herbal cannabis seized than 
+any other European country. 
+Seizures of other cannabis products are also reported in 
+the European Union, including around 200 seizures of 
+cannabis oil.
+FIGURE 1.2
+Seizures of cannabis resin and herbal cannabis, 2014 or most recent year
+>100
+11–100
+1–10
+<1
+No data
+>100
+11–100
+1–10
+<1
+No data
+Spain
+0
+50
+0
+25
+50
+75
+150
+100 150 200 250 300 350 400
+Other countries
+Quantity of cannabis resin seized (tonnes)
+100
+125
+Turkey
+Other countries
+Quantity of herbal cannabis seized (tonnes)
+Number of cannabis resin 
+seizures (thousands)
+Number of herbal cannabis 
+seizures (thousands)
+NB: Number of seizures for 10 countries with highest values. 
+175
+5
+4
+1
+6
+5
+10
+7
+11
+14
+175
+8
+10
+7
+42
+32
+10
+7
+147
+
+21
+Chapter 1 I Drug supply and the market
+Since 2009, the number of seizures of herbal cannabis in 
+Europe has exceeded that of cannabis resin, and the gap 
+has continued to widen (Figure 1.3). Over the same time, 
+the quantity of herbal cannabis seized has continued to 
+increase in the European Union. In the most recent data, 
+the quantity of resin seized has increased in the European 
+Union, while a sharp drop in the quantity of herbal 
+cannabis seized is noted for Turkey.
+Seizures of cannabis plants may be regarded as an 
+indicator of the production of the drug within a country. 
+Methodological problems mean that data on cannabis 
+plant seizures must be considered with caution, 
+nevertheless the number of plants seized more than 
+doubled from 1.5 million in 2002 to 3.4 million in 2014.
+Analysis of indexed trends among those countries 
+reporting consistently shows a large increase in the 
+potency (level of tetrahydrocannabinol, THC) of both 
+herbal cannabis and cannabis resin between 2006 and 
+2014. Drivers of this increasing potency may include the 
+introduction of intensive production techniques within 
+Europe and, more recently, the introduction of high 
+potency plants in Morocco. 
+FIGURE 1.3
+Trends in number of cannabis seizures and quantity of cannabis seized: resin and herb
+Number of seizures
+Resin (EU)
+Resin (EU, Turkey and Norway)
+Herb (tonnes)
+Other countries
+Greece
+Italy
+United Kingdom
+Belgium
+Spain
+Turkey
+2006
+2002
+2007
+2003
+2008
+2004
+2009
+2005
+2010 2011
+2014
+2012 2013
+2006
+2002
+2007
+2003
+2008
+2004
+2009
+2005
+2010
+2011
+2013
+2014
+2012
+0
+300 000
+600 000
+Resin (tonnes)
+Spain
+France
+Other countries
+Italy
+Portugal
+United Kingdom
+Turkey
+2006
+2002
+2007
+2003
+2008
+2004
+2009
+2005
+2010 2011
+2014
+2012 2013
+1 200
+1 000
+800
+600
+400
+200
+0
+350
+300
+250
+200
+150
+100
+50
+0
+Herb (EU)
+Herb (EU, Turkey and Norway)
+150 000
+450 000
+
+22
+European Drug Report 2016: Trends and Developments
+route’. The first of these runs through Turkey, into Balkan 
+countries (Bulgaria, Romania or Greece) and on to central, 
+southern and western Europe. An offshoot to the Balkan 
+route involving Syria and Iraq has emerged recently. The 
+southern route seems to have gained importance in recent 
+years. This sees heroin shipments from Iran and Pakistan 
+entering Europe by air or sea, either directly or transiting 
+through west, southern and east African countries. Other, 
+currently less important routes include the ‘northern route’ 
+and a new heroin route that appears to be developing 
+through the southern Caucasus and across the Black Sea.
+Following a decade of relative stability, markets in a 
+number of European countries experienced reduced 
+heroin availability in 2010/11. This is evident in heroin 
+seizure data, which declined in the European Union from 
+around 50 000 seizures in 2009 to 32 000 in 2014. The 
+quantity of heroin seized within the EU showed a long-term 
+decline, from 10 tonnes in 2002 to 5 tonnes in 2012, 
+before increasing markedly to 8.9 tonnes in 2014. This 
+reversal in trend is due to an increase in large seizures 
+(above 100 kg), with several countries reporting recordbreaking heroin seizures in 2013 or 2014. In particular 
+Greece and to a lesser extent Bulgaria reported large 
+increases in quantities of heroin seized in the most recent 
+data. Since 2003, Turkey has seized far more heroin than 
+any EU country, seizing around 13 tonnes in 2014 
+(Figure 1.4). 
+I Opioids: market change? 
+Heroin is the most common opioid on the European drug 
+market. Imported heroin has historically been available in 
+Europe in two forms: the more common is brown heroin 
+(its chemical base form), originating mainly from 
+Afghanistan. Far less common is white heroin (a salt form), 
+which historically came from South-East Asia, but now 
+may also be produced in Afghanistan or in neighbouring 
+countries. Other opioids seized by law enforcement 
+agencies in European countries in 2014 included opium 
+and the medicines morphine, methadone, buprenorphine, 
+tramadol and fentanyl. Some medicinal opioids may have 
+been diverted from pharmaceutical supplies, while others 
+are manufactured specifically for the illicit market. 
+Afghanistan remains the world’s largest illicit producer of 
+opium, and most heroin found in Europe is thought to be 
+manufactured there or in neighbouring Iran or Pakistan. 
+Opioid production in Europe has historically been limited 
+to homemade poppy products produced in some eastern 
+countries. However, the discovery of two laboratories 
+converting morphine to heroin in Spain and one in the 
+Czech Republic in 2013/14 indicates that heroin may also 
+now be manufactured in Europe. 
+Heroin enters Europe along four trafficking routes. The two 
+most important are the ‘Balkan route’ and the ‘southern 
+FIGURE 1.4
+Number of heroin seizures and quantity seized: trends and 2014 or most recent year
+>5
+1–5
+<1
+No data
+Turkey
+0
+5
+15
+10
+Other countries
+Quantity of heroin seized (tonnes)
+Number of heroin 
+seizures (thousands)
+Tonnes
+Number of seizures
+40 000
+30 000
+50 000
+20 000
+60 000
+2002 2003
+2005
+2007
+2009
+2012 2013
+2011
+2004
+2006
+2008
+2010
+2014
+EU
+EU, Turkey and Norway
+Greece
+France
+Other countries
+Italy
+United Kingdom
+Turkey
+2006
+2002
+2007
+2003
+2008
+2004
+2009
+2005
+2010 2011
+2014
+2012 2013
+30
+25
+20
+15
+10
+5
+0
+Bulgaria
+NB: Number of seizures for the 10 countries with highest values. 
+0.7
+6.7
+2.1
+7.0
+2.3
+2.9
+2.3
+1.3
+10.9
+1.0
+
+23
+Chapter 1 I Drug supply and the market
+Among those countries reporting consistently, indexed 
+trends suggest that heroin purity increased in Europe in 
+2014. This, together with the rise in quantities seized and 
+other developments, may signal a potential for the 
+availability of this drug to increase.
+I Europe’s stimulant market: geographic divide
+A range of illicit stimulant drugs are available on the EU 
+drug market, and there are regional differences with 
+respect to which stimulant is most commonly seized 
+(Figure 1.5). Largely these mirror the location of major 
+production facilities as well as entry ports and trafficking 
+routes. Cocaine, for example, is the most frequently seized 
+stimulant in many western and southern countries, closely 
+reflecting the locations through which the drug enters 
+Europe. Amphetamine seizures are predominant in 
+northern and central Europe, with methamphetamine the 
+most commonly seized stimulant in the Czech Republic, 
+Slovakia, Latvia and Lithuania. MDMA is the most 
+commonly seized stimulant drug in Romania and Turkey.
+HEROIN
+2006
+100
+2014
+84
+102
+Number of seizures
+32 000
+40 000 EU + 2
+EU
+Quantities seized
+Price (EUR/g)
+25 €
+35 €
+59 €
+140 €
+tonnes (EU + 2)
+21.7
+tonnes (EU)
+8.9
+Indexed trends:
+Price and purity
+NB: EU + 2 refers to EU Member States, Turkey and Norway. Price and purity of ‘brown heroin’: national mean values — minimum, maximum and interquartile range. 
+Countries covered vary by indicator.
+Purity (%)
+7 %
+15 %
+29 %
+52 %
+FIGURE 1.5
+Most frequent stimulant seized in Europe, 2014 or most recent data
+Cocaine
+Methamphetamine
+Amphetamine
+No data
+MDMA
+
+24
+European Drug Report 2016: Trends and Developments
+I
+ Precursor chemicals: non-scheduled substances 
+increasingly used
+Precursor chemicals are essential for the manufacture of 
+synthetic stimulants and other drugs. Their availability has 
+a large impact on the market as well as the production 
+methods used in illicit laboratories. As many have 
+legitimate uses, EU regulations schedule certain 
+chemicals, and trade in these is closely monitored. 
+Producers of synthetic drugs seek to minimise the impact 
+of controls by using non-scheduled chemicals to produce 
+precursors. This approach, however, may also increase the 
+risk of detection, as more chemicals are required and more 
+waste is produced. 
+Data from EU Member States on seizures and stopped 
+shipments of drug precursors confirm the continued use of 
+both scheduled and non-scheduled substances for the 
+production of illicit drugs in the European Union, in 
+particular for amphetamines and MDMA (Table 1.1). In 
+2014, seizures of the BMK pre-precursor APAAN (alphaphenylacetoacetonitrile) amounted to 6 062 kg, down from 
+48 802 kg in 2013. This dramatic reduction probably 
+reflects the scheduling of this substance under EU 
+legislation in December 2013. However, continued 
+availability of MDMA on the market coupled with declining 
+seizures of the MDMA precursor safrole, from 13 837 litres 
+in 2013 to zero in 2014, suggest that alternative precursors 
+are being used. Seizures of non-scheduled MDMA preprecursors, notably PMK glycidate, increased in 2014. 
+I Cocaine: market stabilisation
+In Europe, cocaine is available in two forms, the most 
+common is cocaine powder (a hydrochloride salt, HCl) and 
+less commonly available is crack cocaine, a smokeable 
+(free base) form of the drug. Cocaine is produced from the 
+leaves of the coca bush. The drug is produced almost 
+exclusively in Bolivia, Colombia and Peru, and is 
+transported to Europe by both air and sea routes. The 
+range of methods used to transport cocaine to Europe is 
+particularly diverse. It includes air couriers on commercial 
+flights, commercial air freight, fast parcels and postal 
+services, and private aircraft. By sea, cocaine can be 
+smuggled in large consignments using private yachts and 
+maritime containers. Together, Spain, Belgium, the 
+Netherlands (based on 2012 data), France and Italy 
+account for 84 % of the estimated 61.6 tonnes seized in 
+2014 (Figure 1.6). 
+In 2014, around 78 000 seizures of cocaine were reported 
+in the European Union. The situation has remained 
+relatively stable since 2010, although both the number of 
+seizures and the quantity seized are at levels considerably 
+lower than in the peak years (see Figure 1.6). While Spain 
+continues to be the country seizing the most cocaine, there 
+are signs of the ongoing diversification of trafficking routes 
+into Europe, with seizures of the drug recently reported in 
+ports on the eastern Mediterranean, Baltic and Black Seas. 
+Overall, indexed trends suggest that the increase in the 
+purity of cocaine seen in recent years has now levelled off.
+COCAINE
+2006
+100
+2014
+93
+98
+Number of seizures
+78 000
+80 000 EU + 2
+EU
+Quantities seized
+Price (EUR/g)
+46 €
+52 €
+72 €
+91 €
+tonnes (EU + 2)
+62.1
+tonnes (EU)
+61.6
+Indexed trends:
+Price and purity
+NB: EU + 2 refers to EU Member States, Turkey and Norway. Price and purity of cocaine: national mean values — minimum, maximum and interquartile range. 
+Countries covered vary by indicator.
+Purity (%)
+26 %
+36 %
+50 %
+64 %
+
+25
+Chapter 1 I Drug supply and the market
+FIGURE 1.6
+Number of cocaine seizures and quantity seized: trends and 2014 or most recent year
+>10
+1–10
+<1
+No data
+Spain
+0
+10
+20
+30
+50
+40
+Other countries
+Quantity of cocaine seized (tonnes)
+Number of cocaine 
+seizures (thousands)
+Tonnes
+Number of seizures
+70 000
+40 000
+100 000
+2002 2003
+2005
+2007
+2009
+2012 2013
+2011
+2004
+2006
+2008
+2010
+2014
+EU
+EU, Turkey and Norway
+United Kingdom
+France
+Other countries
+Italy
+Portugal
+Spain
+2006
+2002
+2007
+2003
+2008
+2004
+2009
+2005
+2010 2011
+2014
+2012 2013
+140
+120
+100
+80
+60
+40
+20
+0
+Belgium
+NB: Number of seizures (thousands) for 10 countries with highest values.
+38.5
+1.0
+19.8
+4.8
+0.8
+1.1
+3.4
+4.3
+2.4
+1.1
+Seizures
+Stopped shipments (1)
+TOTALS
+Precursor/pre-precursor
+Cases
+Quantity
+Cases
+Quantity
+Cases
+Quantity
+MDMA or related substances
+PMK (litres)
+1
+5
+0
+0
+1
+5
+Safrole (litres)
+0
+0
+2
+1 050
+2
+1 050
+Piperonal (kg)
+3
+5
+4
+2 835
+7
+2 840
+Glycidic derivatives of PMK (kg)
+6
+5 575
+1
+1 250
+7
+6 825
+Amphetamine and methamphetamine
+BMK (litres)
+14
+2 353
+0
+0
+14
+2 353
+PAA, phenylacetic acid (kg)
+1
+100
+2
+190
+3
+290
+Ephedrine, bulk (kg)
+19
+31
+1
+500
+20
+531
+Pseudoephedrine, bulk (kg)
+8
+12
+0
+0
+8
+12
+APAAN (kg)
+18
+6 062
+1
+5 000
+19
+11 062
+(1) A stopped shipment is one that has been denied, suspended or voluntarily withdrawn by the exporter because of suspicion of diversion for illicit purposes.
+TABLE 1.1
+Summary of seizures and stopped shipments of precursors used for selected synthetic drugs produced in Europe, 2014
+
+26
+European Drug Report 2016: Trends and Developments
+I Amphetamine and methamphetamine 
+Amphetamine and methamphetamine are closely related 
+synthetic stimulants, generically known as amphetamines, 
+and these are difficult to differentiate in some datasets. Of 
+the two, amphetamine has always been the more common 
+in Europe, but recent years have seen increasing reports of 
+the availability of methamphetamine on the market. 
+Both drugs are manufactured in Europe for domestic use. 
+Some amphetamine and methamphetamine is also 
+manufactured for export, principally to the Middle East, 
+where there is a market for ‘captagon’ tablets — which are 
+reported to contain amphetamines — the Far East and 
+Oceania. Europe is also a transit hub for 
+methamphetamine being trafficked from West Africa and 
+Iran to markets in the Middle East. Amphetamine 
+production mainly takes place in Belgium, the Netherlands, 
+Poland, Germany, and to a lesser extent the Baltic States. 
+A recent development has seen the relocation of the final 
+production stage, with several countries now reporting the 
+conversion of amphetamine base oil to amphetamine 
+sulphate on their territories.
+Much of Europe’s methamphetamine is produced in and 
+around the Czech Republic. Some production capacity, 
+however, also exists in the Netherlands and Lithuania, 
+while Bulgaria has noted an increase in the number of 
+laboratories dismantled.
+AMPHETAMINES
+2006
+100
+2014
+97
+135
+Amphetamine
+Number of seizures
+36 000
+42 000 EU + 2
+EU
+Quantities seized
+tonnes (EU)
+tonnes (EU + 2)
+7.4
+Price (EUR/g)
+7.1
+Methamphetamine
+Number of seizures
+8 000
+11 000 EU + 2
+EU
+Quantities 
+seized
+tonnes (EU)
+tonnes (EU + 2)
+0.8
+Price (EUR/g)
+7 €
+15 €
+66 €
+116 €
+0.5
+7 €
+10 €
+25 €
+37 €
+Indexed trends:
+Price and purity
+Purity (%)
+1 %
+12 %
+27 %
+49 %
+Purity (%)
+9 %
+28 %
+67 %
+73 %
+NB: EU + 2 refers to EU Member States, Turkey and Norway. Price and purity of amphetamines: national mean values — minimum, maximum and interquartile range. 
+Countries covered vary by indicator. Indexed trends are not available for methamphetamine.
+
+27
+Chapter 1 I Drug supply and the market
+FIGURE 1.7
+Number of amphetamine seizures and quantity seized: trends and 2014 or most recent year
+1–10
+0.1–0.9
+<0.1
+No data
+United Kingdom
+0
+2
+1
+3
+4
+6
+5
+Other countries
+Quantity of amphetamine seized (tonnes)
+Number of amphetamine 
+seizures (thousands)
+Tonnes
+Number of seizures
+35 000
+25 000
+45 000
+2002 2003
+2005
+2007
+2009
+2012 2013
+2011
+2004
+2006
+2008
+2010
+2014
+EU
+EU, Turkey and Norway
+Germany
+Other countries
+Poland
+United Kingdom
+Turkey
+2006
+2002
+2007
+2003
+2008
+2004
+2009
+2005
+2010 2011
+2014
+2012 2013
+12
+10
+8
+6
+4
+2
+0
+Spain
+Sweden
+NB: Number of seizures (thousands) for 10 countries with highest values. 
+6.7
+5.4
+1.8
+5.0
+3.0
+0.6
+0.6
+9.9
+3.3
+4.0
+FIGURE 1.8
+Number of methamphetamine seizures and quantity seized: trends and 2014 or most recent year
+1–10
+0.1–0.9
+<0.1
+No data
+Spain
+0
+0.1
+0.2
+0.6
+0.3
+0.4
+0.5
+Other countries
+Quantity of methamphetamine seized (tonnes)
+Number of methamphetamine 
+seizures (thousands)
+Tonnes
+Number of seizures
+5 000
+10 000
+0
+15 000
+2002 2003
+2005
+2007
+2009
+2012 2013
+2011
+2004
+2006
+2008
+2010
+2014
+EU
+EU, Turkey and Norway
+Norway
+Poland
+Other countries
+Germany
+Spain
+Czech Republic
+Turkey
+2006
+2002
+2007
+2003
+2008
+2004
+2009
+2005
+2010 2011
+2014
+2012 2013
+1.2
+1.0
+0.8
+0.6
+0.4
+0.2
+0.0
+France
+NB: Number of seizures (thousands) for 10 countries with highest values. 
+0.7
+1.2
+3.9
+0.2
+2.7
+0.3
+0.1
+0.4
+0.4
+0.3
+
+28
+European Drug Report 2016: Trends and Developments
+Assessing recent trends in MDMA seizures is difficult due 
+to the absence of data from some countries that are likely 
+to make important contributions to this total. For 2014, no 
+data are available from the Netherlands and the numbers 
+of seizures are not available from Finland, France, Poland 
+and Slovenia. The Netherlands reported seizing 2.4 million 
+MDMA tablets in 2012, and if a similar figure may be 
+assumed for 2014, it is estimated that around 6.1 million 
+MDMA tablets were seized in the European Union in that 
+year. This would be more than double the amount seized in 
+2009. In addition, 0.2 tonnes of MDMA powder was seized 
+in 2014. Large quantities of MDMA are also seized in 
+Turkey, amounting to 3.6 million MDMA tablets in 2014 
+(Figure 1.9). 
+Among those countries reporting consistently, indexed 
+trends also point to increases in MDMA-content since 
+2010, and the availability of high MDMA-content 
+products prompted joint alerts from Europol and the 
+EMCDDA in 2014. 
+Methamphetamine produced using BMK (benzyl methyl 
+ketone) is reported by Lithuania and Bulgaria, while in and 
+around the Czech Republic, ephedrine and 
+pseudoephedrine is used. Historically, in the Czech 
+Republic, methamphetamine has mainly been produced in 
+small-scale facilities by users for their own or local use. 
+This is reflected in the high number of production sites 
+detected in this country (261 dismantled in 2013, out of 
+294 in Europe). Recently, however, production volumes 
+have been increasing and new pre-precursors have been 
+used, with reports of organised crime groups producing 
+this drug for both domestic and external markets. 
+In 2014, 36 000 seizures of amphetamine were reported 
+by EU Member States, amounting to 7.1 tonnes. Overall, 
+the quantity of amphetamine seized in the European Union 
+has increased since 2002 (Figure 1.7). Methamphetamine 
+seizures are far lower, accounting for around a fifth of all 
+amphetamines seizures in 2014, with 7 600 seizures 
+reported in the European Union, amounting to 0.5 tonnes 
+(Figure 1.8). Both number and quantity of 
+methamphetamine seized show an upward trend 
+since 2002. 
+Typically, the average reported purity is higher for 
+methamphetamine than for amphetamine samples. 
+Although indexed trends suggest that amphetamine purity 
+has increased in the latest data, the average purity of this 
+drug continues to be relatively low.
+I MDMA: increase in high-dose products
+The synthetic substance MDMA (3,4-methylenedioxymethamphetamine) is chemically related to 
+amphetamines, but differs in its effects. Ecstasy tablets 
+have historically been the main MDMA product on the 
+market, although they have often contained a range of 
+MDMA-like substances and unrelated chemicals. After a 
+period when reports suggested that the majority of tablets 
+sold as ecstasy in Europe contained low doses of MDMA or 
+none at all, recent evidence indicates that this situation 
+has changed. Reports indicate an increased availability 
+both of high-dose MDMA tablets and of MDMA in powder 
+and crystal forms. 
+Production of MDMA in Europe appears to be concentrated 
+around the Netherlands, which has historically reported 
+the largest numbers of production sites for this drug. After 
+evidence of a decline in MDMA production at the end of 
+the last decade, there have been signs of resurgence, 
+illustrated by reports of large-scale production facilities 
+recently dismantled in the Netherlands and in Belgium.
+ High MDMA-content products 
+ prompted joint alerts from 
+ Europol and the EMCDDA 
+
+29
+Chapter 1 I Drug supply and the market
+MDMA
+2006
+100
+2014
+85
+204
+Number of seizures
+17 000
+21 000 EU + 2
+EU
+Price 
+(EUR/tablet)
+3 €
+5 €
+9 €
+16 €
+Quantities seized
+million tablets 
+seized (EU + 2)
+9.8
+million tablets 
+seized (EU)
+6.1
+Indexed trends:
+Price and purity
+NB: EU + 2 refers to EU Member States, Turkey and Norway. Price and purity of MDMA: national mean values — minimum, maximum and interquartile range. 
+Countries covered vary by indicator.
+Purity 
+(MDMA mg/tablet)
+18
+68
+95
+131
+FIGURE 1.9
+Number of MDMA seizures and quantity seized: trends and 2014 or most recent year
+1–10
+0.1–0.9
+<0.1
+No data
+Turkey
+0
+1
+2
+3
+4
+5
+6
+7
+Other countries
+MDMA tablets seized (millions)
+Number of MDMA 
+seizures (thousands)
+Tablets (millions)
+Number of seizures
+15 000
+0
+30 000
+2002 2003
+2005
+2007
+2009
+2012
+2011
+2004
+2006
+2008
+2010
+2014
+EU
+EU, Turkey and Norway
+United Kingdom
+Ireland
+Germany
+Spain
+France
+Turkey
+2006
+2002
+2007
+2003
+2008
+2004
+2009
+2005
+2010 2011
+2014
+2012 2013
+25
+20
+15
+10
+5
+0
+Other countries
+2013
+NB: Number of seizures (thousands) for 10 countries with highest values. 
+3.7
+0.5
+0.8
+0.9
+0.5
+0.7
+3.1
+1,7
+3.9
+3.0
+
+30
+European Drug Report 2016: Trends and Developments
+of other substances. In 2015, 98 new substances were 
+detected for the first time, bringing the number of new 
+substances monitored to more than 560, of which 380 
+(70 %) were detected in the last 5 years (Figure 1.10).
+Since 2008, over 160 synthetic cannabinoids have been 
+detected in a range of different products — including 24 
+new cannabinoids reported in 2015. Synthetic 
+cannabinoids are sold as ‘legal’ replacements for cannabis 
+and may be advertised as ‘exotic incense blends’, and ‘not 
+for human consumption’, in order to circumvent consumer 
+protection and medicine laws. This is the largest group of 
+new drugs monitored by the EMCDDA, reflecting both the 
+large demand for cannabis within Europe and the ability of 
+manufacturers to place new cannabinoids on the market 
+when existing ones are subjected to control measures. 
+Synthetic cathinones are the second largest group of 
+substances monitored by the EMCDDA. These were first 
+detected in Europe in 2004 and since then, 103 new 
+cathinones have been identified, 26 in 2015. Synthetic 
+cathinones are typically sold as ‘legal’ replacements for 
+stimulants such as amphetamine, MDMA and cocaine.
+The EMCDDA currently monitors 14 new and noncontrolled benzodiazepines. These are sometimes used by 
+I Seizures of LSD, GHB, ketamine and mephedrone
+A number of other illicit drugs are seized in the European 
+Union, and among these were 1 700 seizures of LSD in 2014 
+representing 156 000 doses. In addition, Belgium seized 
+3 kg of the drug, the largest quantity ever recorded for that 
+country. For most other drugs, incomplete datasets do not 
+allow comparison between countries or analysis of trends. In 
+2014, seizures of GHB or GBL were reported by 18 
+countries. The 1 243 seizures amounted to 176 kg and 
+544 litres of the drug, with Belgium (40 %) and Norway 
+(34 %) each accounting for over a third of these seizures. 
+Eleven countries reported 793 seizures of ketamine, 
+amounting to 246 kg of the drug. Over half of these seizures 
+were in the United Kingdom. The 1 645 seizures of 
+mephedrone reported by 10 countries amounted to 203 kg 
+of the drug. Almost all of the mephedrone seized was 
+reported by the United Kingdom (101 kg) and Cyprus (99 kg).
+I New psychoactive substances: market diversity
+The EMCDDA monitors a broad range of new psychoactive 
+substances. These include synthetic cannabinoids, 
+synthetic cathinones, phenethylamines, opioids, 
+tryptamines, benzodiazepines, arylalkylamines and a range 
+FIGURE 1.10
+Number and categories of new psychoactive substances notified to the EU Early Warning System for the first time, 2009–15
+2009
+2015
+2009
+2015
+2009
+2015
+2009
+2015
+2009
+2015
+2009
+2015
+2009
+2015
+2009
+2015
+2009
+2015
+2009
+2015
+2009
+2015
+2009
+2015
+9
+5
+0
+0
+0
+0
+0
+0
+2
+2
+1
+1
+3
+2
+5
+5
+13 13 12
+8
+1
+1
+2
+4
+5
+0
+0
+1
+1
+1
+3
+3
+5
+5
+4
+1
+2
+0
+0
+6
+1
+1
+1
+3
+4
+14 14
+9
+9
+0
+2
+24
+41
+48
+81
+101
+98
+74
+1
+1
+4
+5
+3
+0
+3
+5
+5
+7
+4
+4
+4
+4
+14
+7
+7
+11
+23
+31
+31
+26
+29 30
+24
+Other substances
+Opioids
+Benzodiazepines
+Arylalkylamines
+Piperidines and pyrrolidines
+Arylcyclohexylamines
+Cannabinoids
+Cathinones
+Piperazines
+Tryptamines
+Phenethylamines
+0
+
+31
+Chapter 1 I Drug supply and the market
+counterfeiters to produce fake medicines that are sold in 
+Europe. Examples of this practice include fake alprazolam 
+tablets, intercepted in 2015, that were found to contain 
+flubromazolam, and fake diazepam tablets which 
+FIGURE 1.11
+Number of seizures of new psychoactive substances reported to the EU Early Warning System: trends and by category in 2014
+17 %
+61 %
+5 %
+Number of seizure cases
+50 000
+37 500
+25 000
+12 500
+0
+2005
+2006
+2007
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+Cathinones
+Cannabinoids
+10 %
+Opioids
+3 %
+1 % 
+3 %
+Benzodiazepines
+Arylcyclohexylamines
+Phenethylamines 
+Other
+substances
+NB: Data for EU Member States, Turkey and Norway.
+Number of seizures cases
+0
+10 000
+30 000
+2005
+2008
+2010
+2011
+2012
+2014
+All other forms
+Plant material
+Powder
+Form unspecified
+Cannabinoids (kilograms)
+2010
+2005
+2011
+2008
+2009
+2012
+2013
+2014
+2006
+2007
+1 800
+1 600
+1 600
+1 200
+1 000
+800
+600
+400
+200
+0
+20 000
+2006
+2007
+2009
+2013
+Number of seizures cases
+0
+10 000
+30 000
+2005
+2008
+2010
+2011
+2012
+2014
+Powder
+All other forms
+Cathinones (kilograms)
+2010
+2005
+2011
+2008
+2009
+2012
+2013
+2014
+2006
+2007
+1 800
+1 600
+1 600
+1 200
+1 000
+800
+600
+400
+200
+0
+Cannabinoids
+20 000
+2006
+2007
+2009
+2013
+Cathinones
+NB: Data for EU, Turkey and Norway.
+FIGURE 1.12
+Seizures of synthetic cannabinoids and cathinones reported to the EU Early Warning System: trends in number of seizures and quantity seized
+contained phenazepam. In some European countries, 
+these counterfeit medicines have become an important 
+part of the illicit drug market.
+
+32
+European Drug Report 2016: Trends and Developments
+I
+ Increased seizures of new psychoactive 
+substances
+Case level seizure data reported to the EU Early Warning 
+System point to the continued growth of the new drugs 
+market. In 2014, almost 50 000 seizures of new 
+substances, weighing almost 4 tonnes, were made across 
+Europe (Figure 1.11). Synthetic cannabinoids accounted 
+for the majority of these, with almost 30 000 seizures 
+weighing more than 1.3 tonnes (Figure 1.12). Synthetic 
+cathinones were the second largest group, with more than 
+8 000 seizures weighing more than 1 tonne. Together, 
+synthetic cannabinoids and cathinones accounted for 
+almost 80 % of the total number of seizures and over 60 % 
+of the quantity seized during 2014. Other groups included 
+non-controlled benzodiazepines and potent narcotic 
+analgesics, such as fentanyls, which may be sold as heroin.
+Seizures of new psychoactive substances in 2014 were 
+dominated by synthetic cannabinoids, which accounted for 
+more than 60 % of the total number of seizures and almost 
+35 % of the quantity seized (Figure 1.11). Most were 
+powder seizures, often in bulk amounts; the rest was 
+typically seized as plant material with the substance 
+sprayed onto it. The powders are used to manufacture 
+products sold as ‘legal highs’, and seizures represent 
+millions of doses. The top five cannabinoids seized in 
+powder form in 2014 were AM-2201 (70 kg), MDMBCHMICA (40 kg), AB-FUBINACA (35 kg), MAM-2201 
+(27 kg) and XLR-11 (5F-UR-144) (26 kg).
+In 2014, synthetic cathinones accounted for more than 
+15 % of all seizures of new psychoactive substances and 
+almost 30 % of the total quantity seized (Figure 1.11). The 
+top five cathinones seized included mephedrone (222 kg) 
+and its isomers 3-MMC (388 kg) and 2-MMC (55 kg) as 
+well as pentedrone (136 kg) and alpha-PVP (135 kg). 
+I Drug markets: policy responses
+The global nature of illicit drug supply and trafficking 
+means implementing counter measures is complex. A 
+range of supply reduction options are available to 
+policymakers including drug strategy and legal 
+interventions alongside regulatory and law enforcement 
+approaches. The coordination of European supply 
+reduction initiatives is undertaken by a number of EU 
+institutions. Several strategic planning tools are used in 
+this process: the EU drugs strategy 2013–20 and its 
+current action plan 2013–16, the EU policy cycle on 
+organised and serious international crime and the EU 
+security strategies. The breadth of the challenges facing 
+law enforcement and the increasing sophistication of 
+organised crime groups involved in the drugs trade is 
+evident from the array of policy areas these strategies 
+cover. These include, for example, the areas of security, 
+maritime, migration and development policies. They span 
+actions to enhance intelligence led policing, maritime 
+surveillance and transportation, detection and targeting of 
+illicit financial flows, border control, the movement of 
+industrial chemicals, and alternative development 
+measures. The European Union also cooperates with a 
+range of international partners to implement these supply 
+reduction policies. 
+At the national level, Member States are required to 
+address an equally complex set of drug market dynamics 
+and most have national security and policing strategies 
+that cover drug supply reduction. In addition, all but two 
+countries use national drug strategies to express their drug 
+policies often encompassing supply reduction alongside 
+demand reduction initiatives. The exceptions are Austria, 
+which has regional drug strategies, and Denmark, which 
+has a national drug policy that is expressed in a range of 
+strategic documents, legislation and concrete actions. 
+Drug strategies are documents, usually time-limited, 
+typically containing objectives and priorities, alongside 
+specific actions and the parties responsible for 
+implementing them. The drug policy arena has become 
+increasingly complex in recent years. This is reflected in 
+the situation with nearly a third of EU Member States’ 
+national strategies having their scope extended beyond 
+illicit drugs to encompass licit drugs and in some cases 
+addictive behaviours (see Figure 1.13). 
+ Countries use national drug 
+ strategies to express their 
+ drug policies 
+
+33
+Chapter 1 I Drug supply and the market
+I Legal responses to drug supply and possession
+Member States take measures to prevent the supply of 
+illicit drugs under three United Nations Conventions, which 
+provide an international framework for control of 
+production, trade and possession of over 240 psychoactive 
+substances. Each country is obliged to treat drug 
+trafficking as a criminal offence, but the penalties written 
+in the law vary between states. In some countries, drug 
+supply offences may be subject to a single wide penalty 
+range, while other countries differentiate between minor 
+and major supply offences with corresponding penalty 
+ranges. 
+Each country is also obliged to treat possession of drugs 
+for personal use as a criminal offence, but subject to a 
+country’s ‘constitutional principles and the basic concepts 
+of its legal system’. This clause has not been uniformly 
+interpreted, and this is reflected in different legal 
+approaches in European countries and elsewhere. Since 
+around 2000, there has been an overall trend across 
+Europe towards reducing the likelihood of imprisonment or 
+other incarceration for minor offences related to personal 
+drug use. Some countries have gone further, so that 
+possession of drugs for personal use can only be punished 
+by non-criminal sanctions, usually a fine (Figure 1.14).
+I Drug law offences: longer term increases
+The implementation of laws to curb drug supply and use is 
+monitored through data on reported drug law offences. In 
+the European Union, there were an estimated 1.6 million 
+offences reported (most of them related to cannabis; 57 %) 
+in 2014, involving around 1 million offenders. Reported 
+offences increased by almost a third (34 %) between 2006 
+and 2014.
+In most European countries, the majority of reported drug 
+law offences relate to use or possession for use. In Europe, 
+overall, it is estimated that more than 1 million of these 
+offences were reported in 2014, a 24 % increase compared 
+with 2006. Of the reported drug offences related to 
+possession, more than three-quarters involve cannabis. 
+The upward trends in offences for cannabis, 
+amphetamines and MDMA possession have continued in 
+2014 (Figure 1.15).
+FIGURE 1.13
+FIGURE 1.14
+National drug strategies and action plans: availability and scope
+Penalties in laws: possibility of incarceration for possession of 
+drugs for personal use (minor offences)
+Combined licit and illicit
+Illicit only
+Regional or other strategies
+For any minor drug possession
+Incarceration possible
+Not for minor cannabis 
+possession, but possible 
+for other drug possession
+Not for minor 
+drug possession
+
+34
+European Drug Report 2016: Trends and Developments
+Overall, reports of drug supply offences have increased by 
+10 % since 2006, reaching an estimate of more than 
+214 000 cases in 2014. As with possession offences, 
+cannabis accounted for the majority. Cocaine, heroin and 
+amphetamines, however, accounted for a larger share of 
+offences for supply than for personal possession. The 
+downward trends in offences for heroin and cocaine supply 
+have not continued into 2014, and there has been a sharp 
+increase in reports of supply offences for MDMA 
+(Figure 1.15).
+I Preventing the diversion of substitution medicines
+The diversion of opioid substitution medicines from their 
+intended use in drug treatment to non-medical use and 
+sale on illicit drug markets is a cause for concern. 
+Diversion here refers to the sharing, selling, trading, or 
+giving away of prescription medications to others. This may 
+occur voluntarily (intentional supply to another person) 
+or involuntarily (inadvertent supply such as lost doses 
+and theft). 
+At a national level, various strategies are implemented to 
+prevent diversion of substitution medicines. These include 
+providing training for clinicians and patients; implementing 
+strategies to assure treatment compliance by appropriate 
+prescription and supervision of dosing; providing medicine 
+formulations designed to deter misuse; use of electronic 
+medicine dispensers; and employing control measures 
+such as patient toxicology tests, pill counts, and 
+unannounced monitoring. Regulation at a system level 
+may occur through registers of pharmacy transactions and 
+use of disciplinary measures to address inappropriate 
+prescribing.
+A recent European review suggests that many of these 
+interventions have the potential to reduce the occurrence 
+of diversion, although information on the possible 
+unintended consequences of their implementation is rarely 
+reported. At present, the challenge remains one of 
+maintaining good patient access to substitution medicines 
+while establishing appropriate prevention and regulation 
+responses that minimise the leakage of these medicines 
+onto the illicit market. 
+FIGURE 1.15
+Drug law offences in Europe related to drug use or possession for use or drug supply: indexed trends and reported offences in 2014
+Possession/use offences
+Supply offences
+Number of 
+offences (million)
+2006
+2008
+2010
+2012
+2014
+2006
+2008
+2010
+2012
+2014
+200
+150
+100
+50
+0
+200
+150
+100
+50
+0
+1.0
+0.8
+0.6
+0.4
+0.2
+0.0
+Possession/
+use
+Supply
+MDMA
+Amphetamines
+Cocaine
+Heroin
+Cannabis
+Other substances
+Indexed trends
+Indexed trends
+NB: Data for offences for which the drug involved has been reported.
+ Various strategies are 
+ implemented to prevent 
+ diversion of substitution 
+ medicines 
+
+35
+Chapter 1 I Drug supply and the market
+FIND OUT MORE
+EMCDDA publications
+2016
+Cocaine trafficking to Europe, Perspectives on Drugs.
+Changes in Europe’s cannabis resin market, 
+Perspectives on Drugs.
+Internet and drug markets, Insights.
+Strategies to prevent diversion of Opioid Substitution 
+Treatment, Perspectives on Drugs.
+2015
+Drugs policy and the city in Europe, EMCDDA Papers.
+Opioid trafficking routes, Perspectives on Drugs.
+New psychoactive substances in Europe. An update 
+from the EU Early Warning System, Technical reports.
+The Internet and drug markets, Technical reports. 
+2014
+Cannabis markets in Europe: a shift towards domestic 
+herbal cannabis, Perspectives on Drugs.
+Drug policy profiles – Austria, EMCDDA Papers.
+Drug policy profiles – Poland, EMCDDA Papers.
+2013
+Drug policy advocacy organisations, EMCDDA Papers.
+Drug policy profiles: Ireland.
+Drug supply reduction and internal security, EMCDDA 
+Papers.
+Legal approaches to controlling new psychoactive 
+substances, Perspectives on Drugs.
+Models for the legal supply of cannabis: recent 
+developments, Perspectives on Drugs.
+Synthetic cannabinoids in Europe, Perspectives on Drugs.
+Synthetic drug production in Europe, Perspectives on 
+Drugs.
+The new EU drugs strategy (2013–20), Perspectives 
+on Drugs.
+2012
+Cannabis production and markets in Europe, Insights.
+2011
+Drug policy profiles: Portugal
+Recent shocks in the European heroin market: 
+explanations and ramifications, Trendspotter meeting 
+reports.
+Responding to new psychoactive substances, 
+Drugs in focus.
+EMCDDA and Europol joint publications
+2016
+EU Drug markets report: in-depth analysis.
+EU Drug markets report: a strategic overview.
+2015
+EMCDDA–Europol Joint Report on a new 
+psychoactive substance: 1-phenyl-2-(1-pyrrolidinyl)-1pentanone (α-PVP), Joint Reports.
+EMCDDA–Europol 2014 Annual Report on the 
+implementation of Council Decision 2005/387/JHA.
+2013
+EU Drug markets report: a strategic analysis.
+Amphetamine: a European Union perspective in the 
+global context.
+All publications are available at 
+www.emcdda.europa.eu/publications
+
+ Drug use in Europe now encompasses 
+ a wider range of substances 
+2
+
+37
+Chapter 2
+Drug use in Europe now encompasses 
+a wider range of substances than in the 
+past. Among drug users, polydrug 
+consumption is common and individual 
+patterns of use range from experimental 
+to habitual and dependent 
+consumption. Use of all drugs is 
+generally higher among males, and this 
+difference is often accentuated for more 
+intensive or regular patterns of use. The 
+prevalence of cannabis use is about five 
+times that of other substances. While 
+the use of heroin and other opioids 
+remains relatively rare, these continue 
+to be the drugs most commonly 
+associated with the more harmful forms 
+of use including injecting drug use. 
+I One in four Europeans have tried illicit drugs
+Over 88 million adults, or just over a quarter of the 15- to 
+64-year-olds in the European Union, are estimated to have 
+tried illicit drugs at some point in their lives. Drug use is 
+more frequently reported by males (54.3 million) than 
+females (34.8 million). The most commonly used drug is 
+cannabis (51.5 million males and 32.4 million females), 
+with much lower estimates reported for the lifetime use of 
+cocaine (11.9 million males and 5.3 million females), 
+MDMA (9.1 million males and 3.9 million females) and 
+amphetamines (8.3 million males and 3.8 million females). 
+Levels of lifetime use of cannabis differ considerably 
+between countries, ranging from around four in 10 adults 
+Drug use prevalence and 
+trends
+Monitoring drug use
+The EMCDDA collects and maintains datasets that 
+cover drug use and patterns of use in Europe. 
+Data from general population surveys can provide an 
+overview of the prevalence of recreational drug use. 
+These survey results can be complemented by 
+community level analyses of drug residues in 
+municipal wastewater, carried out in cities across 
+Europe. 
+Studies reporting estimates of high-risk drug use can 
+help to identify the extent of the more entrenched 
+drug use problems, while data on those entering 
+specialised drug treatment systems, when 
+considered alongside other indicators, can inform 
+understanding on the nature and trends in high-risk 
+drug use. 
+
+38
+European Drug Report 2016: Trends and Developments
+in France and one-third of adults in Denmark and Italy, to 
+less than one in 10 in Bulgaria, Hungary, Malta, Romania 
+and Turkey.
+Last year drug use provides a good measure of recent drug 
+use and is largely concentrated among young people 
+(15–34). An estimated 17.8 million young adults used 
+drugs in the last year, with males outnumbering females by 
+a factor of two. 
+I Cannabis use: different national pictures
+Across all age groups, cannabis is the illicit drug most likely 
+to be used. The drug is generally smoked and, in Europe, is 
+commonly mixed with tobacco. Patterns of cannabis use 
+can range from the occasional to the regular and 
+dependent. 
+An estimated 16.6 million young Europeans (aged 15–34), 
+or 13.3 % of this age group, used cannabis in the last year, 
+with 9.6 million of these aged 15–24 (16.4 % of this 
+age group). Among young people using cannabis in the 
+last year, the ratio of males to females is two to one. 
+The most recent survey results show that countries 
+continue to follow divergent paths in last year cannabis 
+use (Figure 2.1). Of the countries that have produced 
+surveys since 2013, eight reported higher estimates, four 
+were stable and one reported a lower estimate than in the 
+previous comparable survey. 
+Only a limited number of countries have sufficient survey 
+data to allow a statistical analysis of medium and longterm trends in last year cannabis use among young adults 
+(15–34). Surveys for relatively high-prevalence countries, 
+such as Germany, Spain and the United Kingdom, all show 
+decreasing or stable cannabis prevalence over the past 
+decade, while France shows increases in prevalence after 
+2010. Among countries that have historically lower rates of 
+cannabis use, Finland has consistently reported increases 
+in prevalence over the long term, moving from a low 
+prevalence towards the European average, while Sweden 
+retains a low level with data showing a modest increase 
+over the last decade. Among the countries with fewer 
+comparable data points, the Bulgarian data continues an 
+increasing trend until 2012, while an annual survey in the 
+Czech Republic found increases from 2011 to 2014.
+FIGURE 2.1
+Last year prevalence of cannabis use among young adults (15–34): 
+most recent data (top) and statistically significant trends (centre 
+and bottom)
+<4.0
+4.1–8.0
+8.1–12.0
+>12.0
+No data
+Percent
+Spain
+Germany
+UK (England and Wales)
+Percent
+25
+20
+15
+10
+5
+0
+25
+20
+15
+10
+5
+0
+25
+20
+15
+10
+5
+0
+25
+20
+15
+10
+5
+0
+France
+Czech Republic
+Italy
+Finland
+Bulgaria
+Sweden
+Percent
+2007
+2006
+2005
+2004
+2003
+2002
+2001
+2000
+2008 2009
+2011
+2013 2014
+2012
+2010
+2007
+2006
+2005
+2004
+2003
+2002
+2001
+2000
+2008 2009
+2011
+2013 2014
+2012
+2010
+
+39
+Chapter 2 I Drug use prevalence and trends
+Cannabis accounted for the majority of illicit drug use 
+among 15- to 16-year-old school students reported by the 
+last round of the European School Survey Project on 
+Alcohol and Other Drugs (ESPAD), published in 2011. 
+More recent data on schoolchildren, in this case aged 15, 
+are provided by the Health Behaviour in School-aged 
+Children (HBSC) study. In the 2013/14 HBSC survey, 
+levels of lifetime cannabis use ranged from 5 % among 
+girls and 7 % among boys in Sweden to 26 % among girls 
+and 30 % among boys in France.
+I Treating cannabis users: increased demand
+Based on surveys of the general population, it is estimated 
+that around 1 % of European adults are daily or almost 
+daily cannabis users — that is, they have used the drug on 
+20 days or more in the last month. Around 60 % of these 
+are aged between 15 and 34 years, and over threequarters are male. 
+When considered alongside other indicators, data on those 
+entering treatment for cannabis problems can inform 
+understanding of the nature and scale of high-risk 
+cannabis use in Europe. Overall, the number of first-time 
+treatment entrants for cannabis problems increased from 
+45 000 in 2006 to 69 000 in 2014. Among this group, 
+those reporting daily use of the substance rose from 46 % 
+in 2006 to 54 % in 2014. The causes of the increase in the 
+number of treatment entrants are unclear, but may be 
+linked to changes in the prevalence of cannabis use and 
+intensive use and other factors such as the availability of 
+more harmful and higher-potency products, an increase in 
+cannabis treatment availability and changing treatment 
+referral practices.
+CANNABIS USERS ENTERING TREATMENT
+Frequency of use in the last month
+70 000
+60 000
+50 000
+40 000
+30 000
+20 000
+10 000
+0
+2006 2007 2008 2009 2010 2011 2012 2013 2014
+Trends in first-time entrants
+Daily
+2 to 6 days per week
+Once a week or less
+Not used in last 30 days
+17 % 83 %
+57 %
+22 %
+9 %
+12 %
+16
+26
+Mean age 
+at first use
+Mean age at first 
+treatment entry
+41 %
+59 %
+First-time
+entrants
+Previously treated
+entrants
+Spain
+United Kingdom
+Italy
+Germany
+Netherlands
+ 
+Other countries
+France
+Characteristics
+NB: Characteristics are for all treatment entrants with cannabis as primary drug. Due to changes in the flow of data at national level, 
+2014 data for Italy is not directly comparable with earlier years.
+mean use 5.4 days per week
+
+40
+European Drug Report 2016: Trends and Developments
+I Cocaine: changing prevalence
+Cocaine is the most commonly used illicit stimulant drug 
+in Europe, although its use is more prevalent in the south 
+and west of Europe. Cocaine powder (cocaine 
+hydrochloride) is primarily sniffed (nasal insufflation), but 
+is also sometimes injected, whereas crack cocaine 
+(cocaine base) is usually smoked. 
+It is estimated that about 2.4 million young adults aged 15 
+to 34 (1.9 % of this age group) used cocaine in the last 
+year. Many cocaine users consume the drug recreationally, 
+with use highest during weekends and holidays. Among 
+regular users, a broad distinction can be made between 
+more socially integrated consumers, who often sniff 
+powder cocaine, and marginalised users, who inject 
+cocaine or smoke crack sometimes alongside the use of 
+opioids.
+Only Spain, the Netherlands and the United Kingdom 
+report last year prevalence of cocaine use among young 
+adults of 3 % or more. The decreases in cocaine use 
+FIGURE 2.2
+Last year prevalence of cocaine use among young adults (15–34): statistically significant trends and most recent data
+0.1–1.0
+1.1–2.0
+2.1–3.0
+>3.0
+No data
+Percent
+France
+Spain
+Finland
+UK (England and Wales) 
+Percent
+2000 2001 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014
+7
+4
+5
+6
+3
+2
+1
+0
+7
+4
+5
+6
+3
+2
+1
+0
+ Cocaine is the most 
+ commonly used illicit 
+ stimulant drug in Europe 
+reported in previous years have not been observed in the 
+most recent surveys; of the countries that have produced 
+surveys since 2013, six reported higher estimates, two 
+reported a stable trend and four reported lower estimates 
+than in the previous comparable survey. 
+A statistical analysis of long-term trends in last year use of 
+cocaine among young adults is only possible for a small 
+number of countries. Spain and the United Kingdom both 
+reported trends of increasing prevalence until 2008, 
+followed by stability or decline. Reports from the United 
+Kingdom suggest that this decline is limited to younger 
+adults (16–24), with prevalence in the older age group 
+remaining stable or increasing. France has an increasing 
+trend, moving above 2 % in 2014. In Finland, prevalence 
+has increased but the overall levels of use remain low, only 
+reaching 1 % for the first time in 2014. 
+Analysis of municipal wastewater for cocaine residues 
+carried out in a multi-city study complements the results 
+from population surveys. The results of the study are 
+presented in standardised amounts (mass loads) of drug 
+residue per 1 000 population per day. The 2015 analysis 
+found the highest mass loads of benzoylecgonine — the 
+main metabolite of cocaine — in cities in Belgium, Spain, 
+the Netherlands and the United Kingdom (see Figure 2.3). 
+The general patterns detected in 2015 are similar to those 
+in previous years, with most cities showing either a 
+decreasing or a stable trend between 2011 and 2015.
+
+41
+Chapter 2 I Drug use prevalence and trends
+I Treating cocaine use: stable demand
+The prevalence of particularly problematic patterns of 
+cocaine use in Europe is difficult to gauge as only five 
+countries have recent estimates and different definitions 
+and methodologies have been used. In 2012, Germany 
+estimated cocaine-dependency among the adult 
+population at 0.20 %. In 2014, Italy produced an estimate 
+of 0.64 % for those in need of treatment for cocaine use 
+and in 2013, Spain estimated high-risk cocaine use at 
+FIGURE 2.3
+Cocaine residues in wastewater in selected European cities: trends and most recent data
+NB: Mean daily amounts of benzoylecognine in milligrams per 1 000 population. Map: from sampling over a one-week period in 2015. 
+Source: Sewage Analysis Core Group Europe (SCORE).
+1
+10
+100
+250
+500
+1 000
+Mytilene
+Nicosia
+Limassol
+Malta
+Bratislava
+Valencia
+Milan
+Porto
+Lisbon
+Bristol
+London
+Helsinki
+Turku
+Oslo
+Copenhagen
+Berlin
+Munich
+Zagreb
+Athens
+Barcelona
+Eindhoven
+Amsterdam
+Antwerp
+Paris
+Budweis
+Piestany
+Antwerp
+Barcelona
+Milan
+Paris
+Oslo
+Amsterdam
+Zagreb
+2011
+2012
+2013
+2014
+2015
+100
+200
+300
+400
+500
+600
+700
+800
+900
+0
+mg/1 000 population/day
+mg/1 000 population/day
+COCAINE USERS ENTERING TREATMENT
+40 000
+35 000
+30 000
+25 000
+20 000
+15 000
+10 000
+5 000
+0
+2006 2007 2008 2009 2010 2011 2012 2013 2014
+ Spain
+United Kingdom
+Germany
+Italy
+ 
+ 
+Other countries
+ 
+Netherlands
+Trends in first-time entrants
+Characteristics
+15 % 85 %
+22
+35
+Mean age at 
+first use
+Mean age at first 
+treatment entry
+46 %
+54 %
+First-time
+entrants
+Previously treated
+entrants
+Route of administration
+1 %
+66 %
+7 %
+24 %
+Sniffing
+Smoking/inhaling
+Eating/drinking
+Injecting
+Other
+2 %
+NB: Characteristics are for all treatment entrants with cocaine or crack as primary drug. Due to changes in the flow of data at national level, 2014 data for Italy is not directly comparable 
+with earlier years. 
+Frequency of use in the last month
+Daily
+2 to 6 days per week
+Once a week or less
+Not used in last 30 days
+20 %
+24 %
+22 %
+mean use 3.6 days per week
+34 %
+
+42
+European Drug Report 2016: Trends and Developments
+0.29 %. For 2011/2012, the United Kingdom estimated 
+crack cocaine use among the adult population in England 
+at 0.48 % and the majority of these were also opioid users. 
+High-risk cocaine use in Portugal is estimated at 0.62 %, 
+based on reported last year use. 
+Spain, Italy and the United Kingdom account for 74 % of all 
+reported treatment entries related to cocaine in Europe. 
+Overall, cocaine was cited as the primary drug by 60 000 
+clients entering specialised drug treatment in 2014 and by 
+27 000 first-time clients. After a period of decline, the 
+overall number of cocaine first-time treatment entrants has 
+been stable since 2012. 
+In 2014, almost 5 500 clients entering treatment in Europe 
+reported primary crack cocaine use, with the United 
+Kingdom accounting for more than half of these (3 000), 
+and Spain, France and the Netherlands most of the 
+remainder (2 000).
+I MDMA: changing trends and increasing use
+MDMA (3,4-methylenedioxy-methamphetamine) is 
+commonly used in the form of ecstasy tablets, but is also 
+increasingly available as crystals and powders; tablets are 
+usually swallowed, but in powder form the drug is also 
+snorted (nasal insufflation). 
+In recent years, monitoring sources based in a number of 
+countries have been signalling new developments within 
+Europe’s MDMA market, including reports of increased 
+use.
+Most European surveys have historically collected data on 
+ecstasy rather than MDMA use, although this is now 
+changing. It is estimated that 2.1 million young adults 
+(15–34) used MDMA/ecstasy in the last year (1.7 % of this 
+age group), with national estimates ranging from 0.3 % to 
+5.5 %. Among young people using MDMA in the last year, 
+the ratio of males to females is 2.4 to 1.
+Until recently, in many countries, MDMA prevalence has 
+been on the decline from peak levels attained in the early 
+to mid-2000s. This appears now to be changing. Among 
+the countries that have produced new surveys since 2013, 
+results point to an overall increase in Europe, with nine 
+countries reporting higher estimates and three reporting 
+lower estimates than in the previous comparable survey. 
+Where data exist for a more robust analysis of trends in 
+FIGURE 2.4
+Last year prevalence of MDMA use among young adults (15–34): statistically significant trends and most recent data
+0–0.5
+0.6–1.0
+1.1–2.5
+>2.5
+No data
+Percent
+Bulgaria
+Finland
+Spain
+France
+UK (England and Wales) 
+Percent
+5
+4
+3
+2
+1
+0
+5
+4
+3
+2
+1
+0
+2000 2001 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014
+
+43
+Chapter 2 I Drug use prevalence and trends
+last year use of MDMA among young adults, increases are 
+observed in some countries since 2010. Bulgaria, Finland 
+and France all continue long-term upward trends over this 
+period, while in the United Kingdom a break in 2011/2012 
+from a downward trend is followed by statistically 
+significant increases (Figure 2.4). Though not directly 
+comparable with earlier surveys, the Netherlands reports a 
+prevalence of 5.5 % in 2014.
+A 2015 multi-city analysis found the highest mass loads of 
+MDMA in the wastewater of Belgian and Dutch cities 
+(Figure 2.5). In most cities, wastewater MDMA loads were 
+higher in 2015 than in 2011, with sharp increases 
+observed in some cities, which may be related to the 
+increased purity of MDMA or increased availability and 
+consumption of the drug. 
+MDMA is often taken alongside other substances, including 
+alcohol. Typically, surveys of young people who regularly 
+attend nightlife events indicate higher levels of drug use 
+compared with the general population. This is particularly the 
+case for MDMA, which has historically been closely linked 
+with nightlife settings and especially with electronic dance 
+music. Current indications suggest that in higher-prevalence 
+countries, the use of MDMA is no longer a niche or 
+subcultural drug; it is not limited to dance clubs and parties, 
+but is used by a wider range of young people in mainstream 
+nightlife settings such as bars and house parties.
+MDMA use is rarely cited as a reason for entering 
+specialised drug treatment. In 2014, MDMA was reported 
+by less than 1 % (almost 800 cases) of first-time treatment 
+entrants in Europe.
+FIGURE 2.5
+MDMA residues in wastewater in selected European cities: trends and most recent data
+NB: Mean daily amounts of MDMA in milligrams per 1 000 population. Map: from sampling over a one-week period in 2015. 
+Source: Sewage Analysis Core Group Europe (SCORE).
+1
+10
+25
+50
+100
+175
+Mytilene
+Nicosia
+Limassol
+Bratislava
+Valencia
+Milan
+Porto
+Lisbon
+Bristol
+London
+Helsinki
+Turku
+Oslo
+Copenhagen
+Berlin
+Munich
+Zagreb
+Athens
+Barcelona
+Eindhoven
+Amsterdam
+Antwerp
+Paris
+Budweis
+Antwerp
+Barcelona
+Milan
+Paris
+Oslo
+Amsterdam
+Zagreb
+2011
+2012
+2013
+2014
+2015
+20
+40
+60
+80
+100
+120
+140
+160
+180
+0
+mg/1 000 population/day
+mg/1 000 population/day
+ MDMA is often taken 
+ alongside other substances 
+
+44
+European Drug Report 2016: Trends and Developments
+I Amphetamines use: divergent national trends 
+Amphetamine and methamphetamine, two closely related 
+stimulants, are both consumed in Europe, although 
+amphetamine is by far the more commonly used. 
+Methamphetamine consumption has historically been 
+restricted to the Czech Republic and, more recently, 
+Slovakia, although recent years have seen increases in use 
+in other countries. In some data sets, it is not possible to 
+distinguish between these two substances; in these cases, 
+the generic term amphetamines is used. 
+Both drugs can be taken orally or nasally; in addition, 
+injection is common among high-risk users in some 
+countries. Methamphetamine can also be smoked, but this 
+route of administration is not commonly reported in Europe.
+An estimated 1.3 million (1.0 %) young adults (15–34) 
+used amphetamines during the last year, with the most 
+recent national prevalence estimates ranging from 0.1 % to 
+2.9 %. The available data suggest that since around 2000, 
+most European countries have experienced a relatively 
+stable situation in respect to trends in use. Of the countries 
+that have produced surveys since 2013, seven reported 
+higher estimates, one reported a stable trend and four 
+reported lower estimates than in the previous comparable 
+survey. Although not comparable with earlier surveys, the 
+Netherlands recently reported a prevalence of 2.9 % 
+among young adults. 
+In the limited number of countries where it is possible to 
+analyse longer term statistically significant trends, both 
+Spain and the United Kingdom show a decrease in 
+prevalence since 2000 (Figure 2.6). In contrast, Finland 
+has shown a steady increase in prevalence over the same 
+period and now reports one of the highest levels in Europe. 
+Analysis of municipal wastewater carried out in 2015 
+found amphetamines at appreciable levels in cities across 
+Europe. The mass loads of amphetamine varied 
+considerably, with the highest levels reported in cities in 
+the north of Europe (see Figure 2.7). Amphetamine was 
+found at much lower levels in cities in the south of Europe. 
+The highest mass loads of methamphetamine were found 
+in cities in the Czech Republic, Slovakia and Norway. 
+Overall, the data from 2011 to 2015 showed relatively 
+stable trends for both drugs.
+FIGURE 2.6
+Last year prevalence of amphetamines use among young adults (15–34): statistically significant trends and most recent data
+0–0.5
+0.6–1.0
+1.1–1.5
+>1.5
+No data
+Percent
+Finland
+Spain
+UK (England and Wales)
+Percent
+2000 2001 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014
+5
+4
+3
+2
+1
+0
+5
+4
+3
+2
+1
+0
+
+45
+Chapter 2 I Drug use prevalence and trends
+FIGURE 2.7
+Amphetamine residues in wastewater in selected European cities: trends and most recent data
+mg/1 000 population/day
+NB: Mean daily amounts of amphetamine in milligrams per 1 000 population. Map: from sampling over a one-week period in 2015. 
+Source: Sewage Analysis Core Group Europe (SCORE).
+1
+10
+25
+50
+100
+250
+Nicosia
+Limassol
+Malta
+Bratislava
+Milan
+Lisbon
+Bristol
+Helsinki
+Turku
+Oslo
+Copenhagen
+Berlin
+Zagreb
+Athens
+Barcelona
+Amsterdam
+Antwerp
+Budweis
+Piestany
+2011
+2012
+2013
+2014
+2015
+50
+100
+150
+200
+250
+300
+0
+Antwerp
+Zagreb
+Barcelona
+Milan
+Oslo
+Amsterdam
+mg/1 000 population/day
+I Treating amphetamine users: rising demand 
+Problems related to long-term, chronic and injecting 
+amphetamine use have, historically, been most evident in 
+northern European countries. In contrast, long-term 
+methamphetamine problems have been most apparent in 
+the Czech Republic and Slovakia. Recent estimates of 
+high-risk use of methamphetamine are available for the 
+Czech Republic and Cyprus. In the Czech Republic, 
+high-risk methamphetamine use among adults (15–64) 
+was estimated at around 0.51 % for 2014, with a marked 
+increase in use, mainly injecting, observed between 2007 
+and 2014 (from around 20 000 users to over 36 000). The 
+estimate for Cyprus is 0.02 % or 127 users in 2014. For 
+Norway, in 2013, high-risk use of amphetamine and 
+methamphetamine is estimated at 0.33 % or 11 200 
+adults. Users of amphetamines are likely to make up the 
+majority of the estimated 2 177 (0.17 %) high-risk 
+stimulant users reported by Latvia, down from 6 540 
+(0.46 %) in 2010. 
+Injection of methamphetamine alongside use of other 
+stimulants and GHB (gamma-hydroxybutyrate) continues 
+to be reported in a number of countries among small 
+groups of men who have sex with men. These so-called 
+slamming practices are a concern because of the 
+combination of risk-taking in both drug use and sexual 
+behaviours.
+Approximately 32 000 clients entering specialised drug 
+treatment in Europe in 2014 reported amphetamines as 
+their primary drug, of whom around 13 000 were first-time 
+clients. Primary amphetamine users account for a sizeable 
+proportion of reported first-time treatment entrants in 
+Bulgaria, Germany, Latvia, Hungary, Poland and Finland. 
+Treatment entrants reporting primary methamphetamine 
+use are concentrated in the Czech Republic and Slovakia, 
+which together account for almost 95 % of the 8 700 
+methamphetamine clients in Europe. Overall, Europe has 
+seen a 50 % increase in the number of first-time entrants 
+for primary use of amphetamines since 2006, largely 
+driven by increases in Germany and, to a lesser extent, the 
+Czech Republic.
+I Use of ketamine, GHB and hallucinogens
+A number of other substances with hallucinogenic, 
+anaesthetic, dissociative and depressant properties are 
+used in Europe: these include LSD (lysergic acid 
+diethylamide), hallucinogenic mushrooms, ketamine and 
+GHB (gamma-hydroxybutyrate). 
+The recreational use of ketamine and GHB (including its 
+precursor GBL, gamma-butyrolactone) has been reported 
+among subgroups of drug users in Europe for the last two 
+decades. Where they exist, national estimates of the 
+prevalence of GHB and ketamine use in both adult and 
+
+46
+European Drug Report 2016: Trends and Developments
+school populations remain low. In their most recent 
+surveys, the Netherlands reported last year prevalence of 
+GHB use at 0.4 % for adults (15–64) and Norway at 0.1 % 
+(16–64), while and Romania reported 0.5 % for young 
+adults (15–34). Higher levels of both GHB use and related 
+problems have been reported among particular social 
+groups at the city and local level in some countries, 
+including the Netherlands, Norway and the United 
+Kingdom. Last year prevalence of ketamine use among 
+young adults (15–34) was estimated at 0.3 % in Denmark 
+and Spain, and the United Kingdom reported last year 
+ketamine use at 1.6 % among 16- to 24-year-olds, a stable 
+trend since 2008. 
+The overall prevalence levels of LSD and hallucinogenic 
+mushroom use in Europe have been generally low and 
+stable for a number of years. Among young adults (15–34), 
+national surveys report last year prevalence estimates of 
+less than 1 % for both substances, with the exception of 
+Finland with a prevalence of 1.3 % for LSD, and for 
+hallucinogenic mushrooms the United Kingdom (1 %), 
+the Netherlands (1.3 %), Finland (1.9 %) and the 
+Czech Republic (2.3 %).
+AMPHETAMINES USERS ENTERING TREATMENT
+12 000
+10 000
+8 000
+6 000
+4 000
+2 000
+0
+2006 2007 2008 2009 2010 2011 2012 2013 2014
+ Germany
+Czech Republic
+Slovakia
+Netherlands
+ 
+ 
+United Kingdom
+ 
+Other countries
+Trends in first-time entrants
+Characteristics
+28 % 72 %
+19
+30
+Mean age at 
+first use
+Mean age at first 
+treatment entry
+43 %
+57 %
+First-time
+entrants
+Previously treated
+entrants
+Route of administration
+1 %
+49 %
+21 %
+8 %
+Sniffing
+Smoking/inhaling
+Eating/drinking
+Injecting
+Other
+21 %
+NB: Countries covered vary by indicator. Characteristics are for all treatment entrants with amphetamines as primary drug. 
+Frequency of use in the last month
+Daily
+2 to 6 days per week
+Once a week or less
+Not used in last 30 days
+25 %
+17 %
+26 %
+mean use 3.9 days per week
+32 %
+
+47
+Chapter 2 I Drug use prevalence and trends
+I Use of new drugs
+Insights into the use of new drugs are provided by the 
+2014 Flash Eurobarometer on young people and drugs, a 
+telephone survey of 13 128 young adults aged 15–24 in 
+the 28 EU Member States. Although primarily an attitudinal 
+survey, the Eurobarometer includes a question on the use 
+of ‘substances that imitate the effects of illicit drugs’. 
+Currently, these data represent the only EU-wide 
+information source on this topic, although for 
+methodological reasons caution is required when 
+interpreting the results. Overall, 8 % of respondents 
+reported lifetime use of such substances, with 3 % 
+reporting use in the last year. This represents an increase 
+from the 5 % reporting lifetime use in a similar survey in 
+2011. Of those reporting use in the last year, 68 % had 
+obtained the substance from a friend.
+An increasing number of countries are including new 
+psychoactive substances in their general population 
+surveys, though differences in methods and questions limit 
+the comparability of the results between countries. Since 
+2011, 11 European countries have reported national 
+estimates of the use of new psychoactive substances (not 
+including ketamine and GHB). For the age group covered 
+in the Flash Eurobarometer study, younger adults (aged 
+15–24), last year prevalence of use of these substances 
+ranges from 0.0 % in Poland to 9.7 % in Ireland. Survey 
+data for the United Kingdom (England and Wales) are 
+available on the use of mephedrone. In the most recent 
+survey (2014/15), last year use of this drug among young 
+people aged 16 to 24 was estimated at 1.9 %; this figure 
+was the same as the previous survey, but down from 4.4 % 
+in 2010/11, before control measures were introduced. In 
+2014, a survey in Finland estimated last year use of 
+synthetic cathinones to be 0.2 % among young people 
+aged 15 to 24, while in France an estimated 4 % of 18- to 
+34-year-olds reported having ever smoked synthetic 
+cannabinoids.
+I Heroin users: stable treatment demand
+In Europe, the most commonly used illicit opioid is heroin, 
+which may be smoked, snorted or injected. A range of 
+synthetic opioids such as methadone, buprenorphine and 
+fentanyl are also misused.
+The average prevalence of high-risk opioid use among 
+adults (15–64) is estimated at 0.4 %, the equivalent of 1.3 
+million high-risk opioid users in Europe in 2014. At national 
+level, prevalence estimates of high-risk opioid use range 
+from less than 1 to around 8 cases per 1 000 population 
+aged 15–64 (Figure 2.8). Around 75 % of the estimated 
+high-risk opioid users in the European Union are reported 
+in the United Kingdom, France, Italy, Germany and Spain. 
+Of the 11 countries with repeated estimates of high-risk 
+opioid use between 2008 and 2014, Spain and Turkey 
+show a statistically significant decrease, with stable trends 
+in the other countries (Figure 2.8).
+Europe has experienced different waves of heroin 
+addiction, the first affecting many western countries from 
+the mid-1970s and a second wave affecting other 
+countries especially those in central and eastern Europe in 
+the mid to late 1990s. Subsequently there has been 
+diffusion from urban centres to more rural areas and 
+smaller cities in some countries. From 2010/11, indicators 
+in many European countries highlighted a decline in new 
+recruitment into heroin use and the existence of an ageing 
+cohort of high-risk opioid users, many of whom were 
+receiving substitution treatment. The most recent data 
+suggest the downward trend in new treatment entrants 
+may be levelling off.
+ In Europe, the most 
+ commonly used illicit 
+ opioid is heroin 
+
+48
+European Drug Report 2016: Trends and Developments
+FIGURE 2.8
+National estimates of last year prevalence of high-risk opioid use: selected trends and most recent data
+0.0–2.5
+2.51–5.0
+>5.0
+No data
+Rate per 1 000
+Malta
+Latvia
+Austria
+Italy
+Slovenia
+Czech Republic
+Turkey
+Germany
+Greece
+Spain
+Cyprus
+Cases per 1 000 population aged 15 to 64
+2008
+2009
+2010
+2012
+2014
+8
+7
+4
+5
+6
+3
+2
+1
+0
+8
+7
+4
+5
+6
+3
+2
+1
+0
+2013
+2011
+HEROIN USERS ENTERING TREATMENT
+60 000
+50 000
+40 000
+30 000
+20 000
+10 000
+0
+2006 2007 2008 2009 2010 2011 2012 2013 2014
+ 
+ Other countries
+United Kingdom
+Spain
+Italy
+ 
+ 
+Germany
+Trends in first-time entrants
+Characteristics
+20 % 80%
+22
+36
+Mean age at 
+first use
+Mean age at first 
+treatment entry
+18 %
+82 %
+First-time
+entrants
+Previously treated
+entrants
+Route of administration
+1 %
+10 %
+41 %
+36 %
+Sniffing
+Smoking/inhaling
+Eating/drinking
+Injecting
+Other
+12 %
+NB: Characteristics are for all treatment entrants with heroin as primary drug. Due to changes in the flow of data at national level, 
+2014 data for Italy is not directly comparable with earlier years. 
+Frequency of use in the last month
+Daily
+2 to 6 days per week
+Once a week or less
+Not used in last 30 days
+59 %
+8 %
+20 %
+mean use 5.8 days per week
+13 %
+
+49
+Chapter 2 I Drug use prevalence and trends
+Of the 185 000 clients reporting opioids as their primary 
+drug who entered specialised treatment in Europe, 34 000 
+were first-time entrants. The number of new heroin clients 
+has more than halved from a peak of 59 000 in 2007, when 
+they accounted for 36 % of all new clients, to 23 000 in 
+2013 (16 % of new clients). The trend seems to have 
+levelled off. In the latest data, 17 countries reported a 
+stable or declining number of new heroin clients, whereas 
+9 reported an increase. 
+I Synthetic opioids: an increasing concern 
+While heroin remains the most commonly used opioid, 
+synthetic opioids are being increasingly misused. In 2014, 
+18 European countries reported that more than 10 % of all 
+opioid clients entering specialised services presented for 
+problems primarily related to opioids other than heroin 
+(Figure 2.9); an increase from 11 countries in 2013. 
+Opioids reported by treatment entrants include 
+methadone, buprenorphine, fentanyl, codeine, morphine, 
+tramadol and oxycodone. In some countries, non-heroin 
+opioids now represent the most common form of opioid 
+use among treatment entrants. In Estonia, for example, the 
+majority of treatment entrants reporting an opioid as their 
+primary drug were using fentanyl, while in Finland and the 
+Czech Republic, buprenorphine is the most frequently 
+misused non-heroin opioid. 
+ Synthetic opioids are being 
+ increasingly misused 
+FIGURE 2.9
+Treatment entrants citing opioids as primary drug: by type of opioid (left) and percentage reporting opioids other than heroin (right)
+Heroin
+Buprenorphine
+5 %
+Methadone 
+8 %
+Other 
+6 %
+Fentanyl
+< 1 %
+19 %
+< 10
+10–24
+25–50
+> 50
+No data
+Percent
+
+50
+European Drug Report 2016: Trends and Developments
+I Injecting drug use: heroin in decline
+Injecting drug use is most commonly associated with 
+opioids, although in a few countries, the injection of 
+stimulants such as amphetamines or cocaine is a major 
+problem. The injection of synthetic cathinones, although 
+not a widespread phenomenon, continues to be reported 
+in some specific populations, including opioid injectors, 
+drug treatment clients in some countries and small 
+populations of men who have sex with men. Recent 
+estimates of the prevalence of injecting drug use are 
+available for 16 countries, where they range from less than 
+1 to more than 9 cases per 1 000 population aged 15–64.
+Among first-time clients entering drug treatment in 2014 
+with heroin as their primary drug, 33 % reported injecting 
+as their main route of administration, down from 43 % in 
+2006 (Figure 2.10). In this group, levels of injecting vary 
+between countries, from 11 % in Spain to more than 90 % 
+in Latvia and Romania. Among first-time clients with 
+amphetamines as their primary drug, 47 % report injecting 
+as their main route of administration, with a small overall 
+increase since 2006. More than 70 % of this group are 
+from the Czech Republic and users of methamphetamine. 
+Taking the main three injected drugs together, among 
+first-time entrants to treatment in Europe, injecting as the 
+main route of administration has declined from 28 % in 
+2006 to 20 % in 2014.
+ Injecting drug use is most 
+ commonly associated with 
+ opioids 
+FIGURE 2.10
+First-time treatment entrants reporting injecting as the main route 
+of administration of their primary drug
+Percent
+2006
+2007
+2008
+2009
+2011
+2014
+50
+45
+40
+35
+30
+25
+20
+15
+10
+0
+5
+50
+45
+40
+35
+30
+25
+20
+15
+10
+0
+5
+2012
+2012
+2010
+Heroin
+Cocaine
+Amphetamines
+Average of the three drugs
+
+51
+Chapter 2 I Drug use prevalence and trends
+FIND OUT MORE
+EMCDDA publications
+2016
+Assessing illicit drugs in wastewater: advances in 
+wastewater-based drug epidemiology, Insights.
+Recent changes in Europe’s MDMA/ecstasy market, 
+Rapid communication.
+2015
+Misuse of benzodiazepines among high-risk drug 
+users, Perspectives on Drugs.
+2014
+Exploring methamphetamine trends in Europe, 
+EMCDDA Papers.
+Injection of cathinones, Perspectives on Drugs.
+2013
+Characteristics of frequent and high-risk cannabis 
+users, Perspectives on Drugs.
+Trends in heroin use in Europe — what do treatment 
+demand data tell us?, Perspectives on Drugs.
+2012
+Driving under the influence of drugs, alcohol and 
+medicines in Europe: findings from the DRUID project, 
+Thematic paper.
+Fentanyl in Europe. EMCDDA Trendspotter study.
+Prevalence of daily cannabis use in the European 
+Union and Norway, Thematic paper. 
+2010
+Problem amphetamine and methamphetamine use in 
+Europe, Selected issue.
+Trends in injecting drug use in Europe, Selected issue.
+2009
+Polydrug use: patterns and responses, Selected issue.
+2008
+A cannabis reader: global issues and local 
+experiences, volume 2, part I: Epidemiology, and Part 
+II: Health effects of cannabis use, Monographs.
+EMCDDA and ESPAD joint publications 
+2012
+Summary of the 2011 ESPAD report.
+All publications are available at 
+www.emcdda.europa.eu/publications
+
+ Illicit drug use is a recognised 
+ contributor to the global 
+ burden of disease 
+3
+
+53
+Drug-related harms and 
+responses
+Chapter 3
+Illicit drug use is a recognised 
+contributor to the global burden of 
+disease. Chronic and acute health 
+problems are associated with the use of 
+illicit drugs, and these are compounded 
+by various factors including the route of 
+administration, individual vulnerability 
+and the social context in which drugs 
+are consumed. Chronic problems 
+include dependence and drug-related 
+infectious disease, while there is a range 
+of acute harms, some of which depend 
+on the drug consumed, with drug 
+overdose the best documented of these. 
+Although relatively rare, the use of 
+opioids still accounts for much of the 
+morbidity and mortality associated with 
+drug use. Risks are elevated through 
+injecting drug use. In comparison, 
+although the health problems 
+associated with cannabis use are clearly 
+lower, the high prevalence of use of this 
+drug may have implications for public 
+health. Commenting on the harms 
+linked to the use of new psychoactive 
+substances is difficult because of both 
+the number of substances in this group 
+and the lack of information on them.
+Monitoring drug-related harms and responses
+Drug-related infectious diseases and mortality and 
+morbidity associated with drug use are the principal 
+harms monitored systematically by the EMCDDA. 
+These are complemented by more limited data on 
+acute drug-related hospital presentations and data 
+from the EU Early Warning System, which monitors 
+harms associated with new psychoactive 
+substances. Further information is available online 
+under Key epidemiological indicators, the Statistical 
+Bulletin and the Early Warning System.
+Information on health and social responses to drug 
+use and related harms are provided to the EMCDDA 
+by Reitox national focal points and expert working 
+groups. Expert ratings provide supplementary 
+information on the availability of interventions where 
+more formalised datasets are unavailable. This 
+chapter is also informed by reviews of the scientific 
+evidence on the effectiveness of public health 
+interventions. Supporting information can be found 
+on the EMCDDA website in the Health and social 
+responses profiles and the Best practice portal.
+
+54
+European Drug Report 2016: Trends and Developments
+Drug prevention and early intervention approaches aim to 
+prevent drug use and related problems, while drug 
+treatment, including both psychosocial and 
+pharmacological approaches, represents the primary 
+response to dependence. Some core interventions, such 
+as opioid substitution treatment and needle and syringe 
+programmes, were developed in part as a response to 
+injecting opioid use and related problems, particularly the 
+spread of infectious diseases and overdose deaths. 
+I Cannabis harms: new research insights
+While research frequently highlights associations between 
+drug use and various harms, causality is more difficult to 
+demonstrate. As Europe’s most prevalent drug, harms 
+associated with cannabis use may have an impact at a 
+population level. A recent international (WHO) review 
+analysed the evidence around cannabis-related harms. It 
+concluded that, while a causal relationship between the 
+consumption of cannabis and health and social 
+consequences is difficult to establish, some associations 
+can be derived from observational studies. In terms of 
+adverse effects of chronic cannabis use, regular and 
+long-term cannabis users were found to have twice the risk 
+of experiencing psychotic symptoms and disorders, a 
+higher risk of developing respiratory problems and could 
+develop a dependence syndrome. Regular cannabis use in 
+adolescence was linked with increased risk of being 
+diagnosed with schizophrenia, and if use continued 
+throughout young adulthood, it appeared to be associated 
+with intellectual impairment. Nevertheless, the role of 
+pre-existing somatic and mental health conditions and 
+other confounding factors may play a role, and this is a 
+topic warranting further research.
+I Prevention: family-based programmes
+The use of cannabis by young people, often alongside the 
+use of alcohol and tobacco, is one of the focuses for 
+prevention strategies in Europe. The prevention of drug use 
+and drug-related problems among young people 
+encompasses a wide range of approaches. Environmental 
+and universal strategies target entire populations, selective 
+prevention targets vulnerable groups who may be at 
+greater risk of developing drug use problems, and 
+indicated prevention focuses on at-risk individuals.
+Many drug prevention activities take place in school 
+settings, where a relatively robust evidence base exists for 
+some approaches. Similarly, interventions that target 
+families have been positively evaluated in the prevention of 
+a range of problem behaviours including drug use.
+Family-based prevention programmes typically train 
+parents to support their children to achieve age-specific 
+developmental outcomes (including impulse control, social 
+competence and gratification delay) that are associated 
+with reduced risk of substance use and other behavioural 
+problems. Family-based universal prevention is targeted at 
+all families in the population, with interventions focusing 
+on different stages of a child’s development, whereas 
+selective programmes address marginalised and 
+vulnerable families, including those affected by parental 
+substance use problems. Although prevention 
+interventions for vulnerable families exist in the majority of 
+countries, expert ratings from 2013 indicate that their 
+coverage is often limited. 
+Relatively little is known about the contents of many 
+family-based interventions. One exception is the 
+Strengthening Families Programme, which provides 
+training in parenting skills, and has now been implemented 
+in 13 European countries. This internationally 
+recommended programme also seeks to remove obstacles 
+to participation for vulnerable parents, by providing 
+transport and childcare. 
+New approaches have also been developed that are 
+time-limited and require fewer resources to implement. 
+The EFFEKT programme for example, consisting of a few 
+short sessions, has shown that improved parental 
+monitoring and rule-setting can be effective in curbing 
+alcohol use and improving impulse control among young 
+people in the Netherlands and Sweden.
+ Many drug prevention 
+ activities take place in 
+ school settings 
+
+55
+Chapter 3 I Drug-related harms and responses
+treatment referrals came from this source. Overall trends in 
+sources of referral have remained largely stable between 
+2006 and 2014. 
+In a number of countries, schemes are in place to divert 
+drug offenders away from the criminal justice system and 
+into drug treatment programmes. This may involve a court 
+order to attend treatment or a suspended sentence 
+conditional on treatment, but in some countries diversion 
+is also possible at earlier stages. 
+I Specialised treatment: referral paths
+For the relatively small but significant number of 
+individuals who experience problems with their drug use, 
+including dependence, drug treatment is the primary 
+intervention. Ensuring good access to appropriate 
+treatment services is a key policy aim. 
+Insight into the paths and routes individuals take into drug 
+treatment is provided by data on sources of referral. In 
+2014, 45 % of clients entering specialised drug treatment 
+in Europe were either self-referred or referred by a family 
+member, although this varied by drug (see Figure 3.1) and 
+by country. Overall, a quarter of treatment entrants were 
+referred by health services and 17 % by the criminal justice 
+system. Of all treatment clients, cannabis clients were the 
+most likely to be referred by the criminal justice system. In 
+Hungary, around three-quarters (74 %) of cannabis 
+FIGURE 3.1
+Source of referral of clients entering specialised drug treatment in Europe in 2014
+Referrals for each drug
+Trends 2006–14
+Self-referred
+Health system
+Criminal justice
+system
+Other
+Educational
+sevices
+NB: ‘Self-referral’ includes the client, family and friends; ‘health system’ includes general practitioners, other drug treatment centres and health, medical and 
+social services; ‘criminal justice system’ includes courts, police and probation. In the trends graph, referrals via educational services are included under ‘other’.
+45 %
+25 %
+17 %
+11 %
+2 %
+0 
+20 
+40
+60
+80 
+2006
+2008
+2010
+2012
+2014
+100
+Other
+Criminal justice
+system
+Health system
+Self-referral
+Educational services
+Other
+Criminal justice system
+Health system
+Self-referral
+50
+40
+30
+20
+10
+0
+Other
+substances
+Cannabis
+Amphetamines
+Cocaine
+Opioids
+ 
+ 
+Percent
+Percent
+
+56
+European Drug Report 2016: Trends and Developments
+I Drug treatment: most often in outpatient settings
+An estimated 1.2 million people received treatment for 
+illicit drug use in the European Union during 2014 
+(1.5 million including Norway and Turkey). Opioid users 
+represent the largest group undergoing specialised 
+treatment and consume the greatest share of available 
+treatment resources, mainly in the form of substitution 
+treatment. Cannabis and cocaine users are the second 
+and third largest groups entering these services 
+(Figure 3.2), with psychosocial interventions the main 
+treatment modality for these clients. Differences between 
+countries, however, can be very large, with opioid users 
+accounting for up to 88 % of treatment entrants in some 
+countries and less than 10 % in some others. 
+Most drug treatment in Europe is provided in outpatient 
+settings, with specialised outpatient centres representing 
+the largest provider in terms of number of drug users 
+treated (Figure 3.3). Healthcare centres are the second 
+largest providers. This category includes general 
+practitioners’ surgeries, which are important prescribers of 
+opioid substitution treatment in some large countries such 
+as Germany and France. Elsewhere, for example in 
+Slovenia and Finland, mental healthcare centres may play 
+a central role in outpatient treatment provision. 
+A smaller proportion of drug treatment in Europe is 
+provided in inpatient settings, including hospital-based 
+residential centres (e.g. psychiatric hospitals), therapeutic 
+communities and specialised residential treatment 
+centres. The relative importance of outpatient and 
+inpatient provision within national treatment systems 
+varies greatly between countries. Expert opinion can 
+provide an overview of the availability of selected 
+interventions in different treatment settings in Europe (see 
+Figure 3.4). 
+Increasingly, a wide range of drug prevention and 
+treatment interventions are provided online. Internet-based 
+interventions have the potential to extend the reach and 
+geographical coverage of treatment programmes to people 
+experiencing drug use problems who may not otherwise 
+access specialist drug services.
+Percent
+2006
+2007
+2008
+2009
+2011
+2014
+60
+50
+40
+30
+20
+0
+10
+60
+50
+40
+30
+20
+0
+10
+2013
+2012
+2010
+Opioids
+Cannabis
+Cocaine
+Amphetamines
+Other drugs
+Outpatient
+Inpatient
+Hospital-based
+residential
+(57 000)
+Non hospital-based
+residential (20 000)
+Terapeutic
+communities 
+(26 000)
+Other settings
+(7 500)
+Specialised treatment centres
+(940 000)
+Low-threshold
+agencies
+(145 000)
+General/mental health care
+(275 000)
+Other settings
+(16 000)
+Prisons
+(32 000)
+FIGURE 3.2
+FIGURE 3.3
+Trends in percentage of clients entering specialised drug treatment, 
+by primary drug
+Numbers receiving drug treatment in Europe in 2014, by setting
+
+57
+Chapter 3 I Drug-related harms and responses
+FIGURE 3.4
+Overview of high availability (>75 %) of selected interventions by setting (expert ratings)
+Number of countries
+Substitution treatment
+Psychosocial treatment/
+counselling
+Screening of mental
+health disorders
+Case management
+Outreach
+Mental health services
+General/mental
+health care
+Low-threshold
+agencies
+Specialised drug
+treatment
+0
+25
+20
+15
+10
+5
+0
+20
+15
+10
+5
+0
+15
+10
+5
+0
+15
+10
+5
+0
+15
+10
+5
+0
+15
+10
+5
+Hospital-based
+residential
+ 
+Non-hospital
+residential
+Terapeutic
+communities
+Outpatient
+Inpatient
+9
+5
+6
+10
+France
+Portugal
+Malta
+Netherlands
+Croatia
+Slovenia
+Austria
+Greece
+Luxembourg
+Germany
+Norway
+UK (England 
+ and Wales) 
+Italy
+Czech Republic
+Hungary
+Poland
+Cyprus
+Lithuania
+Latvia
+Slovakia
+100
+80
+60
+40
+20
+0
+30
+50
+Percent
+NB: Data displayed as point estimates and uncertainty intervals.
+High (>50 %)
+Medium (30–50 %)
+Low (<30 %)
+No data
+Coverage (proportion
+receiving the intervention)
+FIGURE 3.5
+Percentage of high-risk opioid users receiving substitution treatment (estimate)
+I Substitution treatment for opioid use problems
+Substitution treatment, typically combined with 
+psychosocial interventions, is the most common treatment 
+for opioid dependence. The available evidence supports 
+this approach, with positive outcomes found in respect to 
+treatment retention, illicit opioid use, reported risk 
+behaviour and drug-related harms and mortality. 
+An estimated 644 000 opioid users received substitution 
+treatment in the European Union in 2014 (680 000 
+including Norway and Turkey), and numbers have fallen by 
+around 50 000 since 2010. Estimates of opioid users 
+would suggest that overall at least 50 % receive 
+substitution treatment. However, this estimate must be 
+treated with caution for methodological reasons and there 
+are considerable national differences (Figure 3.5).
+
+58
+European Drug Report 2016: Trends and Developments
+Methadone is the most commonly prescribed opioid 
+substitution drug, received by 61 % of substitution clients. 
+A further 37 % of clients are treated with buprenorphinebased medications, which is the principal substitution drug 
+in seven countries (Figure 3.6). Other substances, such as 
+slow-release morphine or diacetylmorphine (heroin), are 
+more rarely prescribed, being received by an estimated 2 % 
+of substitution clients in Europe. 
+Although less common than substitution treatment, 
+alternative treatment options for opioid users are available 
+in all European countries. In the nine countries for which 
+data are available, between 2 % and 30 % of all opioid 
+users in treatment receive interventions not involving 
+opioid substitution (Figure 3.7). 
+ Methadone is the most 
+ commonly prescribed 
+ opioid substitution drug 
+Buprenorphine
+Methadone
+Both drugs equally 
+prescribed
+FIGURE 3.6
+Principal opioid substitution drug prescribed
+
+59
+Chapter 3 I Drug-related harms and responses
+I Matching treatment provision to client needs
+Clients accessing treatment services in Europe have 
+differing needs and often require interventions that have to 
+address a complex range of problems. Ensuring 
+cooperation between drug services and other health and 
+social providers is therefore a key component of an 
+effective response in this area. 
+As most of those entering drug treatment will be using 
+more than one psychoactive substance, and some will be 
+experiencing problems with multiple substances, drug 
+services assessment and treatment plans that address 
+polydrug use are important. Some combinations of 
+substances may be particularly important to identify 
+because of the high risk they pose — including a greater 
+risk of overdose. One example is the use of opioids in 
+combination with benzodiazepines. Analysis shows that 
+three-quarters of clients entering treatment for problems 
+related to their drug use are formally recorded as using 
+multiple substances with primary opioid, cocaine and 
+amphetamine users most frequently reporting cannabis 
+and alcohol as secondary drugs. In addition, many primary 
+opioid users also report the secondary use of cocaine.
+Comorbidity of substance use and mental health disorders 
+refers to the co-occurrence of the two clinical conditions in 
+the same individual. There is also an association between 
+some mental health disorders and substance use 
+disorders. Thus, comorbidity is a challenge for both drug 
+and mental health services. In a recent review, the most 
+frequently identified psychiatric comorbidities among 
+users of illicit substances were major depression, anxiety 
+disorders (mainly panic and post-traumatic stress 
+disorders) and personality disorders (mainly antisocial and 
+borderline). Despite the importance of this issue, 
+establishing the extent of the problem is difficult, as the 
+data available are both limited and heterogeneous. 
+There are indications that women in drug treatment may 
+have more complex needs, particularly in relation to 
+comorbidity and childcare responsibilities, and require 
+more targeted and gender-sensitive services. While overall 
+women represent only 20 % of specialised treatment 
+entrants (i.e. male to female ratio of 4:1), this difference 
+varies by country, ranging from 5 % to 34 %, and is less 
+marked among first-time entrants. The reasons for lower 
+numbers of women entering drug treatment are various, 
+and may include differences between the sexes in the 
+prevalence of problem use, the likelihood of reporting 
+problem use, and issues of access and appropriateness of 
+service provision.
+Percent
+Slovenia
+Greece
+Austria
+Norway
+Italy
+UK
+(England 
+and Wales)
+Lithuania Cyprus
+Latvia
+100
+80
+60
+40
+0
+20
+Substitution treatment
+Not in treatment
+Other forms of treatment
+FIGURE 3.7
+Percentage of high-risk opioid users receiving drug treatment 
+(estimate)
+ Women in drug treatment 
+ may have more complex 
+ needs 
+
+60
+European Drug Report 2016: Trends and Developments
+I HIV outbreaks: stimulant injectors 
+Drug users, and particularly those who inject drugs, are at 
+risk of contracting infectious diseases through the sharing 
+of drug use material and through unprotected sex. Drug 
+injection continues to play a central role in the 
+transmission of blood-borne infections such as the 
+hepatitis C virus (HCV) and, in some countries, the human 
+immunodeficiency virus (HIV). Among all HIV cases notified 
+in Europe where the route of transmission is known, the 
+percentage attributable to injecting drug use remains low 
+and stable (under 8 % for the last decade). Higher rates, 
+however, were reported for Lithuania (32 %), Latvia (31 %), 
+Estonia (28 %) and Romania (25 %).
+The latest data show that the long-term decline in the 
+number of new HIV diagnoses among injectors in the 
+European Union continues. In 2014, the average rate of 
+newly reported HIV diagnoses attributed to injecting drug 
+use was 2.4 per million population, which is less than half 
+that for 2005 (5.6 per million). Higher rates, however, were 
+reported in a number of countries, particularly Estonia and 
+Latvia. In Greece and Romania, countries that have 
+previously experienced local outbreaks, rates of newly 
+reported diagnoses have declined since 2012 (Figure 3.8). 
+There were 1 236 newly reported drug injection-related HIV 
+diagnoses in the European Union in 2014, the lowest 
+number reported for more than a decade. Nevertheless, 
+localised outbreaks in new HIV infections among people 
+who inject drugs have been documented in Ireland, the 
+United Kingdom (Scotland) and Luxembourg in 2015. 
+Changes in drug use patterns, particularly increased 
+stimulant injection, and high levels of marginalisation have 
+been common factors in a number of these recent HIV 
+outbreaks.
+In 2014, 15 % of new AIDS cases in Europe were attributed 
+to injecting drug use, with the 590 notifications 
+representing just over a quarter of the number reported a 
+decade ago. Early diagnosis is crucial in preventing 
+progression from HIV infection to AIDS, and this is 
+particularly relevant in relation to drug injectors, who are 
+the transmission group with the highest share presenting 
+to health services at a late stage of infection (61 %). 
+Moreover, in some countries such as Greece, Latvia and 
+Romania, where the numbers of new AIDS diagnoses 
+remain at high levels, HIV testing and treatment responses 
+may require strengthening. 
+FIGURE 3.8
+Newly diagnosed HIV cases related to injecting drug use: overall and selected trends and most recent data
+<5.1
+5.1–10.0
+>10.0
+Cases per million population
+NB: Data for 2014 (source: ECDC).
+Luxembourg
+Latvia
+Lithuania
+Estonia
+Bulgaria
+Romania
+Ireland
+Portugal
+Greece
+Cases in the European Union
+Cases per million population
+2007
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+90
+60
+70
+80
+50
+40
+30
+0
+20
+10
+2005
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+2 500
+1 000
+2006
+2007
+2 000
+1 500
+
+61
+Chapter 3 I Drug-related harms and responses
+I High HCV prevalence among injectors
+Viral hepatitis, particularly infection caused by the hepatitis 
+C virus (HCV), is highly prevalent among injecting drug 
+users across Europe. This may have important long-term 
+consequences, as HCV infection, often worsened by heavy 
+alcohol use, is likely to account for increasing numbers of 
+cases of liver disease, including cirrhosis and liver cancer, 
+among an ageing population of high-risk drug users. 
+The prevalence of antibodies to HCV, indicating present or 
+past infection, among national samples of injecting drug 
+users in 2013–14 varied from 15 % to 84 %, with 6 of the 
+13 countries with national data reporting rates in excess of 
+50 % (Figure 3.9). Among countries with national trend 
+data for the period 2006–14, five countries observed an 
+increasing trend in HCV-antibody prevalence in injecting 
+drug users, while Malta and Norway observed a decrease. 
+Drug injection is a risk factor for other infectious diseases 
+including hepatitis B, tetanus and botulism. Clusters and 
+sporadic cases of wound botulism among injecting drug 
+users have been reported in Europe, including in Norway 
+and the United Kingdom between 2013 and 2015. 
+Bacterial injection site infections are also common, with a 
+large outbreak of soft tissue infections reported in 
+Scotland in 2015.
+FIGURE 3.9
+HCV antibody prevalence among injecting drug users, 2013/14
+Malta
+Czech Republic
+Belgium
+Slovenia
+Slovakia
+Croatia
+United Kingdom
+Turkey
+Cyprus
+Hungary
+Italy
+Austria
+Norway
+Netherlands
+Bulgaria
+Greece
+Germany
+Latvia
+Finland
+Estonia
+Lithuania
+Portugal
+Sweden
+Samples with national coverage
+Samples with sub-national coverage
+0
+20
+40
+60
+80
+100
+Percent
+0
+20
+40
+60
+80
+100
+
+62
+European Drug Report 2016: Trends and Developments
+I Infectious diseases: prevention measures
+The main approaches taken to reduce drug-related 
+infectious diseases among people who inject drugs 
+include provision of opioid substitution treatment, 
+provision of injecting equipment, testing, hepatitis C 
+treatment and antiretroviral treatment for HIV. 
+For injecting opioid users, being in substitution treatment 
+significantly lowers infection risk, with some analyses 
+indicating increasing protective effects when high 
+treatment coverage is combined with high levels of syringe 
+provision. 
+Evidence shows that needle and syringe programmes can 
+reduce injecting risk behaviour and may therefore reduce 
+the transmission of HIV among people who inject drugs. 
+Almost all countries provide clean injecting equipment at 
+specialised outlets free of charge. However, the 
+geographical distribution of syringe outlets as well as the 
+estimates of numbers of syringes given out varies 
+considerably between countries (Figure 3.10). Information 
+on the provision of syringes through specialised 
+programmes is available from 23 countries, which together 
+report the distribution of around 36 million syringes in 
+2014. This number is an underestimate, as several large 
+countries, such as France, Germany, Italy and the United 
+Kingdom, do not report full national data on syringe 
+provision.
+Testing for and treatment of infectious diseases can help 
+to reduce incidence and prevalence of infections among 
+drug users. Testing can both increase individual awareness 
+of infection status and support earlier treatment uptake. 
+However, stigma and marginalisation as well as limited 
+knowledge about screening and treatment options remain 
+barriers to uptake. Clinical data support the initiation of 
+antiretroviral treatment immediately after diagnosis of HIV 
+infection, in order to prevent any further decline of immune 
+function. 
+Targeted harm reduction and sexual health interventions 
+are also important when addressing the new patterns of 
+injecting and sexual behaviours reported among small 
+groups of men who have sex with men. Establishing links 
+between drug and sexual health services may be 
+particularly important alongside provision of health 
+education, sterile injecting equipment and, in some cases, 
+pre-exposure prophylaxis with antiretroviral drugs. 
+4
+4
+6
+16
+Portugal
+Croatia
+Spain
+Norway
+Finland
+Estonia
+Greece
+Luxembourg
+Czech Republic
+Hungary
+Cyprus 
+Sweden
+Latvia
+Belgium
+500
+450
+400
+350
+300
+250
+200
+150
+100
+50
+0
+Syringes
+NB: Data displayed as point estimates and uncertainty intervals.
+High (>200)
+Medium (100–200)
+Low (<100)
+No data
+Coverage (syringes per
+injecting drug user)
+2014
+2014
+2014
+2014
+2013
+2013
+2012
+2009
+2012
+2009
+2012
+2012
+2008–11
+2008–09
+FIGURE 3.10
+Number of syringes provided through specialised programmes per injecting drug user (estimate)
+
+63
+Chapter 3 I Drug-related harms and responses
+I Hepatitis C: new treatments
+Prevention measures targeting the transmission of the 
+hepatitis C virus are similar to those for HIV. As HCV 
+infection is highly prevalent among people who inject 
+drugs, reducing the number of people who can transmit 
+the infection, by offering HCV treatment, is an essential 
+component of a comprehensive prevention response. New 
+European guidelines recommend providing HCV treatment 
+to drug users on an individualised basis and delivering it in 
+a multidisciplinary setting. Since 2013, all-oral, interferonfree regimens with direct-acting antiviral agents have been 
+available and are becoming the mainstay of the treatment 
+of HCV infection. These medicines are highly effective, 
+require shorter treatment time and have fewer side-effects 
+than older medicines. Furthermore, treatment with these 
+medicines may be offered in specialised drug services in 
+community settings, which may increase uptake and 
+availability.
+The new anti-HCV medicines are expensive compared with 
+the older medicines. In a survey of 21 EU countries in 
+2015, the EMCDDA found that the average reference cost 
+of three months’ treatment with a new medicine was 
+around EUR 60 000, whereas treatment with medicines 
+from the previous generation cost between EUR 17 000 
+and EUR 26 000. Considering the high prevalence of HCV 
+infection among injecting drug users, ensuring optimum 
+access to promising new medicines continues to be a key 
+challenge for policymakers.
+I Prison health: comprehensive response needed
+Prisoners report higher lifetime rates of drug use than the 
+general population and more harmful patterns of use, 
+illustrated by recent studies showing that between 6 % and 
+48 % of prisoners have ever injected drugs. The high 
+lifetime prevalence of drug use makes prisoners a 
+population with complex healthcare needs, and a thorough 
+health assessment upon prison entry is an important 
+intervention. The WHO recommends a package of 
+prevention responses for prisons, including free and 
+voluntary testing for infectious diseases, distribution of 
+condoms and sterile injecting equipment, infectious 
+diseases treatment and treatment of drug dependence. 
+Many countries have interagency partnerships between 
+prison health services and providers in the community, 
+which ensure delivery of health education and treatment 
+interventions in prison and continuity of care upon prison 
+entry and release. The availability of opioid substitution 
+treatment in prisons is reported by 27 of the 30 countries 
+monitored by the EMCDDA. Overall, it appears that 
+substitution treatment is available to a growing share of 
+the prison population, increasingly reflecting its 
+widespread availability in the community. The provision of 
+clean injecting equipment is less common, with only three 
+countries reporting the existence of syringe programmes in 
+this setting. 
+
+64
+European Drug Report 2016: Trends and Developments
+I Hospital emergencies: a window on acute harms
+A unique insight into acute health harms is provided by 
+hospital emergency data. A 2014 analysis by the European 
+Drug Emergencies Network (Euro-DEN), which monitors 
+drug-related emergency presentations in 16 selected 
+(sentinel) hospitals in 10 European countries, found that 
+most of the 5 409 presentations reported were in males 
+(76 %) and young adults (median age 32 years for males 
+and 28 years for females). Heroin was reported in 24 % of 
+the presentations, cocaine in 17 % and cannabis in 16 %. 
+In many of the presentations, more than one drug was 
+found, with 8 358 drug identifications among the 5 409 
+presentations (Figure 3.11). Two-thirds of presentations 
+involved the use of established drugs such as heroin, 
+cocaine, cannabis, amphetamine and MDMA; one quarter 
+involved prescription or over the counter drugs (most 
+commonly opioids and benzodiazepines); and 6 % involved 
+new psychoactive substances. Heroin was the most 
+commonly reported drug overall and the most commonly 
+reported opioid (67 % of reported opioids), followed by 
+methadone (12 %) and buprenorphine (5 %), with patterns 
+varying between sites. Over three-quarters of the new 
+psychoactive substance presentations involved a 
+cathinone and two-thirds of these involved mephedrone. 
+The drugs involved in emergency presentations differed 
+between sites, reflecting local patterns of risky drug use. 
+For example, emergencies related to heroin and 
+amphetamine were the most common presentations in 
+Oslo, whereas presentations related to GHB/GBL, cocaine, 
+mephedrone and MDMA were predominant in London, 
+mirroring the local patterns of use associated with 
+recreational nightlife settings.
+The majority (79 %) of those presenting with a drug-related 
+problem were discharged from hospital within 12 hours. In 
+total, 27 deaths were recorded (0.5 % of all presentations), 
+most of which involved opioids.
+Few countries have national monitoring systems in place 
+that allow an analysis of trends in drug-related acute 
+intoxications. Of the countries with longer term monitoring, 
+reports show acute heroin emergencies are increasing in 
+the United Kingdom, while decreasing in the Czech 
+Republic and Denmark. These latter two countries have 
+reported an increase in the number of emergencies related 
+to other opioids. A continued increase in acute 
+emergencies related to cannabis has been observed in 
+Spain, while the Netherlands reports increases in MDMA 
+intoxications presenting at first aid stations at festivals, 
+and in acute intoxications related to the new psychoactive 
+substance 4-FA (4-fluoroamphetamine).
+Drug identifications
+NB: Results from 5 409 emergency presentations in 16 sentinel sites in 
+10 European countries.
+Source: European Drug Emergencies Network (Euro-DEN).
+Heroin
+Cocaine
+Cannabis
+GHB/GBL
+Amphetamine
+MDMA
+Clonazepan 
+(benzodiazepine)
+Mephedrone
+Unknown 
+benzodiazepine
+Methadone
+1 400
+1 200
+1 000
+800
+0
+600
+400
+200
+FIGURE 3.11
+Top 10 drugs recorded in emergency presentations to sentinel 
+hospitals in 2014
+ A unique insight into acute 
+ health harms is provided by 
+ hospital emergency data 
+
+65
+Chapter 3 I Drug-related harms and responses
+I New drugs: health challenges
+New substances have been associated with a range of 
+serious harms in Europe including acute poisonings and 
+deaths. There are also harms associated with patterns of 
+drug injection, in particular with stimulants such as 
+mephedrone, alpha-PVP, MDPV and pentedrone. Mass 
+poisonings, although rare, can place heavy demands on 
+healthcare systems. In one such incident, reported in 
+Poland in 2015, synthetic cannabinoids were linked to over 
+200 hospital emergency presentations in less than a week. 
+Since early 2014, serious harms associated with the use of 
+a new substance have led to 34 public health alerts being 
+issued by the EMCDDA to members of the EU Early 
+Warning System. Over this period, seven new substances 
+were risk-assessed. Most recently, concerns have arisen 
+around new opioids such as acetylfentanyl, which was 
+subject to an EMCDDA–Europol joint report in 2015, after 
+being associated with 32 deaths. Many fentanyls are highly 
+potent, and may be sold as heroin to unsuspecting users, 
+thus posing a high risk of overdose and death.
+I Responding to new drugs: key interventions 
+In general, existing prevention, treatment and harm 
+reduction interventions for problems associated with 
+established drugs are reported to be adequate for, or could 
+be easily adapted to, the needs of users of new drugs. 
+However, problems associated with the use of new 
+psychoactive substances and other drugs such as GHB, 
+ketamine and mephedrone, pose specific challenges in a 
+number of settings, such as prisons, sexual health clinics 
+and low-threshold drug services. Reports of challenges 
+encountered in delivering interventions targeting these 
+substances include accessing hard to reach drug-using 
+populations (e.g. men who have sex with men), managing 
+chaotic injecting behaviours among vulnerable groups, and 
+supporting acute psychotic episodes linked with use of 
+new drugs among prisoners. In these particular cases, the 
+development of interventions that focus specifically on use 
+of new drugs and related health harms are important, 
+including for example, targeted harm reduction material 
+and advice, and specialised treatment guidelines. 
+Risk assessment of alpha-PVP
+ 
+In November 2015, a European-level risk assessment was 
+conducted on alpha-PVP (alpha-pyrrolidinopentiophenone). 
+Alpha-PVP is a synthetic cathinone and a potent psychostimulant, 
+and is similar to MDPV. It has been available on the drug market in 
+the European Union since at least February 2011 and has been 
+detected in all 28 Member States. Alpha-PVP was detected in 191 
+acute intoxications and 115 deaths. In 20 % of the deaths, alphaPVP was reported as either the cause of death or a contributor to 
+the death; in five of these cases, alpha-PVP was the only substance 
+detected.
+
+66
+European Drug Report 2016: Trends and Developments
+I Overdose deaths: recent increases 
+Drug use is a recognised cause of avoidable mortality 
+among European adults. Studies on cohorts of high-risk 
+drug users commonly show overall mortality rates in the 
+range of 1–2 % per year. Overall, opioid users in Europe are 
+5 to 10 times more likely to die than their peers of the 
+same age and gender. Increased mortality among opioid 
+users is primarily related to overdose, but other causes of 
+death indirectly related to drug use, such as infections, 
+accidents, violence and suicide, are also important.
+In Europe, drug overdose continues to be the main cause 
+of death among drug users, and over three-quarters of 
+overdose victims are male (78 %). Most EU countries 
+reported an increasing trend in overdose deaths from 2003 
+until around 2008/09, when overall levels first began to 
+decline. Caution is required when interpreting overdose 
+data, and especially the EU cumulative total, for reasons 
+which include systematic under-reporting in some 
+countries and registration processes that result in 
+reporting delays. Annual estimates therefore represent a 
+provisional minimum value. For 2014, it is estimated that 
+at least 6 800 overdose deaths occurred in the European 
+Union. This represents an increase from the revised 2013 
+figure and, as in previous years, the United Kingdom (36 %) 
+and Germany (15 %) together account for a large part of 
+the total. Increases are evident in the most recent data 
+from a number of countries with relatively robust reporting 
+systems, including Ireland, Lithuania and the United 
+Kingdom. A marked upward trend is also observed in 
+Sweden, though it may be partly due to the inclusion of 
+some cases aged 50 and over not related to illicit drug use. 
+Turkey is also showing large increases, but this may partly 
+reflect improved reporting practices. 
+Reflecting the ageing nature of Europe’s opioid-using 
+population, who are at greatest risk of drug overdose 
+death, the reported number of overdose deaths increased 
+among older age groups between 2006 and 2014, while 
+those among younger age groups decreased. However, 
+there has recently been a slight increase in the number of 
+overdose deaths reported among those aged under 25 in 
+some countries.
+DRUG-INDUCED DEATHS
+Age at death
+22 %
+78 %
+9 %
+<25
+25–39
+40–64
+>64
+42 %
+45 %
+4 %
+Turkey
+2002
+2004
+2006
+2008
+2010
+2012
+2014
+9 000
+8 000
+7 000
+6 000
+5 000
+4 000
+3 000
+2 000
+1 000
+0
+Spain
+Sweden
+Germany
+United Kingdom
+Other countries
+Deaths with
+opioids present
+Mean age 
+at death
+82 %
+38
+Trends in overdose deaths
+Characteristics
+ Opioid users in Europe are 
+ 5 to 10 times more likely to 
+ die than their peers 
+
+67
+Chapter 3 I Drug-related harms and responses
+Heroin or its metabolites are present in the majority of fatal 
+overdoses reported in Europe, often in combination with 
+other substances. Other opioids including methadone, 
+buprenorphine, fentanyls and tramadol are also regularly 
+found in toxicological reports, and these substances are 
+associated with a substantial share of overdose deaths in 
+some countries. In the United Kingdom (England and 
+Wales) for example, out of the 1 786 deaths registered in 
+2014 where opioids were mentioned, methadone was 
+recorded in 394 and tramadol in 240. Among the other 
+countries reporting the occurrence of opioids other than 
+heroin in fatal overdoses are France and Ireland (mainly 
+methadone), and Finland, where buprenorphine was 
+mentioned in 75 cases in 2014. 
+Stimulants such as cocaine, amphetamines, MDMA and 
+cathinones are implicated in a smaller number of overdose 
+deaths in Europe, although their significance varies by 
+country. In the United Kingdom (England and Wales), 
+deaths involving cocaine increased from 169 in 2013 to 
+247 in 2014. In Spain, where cocaine-related deaths have 
+been stable for some years, the drug continued to be the 
+second most often cited drug in overdose deaths in 2013 
+(236 cases). 
+I Mortality rates highest in northern Europe
+For 2014, the mortality rate due to overdoses in Europe is 
+estimated at 18.3 deaths per million population aged 
+15–64. National mortality rates vary considerably and are 
+influenced by factors such as prevalence and patterns of 
+drug use and methodological issues such as underreporting and coding practices. Rates of over 40 deaths 
+per million were reported in 8 countries, with the highest 
+rates reported in Estonia (113 per million), Sweden (93 per 
+million) and Ireland (71 per million) (Figure 3.12). The most 
+recent data show varying trends.
+FIGURE 3.12
+Drug-induced mortality rates among adults (15–64): selected trends and most recent data
+<10
+Cases per million population
+10–40
+>40
+Estonia
+United Kingdom
+Austria
+Denmark
+Finland
+Lithuania
+NB: Trends in the nine countries reporting the highest values in 2014 or 2013.
+Sweden
+Ireland
+Norway
+Cases per million population
+2000 2001 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014
+200
+160
+120
+80
+40
+0
+
+68
+European Drug Report 2016: Trends and Developments
+I Preventing overdoses and drug-related deaths 
+Reducing fatal drug overdoses and other drug-related 
+deaths is a major public health challenge in Europe. 
+Targeted responses in this area focus either on preventing 
+the occurrence of overdoses, or on improving the likelihood 
+of surviving an overdose. Drug treatment, particularly 
+opioid substitution treatment, prevents overdoses and 
+reduces the mortality risk of drug users in treatment. 
+Supervised drug consumption facilities aim both to 
+prevent overdoses from happening and to ensure 
+professional support is available if an overdose occurs. 
+Six countries currently provide such facilities — around 
+70 in total.
+Naloxone is an opioid antagonist medication that can 
+reverse opioid overdose and is used in hospital emergency 
+departments and by ambulance personnel. In recent years, 
+there has been a growth in the provision of ‘take-home’ 
+naloxone to opioid users, their partners, peers and families, 
+alongside training in recognising and responding to 
+overdose. Naloxone has also been made available for use 
+by staff of services that regularly come into contact with 
+drug users. A recent European review found that takehome naloxone programmes exist in eight European 
+countries. Naloxone kits are generally provided by drug and 
+health services in the form of pre-filled syringes, although 
+in Norway and Denmark an adaptor allows naloxone to be 
+administered intra-nasally. A recent systematic review of 
+the effectiveness of take-home naloxone found evidence 
+that educational and training interventions with provision 
+of take-home naloxone decrease overdose-related 
+mortality. Some populations with an elevated risk of 
+overdose, such as recently released prisoners, may 
+particularly benefit. A recent Scottish evaluation of the 
+national naloxone programme found that it was associated 
+with a 36 % reduction in the proportion of opioid-related 
+deaths that occurred within a month of prison release.
+I Demand reduction services: quality standards
+As demand reduction services have become widespread, 
+increasing focus has been placed on service quality, 
+culminating in the adoption of ‘Minimum quality standards 
+in drug demand reduction in the European Union’ by the 
+EU Council of Ministers in September 2015. Sixteen 
+standards for prevention, treatment, harm reduction and 
+social reintegration set minimum quality benchmarks for 
+interventions. The newly adopted standards represent a 
+major development in the drugs field at EU level, bringing 
+together expert knowledge and political decision-making 
+across 28 countries. The standards reinforce the need to 
+base interventions on evidence and to provide staff with 
+appropriate training. They also facilitate the sharing of best 
+practice at a European level and promote knowledge 
+exchange.
+I Understanding costs of drug-related actions
+Understanding the costs of drug-related actions is an 
+important aspect of policy evaluation. Nevertheless, the 
+information available on drug-related public expenditure in 
+Europe, at both local and national level, remains sparse 
+and heterogeneous. For the 18 countries that have 
+produced estimates in the past 10 years, drug-related 
+public expenditure is estimated at between 0.01 % and 
+0.5 % of gross domestic product (GDP), with health 
+interventions representing between 15 % and 53 % of all 
+drug-related public expenditure. 
+A recent exercise estimated that the provision of inpatient 
+treatment for drug-related health problems in hospitals 
+represented, on average, 0.013 % of GDP in the 15 
+countries with available data. However, this proportion 
+differed considerably across countries. To provide a more 
+comprehensive estimate of the costs of treating drugrelated health problems in hospitals, more systematic 
+recording of emergency presentations would be required.
+
+69
+Chapter 3 I Drug-related harms and responses
+FIND OUT MORE
+EMCDDA publications
+2016
+Comorbidity of substance use and mental disorders, 
+Perspectives on Drugs.
+Preventing opioid overdose deaths with take-home 
+naloxone, Insights.
+2015
+Comorbidity of substance use and mental disorders in 
+Europe, Insights.
+Drug-related infectious diseases in Europe. Update 
+from the EMCDDA expert network, Rapid 
+communications.
+Mortality among drug users in Europe: new and old 
+challenges for public health, EMCDDA Paper. 
+Preventing fatal overdoses: a systematic review of the 
+effectiveness of take-home naloxone, EMCDDA 
+Papers. 
+Prevention of addictive behaviours, Insights. 
+Treatment of cannabis-related disorders in Europe, 
+Insights.
+Drug consumption room, Perspectives on Drugs.
+Psychosocial interventions, Perspectives on Drugs.
+Risk assessments reports 
+MT-45 [Council Decision 2015/1873/EU].
+4,4′-DMAR [Council Decision 2015/1873/EU].
+2014
+Cocaine: drugs to treat dependence?, Perspectives on 
+Drugs.
+Health and social responses for methamphetamine 
+users in Europe, Perspectives on Drugs.
+Internet-based drug treatment, Perspectives on Drugs.
+Risk assessment reports 
+MDPV [Council Decision 2015/1875/EU].
+Methoxetamine [Council Decision 2015/1875/EU].
+25I-NBOMe [Council Decision 2015/1875/EU].
+AH-7921 [Council Decision 2015/1875/EU].
+4-methylamphetamine [Council Decision 2015/1875/
+EU].
+5-(2-aminopropyl)indole [Council Decision 
+2015/1876/EU].
+2013
+Can mass media campaigns prevent young people 
+from using drugs?, Perspectives on Drugs.
+Emergency health consequences of cocaine use in 
+Europe, Perspectives on Drugs.
+Drug prevention interventions targeting minority 
+ethnic populations, Thematic papers.
+Hepatitis C treatment for injecting drug users, 
+Perspectives on Drugs.
+North American drug prevention programmes: are 
+they feasible in European cultures and contexts?, 
+Thematic papers.
+Preventing overdose deaths in Europe, Perspectives 
+on Drugs.
+2012
+Drug demand reduction: global evidence for local 
+actions, Drugs in focus.
+Guidelines for the evaluation of drug prevention: a 
+manual for programme planners and evaluators 
+(second edition), Manuals.
+New heroin-assisted treatment, Insights.
+Prisons and drugs in Europe: the problem and 
+responses, Selected issues.
+Social reintegration and employment: evidence and 
+interventions for drug users in treatment, Insights.
+2011
+European drug prevention quality standards, Manuals.
+Guidelines for the treatment of drug dependence: a 
+European perspective, Selected issues.
+Risk assessment report Mephedrone [Council 
+Decision 2010/759/EU].
+EMCDDA and ECDC joint publications
+2011
+ECDC and EMCDDA guidance. Prevention and control 
+of infectious diseases among people who inject drugs.
+All publications are available at 
+www.emcdda.europa.eu/publications
+
+ National data for estimates of drug use 
+ prevalence including high-risk opioid use, 
+ substitution treatment, treatment entry, 
+ injecting drug use, drug-induced deaths, 
+ drug-related infectious diseases, syringe 
+ distribution and seizures. The data are 
+ drawn from and are a subset of the EMCDDA 
+ Statistical Bulletin 2016, where notes and 
+ meta-data are available. Data refer to 2014 
+ unless otherwise indicated. 
+Annex
+
+71
+Annex: national data tables
+OPIOIDS
+High-risk opioid use 
+estimate
+Entrants into treatment during the year
+Clients in 
+substitution 
+treatment
+Opioids clients as % of treatment entrants
+% opioids clients injecting
+(main route of administration)
+All entrants
+First-time 
+entrants
+Previously 
+treated 
+entrants
+All entrants
+First-time 
+entrants
+Previously 
+treated 
+entrants
+Country
+Year of 
+estimate
+cases per 
+1 000
+% (count)
+% (count)
+% (count)
+% (count)
+% (count)
+% (count)
+count
+Belgium
+–
+–
+28.9 (3 079)
+11.5 (434)
+37.5 (2 352)
+18.4 (541)
+12 (51)
+19.3 (431)
+17 026
+Bulgaria
+–
+–
+84.8 (1 530)
+64.5 (207)
+96 (932)
+73 (772)
+69.9 (116)
+75.5 (580)
+3 414
+Czech 
+Republic
+2014
+1.4–1.8
+17 (1 720)
+7 (333)
+25.9 (1 387)
+82.6 (1 412)
+79.8 (264)
+83.2 (1 148)
+4 000
+Denmark
+–
+–
+17.5 (663)
+7.1 (102)
+26.3 (502)
+33.9 (193)
+23 (20)
+–
+2 600
+Germany
+2013
+2.7–3.2
+34.9 (29 655)
+13.1 (3 304)
+44 (26 351)
+34.1 (11 225)
+32.2 (1 460)
+34.4 (9 765)
+77 500
+Estonia
+–
+–
+90 (253)
+89.5 (51)
+97.3 (179)
+78.8 (197)
+64.7 (33)
+83.2 (149)
+919
+Ireland
+–
+–
+49.8 (4 745)
+27.5 (1 036)
+65.5 (3 456)
+42.2 (1 908)
+35.7 (362)
+43.6 (1 441)
+9 764
+Greece
+2014
+2.1–2.8
+69.2 (3 250)
+55.3 (1 060)
+78.9 (2 176)
+33.4 (1 078)
+27.7 (291)
+36.3 (786)
+10 226
+Spain
+2013
+1.6–2.5
+24.8 (12 863)
+10.9 (3 066)
+42.1 (9 515)
+15.8 (1 916)
+9.9 (282)
+17.7 (1 608)
+61 954
+France
+2013–14
+4.4–7.4
+30.5 (12 634)
+13.8 (1 240)
+44.5 (8 662)
+19.9 (2 119)
+13.8 (155)
+22 (1 620)
+161 388
+Croatia
+2010
+3.2–4
+79.9 (6 241)
+19.9 (210)
+89 (5 516)
+73.3 (4 529)
+44.9 (88)
+74.3 (4 063)
+6 867
+Italy
+2014
+4.6–5.8
+56 (28 671)
+40.6 (7 416)
+64.5 (21 255)
+47.2 (13 209)
+45.9 (2 992)
+58.4 (10 217)
+75 964
+Cyprus
+2014
+1.5–2.4
+25.4 (271)
+11.5 (65)
+42.2 (204)
+56.8 (154)
+50.8 (33)
+59.3 (121)
+178
+Latvia
+2014
+3.4–7.5
+46.2 (382)
+24.7 (102)
+67.8 (280)
+91 (343)
+87.1 (88)
+92.4 (255)
+518
+Lithuania
+2007
+2.3–2.4
+88.2 (1 905)
+66.6 (227)
+92.6 (1 665)
+84.4 (1 607)
+84.6 (192)
+84.3 (1 402)
+585
+Luxembourg
+2007
+5–7.6
+53.9 (146)
+46.4 (13)
+51 (100)
+50.3 (72)
+15.4 (2)
+52 (51)
+1 121
+Hungary
+2010–11
+0.4–0.5
+4.2 (196)
+1.6 (51)
+9.5 (118)
+60.2 (109)
+55.1 (27)
+63.5 (73)
+745
+Malta
+2014
+5.3–6.2
+72.8 (1 277)
+27.5 (58)
+79 (1 219)
+63.4 (786)
+47.3 (26)
+64.1 (760)
+1 013
+Netherlands
+2012
+1.1–1.5
+10.5 (1 113)
+5.7 (346)
+16.9 (767)
+6.5 (44)
+9.3 (18)
+5.4 (26)
+7 569
+Austria
+2013
+4.9–5.1
+50.8 (1 737)
+29.2 (435)
+67.3 (1 302)
+35.9 (479)
+23.1 (79)
+40.3 (400)
+17 272
+Poland
+2009
+0.4–0.7
+14.8 (1 061)
+4.7 (162)
+25 (877)
+61.5 (632)
+39.1 (61)
+65.1 (555)
+2 586
+Portugal
+2012
+4.2–5.5
+53.8 (1 538)
+26.3 (357)
+78.8 (1 180)
+18.3 (255)
+12.5 (39)
+19.9 (216)
+16 587
+Romania
+–
+–
+41.8 (1 094)
+15.1 (211)
+74 (852)
+92.4 (1 007)
+85.7 (180)
+94 (799)
+593
+Slovenia
+2013
+3.4–4.1
+75.9 (318)
+55.5 (61)
+83.1 (250)
+32.3 (101)
+20.7 (12)
+35.7 (89)
+3 190
+Slovakia
+2008
+1–2.5
+21.9 (543)
+12.7 (147)
+30.5 (387)
+71.2 (376)
+55.9 (81)
+76.8 (288)
+375
+Finland
+2012
+3.8–4.5
+57.8 (372)
+41.9 (111)
+68.9 (261)
+79.1 (291)
+68.2 (75)
+83.7 (216)
+3 000
+Sweden
+–
+–
+24.7 (7 737)
+14.7 (1 680)
+30.2 (5 838)
+62.1 (175)
+20 (4)
+47.4 (27)
+3 502
+United 
+Kingdom
+2010–11
+7.9–8.4
+52.1 (50 592)
+23.2 (7 911)
+68 (42 045)
+33.3 (15 380)
+20.8 (1 217)
+35 (13 892)
+148 868
+Turkey
+2011
+0.2–0.5
+70.3 (7 476)
+61.1 (3 420)
+80.6 (4 056)
+30 (2 243)
+20.5 (702)
+38 (1 541)
+28 656
+Norway
+2013
+2–4.2
+23 (1 974)
+–
+–
+–
+–
+–
+7 433
+European 
+Union
+–
+–
+39.2 (175 586)
+18.6 (30 396)
+52.6 (139 628) 
+37.8 (60 910)
+31.4 (8 248) 40.4 (50 978) 
+644 324
+EU, Turkey 
+and Norway
+–
+–
+39.6 (185 036)
+20.0 (33 816) 
+53.2 (143 684) 
+37.4 (63 153)
+30.2 (8 950) 40.3 (52 519) 
+680 413
+Data on clients in substitution treatment are for 2014, or most recent year available: Denmark and Finland, 2011; Turkey, 2012; Spain and Malta, 2013; data for 
+Ireland are based on a census taken on 31 December 2013.
+TABLE A1
+
+72
+European Drug Report 2016: Trends and Developments
+COCAINE
+Prevalence estimates
+Entrants into treatment during the year
+General population
+School
+population
+Cocaine clients as % of treatment entrants
+% cocaine clients injecting
+(main route of administration)
+Year of 
+survey
+Lifetime, 
+adults
+(15–64) 
+Last 12 
+months, 
+young 
+adults 
+(15–34)
+Lifetime,
+students
+(15–16)
+All entrants
+First-time 
+entrants
+Previously 
+treated 
+entrants
+All clients
+Firsttime 
+entrants
+Previously 
+treated 
+entrants
+Country
+%
+%
+%
+% (count)
+% (count)
+% (count)
+% (count)
+% (count)
+% (count)
+Belgium
+2013
+–
+0.9
+2
+17 (1 809)
+16.7 (628)
+16.9 (1 058)
+4.9 (84)
+1.2 (7)
+6.1 (60)
+Bulgaria
+2012
+0.9
+0.3
+4
+1.6 (29)
+6.5 (21)
+0.8 (8)
+7.1 (2)
+0 (0)
+25 (2)
+Czech 
+Republic
+2014
+0.9
+0.6
+1
+0.3 (27)
+0.3 (12)
+0.3 (15)
+0 (0)
+0 (0)
+0 (0)
+Denmark
+2013
+5.2
+2.4
+2
+5.1 (193)
+5.8 (84)
+5.2 (99)
+10.1 (17)
+0 (0)
+–
+Germany
+2012
+3.4
+1.6
+3
+5.9 (4 978)
+5.3 (1 340)
+6.1 (3 638)
+16.9 (2 650)
+7.8 (292)
+19.8 (2 358)
+Estonia
+2008
+–
+1.3
+2
+0.4 (1)
+–
+–
+–
+–
+–
+Ireland
+2011
+6.8
+2.8
+3
+8.7 (828)
+11.2 (424)
+6.8 (358)
+1.4 (11)
+0.5 (2)
+2.6 (9)
+Greece
+2004
+0.7
+0.2
+1
+5.1 (239)
+5.2 (100)
+5 (139)
+14.7 (35)
+6 (6)
+21 (29)
+Spain
+2013
+10.3
+3.3
+3
+38.2 (19 848)
+38 (10 734)
+38.6 (8 726)
+2.3 (426)
+1.2 (128)
+3.5 (291)
+France
+2014
+5.4
+2.4
+4
+6.1 (2 530)
+5.4 (489)
+7.7 (1 508)
+9.9 (224)
+2.6 (12)
+13.7 (186)
+Croatia
+2012
+2.3
+0.9
+2
+1.7 (132)
+3.1 (33)
+1.5 (90)
+3.1 (4)
+3.4 (1)
+3.3 (3)
+Italy
+2014
+7.6
+1.8
+2
+23.7 (12 165)
+27.4 (5 006)
+21.7 (7 159)
+6.2 (739) 
+4.7 (227) 
+7.4 (512)
+Cyprus
+2012
+1.3
+0.6
+4
+10.3 (110)
+7.1 (40)
+14.1 (68)
+9.2 (10)
+7.5 (3)
+10.4 (7)
+Latvia
+2011
+1.5
+0.3
+4
+0.7 (6)
+1.2 (5)
+0.2 (1)
+0 (0)
+0 (0)
+0 (0)
+Lithuania
+2012
+0.9
+0.3
+2
+0.2 (5)
+0.3 (1)
+0.2 (4)
+20 (1)
+0 (0)
+25 (1)
+Luxembourg
+–
+–
+–
+–
+19.9 (54)
+25 (7)
+18.4 (36)
+34.7 (17)
+50 (3)
+31.4 (11)
+Hungary
+2007
+0.9
+0.4
+2
+1.8 (86)
+1.9 (59)
+1.9 (23)
+5.9 (5)
+1.7 (1)
+17.4 (4)
+Malta
+2013
+0.5
+–
+4
+15.9 (279)
+40.3 (85)
+12.6 (194)
+21.9 (60)
+9.4 (8)
+27.5 (52)
+Netherlands
+2014
+5.1
+3.0
+2
+26.3 (2 791)
+22 (1 344)
+31.9 (1 447)
+0.2 (4)
+0.1 (1)
+0.3 (3)
+Austria
+2008
+2.2
+1.2
+–
+8.4 (288)
+9.7 (145)
+7.4 (143)
+4.2 (10)
+1.6 (2)
+7.2 (8)
+Poland
+2014
+1.3
+0.4
+3
+1.4 (98)
+1.3 (44)
+1.5 (51)
+1.1 (1)
+0 (0)
+2.1 (1)
+Portugal
+2012
+1.2
+0.4
+4
+13.5 (385)
+17.5 (237)
+9.8 (147)
+5.7 (20)
+2.8 (6)
+10.4 (14)
+Romania
+2013
+0.8
+0.2
+2
+0.8 (21)
+1.1 (15)
+0.5 (6)
+0 (0)
+0 (0)
+0 (0)
+Slovenia
+2012
+2.1
+1.2
+3
+6 (25)
+5.5 (6)
+6.3 (19)
+62.5 (15)
+16.7 (1)
+77.8 (14)
+Slovakia
+2010
+0.6
+0.4
+1
+0.9 (23)
+1.4 (16)
+0.6 (7)
+4.3 (1)
+6.3 (1)
+0 (0)
+Finland
+2014
+1.9
+1.0
+1
+0 (0)
+0 (0)
+0 (0)
+–
+–
+–
+Sweden
+2008
+3.3
+1.2
+1
+0.9 (284)
+1.6 (189)
+0.5 (87)
+3.1 (1)
+0 (0)
+0 (0)
+United 
+Kingdom (1)
+2014
+9.8
+4.2
+2
+12.6 (12 236)
+16.9 (5 752)
+10.4 (6 399)
+1.4 (161)
+0.3 (16)
+2.3 (144)
+Turkey
+–
+–
+–
+–
+1.3 (134)
+1.2 (66)
+1.4 (68)
+–
+–
+–
+Norway
+2014
+5.0
+2.3
+1
+1 (84)
+–
+–
+–
+–
+–
+European 
+Union
+–
+5.1
+1.9
+–
+13.3 (59 470)
+16.4 (26 816)
+11.8 (31 430)
+6.7 (4 498)
+2.6 (717)
+9.8 (3 709)
+EU, Turkey 
+and Norway
+–
+–
+–
+–
+12.8 (59 688)
+15.9 (26 882)
+11.6 (31 498)
+6.7 (4 498)
+2.6 (717)
+9.7 (3 709)
+Prevalence estimates for the school population are taken from national school surveys or the ESPAD project.
+(1) Prevalence estimates for the general population refer to England and Wales only.
+TABLE A2
+
+73
+Annex I National data tables
+AMPHETAMINES
+Prevalence estimates
+Entrants into treatment during the year
+General population
+School
+population
+Amphetamines clients as % of treatment 
+entrants
+% amphetamines clients injecting
+(main route of administration)
+Year of 
+survey
+Lifetime, 
+adults 
+(15–64)
+Last 12
+months,
+young 
+adults
+(15–34)
+Lifetime,
+students
+(15–16)
+All entrants
+First-time 
+entrants
+Previously 
+treated 
+entrants
+All entrants
+First-time 
+entrants
+Previously 
+treated 
+entrants
+Country
+%
+%
+%
+% (count)
+% (count)
+% (count)
+% (count)
+% (count)
+% (count)
+Belgium
+2013
+–
+0.5
+2
+9.8 (1 047)
+9.4 (353)
+10.7 (669)
+12.6 (128)
+5.3 (18)
+–
+Bulgaria
+2012
+1.2
+1.3
+5
+4.7 (84)
+15.9 (51)
+1.6 (16)
+2 (1)
+0 (0)
+0 (0)
+Czech 
+Republic
+2014
+2.6
+2.3
+2
+69.7 (7 033)
+75.1 (3 550)
+65 (3 483)
+78.1 (5 446)
+73.8 (2 586)
+82.6 (2 860)
+Denmark
+2013
+6.6
+1.4
+2
+9.5 (358)
+10.3 (149)
+8.9 (170)
+3.1 (9)
+0 (0)
+–
+Germany
+2012
+3.1
+1.8
+4
+16.1 (13 664)
+19.3 (4 860)
+14.7 (8 804)
+1.5 (277)
+0.9 (55)
+1.8 (222)
+Estonia
+2008
+–
+2.5
+3
+3.9 (11)
+3.5 (2)
+1.6 (3)
+72.7 (8)
+100 (2)
+66.7 (2)
+Ireland
+2011
+4.5
+0.8
+2
+0.6 (55)
+0.8 (30)
+0.5 (24)
+5.5 (3)
+3.3 (1)
+8.3 (2)
+Greece
+2004
+0.1
+0.1
+2
+0.4 (18)
+0.7 (13)
+0.2 (5)
+22.2 (4)
+30.8 (4)
+0 (0)
+Spain
+2013
+3.8
+1.2
+1
+1.3 (671)
+1.4 (391)
+1.2 (261)
+1.2 (8)
+0.8 (3)
+1.6 (4)
+France
+2014
+2.2
+0.7
+4
+0.6 (232)
+0.7 (66)
+0.5 (96)
+8.2 (16)
+9.7 (6)
+11.4 (9)
+Croatia
+2012
+2.6
+1.6
+1
+1.2 (96)
+2.7 (28)
+1 (65)
+0 (0)
+0 (0)
+0 (0)
+Italy
+2014
+2.8
+0.6
+1
+0.2 (83)
+0.3 (57)
+0.1 (26)
+6.1 (5)
+7.1 (4)
+4.3 (1)
+Cyprus
+2012
+0.7
+0.4
+4
+4.3 (46)
+3.5 (20)
+5.4 (26)
+4.3 (2)
+5 (1)
+3.8 (1)
+Latvia
+2011
+2.2
+0.6
+4
+13.9 (115)
+15 (62)
+12.8 (53)
+63.1 (70)
+66.7 (40)
+58.8 (30)
+Lithuania
+2012
+1.2
+0.5
+3
+3.4 (73)
+8.2 (28)
+2.3 (42)
+32.9 (24)
+32.1 (9)
+35.7 (15)
+Luxembourg
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+Hungary
+2007
+1.8
+1.2
+6
+12.5 (584)
+12.3 (383)
+12.4 (154)
+13 (74)
+9.6 (36)
+22.2 (34)
+Malta
+2013
+0.3
+–
+3
+0.2 (4)
+–
+0.3 (4)
+25 (1)
+–
+25 (1)
+Netherlands
+2014
+4.4
+2.9
+1
+6.6 (702)
+6.2 (376)
+7.2 (326)
+0.8 (3)
+0 (0)
+1.8 (3)
+Austria
+2008
+2.5
+0.9
+–
+4.6 (157)
+5.9 (88)
+3.6 (69)
+5.3 (7)
+5.2 (4)
+5.4 (3)
+Poland
+2014
+1.7
+0.4
+4
+28.1 (2 019)
+27.7 (956)
+29.5 (1 036)
+4.8 (91)
+2.3 (21)
+7.5 (70)
+Portugal
+2012
+0.5
+0.1
+3
+0 (1)
+0.1 (1)
+0 (0)
+–
+0 (0)
+–
+Romania
+2013
+0.3
+0.1
+2
+0.2 (4)
+0.2 (3)
+0.1 (1)
+25 (1)
+0 (0)
+100 (1)
+Slovenia
+2012
+0.9
+0.8
+2
+0.5 (2)
+–
+0.7 (2)
+–
+–
+–
+Slovakia
+2010
+0.5
+0.3
+1
+42.7 (1 060)
+47.8 (553)
+38.9 (493)
+32.8 (337)
+26.1 (140)
+40.3 (194)
+Finland
+2014
+3.4
+2.4
+–
+12.1 (78)
+13.2 (35)
+11.3 (43)
+84.2 (64)
+80 (28)
+87.8 (36)
+Sweden
+2008
+5
+1.3
+1
+0.5 (141)
+–
+–
+–
+–
+–
+United 
+Kingdom (1)
+2014
+10.3
+1.1
+1
+2.9 (2 830)
+3.7 (1 250)
+2.5 (1 540)
+21.6 (464)
+12.2 (101)
+27.6 (354)
+Turkey
+2011
+0.1
+0.1
+2
+0.3 (27)
+0.4 (21)
+0.1 (6)
+–
+–
+–
+Norway (2)
+2014
+4.1
+1.1
+1
+13.4 (1 147)
+–
+–
+–
+–
+–
+European 
+Union
+–
+3.6
+1
+–
+7 (31 168)
+8.2 (13 305)
+6.6 (17 411)
+20.8 (7 139)
+22.5 (3 059)
+19.7 (3 950)
+EU, Turkey 
+and Norway
+–
+–
+–
+–
+6.9 (32 342)
+7.9 (13 326)
+6.5 (17 417)
+20.8 (7 139)
+22.4 (3 059)
+19.7 (3 950)
+Amphetamines refers to both amphetamine and methamphetamine.
+Prevalence estimates for the school population are taken from national school surveys or the ESPAD project.
+(1) Prevalence estimates for the general population refer to England and Wales only.
+(2) Entrants into treatment refer to clients reporting stimulants other than cocaine, not just amphetamines.
+TABLE A3
+
+74
+European Drug Report 2016: Trends and Developments
+MDMA
+Prevalence estimates
+Entrants into treatment during the year
+General population
+School
+population
+MDMA clients as % of treatment entrants
+Year of survey
+Lifetime, 
+adults
+(15–64)
+Last 12
+months,
+young adults
+(15–34)
+Lifetime,
+students
+(15–16)
+All entrants
+First-time 
+entrants
+Previously 
+treated 
+entrants
+Country
+%
+%
+%
+% (count)
+% (count)
+% (count)
+Belgium
+2013
+–
+0.8
+2
+0.6 (65)
+0.9 (34)
+0.5 (31)
+Bulgaria
+2012
+2.0
+2.9
+4
+0.2 (3)
+0.6 (2)
+0.1 (1)
+Czech 
+Republic
+2014
+6.0
+3.6
+3
+0 (4)
+0.1 (3)
+0 (1)
+Denmark
+2013
+2.3
+0.7
+1
+0.3 (13)
+0.5 (7)
+0.3 (5)
+Germany
+2012
+2.7
+0.9
+2
+–
+–
+–
+Estonia
+2008
+–
+2.3
+3
+–
+–
+–
+Ireland
+2011
+6.9
+0.9
+2
+0.6 (56)
+1 (37)
+0.3 (18)
+Greece
+2004
+0.4
+0.4
+2
+0.1 (4)
+0.1 (1)
+0.1 (3)
+Spain
+2013
+4.3
+1.5
+1
+0.4 (201)
+0.6 (167)
+0.1 (27)
+France
+2014
+4.2
+2.3
+3
+0.4 (148)
+0.6 (57)
+0.3 (63)
+Croatia
+2012
+2.5
+0.5
+2
+0.4 (32)
+1.3 (14)
+0.3 (17)
+Italy
+2014
+3.1
+1.0
+1
+0.3 (147)
+0.3 (48)
+0.3 (99)
+Cyprus
+2012
+0.9
+0.3
+3
+0.1 (1)
+–
+0.2 (1)
+Latvia
+2011
+2.7
+0.8
+4
+0.4 (3)
+0.7 (3)
+0 (0)
+Lithuania
+2012
+1.3
+0.3
+2
+0 (1)
+0 (0)
+0.1 (1)
+Luxembourg
+–
+–
+–
+–
+–
+–
+–
+Hungary
+2007
+2.4
+1.0
+4
+1.7 (82)
+1.8 (55)
+1.9 (23)
+Malta
+2013
+0.7
+–
+3
+0.9 (16)
+–
+1 (16)
+Netherlands
+2014
+7.4
+5.5
+4
+0.4 (45)
+0.7 (40)
+0.1 (5)
+Austria
+2008
+2.3
+1.0
+0.8 (27)
+1.3 (19)
+0.4 (8)
+Poland
+2014
+1.6
+0.9
+2
+0.2 (11)
+0.1 (5)
+0.2 (6)
+Portugal
+2012
+1.3
+0.6
+3
+0.2 (5)
+0.4 (5)
+0 (0)
+Romania
+2013
+0.9
+0.3
+2
+0.5 (14)
+1 (14)
+0 (0)
+Slovenia
+2012
+2.1
+0.8
+2
+–
+–
+–
+Slovakia
+2010
+1.9
+0.9
+1
+0.1 (2)
+0.1 (1)
+0.1 (1)
+Finland
+2014
+3.0
+2.5
+2
+0.2 (1)
+0 (0)
+0.3 (1)
+Sweden
+2008
+2.1
+1.0
+1
+–
+–
+–
+United 
+Kingdom (1)
+2014
+9.2
+3.5
+3
+0.3 (302)
+0.6 (200)
+0.2 (97) 
+Turkey
+2011
+0.1
+0.1
+2
+1 (103)
+1.3 (74)
+0.6 (29)
+Norway
+2014
+2.3
+0.4
+1
+–
+–
+–
+European 
+Union
+–
+3.9
+1.7
+–
+0.3 (1 184)
+0.4 (712)
+0.2 (424)
+EU, Turkey and 
+Norway
+–
+–
+–
+–
+0.3 (1 287)
+0.5 (786)
+0.2 (453)
+Prevalence estimates for the school population are taken from national school surveys or the ESPAD project.
+(1) Prevalence estimates for the general population refer to England and Wales.
+TABLE A4
+
+75
+Annex I National data tables
+CANNABIS
+Prevalence estimates
+Entrants into treatment during the year
+General population
+School
+population
+Cannabis clients as % of treatment entrants
+Year of survey
+Lifetime, 
+adults
+(15–64)
+Last 12
+months,
+young adults
+(15–34)
+Lifetime,
+students
+(15–16)
+All entrants
+First-time 
+entrants
+Previously 
+treated 
+entrants
+Country
+%
+%
+%
+% (count)
+% (count)
+% (count)
+Belgium
+2013
+15
+10.1
+21
+32.9 (3 501)
+52.8 (1 984)
+22.4 (1 403)
+Bulgaria
+2012
+7.5
+8.3
+22
+3.2 (58)
+8.4 (27)
+0.7 (7)
+Czech 
+Republic
+2014
+28.7
+23.9
+42
+11.8 (1 195)
+16.4 (776)
+7.8 (419)
+Denmark
+2013
+35.6
+17.6
+18
+63.4 (2 397)
+72.6 (1 048)
+55.5 (1 061)
+Germany
+2012
+23.1
+11.1
+19
+37.9 (32 225)
+57.5 (14 458)
+29.7 (17 767)
+Estonia
+2008
+–
+13.6
+24
+3.2 (9)
+7 (4)
+0.5 (1)
+Ireland
+2011
+25.3
+10.3
+18
+27.8 (2 645)
+44.9 (1 696)
+16 (847)
+Greece
+2004
+8.9
+3.2
+8
+22.3 (1 046)
+36.5 (699)
+12.3 (338)
+Spain
+2013
+30.4
+17.0
+27
+32.6 (16 914)
+45.7 (12 912)
+15.9 (3 585)
+France
+2014
+40.9
+22.1
+39
+58 (24 003)
+76.7 (6 897)
+42.3 (8 248)
+Croatia
+2012
+15.6
+10.5
+18
+14.1 (1 103)
+64.4 (679)
+6.5 (401)
+Italy
+2014
+31.9
+19.0
+20
+18.2 (9 321)
+28.8 (5 267)
+12.3 (4 054)
+Cyprus
+2012
+9.9
+4.2
+7
+59.4 (634)
+77.2 (436)
+37.7 (182)
+Latvia
+2011
+12.5
+7.3
+24
+32.6 (269)
+50.8 (210)
+14.3 (59)
+Lithuania
+2012
+10.5
+5.1
+20
+4.3 (92)
+14.7 (50)
+2.3 (42)
+Luxembourg
+–
+–
+–
+–
+25.5 (69)
+28.6 (8)
+29.6 (58)
+Hungary
+2007
+8.5
+5.7
+19
+55.5 (2 603)
+61.2 (1 910)
+43.2 (537)
+Malta
+2013
+4.3
+–
+10
+9 (158)
+31.8 (67)
+5.9 (91)
+Netherlands
+2014
+24.1
+15.6
+27
+47.6 (5 061)
+56.2 (3 429)
+36 (1 632)
+Austria
+2008
+14.2
+6.6
+14
+32.2 (1 101)
+50.9 (757)
+17.8 (344)
+Poland
+2014
+16.2
+9.8
+23
+34.6 (2 483)
+44.6 (1 540)
+25 (877)
+Portugal
+2012
+9.4
+5.1
+16
+28.4 (812)
+50.8 (690)
+8.1 (122)
+Romania
+2013
+4.6
+3.3
+7
+37.2 (973)
+61.4 (858)
+9 (104)
+Slovenia
+2012
+15.8
+10.3
+23
+12.2 (51)
+36.4 (40)
+3.3 (10)
+Slovakia
+2010
+10.5
+7.3
+21
+20.5 (509)
+28.6 (331)
+12.5 (159)
+Finland
+2014
+21.7
+13.5
+12
+20.5 (132)
+35.1 (93)
+10.3 (39)
+Sweden
+2014
+14.4
+6.3
+6
+13.2 (4 141)
+20.7 (2 372)
+8.9 (1 717)
+United 
+Kingdom (1)
+2014
+29.2
+11.7
+19
+26 (25 278)
+46.6 (15 895)
+14.8 (9 137)
+Turkey
+2011
+0.7
+0.4
+4
+9 (955)
+11.3 (634)
+6.4 (321)
+Norway
+2014
+21.9
+8.6
+5
+22.7 (1 946)
+–
+–
+European 
+Union
+–
+24.8
+13.3
+–
+31 (138 783)
+46 (75 133)
+20.1 (53 241)
+EU, Turkey and 
+Norway
+–
+–
+–
+–
+30.4 (141 684)
+44.9 (75 767)
+19.8 (53 562)
+Prevalence estimates for the school population are taken from national school surveys or the ESPAD project.
+(1) Prevalence estimates for the general population refer to England and Wales.
+TABLE A5
+
+76
+European Drug Report 2016: Trends and Developments
+OTHER INDICATORS
+Drug-induced deaths 
+(aged 15–64)
+HIV diagnoses attributed 
+to injecting drug use 
+(ECDC)
+Injecting drug use estimate
+Syringes distributed 
+through specialised 
+programmes
+Country
+cases per million 
+population (count)
+cases per million 
+population (count)
+Year of 
+estimate
+cases per 
+1 000 
+population
+count
+Belgium
+9 (66)
+1 (11)
+2014
+2.4–4.9
+926 391
+Bulgaria
+3.1 (15)
+6.3 (46)
+–
+–
+417 677
+Czech Republic
+5.2 (37)
+1 (10)
+2014
+6.1–6.8
+6 610 788
+Denmark
+55.1 (200)
+2 (11)
+–
+–
+–
+Germany
+18.6 (993)
+1.4 (111)
+–
+–
+–
+Estonia
+113.2 (98)
+50.9 (67)
+2009
+4.3–10.8
+2 110 527
+Ireland
+71.1 (214)
+5.4 (25)
+–
+–
+393 275
+Greece
+–
+9.3 (102)
+2014
+0.6–0.9
+368 246
+Spain
+13 (402)
+2.5 (115)
+2013
+0.2–0.4
+2 269 112
+France
+5.4 (227)
+1 (64)
+–
+–
+–
+Croatia
+20.8 (59)
+0 (0)
+2012
+0.4–0.6
+196 150
+Italy
+8 (313)
+2.3 (141)
+–
+–
+–
+Cyprus
+10 (6)
+3.5 (3)
+2014
+0.4–0.7
+382
+Latvia
+10.6 (14)
+37 (74)
+2012
+7.3–11.7
+409 869
+Lithuania
+44.2 (87)
+12.9 (38)
+–
+–
+154 889
+Luxembourg
+21.1 (8)
+29.1 (16)
+2009
+4.5–6.9
+253 011
+Hungary
+3.4 (23)
+0.1 (1)
+2008–09
+0.8
+460 977
+Malta
+6.9 (2)
+0 (0)
+–
+–
+314 027
+Netherlands
+10.8 (119)
+0 (0)
+2008
+0.2–0.2
+–
+Austria
+21.1 (121)
+2.5 (21)
+–
+–
+5 157 666
+Poland
+8.5 (225)
+1 (37)
+–
+–
+105 890
+Portugal
+4.5 (31)
+3.8 (40)
+2012
+1.9–2.5
+1 677 329
+Romania
+2.4 (33)
+7.7 (154)
+–
+–
+1 979 259
+Slovenia
+20 (28)
+1 (2)
+–
+–
+494 890
+Slovakia
+3.1 (12)
+0.2 (1)
+–
+–
+274 942
+Finland
+47.4 (166)
+1.3 (7)
+2012
+4.1–6.7
+4 522 738
+Sweden
+92.9 (569)
+0.8 (8)
+2008–11
+1.3
+203 847
+United 
+Kingdom (1)
+55.9 (2 332)
+2 (131)
+2004–11
+2.9–3.2
+7 199 660
+Turkey
+9.2 (479)
+0.1 (10)
+–
+–
+–
+Norway
+67.8 (228)
+1.4 (7)
+2013
+2.1–2.9
+2 124 180
+European Union
+19.2 (6 400)
+2.4 (1 236)
+–
+–
+–
+EU, Turkey and 
+Norway
+18.3 (7 107)
+2.1 (1 253)
+–
+–
+–
+Caution is required when comparing drug-induced deaths due to issues of coding, coverage and under-reporting in some countries. 
+(1) Syringe data refers to Wales and Scotland (2014) and Northern Ireland (2013).
+TABLE A6
+
+77
+Annex I National data tables
+SEIZURES
+Heroin
+Cocaine
+Amphetamines
+MDMA
+Quantity 
+seized
+Number of 
+seizures
+Quantity 
+seized
+Number of 
+seizures
+Quantity 
+seized
+Number of 
+seizures
+Quantity seized
+Number of 
+seizures
+Country
+kg
+count
+kg
+count
+kg
+count
+tablets (kg)
+count
+Belgium
+149
+2 288
+9 293
+4 268
+208
+3 434
+44 422 (3)
+1 693
+Bulgaria
+940
+137
+27
+39
+216
+–
+16 845 (148)
+–
+Czech Republic
+157
+65
+5
+144
+51
+1 179
+1 338 (0.08)
+119
+Denmark
+13
+447
+90
+2 395
+295
+1 867
+54 690 (–)
+688
+Germany
+780
+2 857
+1 568
+3 395
+1 484
+13 759
+486 852 (–)
+3 122
+Estonia
+<0.01
+8
+3
+57
+67
+319
+9 822 (3)
+147
+Ireland
+61
+954
+66
+405
+23
+75
+465 083 (–)
+402
+Greece
+2 528
+2 277
+297
+418
+6
+64
+102 299 (9)
+42
+Spain
+244
+6 671
+21 685
+38 458
+839
+4 079
+559 221 (–)
+3 054
+France
+990
+–
+6 876
+–
+321
+–
+940 389 (–)
+–
+Croatia
+47
+132
+6
+231
+14
+582
+– (3)
+517
+Italy
+931
+2 123
+3 866
+4 783
+6
+184
+– (29)
+262
+Cyprus
+0
+11
+32
+107
+1
+73
+17 247 (1.1)
+28
+Latvia
+0.8
+229
+8
+44
+15
+640
+119 (0.3)
+15
+Lithuania
+7
+129
+116
+13
+10
+130
+– (1.9)
+16
+Luxembourg
+7
+150
+5
+169
+0.07
+9
+247 (–)
+4
+Hungary
+70
+31
+40
+143
+17
+673
+13 020 (0.4)
+275
+Malta
+2
+33
+5
+136
+0.01
+3
+334 (–)
+31
+Netherlands
+750
+–
+10 000
+–
+681
+–
+2 442 190 (–)
+–
+Austria
+56
+428
+31
+1 078
+21
+930
+5 001 (–)
+212
+Poland
+273
+–
+31
+–
+824
+–
+62 028 (–)
+–
+Portugal
+39
+690
+3 715
+1 042
+2
+77
+684 (0.6)
+145
+Romania
+26
+218
+34
+79
+4
+40
+317 966 (0.03)
+212
+Slovenia
+5
+289
+182
+179
+22
+–
+218 (0.1)
+–
+Slovakia
+0.1
+78
+0.02
+17
+6
+672
+419 (–)
+44
+Finland
+0.09
+113
+6
+205
+298
+3 149
+131 700 (–)
+795
+Sweden
+24
+514
+29
+142
+439
+5 286
+6 105 (8)
+920
+United Kingdom
+785
+10 913
+3 562
+19 820
+1 730
+6 725
+423 000 (–)
+3 913
+Turkey
+12 756
+7 008
+393
+784
+142
+403
+3 600 831 (–)
+3 706
+Norway
+44
+1 294
+149
+1 101
+420
+8 145
+54 185 (11)
+502
+European Union
+8 883
+31 785
+61 578
+77 767
+7 599
+43 949
+6 101 249 (209)
+16 656
+EU, Turkey and 
+Norway
+21 683
+40 087
+62 120
+79 652
+8 162
+52 497
+9 756 265 (219)
+20 864
+Amphetamines refers to both amphetamine and methamphetamine.
+All data are for 2014, except the Netherlands (2012), Finland (numbers of seizures, 2013) and the United Kingdom (2013).
+TABLE A7
+
+78
+European Drug Report 2016: Trends and Developments
+SEIZURES (continued)
+Cannabis resin
+Herbal cannabis
+Cannabis plants
+Quantity seized
+Number of 
+seizures
+Quantity seized
+Number of 
+seizures
+Quantity seized
+Number of 
+seizures
+Country
+kg
+count
+kg
+count
+plants (kg)
+count
+Belgium
+841
+5 554
+10 744
+28 086
+356 388 (–)
+1 227
+Bulgaria
+2
+14
+1 674
+3 516
+21 516 (–)
+100
+Czech Republic
+15
+73
+570
+2 833
+77 685 (–)
+484
+Denmark
+2 211
+9 988
+58
+3 000
+11 792 (675)
+262
+Germany
+1 755
+5 201
+8 515
+31 519
+132 257 (–)
+2 400
+Estonia
+273
+31
+352
+507
+– (13)
+30
+Ireland
+677
+258
+1 102
+1 770
+6 309 (–)
+340
+Greece
+36
+176
+19 568
+6 985
+14 173 (–)
+587
+Spain
+379 762
+174 566
+15 174
+175 086
+270 741 (–)
+2 252
+France
+36 917
+–
+10 073
+–
+158 592 (–)
+–
+Croatia
+2
+371
+1 640
+5 591
+3 602 (–)
+188
+Italy
+113 152
+5 303
+33 441
+8 294
+121 659 (–)
+1 773
+Cyprus
+0.1
+12
+203
+901
+487 (–)
+44
+Latvia
+30
+38
+27
+366
+– (11)
+16
+Lithuania
+841
+24
+79
+341
+– (–)
+–
+Luxembourg
+1
+78
+13
+1 015
+97 (–)
+11
+Hungary
+8
+101
+529
+2 058
+3 288 (–)
+146
+Malta
+42
+39
+70
+176
+8 (–)
+5
+Netherlands
+2 200
+–
+12 600
+–
+1 600 000 (–)
+–
+Austria
+101
+1 380
+1 326
+10 088
+– (281)
+408
+Poland
+99
+–
+270
+–
+95 214 (–)
+–
+Portugal
+32 877
+3 472
+108
+555
+4 517 (–)
+302
+Romania
+15
+154
+145
+1 967
+– (422)
+93
+Slovenia
+2
+73
+535
+3 673
+11 067 (–)
+212
+Slovakia
+0.1
+12
+113
+1 061
+496 (–)
+20
+Finland
+52
+1 467
+313
+6 167
+21 800 (189)
+3 409
+Sweden
+877
+6 547
+1 041
+10 028
+– (–)
+–
+United Kingdom
+1 134
+14 105
+18 705
+147 309
+484 645 (–)
+15 744
+Turkey
+30 635
+3 972
+92 481
+41 594
+– (–)
+3 017
+Norway
+1 919
+10 509
+505
+6 534
+– (276)
+383
+European Union
+573 921
+229 037
+139 286
+452 892
+3 396 333 (1 592)
+30 053
+EU, Turkey and 
+Norway
+606 475
+243 518
+232 271
+501 020
+3 396 333 (1 868)
+33 453
+All data are for 2014, except the Netherlands (2012), Finland (numbers of seizures, 2013) and the United Kingdom (2013).
+TABLE A7
+
+HOW TO OBTAIN EU PUBLICATIONS
+Free publications
+one copy:
+via EU Bookshop (http://bookshop.europa.eu)
+more than one copy or posters/maps:
+from the European Union’s representations 
+(http://ec.europa.eu/represent_en.htm); 
+from the delegations in non-EU countries 
+(http://eeas.europa.eu/delegations/index_en.htm); 
+by contacting the Europe Direct service 
+(http://europa.eu/europedirect/index_en.htm) or
+calling 00 800 6 7 8 9 10 11 
+(freephone number from anywhere in the EU) (*).
+(*) The information given is free, as are most calls (though 
+some operators, phone boxes or hotels may charge you).
+Priced publications
+via EU Bookshop (http://bookshop.europa.eu)
+
+About this report
+The Trends and Developments report presents a 
+top-level overview of the drug phenomenon in Europe, 
+covering drug supply, use and public health problems 
+as well as drug policy and responses. Together with the 
+online Statistical Bulletin, Country Overviews and 
+Perspectives on Drugs, it makes up the 2016 European 
+Drug Report package.
+About the EMCDDA
+The European Monitoring Centre for Drugs and Drug 
+Addiction (EMCDDA) is the central source and 
+confirmed authority on drug-related issues in Europe. 
+For over 20 years, it has been collecting, analysing and 
+disseminating scientifically sound information on drugs 
+and drug addiction and their consequences, providing 
+its audiences with an evidence-based picture of the 
+drug phenomenon at European level.
+The EMCDDA’s publications are a prime source of 
+information for a wide range of audiences including: 
+policymakers and their advisors; professionals and 
+researchers working in the drugs field; and, more 
+broadly, the media and general public. Based in Lisbon, 
+the EMCDDA is one of the decentralised agencies of 
+the European Union.
+TD-AT-16-001-EN-N
+ISBN 978-92-9168-890-6

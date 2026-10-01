@@ -1,0 +1,1121 @@
+EU Drug Markets
+Analysis 2024
+Key insights for policy and practice
+
+Legal notice
+Neither the European Monitoring Centre for Drugs and Drug Addiction (EMCDDA), Europol nor 
+any person acting on behalf of the EMCDDA or Europol is responsible for the use that might be 
+made of the following information.
+More information on the European Union is available on the internet (https://europa.eu).
+Luxembourg: Publications Office of the European Union, 2024
+PDF 
+ISBN 978-92-9497-961-2 
+doi:10.2810/137611 
+TD-05-23-510-EN-N
+PRINT 
+ISBN 978-92-9497-960-5 
+doi:10.2810/34465 
+TD-05-23-510-EN-C
+HTML 
+ISBN 978-92-9497-965-0 
+doi:10.2810/567901 
+TD-05-23-510-EN-Q
+© Europol, 2024
+The Hague, the Netherlands 
+Publications: https://www.europol.europa.eu/publications-events
+Reproduction is authorised provided the source is acknowledged.
+For any use or reproduction of photos or other material that is not under the EMCDDA or 
+Europol copyright, permission must be sought directly from the copyright holders.
+Photo credits: ©iStock.com, apart from:
+Page 18-19: © GulArt/ Adobestock, 2024 (image created using Adobe Firefly)
+Page 27: © Rita Jorge
+Page 28: © Swedish Customs Laboratory
+Page 37: © Adobe stock/Urupong
+ 
+Recommended citation: 
+European Monitoring Centre for Drugs and Drug Addiction and Europol (2024), EU Drug 
+Markets Analysis: Key insights for policy and practice, Publications Office of the European 
+Union, Luxembourg.
+© European Monitoring Centre for Drugs and Drug Addiction, 2024
+Praça Europa 1, Cais do Sodré, 1249-289 Lisbon, Portugal
+Tel. + 351 211210200
+info@emcdda.europa.eu | www.emcdda.europa.eu 
+
+Contents
+Foreword 
+ 
+4
+Understanding the multifaceted drug market 
+in a globalised world 
+ 
+6
+Current landscape and key threats 
+ 
+9
+EU drug market : significant financial impact 
+ 10
+High availability and product diversification : increasing risks for users 
+ 12
+Higher trafficking efficiency : intensifying pressure on Europe’s logistics hubs 
+ 12
+Europe takes a central position in drug production and trafficking 
+ 14
+Criminal adaptability : a major challenge for law enforcement 
+ 14
+Drug markets : resilient to major external shocks 
+ 15
+Interplay between licit and illicit markets: adding a layer of complexity 
+ 16
+Extreme violence: putting a strain on local communities and society 
+ 17
+Corruption: facilitating drug trafficking and undermining the rule of law 
+ 17
+Technology and innovation: key drivers of drug markets 
+ 17
+Key developments by drug 
+ 19
+Cannabis 
+ 20
+Cocaine 
+ 21
+Heroin and other opioids 
+ 22
+Amphetamine 
+ 23
+Methamphetamine 
+ 24
+MDMA 
+ 26
+New psychoactive substances 
+ 28
+Actions to address current threats and increase 
+preparedness 
+ 31
+Improve the intelligence picture: detection, monitoring and analysis 
+32
+Strengthen responses to reduce supply and enhance security 
+32
+Strengthen international cooperation 
+34
+Invest in capacity-building 
+35
+Strengthen policy, public health and safety responses 
+35
+Towards a coherent approach 
+ 36
+
+4
+Foreword
+The market for illicit drugs, controlled by criminal 
+networks, represents a serious security threat to 
+the European Union. It endangers public health 
+and safety while fostering extreme violence and 
+corruption, undermining the very fabric of society, 
+democracy and the rule of law. The increasing diversity 
+and complexity of EU drug markets also presents new 
+challenges, requiring a comprehensive European drug 
+alert system to improve responses and prevent the 
+situation from escalating.
+One critical aspect of the threat from drug markets 
+lies in the exploitation of key logistical infrastructure, 
+particularly seaports. Criminal networks infiltrate these 
+hubs of trade and transportation, turning them into 
+conduits for unprecedented drug flows. The economic 
+and social repercussions of these developments pose 
+urgent challenges, escalating the security threat and 
+further increasing the availability of illicit drugs in Europe. 
+The European Union therefore needs to strengthen the 
+resilience of these and other logistics hubs to prevent 
+their further exploitation for illicit drug trafficking.
+The recruitment of young people by criminal 
+networks involved in drug markets compounds 
+this crisis. Vulnerable youth are lured or forced to 
+partake in dangerous and illicit activities by criminal 
+organisations. This jeopardises their future opportunities 
+and perpetuates a cycle of crime and 
+violence, highlighting the need for a strong focus on 
+prevention.
+Disrupting these criminal networks poses a complex 
+challenge, as they constantly adapt to external shocks 
+and increasingly use specialist criminal service providers. 
+Given the globalised nature of these networks, aided 
+by technological developments, they also increasingly 
+coordinate their illicit drug trafficking activities from 
+outside the European Union. This underlines the 
+crucial role of international cooperation in disrupting 
+criminal supply routes and networks. While arrests 
+of key individuals remain important, it is vital to 
+increase law enforcement and judicial authorities’ 
+capabilities to dismantle whole criminal networks, 
+particularly in cooperation with international partners.
+
+5
+The EU Drugs Strategy and its Action Plan and the 
+Security Union Strategy equip the European Union 
+with the tools to tackle this evolving threat landscape 
+and support Member States in fostering security for 
+all residents of the European Union. These initiatives are 
+augmented by the EU Roadmap to fight drug trafficking 
+and organised crime. The successful launch of the 
+European Ports Alliance on 24 January 2024 is 
+a significant step in its implementation. In addition, 
+the Commission has conducted a Schengen thematic 
+evaluation focusing on drugs trafficking that identified 
+best practices in the area of police cooperation, 
+protection of external borders and management 
+of IT systems.
+The EMCDDA and Europol play a central role 
+in these endeavours, supporting Member States 
+and cooperating with third countries to strengthen 
+Europe’s preparedness and response to illicit drug flows. 
+These strategic insights from the two agencies’ joint 
+drug markets analysis provide a robust framework for 
+understanding and responding to drug markets 
+at EU and international level.
+Ylva Johansson
+European Commissioner 
+Migration and Home Affairs
+
+6
+Introduction
+Understanding 
+the multifaceted drug 
+market in a globalised 
+world
+The illicit drugs trade continues to dominate serious 
+and organised crime in the European Union, in terms 
+of the number of criminals involved and the vast profits 
+generated. This market is part of a complex global 
+criminal enterprise, with cross-border collaboration 
+through facilitators and brokers creating a fluid and 
+networked environment.
+Globalisation continues to have a significant impact 
+as criminals exploit the opportunities provided by 
+interconnected networks of communication, trade and 
+transport for criminal cooperation and integration along 
+supply chains. These developments have influenced 
+links between the illicit drugs trade and other crime 
+areas in the European Union, such as the trafficking in 
+firearms, as drug trafficking networks require a range of 
+tools and capacities to facilitate their activities.
+The European drug market has seen an unprecedented 
+increase in the availability of illicit drugs, evidenced by 
+elevated drug purity and stable prices at retail level, 
+as well as a diversification of drugs and consumer 
+products. This situation is also driven by sustained 
+high levels of demand and criminal innovation, 
+as illicit drug markets have become highly resilient 
+and adaptable in the face of unexpected global events.
+The EU drug market has wide-ranging impacts on our 
+society, evident in drug-related deaths and the number 
+of people seeking treatment. It also fuels the expansion 
+of organised crime, increased levels of corruption and 
+the exploitation of vulnerable individuals. Much of the 
+violence associated with serious and organised crime 
+in Europe is related to the drug trade. Meanwhile, illicit 
+drug production leads to environmental damage, while 
+the economy and the rule of law are undermined by the 
+exploitation of legal businesses.
+
+7
+The constantly evolving and multifaceted drug market 
+demands a multi-pronged approach, involving law 
+enforcement, public health, education and international 
+cooperation. Recognising the global interconnectedness 
+of markets and criminal actors is crucial to developing 
+effective responses to address current and future 
+threats, as developments in other parts of the world 
+will continue to influence the EU drug markets.
+These complexities underscore the need for robust 
+responses, as brought forward in the new EU Roadmap 
+to tackle drug trafficking and organised crime. Priority 
+areas include reducing supply by disrupting high-risk 
+criminal networks and the key brokers and facilitators, 
+such as money launderers, on which they rely, while 
+simultaneously improving access to evidence-based 
+harm reduction, treatment and rehabilitation measures. 
+Ultimately, we need to strengthen social resilience 
+in the European Union and address the underlying 
+socioeconomic factors that contribute to the harms 
+and act as drivers of the illicit drug market.
+Alexis Goosdeel
+Director, EMCDDA
+Catherine De Bolle
+Executive Director, Europol
+
+01
+Current landscape 
+and key threats
+This section presents key insights from the current 
+analysis of EU drug markets, covering the range 
+of market dynamics, geopolitical factors, criminal 
+operations and socioeconomic consequences. 
+The latest data and analysis show a large, complex 
+and constantly evolving EU drug market (Figure 1). 
+
+10
+EU Drug Markets Analysis: Key insights for policy and practice
+EU drug market : 
+significant financial 
+impact
+Based on 2021 data, the EU drug market is estimated 
+to have a minimum retail value of at least EUR 31 billion. 
+It is a major income source for organised crime. A key 
+feature of this market is the interconnectedness 
+between different illicit drugs, with criminal networks 
+and key brokers and facilitators often engaging 
+in poly-drug criminality. The large EU drug market 
+also intersects with, and has a significant impact on 
+other crime areas, such as the trafficking in firearms 
+and money laundering. 
+FIGURE 1 
+EU drug markets ecosystem
+€31 bn
+€0.6 bn 
+2 %
+Ecstasy/
+MDMA
+€1.6 bn
+Amphetamines 5 %
+€12.1 bn 
+39 %
+Cannabis
+€11.6 bn 
+37 %
+Cocaine
+€5.2 bn
+Heroin
+17 %
+
+11
+Current landscape and key threats
+IMPACTS
+AND CONSEQUENCES
+• Wider criminal activity and terrorism
+• Societal impact, including violence
+• Impact on the legal economy
+• Corruption and strain on institutions
+DRIVERS 
+AND FACILITATORS
+• Globalisation and geopolitical challenges
+• Technology and innovation
+• Criminal tools, including firearms
+POLICIES 
+AND RESPONSES
+• Initiatives
+• Structures
+• Actions
+• Legislation
+• Directives
+• Frameworks
+
+12
+EU Drug Markets Analysis: Key insights for policy and practice
+High availability 
+and product 
+diversification : 
+increasing risks 
+for users
+Availability remains high across the main drugs used 
+in Europe, evidenced by the large and in some cases 
+increasing quantities that continue to be seized in the 
+European Union (Figure 2). In addition, the market for 
+illicit drugs is characterised by the diversification of 
+consumer products and the widespread availability 
+of a broader range of drugs, including new psychoactive 
+substances, often of high potency or purity. Specialised 
+equipment may be required to meet the detection and 
+monitoring challenges posed by this diversification. The 
+recent emergence of highly potent opioids, particularly 
+benzimidazoles (nitazenes), poses a particularly complex 
+threat to public health due to their increased risk of 
+life-threatening poisoning. The potential emergence 
+of new patterns of consumption in Europe is also a key 
+threat, due to the availability of cheap and highly potent 
+or pure drugs. This is particularly the case for cocaine, 
+which has seen unprecedented levels of availability.
+Higher trafficking 
+efficiency : 
+intensifying 
+pressure on 
+Europe’s logistics 
+hubs 
+A major contributing factor to increasing efficiency 
+is the trend towards trafficking larger individual 
+consignments of drugs by sea, exploiting containers 
+flowing through global logistics hubs. As a result, 
+over the last ten years, the quantity of drugs seized 
+in the European Union has increased considerably 
+while the number of seizures across most drug types 
+has decreased (Figure 2). The decrease in the number 
+of seizures may partly be explained by a reduced focus 
+and de-prioritisation of enforcement of drug possession 
+and use offences in some Member States. 
+
+13
+Current landscape and key threats
+FIGURE 2
+Percent change in drug seizures in the European Union 
+over the last decade 
+100
+200
+300
+400
+500
+Amphetamine
+Cannabis resin
+Heroin
+Methamphetamine
+Cannabis herb
+Cocaine
+0
+-100
+%
+Quantity seized
+Number of seizures
+
+14
+EU Drug Markets Analysis: Key insights for policy and practice
+Europe takes a 
+central position 
+in drug production 
+and trafficking
+Industrial-scale production of cannabis and synthetic 
+drugs, such as amphetamine, methamphetamine, 
+MDMA and cathinones, takes place in the EU for 
+both domestic and international markets. The scale 
+and complexity of synthetic drug production in Europe 
+is driven by innovation in methods and equipment, 
+and the availability of the key chemicals needed. 
+Large-scale cocaine processing also now takes 
+place inside the European Union. Europe is also 
+likely an important transit zone for global drug flows, 
+particularly cocaine from Latin America and to a lesser 
+extent amphetamine in the form of captagon tablets 
+from Syria and Lebanon.
+Criminal 
+adaptability : 
+a major challenge 
+for law 
+enforcement
+A diverse range of criminal networks operate in the EU 
+drug market. These networks demonstrate a high level of 
+adaptability, capitalising on technological advancements 
+and broader societal changes, exploiting legal business 
+structures and taking advantage of opportunities in the 
+traditional and digital economies. Criminals often 
+rely on other networks or brokers to facilitate their 
+illicit activities. This also gives them the flexibility to 
+diversify sources and products, trafficking routes and 
+concealment methods – enhancing their efficiency 
+and adaptability to minimise risks and maximise profits.
+
+15
+Current landscape and key threats
+Drug markets : 
+resilient to major 
+external shocks
+The EU drug market has shown remarkable resilience 
+to global crises, instability and significant political 
+and economic changes. Recent examples of such 
+shocks include the COVID-19 pandemic, Russia’s war 
+on Ukraine and the Taliban’s rise to power in Afghanistan. 
+In response, criminal networks have adapted, changing 
+trafficking routes and diversifying their methods.
+Simultaneously, these developments have also 
+influenced the emergence of new markets and in some 
+cases appear to have changed consumer preferences. 
+
+16
+EU Drug Markets Analysis: Key insights for policy and practice
+Interplay between 
+licit and illicit 
+markets: adding a 
+layer of complexity
+Illicit drug markets and the regular economy intersect 
+in numerous and significant ways. For example, criminals 
+exploit the commercial transport infrastructure to traffic 
+drugs and they use loopholes in legislation to access 
+chemicals for illicit drug production. These intersections 
+are also visible on the cannabis and opioid markets, 
+where some products legally available for medicinal 
+or industrial purposes may be diverted. For example, 
+legal industrial hemp cultivation and CBD (cannabidiol) 
+production may be exploited for the manufacture of 
+unauthorised cannabis products.
+
+17
+Current landscape and key threats
+Extreme violence: 
+putting a strain on 
+local communities 
+and society
+Some EU Member States are experiencing 
+unprecedented levels of drug market-related 
+violence, often related to the cocaine and cannabis 
+markets. This appears to be concentrated in distribution 
+hubs and in competitive retail markets. Such violence 
+includes killings, torture, kidnappings and intimidation, 
+and often takes place between criminal networks, 
+although innocent people are also victims. This has a 
+severe impact on society as a whole, increasing the 
+perception of public insecurity.
+Corruption: 
+facilitating drug 
+trafficking and 
+undermining 
+the rule of law
+Criminal networks rely on corruption across all levels 
+of the drug market to facilitate their activities and 
+mitigate risks, including those posed by the criminal 
+justice system. Drug-related corruption also targets 
+individuals with access to key infrastructure, such as 
+those working in logistics hubs, the legal profession 
+and the financial sector. Corruption, which is often 
+linked to violence, has a corrosive effect on the fabric 
+of society and undermines governance, creating 
+systemic vulnerabilities and sometimes coercively 
+involving people in criminal activity.
+Technology 
+and innovation: 
+key drivers of 
+drug markets
+Innovation in illicit drug production results in higher 
+outputs, increased potency or purity, and a broader 
+range of consumer products. Criminal networks 
+continue to introduce novel chemicals to produce 
+synthetic drugs, posing complex challenges for law 
+enforcement. Innovation in the chemical concealment 
+of drugs also significantly complicates detection and 
+interdiction. Simultaneously, criminal networks leverage 
+digital advances and technological opportunities to 
+conceal illicit communication, improve drug distribution 
+models and reduce risk. An example of this is the recent 
+rise in the use of social media and instant messaging 
+applications for the retail sale of drugs, making a wide 
+range of substances more accessible.
+
+02
+Key developments 
+by drug
+
+EU Drug Markets Analysis: Key insights for policy and practice
+20
+Cannabis
+Cannabis is the most commonly used illicit drug in the 
+European Union, with an estimated 22.6 million adults 
+having used it within the last year, and it remains the 
+largest drug market in the European Union.
+In 2021, cannabis seizures in the European Union 
+reached record levels, with 256 tonnes of herbal 
+cannabis and 816 tonnes of resin seized. Criminal 
+networks operating in the illicit cannabis market are 
+diverse and adaptable, often involved in trafficking 
+multiple drug types and associated with violence, 
+corruption and misuse of legal business structures. 
+A large share of the violence between criminals 
+in recent years has been linked to the cannabis 
+market, in part because of the diversity and 
+profitability of the market.
+Most herbal cannabis consumed in the European 
+Union appears to be produced here, particularly 
+in Spain where large-scale cannabis cultivation sites 
+have been dismantled. The Western Balkan region 
+also plays a role in herbal cannabis supply, while 
+Morocco remains the largest cannabis resin supplier. 
+However, there are signals of increasing resin production 
+in the European Union, and although the quantity is likely 
+to be small compared to that of Morocco, this represents 
+an emerging threat. Cannabis production carries 
+a significant environmental impact due to energy 
+and water usage, as well as chemical pollution.
+Cannabis potency has surged over the last decade 
+for both herbal cannabis and resin, and an increasing 
+diversity of consumer products has been observed. 
+These include oils, extracts, edibles and vaping products, 
+trafficked from North America and produced within 
+Europe. Both synthetic and semi-synthetic cannabinoids 
+also continue to emerge in various forms of consumer 
+products.
+The ongoing policy debate around cannabis, 
+globally and within the European Union, has led to 
+a complex and constantly evolving legal and regulatory 
+landscape. This has resulted in considerable national 
+and sometimes local heterogeneity, potentially creating 
+additional challenges for law enforcement and criminal 
+justice systems.
+
+Key developments by drug
+21
+Cocaine
+Cocaine is the second most commonly used illicit 
+drug in European Union and the second largest illicit 
+drug market by revenue generated. The consumer 
+market for cocaine is on the rise, potentially influenced 
+by the unprecedented availability of low-cost, high-purity 
+cocaine. There are also signals of a potential shift in 
+Europe’s role in the global cocaine trade. This can be 
+seen in the increasing use of the European Union as a 
+transit point for cocaine shipments to other regions and 
+the growing trend for some stages of cocaine production 
+to take place within the European Union.
+Evidence indicates that Latin American and European 
+criminal networks collaborate in cocaine production in 
+the European Union. This involves the (rarely detected)
+smuggling of large quantities of coca paste and cocaine 
+base to Europe for further processing into cocaine 
+hydrochloride. Importation of cocaine base to the 
+European Union also heightens the risk of new 
+smokeable cocaine products (e.g. crack cocaine) gaining 
+more prominence in European consumer markets.
+Record quantities of cocaine have been seized in the 
+European Union yearly since 2017, with 303 tonnes 
+seized by Member States in 2021. Belgium, the 
+Netherlands and Spain report the highest volumes 
+of seizures, reflecting their importance as entry points 
+for cocaine. Preliminary data indicate that seizures 
+increased further in 2022, including in key entry 
+points such as Antwerp.
+Large quantities of cocaine are trafficked through 
+Europe’s seaports in intermodal shipping containers. 
+This has led to an unprecedented availability of cocaine 
+in the European Union. Corruption and intimidation of 
+port workers are key enablers of cocaine smuggling, 
+although corruption related to this market extends to 
+other sectors of society.
+High-risk criminal networks dominate the cocaine trade 
+in the European Union, generating significant profits. 
+As with other drugs, these networks are enabled by 
+facilitators and brokers in a fluid and interconnected 
+environment. Serious violence related to the cocaine 
+market appears to be increasing in key entry points, 
+although it affects society as a whole. 
+
+EU Drug Markets Analysis: Key insights for policy and practice
+22
+Heroin and 
+other opioids
+Heroin continues to be the most commonly used illicit 
+opioid and is a significant contributor to the harms of 
+illicit drug use in the European Union. However, the 
+landscape of Europe’s opioid problem is evolving and 
+growing in complexity, influenced by developments 
+globally, with implications for preparedness and 
+response.
+Importantly, political changes in Afghanistan, the main 
+source of the heroin consumed in Europe, are expected 
+to disrupt this market. The Taliban’s announced drug 
+ban in April 2022 appears to have taken effect as 
+available data suggest a significant reduction in opium 
+poppy cultivation and heroin production in 2023. This 
+may precipitate a decrease in heroin availability in the 
+European Union that could lead to market gaps being 
+filled by other drugs, including potent synthetic opioids, 
+with significant negative impact on public health and 
+security.
+Heroin trafficking to the European Union increasingly 
+relies on maritime routes and in particular the use of 
+global container traffic and ferries departing from 
+Türkiye. These methods allow large quantities of 
+heroin to be smuggled in single shipments, since 
+the use of transhipment points conceals the origin 
+and nature of suspicious consignments.
+Turkish criminal networks continue to dominate 
+the wholesale trafficking of heroin to the European 
+market, although other networks, such as those linked 
+to the Western Balkan region, are also active in heroin 
+trafficking. These networks cooperate with suppliers 
+in the main production region and with partners in key 
+distribution hubs in the European Union, aided by the 
+exploitation of legally established, acquired or infiltrated 
+companies along the trafficking routes. Trafficking of 
+acetic anhydride, the main chemical required for heroin 
+production, from the European Union also continues 
+to take place on the ‘reverse Balkan route’ via Türkiye. 
+However, the apparent recent reduction in heroin 
+trafficking on the Balkan route may lead to changes 
+in the future.
+
+Key developments by drug
+23
+Amphetamine
+The European Union is an important market globally 
+for amphetamine, with about 90 tonnes of the drug 
+consumed in 2021. It is a relatively inexpensive 
+stimulant with a large stable market in the European 
+Union. While amphetamine is generally low in price and 
+purity, high-purity and low-cost amphetamine is found 
+in Belgium and the Netherlands – the main production 
+centres. Some amphetamine production also occurs in 
+Germany and Poland, and occasionally elsewhere.
+Criminal networks continually adapt and improve 
+amphetamine production methods. The supply of 
+precursors and essential chemicals plays a crucial role 
+in this, although the criminal infrastructure involved 
+remains largely an intelligence gap. The main 
+amphetamine production method uses BMK 
+as a starting material, which is mainly obtained 
+from designer precursors. However, other methods 
+may become more prominent in future, potentially 
+circumventing the reliance on BMK. The environmental 
+impact of amphetamine production is considerable due 
+to the large amounts of chemical waste generated.
+Amphetamine trafficking within the European Union 
+mainly occurs over land, and sometimes in conjunction 
+with other drugs. Smaller quantities are trafficked 
+through postal and parcel services, often linked to the 
+online trade. Trafficking of amphetamine oil from the 
+Netherlands and Belgium to other EU countries, where 
+it is further processed into consumable amphetamine 
+sulfate, is an important part of the illicit amphetamine 
+trafficking business in the European Union and has 
+grown over the years.
+Large shipments of captagon tablets containing 
+amphetamine are also trafficked through EU ports, 
+from production centres in Syria and Lebanon, to the 
+Arabian Peninsula, the main global consumer market. 
+However, some captagon production also occurs in the 
+European Union, mainly in the Netherlands, for export 
+to the large consumer markets. This production appears 
+to be opportunistic and based on specific requests or 
+demand.
+
+EU Drug Markets Analysis: Key insights for policy and practice
+24
+Methamphetamine
+The methamphetamine market in the European Union, 
+although relatively small globally, may be growing. The 
+average purity of methamphetamine has increased 
+over the past decade, particularly since 2019 when 
+large-scale European crystal methamphetamine 
+production became more common. Over the same 
+period, prices have fallen slightly. While large-scale 
+manufacturing and trafficking in the European Union 
+appears to be mainly destined for export, there is a 
+risk that at least some will spill over to the EU user 
+markets, raising the potential for the spread of 
+methamphetamine, including smokable crystal 
+methamphetamine, to a wider user group.
+Industrial-scale methamphetamine production 
+occurs in the Netherlands and, to a lesser extent, 
+Belgium. Innovations in European methamphetamine 
+production have increased efficiency and output. 
+As with other synthetic drugs, challenges persist in 
+controlling precursor availability as criminal networks 
+adapt to legislation. Methamphetamine production in 
+the European Union carries significant health, safety and 
+environmental risks, for example due to chemical waste.
+Large-scale methamphetamine production in the 
+European Union was driven by the collaboration 
+between European synthetic drug producers and 
+Mexican criminal networks. Dutch and Mexican 
+knowledge exchange in particular has led to more 
+sophisticated and larger methamphetamine production 
+facilities. While large-scale production continues, 
+Mexican producers are not frequently found in the 
+laboratories, as European producers have learned the 
+techniques. This collaboration, however, has set an 
+important precedent with a potential significant risk to 
+public health and safety, as Mexican criminal networks 
+are known to produce illicit fentanyl for the US market.
+
+Key developments by drug
+25
+Methamphetamine seizures in the European Union 
+have significantly increased in recent years, attributed 
+to both domestic production and trafficking from 
+non-EU countries like Iran, Mexico and Nigeria. 
+Methamphetamine production in Afghanistan 
+also poses a threat, due to potential trafficking to 
+the European Union through established heroin routes. 
+Increasing levels of seizures noted in Türkiye may be 
+a sign of such a development.
+
+EU Drug Markets Analysis: Key insights for policy and practice
+26
+ MDMA
+MDMA remains a popular drug used in the European 
+Union that is generally associated with episodic patterns 
+of consumption in nightlife and entertainment settings. 
+While current data suggest an overall relatively stable 
+situation in respect to MDMA use, there are considerable 
+differences at national level.
+Europe is a large-scale producer of MDMA, with the 
+domestic consumer market supplied by European 
+producers. Similar to the production of other 
+synthetic drugs in Europe, MDMA production 
+is largely concentrated in, or around, the Netherlands. 
+Large quantities of MDMA produced in Europe are also 
+exported to markets outside the European Union, 
+including Australia and the Americas.
+As is the case with other synthetic drugs, MDMA 
+producers often adapt their use of chemicals and 
+precursors in order to avoid controls. Another 
+development is the apparent increase in reports of 
+accidents in MDMA production facilities, including fires 
+and explosions, potentially due to the use of inadequate 
+equipment and involvement of inexperienced producers. 
+In common with other synthetic drugs, MDMA production 
+also causes significant environmental damage due to the 
+amount of chemical waste produced.
+The overall strength of MDMA tablets and powders 
+available on the retail market remains high by historical 
+standards, although in some key countries there appears 
+to be a downward trend. Nevertheless, the continued 
+availability of high-dose MDMA tablets is of particular 
+concern. Another threat is the recent emergence of novel 
+MDMA consumer products, such as edibles and liquids, 
+which may attract new consumer groups.
+
+Key developments by drug
+27
+The adulteration of MDMA with other harmful 
+substances also remains an ongoing issue, with 
+potentially severe public health consequences. While 
+adulterants are commonly found in MDMA tablets and 
+powders, there have been incidents of adulteration with 
+new psychoactive substances, particularly cathinones. 
+It also appears that ‘pink cocaine’ or ‘tucibi’, a mixture of 
+MDMA with ketamine, cocaine or 2C-B first reported in 
+Latin American countries, is emerging on the European 
+market. Taken together, these developments show that 
+the European MDMA market is dynamic and resilient.
+
+EU Drug Markets Analysis: Key insights for policy and practice
+28
+New psychoactive 
+substances
+The trade in new psychoactive substances (NPS) 
+represents a significant and dynamic challenge to the EU 
+drug market, as these substances constantly change to 
+evade legal restrictions. In 2022, a record 30.6 tonnes of 
+new psychoactive substances was seized in Europe, due 
+to a relatively small number of large seizures.
+While the overall number of new psychoactive 
+substances appearing for the first time in Europe 
+has declined in recent years, the market remains 
+dynamic, with hundreds of substances detected 
+and monitored each year by the EU Early Warning 
+System. The exploitation of variations in national drug 
+control laws allows some new psychoactive substances 
+to re-emerge after extended periods of absence.
+Digitalisation has played a large role in facilitating the 
+sale and distribution of new psychoactive substances. 
+The online availability of these substances poses 
+regulatory challenges, highlighting the need for 
+effective measures to monitor and control online sales.
+New psychoactive substances are predominantly 
+shipped to the European Union from outside Europe. 
+While China continues to be a major supplier, control 
+measures on certain synthetic substances (such as 
+cathinones, cannabinoids and opioids) appear to have 
+prompted a proportion of NPS production to shift to 
+India – which has emerged as a major source, 
+probably due to limited domestic controls.
+In Europe, some synthetic cathinone production is 
+also observed, particularly bulk quantities of 3-CMC 
+and 4-CMC. The possibility of production of other 
+substances remains a threat, particularly as few 
+precursors of new psychoactive substances are 
+currently controlled.
+Large-scale European cathinone seizures, involving 
+bulk imports from India, are intercepted mainly by the 
+Netherlands and Spain for apparent distribution across 
+Europe. There is also an increasing trend in the supply of 
+psychoactive pharmaceutical ingredients in bulk powder 
+form to the European Union, suspected to originate 
+from chemical and pharmaceutical companies outside 
+Europe.
+
+Key developments by drug
+29
+Since 2022, semi-synthetic cannabinoids have 
+been sold openly in Europe as ‘legal’ replacements 
+for cannabis and delta-9-THC. They are made from 
+naturally occurring cannabinoids, such as cannabidiol 
+that is extracted from low-THC cannabis (hemp). Bulk 
+quantities have been imported from the United States, 
+but they are also produced in Europe. They are sold as 
+vapes, edibles and other sophisticated products that 
+may be attractive to young people.
+There are signs that new synthetic opioids, such as 
+the nitazenes, are more available in parts of Europe. 
+The mis-selling or adulteration of established opioids 
+with these potent substances may also be increasing. 
+This increases the risk of overdose and can cause 
+outbreaks. These changes are likely driven by supply 
+side factors, including possible heroin supply disruptions.
+Recently, mixtures of new opioids with 
+benzodiazepines (‘benzo-dope’) or the animal sedative 
+xylazine (‘tranq-dope’) have been reported in Europe. 
+First seen in North America, the mixtures are linked to 
+increased harms, including risk of overdose.
+Harms associated with new psychoactive substances 
+remain a significant concern, particularly in relation to 
+acute poisonings. Providing effective harm reduction 
+measures remains a complex challenge, given the 
+diverse and continually evolving nature of these 
+substances, and the fact that consumers may be 
+unaware of the specific new psychoactive substances 
+they are using, as they may be mis-sold as other drugs 
+or used as adulterants.
+
+03
+Actions to address 
+current threats and 
+increase preparedness
+Monitoring and responding to the multiple threats 
+that are posed by the EU drug market requires 
+a multidisciplinary, flexible and future-oriented 
+approach – mitigating harms and seizing 
+opportunities for positive change. This section 
+outlines the key areas that need to be addressed 
+in order to respond effectively to current and 
+future threats arising from EU drug markets.
+
+EU Drug Markets Analysis: Key insights for policy and practice
+32
+Improve the 
+intelligence 
+picture: detection, 
+monitoring and 
+analysis
+Strengthen the systematic monitoring and analysis 
+of the EU drug market, including precursors, illicit 
+drugs and new psychoactive substances, making 
+further use of advanced methods and technologies, 
+such as artificial intelligence and satellite imagery 
+analysis.
+Enhance detection and monitoring of particularly 
+harmful substances with significant negative 
+implications for public health, such as synthetic 
+opioids and new psychoactive substances.
+Further strengthen threat assessments across 
+the drugs supply chain, including a focus on how 
+developments outside Europe may impact on the 
+EU drug market.
+Improve monitoring and analysis of drug 
+market-related violence, using comparable 
+indicators and tools, with the aim of developing a 
+deeper understanding of its causes. In conjunction, 
+prioritise the mapping of criminal networks that 
+pose the highest threat.
+Enhance monitoring and analysis of the use 
+of online platforms to trade and distribute 
+drugs. Particular attention should be paid to 
+developments on the surface web and social 
+media platforms, especially in relation to their use 
+by young people.
+Develop new frameworks to analyse the potential 
+impact of legislative changes on illicit drug markets. 
+This will require improved understanding of the size 
+of the drug market and its possible impacts 
+on governance. 
+
+Actions to address current threats and increase preparedness
+33
+Strengthen 
+responses 
+to reduce supply 
+and enhance 
+security
+Strengthen operational responses against 
+criminal networks, particularly against high-risk 
+criminal networks and high-value targets. The latter 
+include the brokers and facilitators that enable illicit 
+activities, such as money-laundering networks.
+Further prioritise operational activities that 
+dismantle entire criminal networks and their 
+associates.
+Make full use of relevant European tools for 
+operational coordination and international 
+cooperation, in particular operational task 
+forces and joint investigation teams.
+Enhance responses to the trafficking and diversion 
+of precursors and essential chemicals used in drug 
+production. Enhanced strategies are required 
+to prevent criminal networks from exploiting 
+weaknesses of current control measures and 
+to reduce the supply of precursors.
+Strengthen administrative barriers to prevent 
+criminals from exploiting legal loopholes and the 
+licit economy. This should include enhanced and 
+targeted measures to tackle corruption to prevent 
+criminals from undermining the rule of law.
+Enhance interdiction capacity at seaports, post 
+and parcel hubs in Europe. This should include 
+the implementation of advanced monitoring 
+technologies and tools.
+Strengthen and further prioritise crime prevention 
+policies focused on young people at risk of 
+exploitation and recruitment by criminal networks. 
+Prevention and awareness programmes targeted at 
+online risk behaviours among young people should 
+also be enhanced.
+
+EU Drug Markets Analysis: Key insights for policy and practice
+34
+Strengthen 
+international 
+cooperation
+Strengthen engagement and cooperation with 
+international organisations and third countries 
+to tackle criminal networks across the entire supply 
+chain for illicit drugs. Particular attention should be 
+paid to improving cooperation at key hubs for drug 
+flows destined for the European Union.
+Promote the exchange of data and intelligence 
+on drug trafficking networks, routes and trends 
+to enhance situational awareness and coordinated 
+responses between the European Union and third 
+countries.
+Further support the implementation of 
+relevant European regulations and international 
+agreements to harmonise legal frameworks to 
+disrupt the drugs trade. Particular attention should 
+be paid to improving frameworks for extraditing 
+and prosecuting criminals operating in external 
+countries.
+Strengthen public-private partnerships to prevent 
+the exploitation of licit business structures and 
+international trade routes. This includes prioritising 
+improved resilience against criminal activity in key 
+logistics hubs.
+
+Actions to address current threats and increase preparedness
+35
+Invest in 
+capacity-building
+Increase the human and financial resources 
+devoted to operational and strategic responses. 
+Particular attention should be paid to capacitybuilding in key entry points for drugs flows to 
+Europe, and to ensuring coherence and alignment 
+with established best practice.
+Strengthen investment in the development and 
+implementation of innovative detection, monitoring 
+and analysis technologies.
+Further invest in the training of key workers and 
+officials, both within Europe and in key external 
+countries, to raise awareness and further 
+disseminate best practices to prevent criminal 
+activities.
+Enhance assistance and capacity-building support 
+to third countries on key drug trafficking routes 
+to Europe, focusing on law enforcement, border 
+control and drug treatment and harm reduction 
+programmes.
+
+Strengthen policy, 
+public health and 
+safety responses
+Further enhance evidence-based policymaking to 
+mitigate the negative health and security impacts 
+of illicit drug markets. Specifically, future-oriented 
+policy approaches and responses are needed, 
+based on detailed threat assessments, to anticipate 
+and proactively mitigate emerging threats.
+Improve targeted crime prevention efforts, focusing 
+on vulnerable communities.
+Enhance investments in targeted and 
+evidence-based prevention, treatment and harm 
+reduction interventions to mitigate the harmful 
+consequences of drug use.
+Improve policy awareness and responses to the 
+environmental risks and damage associated with 
+drug production, trafficking and use.
+
+EU Drug Markets Analysis: Key insights for policy and practice
+36
+Towards a coherent 
+approach
+The EU legislative framework is key to providing a 
+coherent approach for law enforcement and judicial 
+authorities in tackling organised crime. This legislative 
+framework provides Member States with efficient tools, 
+such as the European Multidisciplinary Platform Against 
+Criminal Threats (EMPACT), to disrupt criminal actors 
+across the supply chain for illicit drugs. Going forward, 
+there is a need to strengthen other integrated 
+approaches that address the root causes of illicit drug 
+markets. To this end, policies and responses should aim 
+to tackle the social, economic and psychological drivers 
+of illicit drug markets. Continued implementation of all 
+relevant measures under the EU legislative framework, 
+along with the development of new policies and 
+responses to tackle emerging threats, is of great 
+importance to ensure coherence in the fight 
+against organised crime.
+
+Detailed recommendations are available 
+in the individual modules:
+https://www.emcdda.europa.eu/publications/eu-drug-markets_en
+About the EMCDDA
+The European Monitoring Centre for Drugs and Drug Addiction (EMCDDA) is the leading authority on illicit drugs 
+in Europe. The Lisbon-based agency provides independent scientific evidence and analysis on all aspects of 
+this constantly changing threat to individual lives and wider society. The EMCDDA supports EU and national 
+policymaking by providing evidence-based information on drugs, drug addiction and their consequences.
+The EMCDDA has been granted stronger powers to tackle current and future drug problems. On 2 July 2024, 
+it will become the European Union Drugs Agency (EUDA). With its new fit-for-purpose mission, the EUDA will 
+provide better support to European and Member States’ policymakers and professionals in the drugs field in 
+addressing the causes and consequences of drug use.
+www.emcdda.europa.eu
+About Europol
+Headquartered in The Hague, the Netherlands, Europol’s mission is to support its Member States in preventing 
+and combating all forms of serious international and organised crime, cybercrime and terrorism. Europol also 
+works with many non-EU partner states and international organisations. Europol is the EU’s hub for the exchange 
+of criminal intelligence in Europe.
+Europol’s focus is to make Europe safer. Large-scale criminal and terrorist networks pose a significant threat 
+to the internal security of the EU and to the safety and livelihood of its people. The biggest security threats 
+come from terrorism, international drug trafficking and money laundering, organised fraud, the counterfeiting 
+of euros and trafficking in human beings.
+With over 1 800 highly-skilled staff from all 27 EU Member States and beyond, Europol is at the cutting edge 
+of international crime-fighting.
+www.europol.europa.eu
+Your 
+feedback 
+matters. 
+By clicking on the following link or scanning the embedded QR code 
+you can fill in a short user survey on the received strategic report.
+https://ec.europa.eu/eusurvey/runner/eus_strategic_reports
+
+Getting in touch with the EU
+In person
+All over the European Union there are hundreds of Europe Direct centres. You can find the 
+address of the centre nearest you online (european-union.europa.eu/contact-eu/meet-us_en).
+On the phone or in writing
+Europe Direct is a service that answers your questions about the European Union. 
+You can contact this service: 
+• by freephone: 00 800 6 7 8 9 10 11 (certain operators may charge for these calls), 
+• at the following standard number: +32 22999696, 
+• via the following form: european-union.europa.eu/contact-eu/write-us_en.
+Finding information about the EU
+Online
+Information about the European Union in all the official languages of the EU is available on 
+the Europa website (european-union.europa.eu).
+EU publications
+You can view or order EU publications at op.europa.eu/en/publications. Multiple copies of free 
+publications can be obtained by contacting Europe Direct or your local documentation centre 
+(european-union.europa.eu/contact-eu/meet-us_en).
+EU law and related documents
+For access to legal information from the EU, including all EU law since 1951 in all the official 
+language versions, go to EUR-Lex (eur-lex.europa.eu).
+EU open data
+The portal data.europa.eu provides access to open datasets from the EU institutions, bodies 
+and agencies. These can be downloaded and reused for free, for both commercial and 
+non-commercial purposes. The portal also provides access to a wealth of datasets from 
+European countries.
+
+About this resource
+This resource has been developed by the EMCDDA 
+and Europol and co-produced with the EMCDDA 
+Reference Group on Drug Supply Indicators. It draws 
+on the detailed findings presented in EU Drug Markets: 
+In-depth analysis, the fourth comprehensive overview 
+of illicit drug markets in the European Union. It offers 
+a strategic and top-level summary for policymakers 
+and decision-makers, to support the development and 
+implementation of policies and actions in Europe, based 
+on a robust understanding of the current drug landscape 
+and emerging threats. It also serves practitioners 
+working in the field and is intended to raise awareness 
+among the general public about these issues.

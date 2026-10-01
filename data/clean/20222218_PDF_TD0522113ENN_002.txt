@@ -1,0 +1,3134 @@
+An update from the EU Early Warning System
+June 2022
+New psychoactive 
+substances: 25 years 
+of early warning and 
+response in Europe
+
+Praça Europa 1, Cais do Sodré, 1249-289 Lisbon, Portugal
+Tel. +351 211210200
+info@emcdda.europa.eu I www.emcdda.europa.eu
+twitter.com/emcdda I facebook.com/emcdda
+I Legal notice
+This publication of the European Monitoring Centre for Drugs and Drug Addiction (EMCDDA) is protected by 
+copyright. The EMCDDA accepts no responsibility or liability for any consequences arising from the use of the data 
+contained in this document. The contents of this publication do not necessarily reflect the official opinions of the 
+EMCDDA’s partners, any EU Member State or any agency or institution of the European Union. 
+Luxembourg: Publications Office of the European Union, 2022 
+© European Monitoring Centre for Drugs and Drug Addiction, 2022 
+Reproduction is authorised provided the source is acknowledged.
+For any use or reproduction of photos that are not under EMCDDA copyright, permission must be sought directly 
+from the copyright holders.
+Photo credits for the front cover images: Central Bureau of Investigation, Polish Police (1); Forensic Science and 
+Toxicology Laboratory, State General Laboratory, Cyprus (2); Swedish Customs (3); Norwegian Customs Laboratory (4).
+Print
+ISBN 978-92-9497-737-3
+doi:10.2810/882318
+TD-05-22-113-EN-C
+PDF
+ISBN 978-92-9497-725-0
+doi:10.2810/396103
+TD-05-22-113-EN-N
+Recommended citation: European Monitoring Centre for Drugs and Drug Addiction (2022), New psychoactive 
+substances: 25 years of early warning and response in Europe. An update from the EU Early Warning System 
+(June 2022), Publications Office of the European Union, Luxembourg.
+
+ I Contents
+Authors: Michael Evans-Brown, Ana Gallegos, Rachel Christie, Rita Jorge, 
+Joanna De Morais, Gregorio Planchuelo and Roumen Sedefov
+ 2 I Introduction
+ 3 
+I
+ PART 1
+The EU Early Warning System:
+25 years of monitoring the appearance of NPS in Europe
+ 3 I The first 10 years, 1997-2007
+ 6 I Legal highs and research chemicals, 2008-2015
+ 7 I Greater complexity and integration with the illicit market, 2016-2022
+ 8 
+I
+ PART 2
+Update on the work of the EU EWS in 2020-2021 
+ 8 I Number of NPS on the market
+ 8 I Overview of law enforcement seizures
+ 8 I Risk communications
+10 I Synthetic cathinones
+14 I Synthetic cannabinoids
+22 I Opioids
+25 I Benzodiazepines
+29 
+I
+ PART 3
+Lessons learned from 25 years of monitoring NPS in Europe
+29 I Global markets create glocal threats
+30 I Build, maintain and strengthen early warning systems
+30 I Conclusion
+31 I References
+35 I Acknowledgements
+36 I Annex 1
+38 I Annex 2
+
+2
+ I Introduction
+New psychoactive substances (NPS) are a broad range of 
+drugs that are not controlled by the United Nations Drug 
+Control Conventions. They include stimulants, synthetic 
+cannabinoids, opioids, benzodiazepines (and other 
+sedative-hypnotics), hallucinogens and dissociatives. 
+Many of these substances are intended to mimic the 
+effects of internationally controlled drugs and are sold as 
+‘legal’ replacements for them. 
+A three-step legal framework of early warning, risk 
+assessment and control measures allows the EU to rapidly 
+detect, assess and respond to threats caused by NPS. The 
+EMCDDA is responsible for the first two steps of this 
+system, namely operating the EU Early Warning System 
+(EU EWS) on NPS in close cooperation with Europol and 
+conducting risk assessments. The European Commission 
+is responsible for proposing control measures.
+Operational since 1997, the EU EWS was the first regional 
+early warning system to be established to monitor NPS. As 
+these substances have spread around the world, the 
+European system has been recognised as a model for 
+national, regional and international early warning systems. 
+Learn more about this work
+Early Warning System on NPS:
+https://www.emcdda.europa.eu/publications/
+topic-overviews/eu-early-warning-system_en
+Reflecting this work and its world-leading expertise, the 
+EMCDDA plays a key role in supporting organisations 
+across the globe to build and strengthen their early 
+warning and risk assessment capabilities in response to 
+the public health threats posed by NPS. This includes 
+supporting and contributing to the work of the World 
+Health Organization (WHO) and the United Nations Office 
+on Drugs and Crime (UNODC).
+The purpose of this report is to overview the NPS situation 
+in Europe today and to highlight emerging threats to 
+support early warning, preparedness planning and 
+response measures. In addition, 16 June 2022 marks 25 
+years since legislation was adopted in the EU allowing it to 
+rapidly react to threats caused by NPS (Council of the 
+European Union, 1997). Since then, the market has 
+undergone periods of significant growth and change. The 
+anniversary provides an opportunity to reflect on these 
+changes and the lessons learned. This will help inform the 
+direction of work and policy so that the EU remains 
+prepared and at the forefront of the response to NPS, 
+helping protect public health.
+The report is divided into three parts. The first looks back at 
+the major developments, challenges, accomplishments 
+and lessons learned from the NPS phenomenon over the 
+last 25 years. The second provides an update on the NPS 
+situation up to the end of December 2021, including a 
+more in-depth look at synthetic cathinones, synthetic 
+cannabinoids, opioids and benzodiazepines. The third part 
+looks forward and builds on the lessons from the last 25 
+years and reflects on the benefits that could accrue from 
+working together at the international level to respond to the 
+future challenges posed by NPS. 
+
+3
+ I
+PART 1
+The EU Early Warning System:
+25 years of monitoring the appearance 
+of NPS in Europe
+Europe has been at the forefront of the response to NPS 
+since before they were widely recognised as a global policy 
+issue and public health threat (CND, 2005, 2010, 2012).
+The NPS market has been fuelled by globalisation, the 
+internet and attempts to circumvent new control 
+measures, and by exploiting differences in drug laws and 
+regulatory approaches (EMCDDA, 1998, 2015a, 2015b, 
+2018, 2020a) (Figure 1 and box ‘Early warning and risk 
+assessment activities from 1997 to 2021’).
+During the last 25 years, the health risks associated with 
+the use of NPS have also grown. During this period, we 
+have seen the introduction of more novel and sometimes 
+highly potent substances from a wider set of chemical 
+classes. As regulatory measures have increased, we have 
+also seen greater interaction between the established 
+illicit drug market and the market for NPS, including growth 
+in illicit production of some substances within the EU. We 
+have also seen the adulteration and mis-selling of both 
+established controlled drugs and NPS products. This can 
+mean that consumers may be unknowingly exposed to 
+highly potent and toxic substances. 
+In response to these developments, EU legislation has 
+been strengthened twice over the last 25 years with the 
+intention of providing a stronger and faster response to 
+this complex public health issue. The EU response has also 
+provided added value to national and international actions. 
+The system is based on the foundation that ‘good 
+decisions begin with good data’. Critical information on 
+NPS from across Europe is shared in a timely manner 
+through the EWS. This is intended as ‘information for 
+action’ to raise awareness and support preparedness and 
+response activities. A focus on cross-border threats has 
+helped reduce the impact of NPS on public health across 
+Europe and beyond. The development of standards and 
+best practice in the early warning and risk assessment 
+fields, such as operating guidelines, standardised data 
+collection tools and a pan-European information system, 
+has also provided a stronger basis for evidence-based 
+decision-making.
+The work of the EU in this area has also promoted networking 
+and supported research programmes. It has developed 
+expertise within Europe, and informed the training of the next 
+generation of scientists, public health practitioners, law 
+enforcement and early warning specialists. 
+Early warning and risk assessment 
+activities from 1997 to 2021
+n 884 NPS were formally notified for the first time; 
+52 were formally notified in 2021;
+n 283 500 seizures of NPS have been reported in 
+the EU since 2005; 21 200 seizures were reported 
+in the EU in 2020; 
+n 31.6 tonnes of NPS have been seized in the EU 
+since 2005; 5.1 tonnes were reported in the EU in 
+2020;
+n 168 public health risk communications were 
+issued by the EMCDDA to the EWS Network; 
+7 were issued in 2021;
+n 37 substances were risk assessed by the 
+EMCDDA; 2 were risk assessed in 2021:
+• 27 substances were brought under EU control; 
+2 were controlled in 2021;
+• 26 of these substances were subsequently 
+controlled internationally.
+ I The first 10 years, 1997-2007
+The EU EWS was established in 1997 after concerns that 
+the emergence of ecstasy (MDMA) had revealed a lack of 
+capacity in Europe to identify and respond to the 
+appearance of uncontrolled substances that could be used 
+for their psychoactive properties and cause harm. 
+However, the period between 1997 and 2007 was 
+characterised by the appearance of only a relatively small 
+number of NPS. Overall, this was a small group of esoteric 
+synthetic substances, often known at the time as ‘new 
+synthetic drugs’ but also some plant-based substances, 
+so-called ‘herbal highs’, such as Salvia divinorum and 
+magic mushrooms. The new synthetic drugs appearing at 
+this time were typically stimulants and hallucinogens/
+psychedelics often made in small illicit laboratories in 
+Europe. Some were mis-sold as amphetamine or ecstasy. 
+PMMA, for example, was often sold as ecstasy (MDMA) 
+and was linked with a number of deaths. The internet also 
+began to emerge as a platform for selling NPS during this 
+period. BZP, often sold as ‘party pills’, was perhaps the first 
+synthetic substance more widely known from being sold 
+online (EMCDDA, 2009a). Signals also began to be 
+detected during this period suggesting that companies in 
+China were playing a role in the supply of bulk quantities of 
+NPS, marking a transition away from production in 
+small-scale illicit laboratories in Europe. However, it was 
+with the emergence and detection of Spice — a herbal 
+
+4
+FIGURE 1
+Timeline of major developments and responses 
+to new psychoactive substances in the European Union 
+(1997-2022)
+ON NEW PSYCHOACTIVE 
+SUBSTANCES
+1997–2022
+EU EARLY 
+ WARNING 
+SYSTEM
+25
+YEARS
+2002
+PMMA controlled
+2003
+TMA-2, 2C-I, 2C-T-2, 
+2C-T-7 risk assessed 
+and controlled
+2004
+10 new Member States join the EWS 
+following EU enlargement: Cyprus, 
+Czechia, Estonia, Hungary, Latvia, 
+Lithuania, Malta, Poland, Slovakia 
+and Slovenia
+2005
+New legislation strengthens the EU 
+response to NPS: Council Decision 
+2005/387/JHA on the information 
+exchange, risk assessment and control 
+of new psychoactive substances | 
+13 NPS notified to the EWS | 
+900 seizures of NPS reported, 
+amounting to 2 kg
+1997
+First EU legislation 
+on new psychoactive 
+substances (NPS): 
+Joint action 97/396/JHA 
+concerning the information 
+exchange, risk assessment 
+and control of new synthetic 
+drugs | EU Early Warning 
+System (EWS) on NPS 
+established
+1999
+First operating guidelines for 
+the risk assessment of NPS 
+published | 4-MTA is the first 
+NPS controlled following risk 
+assessment
+2001
+First annual meeting 
+of the EWS network in 
+Lisbon | Norway joins 
+the EWS | PMMA risk 
+assessed | Cooperation 
+agreement with 
+Europol
+1998
+MBDB is the first 
+NPS risk assessed
+2007
+First operating guidelines for 
+the EWS published | BZP is the 
+first piperazine risk assessed | 
+EU enlargement: Bulgaria and 
+Romania join EWS | Emergence of 
+Spice and mephedrone in Europe | 
+14 NPS notified
+2009
+Expert meeting on Spice | 
+EWS alert on Spice | 
+21 NPS notified
+2010
+New guidelines for the risk 
+assessment of NPS | Working 
+arrangement with European 
+Medicines Agency (EMA) | 
+Mephedrone is the first cathinone 
+risk assessed and controlled | 
+170 internet shops selling NPS 
+identified | 41 NPS notified | 
+6 500 seizures, amounting 
+to 1.1 tonnes
+2006
+First EMCDDA–Europol annual report on 
+NPS | First internet monitoring study on 
+hallucinogenic mushrooms | European 
+Database on New Drugs (EDND) launched 
+2008
+Mephedrone and 
+JWH-018 notified | 
+BZP controlled | 
+First e-POD study 
+on GHB and GBL | 
+13 NPS notified
+2000
+Ketamine and GHB risk 
+assessed following their 
+emergence in Europe
+
+5
+2011
+First international forum on 
+NPS in Lisbon | First meeting 
+on wastewater analysis of NPS | 
+Alert on 4-methylamphetamine 
+deaths | 314 internet shops 
+identified | 48 NPS notified
+2017
+MDMB-CHMICA is the first synthetic 
+cannabinoid controlled | Alert: increase 
+in carfentanil seizures and deaths | 
+Acryloylfentanyl, furanylfentanyl, 
+AB-CHMINACA, ADB-CHMINACA, 
+5F-MDMB-PINACA, CUMYL-4CN-BINACA, 
+4F-iBF, THF-F and carfentanil risk-assessed | 
+51 NPS notified
+2018
+New legislation strengthens the EWS 
+and brings faster response to NPS: 
+Regulation (EU) 2017/2101 and 
+Directive (EU) 2017/2103 enter into 
+force | Working arrangements with EU 
+agencies: ECDC, EMA, Europol | 
+Methoxyacetylfentanyl and 
+cyclopropylfentanyl risk assessed | 
+Alerts: fentanils in fake medicines; 
+risk of occupational exposure to 
+fentanils; CBD e-liquids adulterated 
+with synthetic cannabinoids | 
+55 NPS notified | 33 600 seizures, 
+amounting to 4.1 tonnes
+2014
+Cooperation on NPS strengthened with 
+World Health Organization and United 
+Nations Office on Drugs and Crime | 
+Turkey joins EWS | AH-7921 is the first 
+opioid risk assessed and controlled | 
+MDPV, 25I-NBOMe, methoxetamine, 
+MT-45, 4,4′-DMAR risk assessed | 
+Alert: MDMB-CHMICA poisonings | 
+101 NPS notified
+2012
+First international conference 
+on NPS in Budapest | 
+4-Methylamphetamine 
+risk assessed | Alert on 
+5-IT deaths | National 
+EWS profiles published | 
+693 internet shops Identified | 
+74 NPS notified
+2013
+5-IT risk assessed | 
+EU enlargement: 
+Croatia joins EWS | 
+Alerts: AH-7921 deaths; 
+25I-NBOMe poisonings | 
+Online interactive resource 
+on synthetic cannabinoids | 
+81 NPS notified | 25 200 
+seizures, amounting 
+to 1.9 tonnes
+2016
+MDMB-CHMICA is the 
+first synthetic cannabinoid 
+risk assessed | Alerts: 
+ocfentanil sold as heroin; 
+acryloylfentanyl deaths | 
+MDA 19 (BZO-HEXOXIZID) 
+notified | 66 NPS notified 
+| 46 000 seizures, 
+amounting to 3.2 tonnes
+2019
+New EWS operating guidelines | 
+New EDND launched | 
+Alerts: flualprazolam, etizolam | 
+Isotonitazene is the first 
+benzimidazole opioid notified | 
+Working arrangements with EU 
+agencies: ECHA, EFSA | 
+53 NPS notified
+2020
+New risk assessment operating 
+guidelines | Isotonitazene is the first 
+benzimidazole opioid risk assessed and 
+controlled | MDMB-4en-PINACA and 
+4F-MDMB-BICA risk assessed | 
+Alerts: impact of COVID-19 
+pandemic on drug markets; low-THC 
+cannabis adulterated with synthetic 
+cannabinoids | 46 NPS notified | 
+21 200 seizures, amounting 
+to 5.1 tonnes
+2021
+3-MMC and 3-CMC 
+risk assessed | Alerts: 
+benzimidazole opioids in fake 
+medicines; risks posed by 
+cannabis edibles | Outbreak of 
+bleeding linked to brodifacoum 
+in Israel | 52 NPS notified | 
+EMCDDA monitoring 884 NPS
+2022
+EMCDDA celebrates 
+25 years of early warning and 
+response to NPS in Europe | 
+EU control measures on 
+3-MMC and 3-CMC adopted
+2015
+Toxicovigilance, signal 
+management, open source 
+information monitoring and 
+risk communication systems 
+established | Acetylfentanyl 
+is the first fentanil causing EU 
+concern | α-PVP risk assessed | 
+Alert: ‘Mocarz’ mass poisoning 
+by synthetic cannabinoids | 
+BZP, mephedrone, 25I-NBOMe, 
+AH-7921, MDPV controlled 
+internationally | 98 NPS notified | 
+34 200 seizures, amounting to 
+4.6 tonnes 
+
+6
+mixture containing synthetic cannabinoids — and 
+mephedrone that led to growing public and professional 
+interest in what was known at the time as the ‘legal highs’ 
+and ‘research chemical’ phenomenon. At this stage, 
+however, few people were aware of the significance that 
+these substances would play in the future (Griffiths et al., 
+2010; Hillebrand et al., 2010). 
+This period also saw the EWS beginning to develop its 
+approach to detecting new substances appearing in 
+Europe. The system was established as a multidisciplinary 
+network composed of the EMCDDA, Europol, 15 national 
+early warning systems, and the European Medicines 
+Agency. The EWS used common reporting tools and 
+benefitted from shared EU and national investment. 
+Around this period, the term ‘new psychoactive 
+substances’ started to replace ‘new synthetic drugs’, and 
+this term was used in new EU legislation introduced during 
+2005 (Council of the European Union, 2005) to broaden 
+the scope of substances that could be monitored and to 
+strengthen the system overall. In 2006, the European 
+Database on New Drugs (EDND) was established. The 
+EDND was the first multidisciplinary information system on 
+NPS in the world. It provided experts from across Europe 
+with detailed information on NPS, including law 
+enforcement seizures, collected samples, poisoning cases, 
+chemistry and identification methods, pharmacology, 
+toxicology, epidemiology, harms, and response measures. 
+Of the 60 or so substances notified between 1997 and 
+2007, risk assessments were carried out on 10 of them, 
+most of which were stimulants: MDMB, 4-MTA, GHB, 
+ketamine, PMMA, TMA-2, 2C-T-2, 2C-T-7, 2C-I and BZP. Of 
+these, 4-MTA, PMMA, TMA-2, 2C-T-2, 2C-T-7, 2C-I and BZP 
+were brought under control throughout the EU. 
+Subsequently, 4-MTA, GHB, PMMA and BZP were 
+controlled under the UN system.
+ I Legal highs and research chemicals, 2008-2015
+This period was characterised by a rapid increase in the 
+number, type and availability of NPS in Europe. Most were 
+produced by chemical and pharmaceutical companies in 
+China and imported into Europe. They were attractively 
+packaged and sold openly on the high street and the 
+internet in hundreds of branded products marketed as 
+‘legal highs’ and ‘research chemicals’ in attempts to 
+circumvent legal controls. 
+This period was also marked by the development and use 
+of a range of novel methodologies by the EMCDDA to 
+strengthen the monitoring of NPS, specifically to detect, 
+track and understand emerging trends. They included: 
+n the E-POD studies that triangulated information from a 
+wide range of formal and informal sources (EMCDDA, 
+2006, 2008);
+n monitoring of online sales of NPS (EMCDDA, 2011a);
+n analysis of wastewater and injecting equipment to 
+detect and track NPS use.
+Monitoring by the EMCDDA identified a rapid increase in 
+online shops selling NPS (EMCDDA, 2011a; EMCDDA, 
+2012a), from 170 in January 2010 to 314 in January 2011 and 
+693 in January 2012 — a 300 % increase in just two years. 
+Much of the growth in the market was driven by sales of 
+Spice, sold as a ‘legal’ replacement to cannabis (EMCDDA, 
+2009b), as well as mephedrone and other synthetic 
+cathinones, sold as a ‘legal’ replacement to MDMA, 
+amphetamine and cocaine (EMCDDA, 2011b; EMCDDA 
+and Europol, 2010). Both 2014 and 2015 saw the 
+appearance of 100 new substances in Europe. Most were 
+synthetic cannabinoids and cathinones, but a broad range 
+of other substances were also reported, including 
+ketamine-like substances, and over time benzodiazepines 
+and opioids. Seizures by law enforcement also grew 
+rapidly, as did poisonings reported by the network. During 
+2015, over 34 000 seizures of NPS amounting to 4.6 
+tonnes were reported in the EU.
+In response, the EMCDDA developed new methods to 
+strengthen the ability of the EWS to detect, assess, 
+prioritise and respond to threats in a timelier manner. They 
+included:
+n a toxicovigilance system that harmonised the way that 
+information on serious adverse events, particularly 
+acute poisonings and deaths, was reported and 
+analysed;
+n a methodology for monitoring open source information 
+that used the internet to detect serious and urgent 
+threats, such as outbreaks, and other key information;
+n a signal management approach that provided a more 
+robust method for identifying and assessing emerging 
+threats based on their type, seriousness and urgency in 
+order to prioritise them and identify response options;
+n a risk communication system that strengthened the 
+way alerts were shared within the EWS Network. 
+The period also saw increased national and EU investment 
+in this area, including creating new national and EU-funded 
+projects, such as test-purchase programmes targeting 
+NPS of concern; strengthening forensic and toxicology 
+capacity; and helping to increase awareness of the public 
+health threats of NPS. In 2013, the UNODC also set up the 
+
+7
+Early Warning Advisory to provide early warning 
+information at the global level.
+Increasingly, countries responded to these developments 
+by restricting the availability of NPS, including their open 
+sale (EMCDDA, 2015b). National early warning systems 
+were also strengthened (EMCDDA, 2012b). 
+Almost 480 substances were notified during this period. 
+Risk assessments were carried out on 10 of them: 
+mephedrone, 4-MA, 5-IT, AH-7921, methoxetamine, 
+25I-NBOMe, MDPV, MT-45, 4,4′-DMAR and α-PVP. All of 
+them were brought under control throughout the EU. This 
+work also informed international assessments by the 
+WHO, leading to many of these substances being 
+controlled at the international level. Most of the 
+substances that were assessed were stimulants; 
+however, two were opioids (AH-7921 and MT-45), a class 
+of drug that would become increasingly important in the 
+future.
+ I
+Greater complexity and integration with the illicit 
+market, 2016-2022
+This period was characterised by a shift away from ‘legal 
+highs’ and ‘research chemicals’, and a drop in the number 
+of substances appearing each year to around 50. We also 
+began to see growing complexity as more highly potent 
+substances emerged that were often linked to more 
+problematic patterns of use or targeting more marginalised 
+or chronic and long-term drug-using populations. They 
+included new opioids, with large numbers of fentanyl 
+derivatives appearing. These were often linked to 
+outbreaks of poisonings or deaths but tended to disappear 
+quickly only to be replaced by other opioids, including 
+highly potent benzimidazole opioids. The number of new 
+benzodiazepines appearing also increased during this 
+period (EMCDDA, 2019). 
+Just over 320 substances were notified in this period, with 
+risk assessments carried out on 17 substances. These were 
+mostly synthetic cannabinoids and opioids (typically fentanyl 
+derivatives): MDMB-CHMICA, acryloylfentanyl, 
+furanylfentanyl, AB-CHMINACA, ADB-CHMINACA, 
+5F-MDMB-CHMINACA, CUMYL-4CN-BINACA, 4F-iBF, THF-F, 
+carfentanil, cyclopropylfentanyl, methoxyacetylfentanyl, 
+isotonitazene, MDMB-4en-PINACA, 4F-MDMB-BICA, 
+3-methylmethcathinone and 3-chloromethcathinone. Twelve 
+were brought under control throughout the EU, with five being 
+simultaneously assessed and controlled internationally.
+It was also a period of growing integration with the 
+established illicit drug market. This was partially reflected in 
+the increased use of new benzodiazepines to make falsified 
+(fake) versions of commonly prescribed benzodiazepine 
+medicines, such as Valium and Xanax. Greater 
+diversification of the supply chain also appears to have 
+taken place, making the market more resilient to control 
+measures — with India becoming a prominent source of 
+synthetic cathinones from around 2019-2020. There were 
+also more reports of illicit production of synthetic 
+cathinones in Europe. 
+Towards the end of 2018, new legislation came into force 
+intended to further strengthen the EU system and make it 
+respond faster (European Parliament and Council of the 
+European Union, 2017a, 2017b). New EU EWS and risk 
+assessment operating guidelines were published 
+(EMCDDA, 2019; 2021c), along with common reporting 
+tools. This also included the launch of a redesigned EDND 
+in 2019, providing the EU with a next-generation 
+information system capable of electronic data 
+management. Together, these updates provide a more 
+efficient response to NPS, allowing the EU to react to 
+substances posing EU-level threats in just over 10 weeks.
+
+8
+ I
+PART 2
+Update on the work of the EU EWS 
+in 2020-2021 
+ I Number of NPS on the market
+By 31 December 2021, the EMCDDA was monitoring 884 
+NPS that had appeared on Europe’s drug market since 
+monitoring began in 1997; this includes 52 substances 
+that were notified for the first time in 2021 (Figure 2 and 
+Annex 1). 
+The number of NPS notified in 2021 continues the trend 
+seen since 2016 of around 50 new substances appearing 
+for the first time each year; this is down from the high of 
+100 substances observed in both 2014 and 2015. This 
+drop likely reflects sustained efforts to control and 
+otherwise restrict the sale of NPS in Europe as well as 
+measures introduced to restrict the production and trade 
+in source countries, such as China.
+Since 2015, around 400 previously reported NPS are also 
+identified each year as still being present on the market in 
+Europe. This suggests that many substances remain in 
+circulation, albeit in varying amounts and with some in very 
+small quantities. 
+ I Overview of law enforcement seizures
+In 2020, just over 21 000 seizures amounting to more than 
+5 tonnes of NPS were reported to the EU EWS by the 
+Member States (Figure 2). In addition, approximately 230 
+litres of liquids and 840 000 tablets and capsules 
+containing NPS were reported. Over 41 000 seizures 
+amounting to 6.9 tonnes of NPS were reported in total by 
+EU Member States plus Norway and Turkey (EU+2). 
+The seizure data collected on NPS in this report should be 
+regarded as minimum estimates due to the lack of 
+standardised reporting in this area. The data are not 
+directly comparable with the data on established illicit 
+drugs.
+Synthetic cathinones dominated the seizures made in 
+2020. Mostly these were trafficked to Europe from India 
+and seized at the external EU border by customs agencies. 
+Overall, 65 % of the materials seized (3.3 tonnes) were 
+cathinone powders. In addition, almost 1.2 tonnes of the 
+materials seized (23 % of the total) were 
+arylcyclohexylamines, of which ketamine accounted for 
+almost all the quantity seized (1.1 tonnes (93 %). 
+ I Risk communications
+Risk communications are regularly produced by the EWS 
+and intended to provide timely evidence-based messages 
+that raise awareness and knowledge, and increase the 
+understanding of the public health and social threats 
+associated with NPS. This includes highlighting important 
+gaps in information as well as stimulating the reporting of 
+data that can facilitate further assessment and 
+understanding. Risk communications also provide material 
+to inform preparedness planning and response activities, 
+including information on possible response options.
+During 2021, the EMCDDA issued seven public health risk 
+communications to the EWS Network based on 
+EU-relevant threats (Annex 2). These included advisories 
+on the spread of low-THC cannabis adulterated with 
+synthetic cannabinoids in Europe, and the detection of 
+fake opioid analgesic medicines containing highly potent 
+opioids. An alert on the detection of tablets containing 
+DOC, a potent hallucinogen, that were mis-sold as 2C-B 
+was also issued. An alert was also issued describing an 
+outbreak of poisonings outside of Europe caused by a 
+highly toxic rat poison in synthetic cannabinoid smoking 
+mixtures. Some of these threats are discussed below.
+
+9
+FIGURE 2
+Infographic on new psychoactive substances
+0
+20
+40
+60
+80
+100
+120
+2005
+2006
+2007
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+Aminoindanes
+Arylalkylamines
+Arylcyclohexylamines
+Benzodiazepines
+Cannabinoids
+Cathinones
+Opioids
+Others
+Phenethylamines
+Piperazines
+Piperidines and pyrrolidines
+Plants and extracts
+0
+1 000
+2 000
+3 000
+4 000
+5 000
+6 000
+0
+5 000
+10 000
+15 000
+20 000
+25 000
+30 000
+35 000
+40 000
+45 000
+50 000
+2005
+2006
+2007
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+Quantity seized (kg)
+Number of seizures
+New psychoactive substances
+a) Number of NPS notified for the first time, 2005-2021 (EU+2)
+b) Trends in the number of seizures and quantities seized for all physical forms reported in weight, 2005-2020 (EU)
+30 %
+26 %
+18 %
+12 %
+5 %
+3 %
+1 
+Aminoindanes
+Arylalkylamines
+Arylcyclohexylamines
+Benzodiazepines
+Cannabinoids
+Cathinones
+Opioids
+Others
+Phenethylamines
+Piperazines
+Piperidines and pyrrolidines
+Indolalkylamines (Tryptamines)
+3 %
+1 1 
+0
+2k
+4k 6k
+5 %
+65 %
+6 %
+23%
+1%
+0 1k 2k 3k 4k
+c) Number of NPS seizures by country and substance, 2020 (EU) 
+Quantity of NPS seized by country and substance, 2020 (EU) 
+> 880 NPS currently monitored
+52 NPS reported for the first time in 2021 
+21 200 seizures amounting to more than
+ 5.1 tonnes of NPS in Europe in 2020
+Indolalkylamines (Tryptamines)
+Number of seizures
+Quantity seized (kg)
+kg
+
+10
+ I Synthetic cathinones
+Synthetic cathinones are sold as ‘legal’ alternatives to 
+controlled stimulants such as amphetamine, MDMA and 
+cocaine. In a small number of cases, such as mephedrone, 
+they have become sought-after substances in their own 
+right. By 31 December 2021, the EMCDDA was monitoring 
+162 synthetic cathinones, making them the second-largest 
+category of NPS monitored after synthetic cannabinoids. 
+Seizures of synthetic cathinones in Europe sharply 
+increased to 3.3 tonnes in 2020, after falling from a peak of 
+1.9 tonnes in 2016. This was driven by a small number of 
+large seizures of N-ethylhexedrone (NEH) (1180 kg; 36 %), 
+3-methylmethcathinone (3-MMC) (750 kg; 23 %) and 
+3-chloromethcathinone (3-CMC) (860 kg; 26 %) by 
+customs agencies (Figure 3). 
+Most bulk quantities of synthetic cathinones seized at the 
+external EU borders in 2020 originated in India, where they 
+are apparently produced on a large scale (Case study 1). 
+Before 2020, the origin of comparable consignments, where 
+known, was China. However, since 2015 onwards, China has 
+introduced legal controls for a range of substances, including 
+3-MMC and 3-CMC. Supply disruption due to the COVID-19 
+pandemic may have also contributed to increased 
+production and trafficking moving from China to India.
+In November 2021, the EMCDDA risk assessed 3-MMC 
+(EMCDDA, 2022a) and 3-CMC (EMCDDA, 2022b) — 
+substances that were first reported in Europe in 2012 and 
+2014, respectively, but re-emerged in around 2020 (Case 
+study 2). Based on the risk assessments, on 18 March 
+2022 the European Commission adopted a proposal to 
+control the substances across Europe (EMCDDA, 2022c). 
+Case study 1: Large-scale seizure of synthetic 
+cathinones originating from India — Leipzig 
+Airport, Germany, 2020
+On 26 May 2020, NPS were detected in cargo 
+shipments by customs officials at Leipzig Airport, 
+Germany. A total of 31 plastic drums that originated 
+from India were inspected and found to contain six 
+different types of NPS weighing 450 kilograms. 
+Almost all of the NPS (98 %) were synthetic 
+cathinones: 100 kilograms of 4-CMC, 105 kilograms 
+of 3-MMC, 60 kilograms of 3-CMC, 75 kilograms of 
+alpha-PHP, and 100 kilograms of NEH. The shipments 
+were destined for a company in the Netherlands. The 
+market value of the substances was estimated to be 
+more than EUR 8.3 million (BKA, 2021).
+Initial indications are that large-scale seizures of synthetic 
+cathinones originating from India continued during 2021, 
+dominated by 3-MMC and 3-CMC.
+In addition, there has been an increase in the number of 
+illicit laboratories producing synthetic cathinones seized in 
+Europe (Case study 3). 
+From 2015 to 2020, approximately 3.3 tonnes of cathinone 
+precursors were seized in Europe. Most were 
+α-bromoketone derivatives (also called bromo 
+propiophenones) (EMCDDA, 2022a) needed to make 
+mephedrone (1.7 tonnes; 52 % of all precursors seized) 
+and clephedrone (1.2 tonnes; 36 %). Roughly 40 % of the 
+precursor shipments originated from outside the EU, in 
+China but also India. The final destination of the cathinone 
+precursors included the Netherlands, Poland, Spain, and 
+the United Kingdom. Seizures of cathinone precursors 
+(1.9 tonnes; 57 %) typically occurred in illicit cathinone 
+laboratories, mainly in Hungary, the Netherlands and 
+Poland. 
+In addition, chemically masked derivatives of synthetic 
+cathinones have been produced, presumably to 
+circumvent legal controls and/or avoid detection by law 
+enforcement agencies. In this procedure, the cathinone is 
+chemically masked to produce a non-controlled substance 
+which is converted back into the parent drug through 
+relatively simple steps. For example, during 2019, Dutch 
+police seized 350 kilograms of chemically masked 3-MMC 
+at a site linked to a producer/distributor that had 
+apparently imported the substance from India. The 3-MMC 
+was masked as N-acetyl-3-MMC (1). It is thought that this 
+derivative was intended to be converted to 3-MMC, for 
+example by acid hydrolysis using hydrochloric acid. 
+Approximately 150 kilograms of 3-MMC was also seized at 
+the site. These masked drugs are not controlled and can 
+therefore be ordered and transported using the same 
+channels as used for NPS but then easily converted into 
+the parent drug when within Europe. More than 90 % of the 
+dismantled laboratories were in the Netherlands and 
+Poland. A significant amount of precursor material 
+destined for these countries was also intercepted. Possibly 
+to reduce the risk of detection, precursors and material for 
+the synthesis may sometimes be obtained via 
+neighbouring countries, including Germany, France and 
+Luxembourg. 
+(1) It is unknown whether N-acetyl-3-MMC is hydrolysed to 3-MMC in human 
+stomach acid. No information is available on the pharmacology or toxicology 
+of this masked derivative.
+
+11
+FIGURE 3 
+Infographic on synthetic cathinones 
+0
+5
+10
+15
+20
+25
+30
+35
+2005
+2006
+2007
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+0
+500
+1 000
+1 500
+2 000
+2 500
+3 000
+3 500
+0
+5 000
+10 000
+15 000
+20 000
+25 000
+2005
+2006
+2007
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+Quantity seized (kg)
+Number of seizures
+Quantity seized (kg)
+Number of seizures
+N-ethylhexedrone
+36 %
+3-CMC
+26 %
+3-MMC
+23 %
+4-CMC
+6 %
+Alpha-PHP
+5 %
+Other cathinones
+4 %
+0
+1k
+2k
+3k
+N-ethylhexedrone
+13 %
+3-CMC
+21 %
+3-MMC
+13 %
+4-CMC
+16 %
+Mephedrone
+7 %
+Other cathinones
+30 %
+0
+1k
+2k
+3k
+Synthetic cathinones
+a) 
+b)
+Related case studies:
+Large-scale seizure 
+of synthetic cathinones 
+originating from India 
+— Leipzig Airport, 
+Germany, 2020
+Re-emergence of 
+3-MMC and 3-CMC in 
+Europe: role of 
+producers in India
+Illicit production of 
+synthetic cathinones 
+in Europe
+162 cathinones currently monitored
+5 501 seizures amounting to more than 
+3.3 tonnes of cathinones in Europe in 2020
+c) Number of cathinone seizures by country and substance, 2020 (EU) 
+Quantity of cathinone powders seized by country and substance, 2020 (EU) 
+Trends in the number of seizures and quantity of powder seized, 2005-2020 (EU)
+Number of synthetic cathinones notified for the first time, 2005-2021 (EU+2)
+kg
+
+12
+FIGURE 4
+Seizures of 3-MMC: trends in number of seizures and quantities of powder seized, 2012-2021 (EU+2)
+0
+100
+200
+300
+400
+500
+600
+700
+800
+0
+500
+1 000
+1 500
+2 000
+2 500
+3 000
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+Quantity seized (kg)
+Number of seizures
+Quantity seized (kg)
+Number of seizures
+Note: Data for 2021 is partial.
+FIGURE 5
+Seizures of 3-CMC: trends in number of seizures and quantities of powder seized, 2014-2021 (EU+2)
+0
+200
+400
+600
+800
+1 000
+1 200
+1 400
+1 600
+1 800
+0
+500
+1 000
+1 500
+2 000
+2 500
+3 000
+3 500
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+Quantity seized (kg)
+Number of seizures
+Quantity seized (kg)
+Number of seizures
+Note: Data for 2021 is partial.
+Case study 2: Re-emergence of 3-MMC and 
+3-CMC in Europe — role of producers in India
+3-MMC and 3-CMC were first identified on the drug 
+market in Europe in June 2012 and September 2014, 
+respectively. Following their control in China in 2015, 
+the quantities of 3-MMC seized in Europe significantly 
+declined. While 3-CMC appeared to play a small role in 
+the European market at this time. During 2020, signals 
+suggested their re-emergence in Europe (Figure 4 and 
+Figure 5). This was based on seizures at the EU border 
+of large-scale quantities of the substances from India 
+and reports of increased availability and associated 
+harms in some European countries such as the 
+Netherlands. 
+3-MMC and 3-CMC are sold as legal replacements to the 
+closely related substances mephedrone 
+(4-methylmethcathinone, 4-MMC) and clephedrone 
+(4-chloromethcathinone, 4-CMC) that were controlled 
+internationally in 2015 and 2020, respectively. Most use 
+appears to be in recreational settings and involves 
+snorting or ingesting, but injecting has also been reported 
+in high-risk settings or contexts, such as ‘chemsex’ parties. 
+During 2020, 3-MMC accounted for 750 kilograms and 
+3-CMC for 880 kilograms of the total quantity of the 
+cathinones seized. In 2021, a combined amount of 
+1 500 kilograms of 3-MMC and 3-CMC originating in 
+India was reported to the EMCDDA. This change in the 
+source country for supplies of 3-MMC and 3-CMC is 
+thought to have facilitated its re-appearance in Europe 
+following control measures introduced in China.
+
+13
+Together, these data support the recent European Union 
+Serious and Organised Crime Threat Assessment that the 
+production of synthetic drugs in the EU is expanding and 
+becoming increasingly sophisticated and diverse (Europol, 
+2021). The illicit production of cathinones also poses a 
+Case study 3: Illicit production of synthetic 
+cathinones in Europe
+In addition to the supply of synthetic cathinones from 
+China and India, production appears to be growing 
+within the EU. 
+From 2015 to 2021, at least 52 sites involved in the 
+production of cathinones have been seized in 
+Europe, with half dismantled during 2020-2021 
+(Figure 6). Typically, the laboratories produced 
+mephedrone and clephedrone. The size of the 
+laboratories varied from ‘kitchen-type’ in homes, to 
+higher throughput facilities operated by multiple 
+‘cooks’ producing several dozens of kilograms of 
+synthetic cathinones per batch in special reactors 
+(Figure 7). Importantly, in at least five sites, the 
+production of cathinones occurred with the storage 
+and/or production of other controlled stimulants 
+such as MDMA, amphetamine and/or the controlled 
+precursors needed to produce these drugs (PMK, 
+BMK and APAAN). This suggests the involvement of 
+European-based criminal networks that are 
+established producers of other synthetic drugs but 
+who may now diversify product lines to meet a 
+market demand for cathinones. Given Europe’s 
+position as a key global producer of synthetic drugs 
+(EMCDDA and Europol, 2019), and that the 
+synthesis of cathinones is not entirely dissimilar to 
+the synthesis of MDMA or amphetamine (EMCDDA, 
+2022a), the infrastructure, specialist knowledge, 
+equipment and the precursor chemicals needed to 
+make more cathinones are likely to be available to 
+those already involved in synthetic drug production 
+in Europe. 
+FIGURE 6
+Number and type of dismantled sites associated with 
+cathinone production in Europe, 2015-2021
+0
+2
+4
+6
+8
+10
+12
+14
+16
+18
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+Co-production with illicit drugs
+Dumping site
+Mixing/cutting/packaging/storage
+Production cathinone
+Source: EMCDDA-Europol, European Reporting Instrument on 
+Sites related to Synthetic Production (ERISSP).
+FIGURE 7
+Reactors for the production of cathinones with cooling, 
+heating, mixing and temperature control. Seized by 
+Polish police in a mephedrone lab in 2021 
+Source: Central Bureau of Investigation, Polish Police.
+health risk to those operating and dismantling the 
+laboratories, including a risk of explosion (EMCDDA, 
+2022a). The dumping of hazardous chemical waste from 
+production sites may pose safety risks to the public and 
+result in environmental damage.
+
+14
+ I Synthetic cannabinoids
+Synthetic cannabinoids are sold as ‘legal’ replacements to 
+cannabis but may sometimes also be sought after in their 
+own right as strong intoxicants. They are increasingly 
+associated with use by marginalised groups, such as 
+homeless people, prisoners and other vulnerable 
+populations, because they cause profound intoxication, 
+may be easy to conceal, and are cheaper than other drugs. 
+They are also used by people subject to drug testing, such 
+as prisoners or those in drug treatment, as some routine 
+tests cannot detect synthetic cannabinoids that are new to 
+the drug market. In some parts of Europe, there has also 
+been an increase in reports of the vaping of synthetic 
+cannabinoids using electronic cigarettes; in some cases, 
+individuals are unaware they are using synthetic 
+cannabinoids as the products are mis-sold as containing 
+THC or cannabidiol (CBD).
+Synthetic cannabinoids may be available in a number of 
+different forms in Europe (EMCDDA, 2021a). Commonly, 
+synthetic cannabinoids are sprayed on herbal material or 
+tobacco and smoked. They are also sold as e-liquids for 
+vaping. Infusing paper (such as letters and photos) and 
+clothing (such as underwear) is a common way to smuggle 
+them into prison. The items are then smoked, vaped or boiled 
+to extract the substances. Synthetic cannabinoids may also 
+be sold in the form of powders or occasionally tablets. 
+FIGURE 8
+Infographic on synthetic cannabinoids
+Synthetic cannabinoids
+a) 
+b) Trends in the number of seizures and quantity of powders and herbal material seized, 2008-2020 (EU)
+Number of synthetic cannabinoids notified for the first time, 2008-2021 (EU+2)
+0
+5
+10
+15
+20
+25
+30
+35
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+0
+200
+400
+600
+800
+1 000
+1 200
+1 400
+1 600
+1 800
+2 000
+0
+2 000
+4 000
+6 000
+8 000
+10 000
+12 000
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+Quantity seized (kg)
+Number of seizures
+Powders seized (kg)
+Herbal material seized (kg)
+Number of seizures
+Related case studies:
+Generic control of 
+synthetic cannabinoids 
+in China in 2021 — 
+possible impact on 
+Europe
+Low-THC cannabis 
+adulterated with 
+synthetic cannabinoids 
+— Europe, 2019-ongoing
+Increase in edibles 
+containing delta-9-THC 
+and synthetic cannabinoids
+Delta-8-THC 
+224 synthetic cannabinoids currently monitored
+5 711 seizures amounting to 97 kg of synthetic cannabinoids in powder 
+and 100 kg in herbal material in Europe in 2020
+
+15
+Synthetic cannabinoids can pose a high risk of poisoning 
+both because of their high potency and because the 
+amount of cannabinoid can vary greatly in the product/
+item, leading to ‘hot pockets’ where the substance is highly 
+concentrated. Drinking these substances when extracted 
+from clothing poses similar risks, as users may have no 
+control or knowledge of the dose they are taking.
+By 31 December 2021, the EMCDDA was monitoring 224 
+synthetic cannabinoids that have appeared on the drug 
+market since 2008, including 15 that were notified in 2021. 
+This makes them the largest group of substances being 
+monitored (Figure 8). 
+Between 2016 and 2020, the number of new synthetic 
+cannabinoids appearing on the market was stable at 
+around 10 per year, down from an average of 27 per year 
+during the peak of the ‘legal highs’ phenomenon between 
+2011 and 2015. Interestingly, there was an increase in 
+2021 in the number notified, with 15 substances 
+reported. Similar increases have also been reported in 
+the US (Krotulski et al., 2021). These developments are 
+likely to reflect attempts to supply new cannabinoids that 
+circumvent generic legislation in China that came into 
+force in July 2021 to control a large number of the 
+existing synthetic cannabinoids on the market (Case 
+study 4). 
+c) Number of powder seizures by country and substance, 2020 (EU) 
+Quantity of powders seized by country and substance, 2020 (EU) 
+Number of seizures of herbal material by country and substance, 2020 (EU) 
+MDMB-4en-PINACA
+17 %
+4F-MDMB-BICA
+7 %
+5F-MDMB-PICA
+26 %
+5F-EMB-PICA
+2 %
+4F-MDMB-BINACA
+11 %
+Other
+37 %
+0
+100
+200
+MDMB-4en-PINACA
+68 %
+4F-MDMB-BICA
+9 %
+5F-MDMB-PICA
+5 %
+5F-EMB-PICA
+4 %
+4F-MDMB-BINACA
+3 %
+Other
+11%
+0
+20
+40 60
+46 %
+17 %
+16 %
+6 %
+4 %
+11 %
+Other
+MDMB-4en-PINACA
+5F-Cumyl-PeGaClone
+4F-MDMB-BINACA
+JWH-210
+5F-MDMB-PICA
+0
+20
+40 60
+Quantity of herbal material seized by country and substance, 2020 (EU) 
+24 %
+25 %
+JWH-210
+5 %
+16 %
+5F-CumylPeGaClone
+4 %
+Other
+26 %
+MDMB-4en-PINACA
+5F-MDMB-PICA
+4F-MDMB-BINACA
+0 500 1 000 1 500
+kg
+kg
+
+16
+Case study 4: Generic control of synthetic 
+cannabinoids in China in 2021 — possible impact 
+on Europe
+Historically, many European countries listed controlled 
+substances individually by name in their national drug 
+laws. However, as the number of NPS increased, more 
+countries sought to control entire groups of substances 
+by defining the groups based on commonly occurring 
+parts of their chemical structure (known as ‘generic’ 
+controls). Recently, China has used this approach to 
+control fentanyl derivatives in 2019 and synthetic 
+cannabinoids in 2021. 
+The chemical structure of many synthetic cannabinoids 
+can be categorised into four components: tail, core, 
+linker and linked group (Figure 9). Structural 
+modification is possible across these components, with 
+the core undergoing considerable modification recently. 
+The indole and indazole cores first emerged on the 
+market in Spice, followed by benzimidazole, carbazole, 
+azaindole, pyrazole and oxo-indole. 
+Prior to 2021, China controlled more than 50 synthetic 
+cannabinoids by listing them individually in drug 
+legislation (UNODC, 2014, 2015, 2018). In some cases, 
+this led to closely related substances appearing, such 
+as 4F-MDMB-BINACA that replaced 5F-MDMB-PINACA 
+when it was controlled in 2018 (Halter et al., 2020) 
+(Figure 10). 
+In July 2021, China used generic legislation to control a 
+broad range of synthetic cannabinoids, essentially 
+resulting in a class-wide ban which included many 
+traditional indole and indazole structural cores (Liu et 
+al., 2022). Soon after this, however, synthetic 
+cannabinoids containing an oxo-indole core (*) and 
+structurally related to MDA 19 appeared on the NPS 
+market. This group of synthetic cannabinoids, also 
+known as ‘OXIZIDs’, did not meet the conditions 
+included in the generic definition (Krotulski et al., 2021) 
+and therefore emerged as replacements to the indole 
+and indazole based synthetic cannabinoids.
+FIGURE 9
+The four components of synthetic cannabinoids and 
+types of cores: (a) JWH-018 is composed of a pentyl 
+tail, an indole core, a methanone linker and a naphthyl 
+linked group; (b) Emergence of different cores
+a)
+b)
+Benzimidazole
+ 
+Carbazole
+Azaindole
+Pyrazole 
+Oxo-indole 
+FIGURE 10
+Molecular structure of 4F-MDMB-BINACA and 
+5F-MDMB-PINACA
+ 
+4F-MDMB-BINACA 
+5F-MDBM-PINACA
+(*) These cannabinoids, like MDA 19, contain an isatin-like core, where 
+the oxo group of the 3-position of the ring is replaced by a nitrogen.
+
+17
+In 2020, just over 6 300 seizures of synthetic cannabinoids 
+were reported to the EU EWS, which represents around 
+27 % of the total number of seizures reported during that 
+year by the Member States. Most of these detections were 
+in the form of herbal material (5 100 cases, 97 kg) and 
+powders (600 cases, 100 kg) (Figure 8).
+During 2020, the quantity of powders and herbal material 
+containing synthetic cannabinoids seized in the EU 
+continued to remain much lower than the peaks of 2013 
+and 2015 (Figure 8). This probably reflects a decrease in 
+large-scale processing of synthetic cannabinoids into 
+herbal smoking mixtures, particularly the ‘legal high’ 
+products that typified a large part of the NPS market in 
+Europe between 2008 and 2015.
+Nonetheless, large quantities of bulk powders sufficient to 
+make many hundreds of thousands of user doses continue 
+to be seized at the external EU border each year. During 
+2020, almost 66 kilograms of MDMB-4en-PINACA powder 
+was seized, with almost 70 % (44 kg) seized in 13 seizures 
+made by Belgian customs (EMCDDA, 2020b).
+New threats have also emerged more recently, such as the 
+adulteration of low-THC cannabis (hemp) with synthetic 
+cannabinoids, probably as a result of the easy availability of 
+low-THC cannabis (Case study 5) (EMCDDA, 2020c). 
+Cannabis edibles also appear to have become more 
+commonly available in Europe and sometimes these have 
+been adulterated with synthetic cannabinoids (Case study 6). 
+A new cannabinoid, delta-8-THC, has also recently 
+emerged on the market (Case study 7).
+The threat of synthetic cannabinoid smoking mixtures 
+contaminated with brodifacoum, a highly toxic rat poison, 
+re-appeared recently with new outbreaks reported in Israel 
+in September and the US in December 2021. Poisoning with 
+brodifacoum causes life-threatening bleeding and requires 
+urgent medical treatment. So far, three outbreaks have been 
+reported since 2018, severely poisoning more than 500 and 
+killing at least 17 (Feinstein et al., 2022). Although no cases 
+have been reported in Europe, a possible threat cannot be 
+excluded because it is unknown where in the supply chain 
+this poison is added. Due to this, as a precautionary 
+measure the EMCDDA issued an alert to the EWS Network 
+in October 2021. 
+In the last six months of 2021, four cannabinoids closely 
+related to MDA 19 appeared in Europe: MDA 19 pentyl 
+analogue (BZO-POXIZID), MDA 19 4en pentyl analogue 
+(BZO-4en-POXIZID), MDA 19 5 fluoropentyl analogue 
+(5F-BZO-POXIZID) and CHM-MDA-19 (BZO-CHMOXIZID) 
+(Figure 11). These substances may be responsible for the 
+apparent increase in new synthetic cannabinoids 
+appearing in 2021. As the supply of synthetic cannabinoids 
+to Europe is largely from China, other substances not 
+covered by the generic controls are likely to emerge in 
+Europe in the coming months. Little is known about the 
+effects and risks of these new substances.
+FIGURE 11
+Molecular structure of MDA 19 and four closely related cannabinoids
+MDA 19
+MDA 19 pentyl 
+analogue 
+(BZO-POXIZID)
+MDA 19 4en pentyl 
+analogue 
+(BZO-4en-POXIZID)
+MDA 19 5 fluoropentyl 
+analogue 
+(5F-BZO-POXIZID)
+CHM-MDA-19 
+(BZO-CHMOXIZID)
+
+18
+Case study 5: Low-THC cannabis adulterated with 
+synthetic cannabinoids — Europe, 2019-ongoing
+In January 2019, the first case of low-THC cannabis 
+(hemp) adulterated with synthetic cannabinoids was 
+identified in Switzerland (Von Schläpfer et al., 2020). By 
+late 2019, more cases were being reported in the country 
+(Monti et al., 2022; Oomen et al., 2022; Von Schläpfer et 
+al., 2020). During 2020, the EMCDDA started to receive 
+reports of similarly adulterated cannabis in the EU. 
+Although the extent of the adulteration is unclear, 
+alongside Switzerland, tainted products have been 
+identified in at least 10 countries: Germany, France, 
+Croatia, Italy, Cyprus, Luxembourg, the Netherlands, 
+Austria, Slovenia and Sweden. In the United Kingdom, 
+vapes containing synthetic cannabinoids mis-sold as 
+THC and CBD have been reported (Oomen et al., 2022). 
+Since 2020, there have been reports in Europe from 
+clients of drug-checking services who submitted 
+samples after experiencing unusual effects from 
+cannabis. These data played a useful role in the early 
+detection and monitoring of this development (Monti et 
+al., 2022; Oomen et al., 2022). Customs and police also 
+seized products at borders and at street-level. Some are 
+relatively large seizures, in some cases up to 30 
+kilograms. Worryingly, in western Piedmont, Italy, 
+testing found that 5 % of herbal cannabis samples 
+(11/213 samples) seized between November 2020 and 
+February 2021 were adulterated with synthetic 
+cannabinoids (Gerace et al., 2022). 
+Initially, many samples contained MDMB-4en-PINACA, a 
+synthetic cannabinoid that was risk assessed by the 
+EMCDDA and is now under international control. During 
+2021, cannabis containing ADB-BUTINACA became more 
+common, which coincided with increased availability of 
+the substance in Europe. A range of other synthetic 
+cannabinoids have also been identified in products.
+The reason for the adulteration is not entirely clear, but 
+increased cultivation of low-THC industrial hemp in 
+Switzerland led to an oversupply and a sharp drop in its 
+price (Von Schläpfer et al., 2020). Low-THC herbal 
+cannabis products have also become more commonly 
+available in some EU countries. These products can 
+have a similar appearance, smell and flavour to ‘genuine’ 
+cannabis. Simply spraying a small amount of synthetic 
+cannabinoids on it is a cheap and easy way to give the 
+product a powerful cannabis-like effect, making it easy 
+to deceive dealers and users (Figure 12). Production 
+facilities and equipment used to spray synthetic 
+cannabinoids on low-THC cannabis have been seized by 
+Swiss police, including one in autumn 2021 (Figure 13).
+FIGURE 12
+Samples of low-THC cannabis adulterated with 
+synthetic cannabinoids compared with ‘genuine’ illicit 
+cannabis seized
+(a) Low-THC cannabis adulterated with MDMB-4en-PINACA 
+seized by police, Cyprus, February 2021
+Source: Forensic Science and Toxicology Laboratory, State 
+General Laboratory, Cyprus.
+(b) Low-THC cannabis with EDMB-PINACA and 
+ADB-BUTINACA collected by drug checking service Checkit!, 
+Austria, June 2021
+Source: Checkit!, Suchthilfe Wien gGmbH. 
+
+19
+(c) Low-THC cannabis with ADB-BUTINACA collected by drug 
+checking service Checkit!, Austria, November 2021
+Source: Checkit!, Suchthilfe Wien gGmbH. 
+(d) Low-THC cannabis with ADB-BUTINACA collected by drug 
+checking service DrogArt, Slovenia, November 2021
+Source: Slovenian National Laboratory of Health, Environment 
+and Food.
+(e) ‘Genuine’ illicit cannabis
+ 
+Source: Checkit!, Suchthilfe Wien gGmbH. 
+FIGURE 13
+Equipment including a compressor/sprayer from a 
+production site used for spraying low-THC cannabis 
+with synthetic cannabinoids seized by Swiss police, 
+autumn 2021
+ 
+Note: In total, 200 grams of a powder containing a mixture of 
+pure MDMB-4en-PINACA, 4F-MDMB-BICA and ADB-4enPINACA was seized, along with 2 litres of solvent containing 
+MDMB-4en-PINACA, 4F-MDMB-BICA and ADB-4en-PINACA; 
+16 kilograms of low-THC hemp containing ADB-4en-PINACA; 
+and 4 kilograms of low-THC hashish containing ADB-4enPINACA. 
+Source: Dr Christian Bissig, Narcotics Analysis, Zurich 
+Forensic Science Institute, Switzerland.
+Typically, consumers think they have bought ‘genuine’ 
+illicit cannabis. Unless tested in a laboratory, 
+adulterated low-THC cannabis may be indistinguishable 
+from illicit cannabis, so consumers may be unknowingly 
+exposed to synthetic cannabinoids. Adulteration poses 
+a risk of poisoning because of the high potency of 
+synthetic cannabinoids compared to natural cannabis 
+products. Poisonings have been reported in France 
+(Goncalves et al., 2021). Cannabis is the most 
+commonly used drug in Europe, so a relatively large 
+number of people could potentially be at risk of 
+inadvertently using adulterated cannabis if it remains on 
+the market. At the time of writing in April 2022, 
+adulterated cannabis continues to be reported, 
+although the number of reports seem to have 
+decreased in recent months.
+During 2020-2021, the EMCDDA issued three risk 
+communications to the EWS Network highlighting the 
+spread of adulterated cannabis, the risks it posed, and 
+possible response options.
+
+20
+Case study 6: Increase in edibles containing 
+delta-9-THC and synthetic cannabinoids
+Cannabis edibles are foods that are infused with 
+cannabis extract, typically delta-9tetrahydrocannabinol (delta-9-THC), the main 
+psychoactive substance in cannabis (Barrus et al., 
+2016). A range of products are available, including 
+sweets, chocolate and baked goods. Following 
+legalisation of cannabis in Canada and parts of the 
+US, commercial edibles have become increasingly 
+popular. In part this is reported to be because of a 
+perceived different ‘high’ compared to smoking or 
+vaping the drugs, the dislike of smoking by some 
+individuals, and because it is an easy and discreet 
+way of using cannabis, especially in public 
+settings. 
+During 2020-21, seizures of edibles appear to have 
+increased in parts of Europe (Figure 14). Some 
+poisonings have also been reported, including in 
+children in Europe (Mattimoe et al., 2021). Edibles 
+are sold on darknet markets, via social media 
+channels (such as TikTok, Instagram and Snapchat), 
+and at street-level. Although it is unclear where the 
+products are made, it is suspected that at least 
+some might be imported from outside the EU.
+Because absorption of THC into the body is slower 
+with edibles compared to smoking, there is a delay 
+in the onset of the ‘high’. This can be 30 to 60 
+minutes or longer for edibles compared to almost 
+immediate effects when smoked. The duration of 
+effects with edibles is also longer. People are often 
+unaware of the delayed onset of effects of edibles 
+and may eat multiple servings in close succession 
+before experiencing the ‘high’ from the initial 
+serving — leading to overconsumption and a 
+greater risk of poisoning (Hancock-Allen et al., 
+2015).
+As edibles closely resemble regular food, such as 
+sweets and chocolate, they can be accidentally 
+eaten. This is a particular concern in children 
+because poisoning with THC can be more severe 
+and prolonged than for adults (Blohm et al., 2019).
+FIGURE 14
+Examples of cannabis edibles seized in Europe
+(a) Cannabis edibles analysed by Forensic Science Ireland
+ 
+Source: Forensic Science Ireland. 
+(b) Cannabis edibles seized in Germany
+ 
+Source: Anna Duffert, SO 22 (Synthetic Drugs/NPS), Federal 
+Criminal Police Office (BKA), Germany; Dr Rainer Dahlenburg, 
+KT 45 (Toxicology), Federal Criminal Police Office (BKA), 
+Germany.
+
+21
+FIGURE 15
+A total of 37 kilograms of sweets containing the 
+synthetic cannabinoid 5F-EDMB-PICA seized by 
+Swedish customs, Sweden, August-September 
+2021
+ 
+Source: Swedish Customs.
+During 2021, sweets containing synthetic 
+cannabinoids were seized in at least five countries: 
+Belgium, Estonia, Ireland, Slovakia and Sweden. 
+Usually they contained 5F-EDMB-PICA. In mid-2021, 
+Swedish customs seized 37 kilograms of sweets 
+containing the substance (Figure 15). The source of 
+these products is not known. 
+People who use edibles adulterated with synthetic 
+cannabinoids will be unaware of their content and 
+could be at risk of poisoning. The EMCDDA issued a 
+risk communication in 2021 to the EWS Network to 
+highlight these issues, including the high risk of 
+poisoning from using these products.
+Case study 7: Delta-8-THC
+During 2020, products containing delta-8tetrahydrocannabinol (delta-8-THC), an isomer of 
+delta-9-tetrahydrocannabinol (THC) (Figure 16), 
+began to appear in the US (Erickson, 2021). While the 
+substance is under international control, 
+manufacturers claim that delta-8-THC derived from 
+hemp is legal (Erickson, 2021). Delta-8-THC is 
+synthetically produced from hemp-derived CBD 
+through a relatively straightforward and inexpensive 
+process. The substance seems to produce similar 
+psychoactive effects to THC, but only limited 
+research has been done on this substance (Hollister 
+and Gillespie, 1973). It has been suggested that the 
+effects of delta-8-THC are milder than delta-9-THC, 
+and sometimes it is advertised as a ‘light’ form of 
+cannabis (Erickson, 2021).
+An increase in poisonings associated with 
+delta-8-THC was reported in the US during 
+2020-2021 (CDC, 2021). Concerns have also been 
+raised over the safety of delta-8-THC products 
+because they may contain potentially harmful 
+by-products and impurities (Meehan-Atrash and 
+Rahman, 2022).
+Although their appearance to date is rare, products 
+containing delta-8-THC have also been reported to 
+the EMCDDA by two countries since November 
+2020: Spain and Italy. Separately, a report from 
+Sweden highlights that delta-8-THC appeared earlier, 
+in April 2020, indicating that the substance has been 
+known to be sold in Europe (Helander et al., 2022). 
+FIGURE 16 
+Molecular structures of delta-8-THC and delta-9-THC
+ 
+ 
+delta-8-THC 
+delta-9-THC
+Note: The substances only differ on the position of the 
+double bond (marked).
+
+22
+ I Opioids
+New opioids play a relatively small role in the drug market 
+in Europe, but are of particular concern for public health 
+because of the high risk of life-threatening poisoning from 
+respiratory depression. Timely use of the antidote 
+naloxone and supportive care are essential to treating 
+poisoning. 
+Since 2009, a total of 73 new opioids have been identified 
+on the drug market in Europe, including six that were 
+notified during 2021, making them the fourth-largest group 
+of substances monitored (Figure 17).
+During 2020 and 2021, the shift away from fentanyl 
+derivatives and towards benzimidazole opioids continued. 
+Of concern is that many of the benzimidazole opioids are 
+at least as potent as fentanyl (Ujváry et al., 2021).
+In 2020, almost 600 seizures of new opioids were reported 
+to the EU EWS by the Member States, representing around 
+3 % of the total number of seizures of NPS. This amounted 
+to approximately 5.6 kilograms of powders (Figure 17). 
+Reflecting changes in the market and the shift from 
+fentanyl derivatives, just over 60 % of the powders seized 
+were benzimidazole opioids (of which 95 % was 
+isotonitazene seized mostly in Latvia (2.96 kg)) compared 
+to 27 % that were fentanyl derivatives (of which 88 % was 
+carfentanil seized mostly in Latvia) (Figure 17). Most of the 
+seizures occurred in northern Europe. 
+Despite the relatively small quantities seized, the high 
+potency of many of the opioids means that even small 
+quantities could yield many thousands of street doses. In 
+addition, new opioids may also be mis-sold as or used to 
+adulterate heroin and other established opioids. Most 
+recently, an outbreak of poisonings, including deaths, was 
+reported in southern England in 2021 linked to the 
+adulteration of heroin with isotonitazene (De 
+Baerdemaeker et al., 2022). Isotonitazene was risk 
+assessed (EMCDDA, 2020d) and controlled across Europe 
+in 2020 (Council of the European Union, 2020) and is now 
+also under international control (UNODC, 2022).
+New opioids are also used to make fake benzodiazepine 
+medicines, such as fake Xanax and Valium (Swedish 
+Police, 2018). Consumers are unaware that these fakes 
+contain potent opioids, so they pose a risk of 
+life-threatening poisoning, especially to people with no 
+existing tolerance to opioids. New opioids are also known 
+to be used to make fake opioid analgesic medicines, such 
+as fake oxycodone tablets (Case study 8). 
+
+23
+FIGURE 17
+Infographic on opioids
+Opioids
+a) 
+b)
+c) Number of opioid seizures by country and substance, 2020 (EU) 
+Quantity of opioid powders seized by country and substance, 2020 (EU) 
+Trends in the number of seizures and quantity of powder seized, 2009-2020 (EU)
+Number and types of new synthetic opioids notified for the first time, 2009-2021 (EU+2)
+0
+2
+4
+6
+8
+10
+12
+14
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+Other opioids
+Fentanyl derivatives
+Benzimidazoles
+0
+2
+4
+6
+8
+10
+12
+14
+16
+18
+0
+200
+400
+600
+800
+1 000
+1 200
+1 400
+1 600
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+Quantity seized (kg)
+Number of seizures
+Powders seized other (kg)
+Powders seized fentanyl derivatives (kg)
+Powders seized benzimidazoles (kg)
+Number of seizures
+Isotonitazene
+7 %
+Carfentanil
+52 %
+Tramadol
+25 %
+Etazene
+3 %
+Ocfentanil
+5 %
+Others
+8 %
+Isotonitazene
+59 %
+Carfentanil
+23 %
+Tramadol
+4 %
+Etazene
+3 %
+Piperidylthiambutene
+3 %
+Others
+8 %
+Related case study:
+Fake oxycodone 
+tablets containing 
+benzimidazole 
+opioids — Europe, 
+2021-2022
+73 opioids currently monitored
+594 seizures amounting to 
+more than 5.5 kg of opioids in Europe in 2020
+0
+100 200 300
+0
+2k
+4k
+6k
+kg
+
+24
+Case study 8: Fake oxycodone tablets containing 
+benzimidazole opioids — Europe, 2021-2022
+During 2021-2022, the EMCDDA received reports from 
+Ireland, Slovenia, and, Norway of fake oxycodone 
+tablets containing the benzimidazole opioids 
+metonitazene and etonitazepyne, as well as the related 
+opioid, brorphine. The tablets looked similar to 
+commercially produced oxycodone tablets (Figure 18). 
+Users are therefore unlikely to be unaware they are 
+using a highly potent opioid that poses a risk of 
+life-threatening poisoning. In some cases, these 
+tablets were known to be sold on the darknet and were 
+advertised as oxycodone (Pucci et al., 2021; Razinger 
+et al., 2021). It is unclear how common these tablets 
+are, and only a small number of reports have been 
+made to date in Europe. Similar tablets have caused 
+large numbers of poisonings, including mass poisoning 
+events, in the US and Canada in recent years. As the 
+supply chain for these products is globalised through 
+darknet markets, the availability of these products 
+elsewhere in Europe is a possibility. 
+Although fake tablets appear to be relatively uncommon 
+in Europe, due to the high risk of life-threatening 
+poisoning, the EMCDDA issued a risk communication to 
+the EWS Network to highlight their possible availability 
+and health risks. 
+FIGURE 18
+Fake oxycodone tablets seized in Europe in 2021-2022
+(a) Fake oxycodone tablets containing metonitazene seized by 
+Norwegian customs, Norway, July 2021
+Source: Norwegian Customs Laboratory.
+(b) Fake oxycodone tablets containing metonitazene seized by 
+Irish customs, Ireland, January 2022 
+Source: Enforcement Section, Irish Health Products 
+Regulatory Authority.
+(c) Fake oxycodone tablets containing etonitazepyne collected 
+by drug checking service DrogArt, Slovenia, November 2021
+ 
+Source: Slovenian National Laboratory for Health, Environment 
+and Food.
+
+25
+(d) Fake oxycodone tablets containing brorphine collected 
+by the Centre for Clinical Toxicology and Pharmacology, 
+University Clinical Centre Ljubljana, Slovenia, January 2021
+ 
+Source: Slovenian National Laboratory for Health, 
+Environment and Food.
+ I Benzodiazepines
+First developed during the 1950s, benzodiazepines, such 
+as diazepam (Valium) and alprazolam (Xanax), are an 
+important group of medicines that produce sedation and 
+sleep (EMCDDA, 2021b). They are the most widely 
+prescribed group of medicines in the world and used to 
+treat conditions such as anxiety, insomnia, epilepsy and 
+alcohol withdrawal. However, there is a high risk of misuse, 
+and they can rapidly cause tolerance and dependence. 
+This can lead to severe and sometimes life-threatening 
+withdrawal symptoms. Due to this, strict restrictions are 
+often placed on prescribing them. When used for 
+non-therapeutic purposes, benzodiazepines are often used 
+in combination with other psychoactive substances and 
+this can increase the risks of individuals experiencing 
+adverse consequences. For example, the consumption of 
+benzodiazepines with opioids or alcohol increases the risk 
+of fatal and non-fatal poisonings (Gudin et al., 2013; 
+McAuley, 2022).
+Given the potentially large demand for benzodiazepines, 
+they are a major target for criminals that divert legitimate 
+products from the market, sell unlicensed products, or make 
+falsified versions of legitimate medicines. Falsified versions 
+of legitimate medicines have been found to contain both 
+controlled benzodiazepines and new benzodiazepines. Fake 
+diazepam and alprazolam tablets in particular have been 
+observed on the drug market (Case study 9).
+New benzodiazepines are also sold as substances in their 
+own right for recreational use, to enhance or prolong the 
+effects of other drugs such as opioids, and to 
+self-medicate (EMCDDA, 2021b). 
+As of 31 December 2021, the EMCDDA was monitoring 33 
+new benzodiazepines, including three that were notified in 
+2021 (Figure 19). 
+In 2020, just over 1 000 seizures of new benzodiazepines 
+were reported to the EU EWS by the Member States, 
+reflecting around 5 % of the total number of seizures of 
+NPS. This amounted to approximately 4.4 kilograms of 
+material, with liquids accounting for 3.3 kilograms, and just 
+over 65 000 tablets and capsules (Figure 19). Most of the 
+seizures were in northern Europe. 
+Despite the relatively large number of new benzodiazepines 
+that have appeared in Europe, during 2020 the market 
+continued to be dominated by just a handful of substances, 
+most notably etizolam and flualprazolam (Figure 19). 
+Together these two substances were responsible for 65 % 
+of the seizures, almost 70 % of the quantity of powder 
+seized, and almost 80 % of the tablets and capsules seized.
+
+26
+FIGURE 19
+Infographic on benzodiazepines
+Benzodiazepines
+a) 
+b) Trends in the number of seizures and quantity of tablets and capsules seized, 2007-2020 (EU)
+Number of benzodiazepines notified for the first time, 2007-2021 (EU+2)
+0
+1
+2
+3
+4
+5
+6
+7
+2007
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+0
+50 000
+100 000
+150 000
+200 000
+250 000
+300 000
+350 000
+400 000
+450 000
+500 000
+0
+500
+1 000
+1 500
+2 000
+2 500
+3 000
+2007
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+Tablets and capsules seized
+Number of seizures
+Tablets and capsules seized
+Number of seizures
+Related case study:
+Fake benzodiazepine 
+medicines in Europe
+33 benzodiazepines currently monitored
+1 012 seizures amounting to more than 
+65 000 tablets and capsules in Europe in 2020
+Etizolam and flualprazolam were controlled internationally in 
+2020, with controls coming into force in November the 
+same year (CND, 2020a, 2020b). As there is significant 
+variation between countries in the time it takes to 
+implement these controls in national legislation, it is still 
+unclear how and when they may affect the market, 
+particularly in respect to production and supply. One 
+possibility is that producers and distributors will switch to 
+other new benzodiazepines, underlining the importance of 
+the work of the EU EWS to detect and report on the 
+appearance of new drugs within the EU. 
+Many new benzodiazepines are potent substances. The 
+dose used in fake medicines can also be significantly 
+higher than those used in legitimate medicines. New 
+benzodiazepines have been involved in acute poisonings 
+and deaths, particularly in parts of northern Europe 
+(Essink et al., 2022; Kriikku et al., 2020; Rice et al., 2021). 
+In the latter case, many of the deaths involve vulnerable 
+people who also use other depressants, especially 
+opioids (Kriikku et al., 2020; McAuley et al., 2022; Rice et 
+al., 2021).
+
+27
+c) Number of seizures by country and substance, 2020 (EU) 
+Quantity seized for all physical forms reported in weight by country and 
+substance, 2020 (EU) 
+Etizolam
+44 %
+Flualprazolam
+21 %
+Clonazolam
+15 %
+Flunitrazolam
+6 %
+Flubromazolam
+5 %
+Others
+9 %
+0
+200 400
+Etizolam
+73 %
+Flubromazolam
+11 %
+Flualprazolam
+7 %
+Clonazolam
+4 %
+Flubromazepam
+2 %
+Others
+3 %
+0
+1
+2
+3
+Etizolam
+59 %
+Flualprazolam
+19 %
+Adinazolam
+7 %
+Flubromazolam
+6 %
+Clonazolam
+6 %
+Others
+3 %
+Quantity of tablets and capsules seized by country and 
+substance, 2020 (EU) 
+0
+20k
+40k
+kg
+
+28
+Case study 9: Fake benzodiazepine medicines in 
+Europe
+In Europe, new benzodiazepines are used to make fake 
+tablets of commonly prescribed benzodiazepine 
+medicines, such as Valium and Xanax. Often, those tablets 
+look exactly like genuine medicines, making them difficult 
+to spot. In some cases, this is all the more difficult because 
+they are packaged to look like legitimate medicines. Of 
+concern is the involvement of criminal networks in 
+producing such fake tablets (EMCDDA, 2021b). 
+Following the international control of etizolam and 
+flualprazolam in November 2020 (UNODC, 2022), other 
+benzodiazepines re-emerged in Europe, including 
+meclonazepam which was first notified in 2014. In 
+September 2021, Spanish customs seized more than 
+70 000 fake alprazolam tablets containing meclonazepam 
+(Figure 20). They were packaged to look like genuine 
+Trankimazin 2 mg alprazolam tablets made by Pfizer.
+One of the most recent benzodiazepines identified in 
+Europe is flubrotizolam. First identified in June 2021, it 
+has already been detected in five countries, mostly in 
+Xanax-type bars marked as ‘FANAX’ (Figure 21) that 
+are sold as a replacement to etizolam. Little is known 
+about the effects of flubrotizolam.
+FIGURE 20
+Fake Trankimazin 2 mg alprazolam tablets containing 
+meclonazepam seized by Spanish customs — Spain, 
+September 2021
+Source: Spanish Customs/AEAT, Ministry of Economy and 
+Finance. 
+FIGURE 21
+‘Fanax’ tablets containing flubrotizolam seized by 
+customs, June to August 2021
+(a) Fanax tablets containing flubrotizolam seized by Finnish 
+customs, Finland, August 2021
+Source: Finnish Customs Laboratory.
+(b) Fanax tablets containing flubrotizolam seized by Danish 
+customs, Denmark, June 2021
+Source: Section of Forensic Chemistry, University of 
+Copenhagen.
+(c) Fanax tablets containing flubrotizolam seized by Norwegian 
+customs, Norway, August 2021
+Source: Norwegian Customs Laboratory.
+
+29
+ I
+PART 3
+Lessons learned from 25 years 
+of monitoring NPS in Europe
+ I Global markets create glocal threats
+The globalisation of drug markets and greater prevalence 
+of technologies such as the internet have led to an 
+increase in the number, type, availability and harms 
+caused by NPS. These factors have also helped to create 
+a more resilient and highly dynamic market that is more 
+challenging to disrupt.
+The threats in a particular area are shaped by both global 
+and local factors (glocal). They include the availability and 
+supply of NPS, the local drug situation, including drug 
+supply and use, public health and social problems, drug 
+policy and responses.
+The appearance of an NPS in a new geographical area or in 
+a new group of users is always a cause of concern for 
+public health. While some risks might be known, others are 
+unknown and will not become apparent until larger 
+numbers of people have been exposed to the substance. 
+In addition, the nature of unregulated markets means that 
+these risks may be amplified by uncertainty regarding the 
+doses that are used and the potential for the substance to 
+be mis-sold for or adulterated with another substance, all 
+without the knowledge of the user. 
+As part of preparedness planning, public health officials 
+need to think about how the availability and use of NPS 
+apply to their country, region or neighbourhood. This 
+requires consideration of both current and possible future 
+threats and vulnerabilities, and what actions are likely to be 
+needed to constitute an effective response. 
+Highly potent substances that pose a high risk of severe 
+acute poisoning continue to be reported. The NPS and 
+controlled drug markets are also becoming increasingly 
+integrated. The use of NPS by high-risk drug users and 
+other marginalised and vulnerable populations has also 
+increased in some places. In addition, unregulated, 
+globalised supply chains and markets — where NPS and 
+related ingredients can be manufactured in one country, 
+brokered and used to make products in another country 
+and, finally, used in other countries — increase the 
+opportunity for miscommunication, mis-selling, 
+mislabelling, adulteration, contamination and dilution of 
+NPS and controlled drugs with a range of potentially 
+dangerous and sometimes highly toxic substances. Many 
+of the case studies in this report, such as the adulteration 
+of low-THC cannabis and edibles with synthetic 
+cannabinoids, are examples of these concerns.
+Overall, these types of substances pose a high risk of 
+life-threatening poisoning and can even on occasion cause 
+outbreaks of mass poisonings. Such incidents are 
+characterised by sudden and unexpected cases of acute 
+poisoning that can rapidly overwhelm healthcare systems. 
+They are also financially costly (Rowley et al., 2017). 
+These substances also pose serious cross-border threats 
+to health, especially as a result of the growth of online and 
+transnational markets. These issues are important globally 
+as well as for Europe. 
+In North America, NPS have contributed to the public 
+health crisis linked to the opioid epidemic (Bowles et al., 
+2021; Friedman et al., 2022; Laing et al., 2021; Pardo, 
+2022; Reyes et al., 2012; Wong et al., 2008). In China, 
+recent reports suggest an increase in the use of synthetic 
+cannabinoids commonly found in Europe and the US (Fan 
+et al., 2022; Liu et al., 2021); use of ketamine-like NPS, 
+such as 2-fluorodeschloroketamine, has also been 
+reported (Shao et al., 2021). New benzodiazepines have 
+also been identified in fake medicines in Australia (Blakey 
+et al., 2022), and in New Zealand fake oxycodone tablets 
+containing the highly potent opioid etonitazepyne have 
+recently been identified (Highalert, 2022). In Brazil, similar 
+to what has been noted in Europe, reports now exist of 
+paper being infused with synthetic cannabinoids for the 
+purpose of smuggling them into prisons (Rodrigues et al., 
+2022). Smoking mixtures made of synthetic cannabinoids, 
+controlled drugs and herbal material have also been 
+reported in Egypt (Hussien et al., 2022). In West Africa, 
+there are signals of an increase in non-medical use of 
+non-controlled medicines (UNODC, 2021). In Argentina, 
+the adulteration of cocaine with carfentanil, a highly 
+potent opioid, has also been reported and linked to deaths 
+and non-fatal poisonings (Di Nicola, 2022; Ministerio de 
+Salud, 2022).
+These examples all demonstrate both the increasing global 
+impact of NPS and the role of glocal factors in shaping the 
+different types of threats encountered. They also serve to 
+highlight the need for international collaboration. 
+
+30
+ I
+Build, maintain and strengthen early warning 
+systems
+Good decisions begin with good data
+Monitoring of NPS in Europe over the past 25 years has 
+demonstrated that reliable and timely information is 
+critical for an effective public health response in this area. 
+Local, national, regional and international early warning 
+systems have all played a valuable role in providing 
+information for action and helping shape regulatory and 
+public health responses.
+Information from early warning systems can be used to 
+strengthen situational awareness, increase preparedness 
+and inform the need for response measures. Importantly, 
+early warning systems have the potential to provide value 
+by:
+n identifying the appearance of a new psychoactive 
+substance on the drug market for the first time; 
+n identifying other substances of interest, related to 
+mis-selling, adulteration, contamination or dilution, that 
+may pose a high risk to public health;
+n describing, analysing and assessing the distribution, use 
+and spread of a new psychoactive substance;
+n identifying, describing and estimating the magnitude of 
+a public health or social threat caused by a new 
+psychoactive substance; 
+n detecting outbreaks and epidemics;
+n monitoring changes in the NPS market; 
+n identifying research needs and facilitating 
+epidemiologic and laboratory research; 
+n facilitating planning and informing policy; 
+n detecting and monitoring changes in use and patterns 
+of use;
+n identifying and evaluating response measures, including 
+restrictive measures. 
+However, experience with the evolving NPS phenomenon 
+in Europe over the last 25 years has demonstrated that 
+early warning systems need to continuously adapt to the 
+ever-changing drug markets to ensure they are fit for 
+purpose and systems benefit by being closely integrated 
+with other drug monitoring and epidemiologic surveillance 
+activities. Co-production as well as engagement between 
+partners at local, national and international level has also 
+proved critically important. Attention also needs to be paid 
+to creating mechanisms to facilitate information exchange 
+and risk communication.
+ I Conclusion
+Over the last 25 years, the NPS phenomenon has changed 
+beyond recognition in Europe. Thanks to the foresight and 
+timely actions of policy- and decision-makers as well as a 
+multidisciplinary group of practitioners, Europe has been 
+well prepared and able to rapidly respond to protect public 
+health. Despite this, NPS remain an intractable policy issue 
+and threat to public health in their own right.
+Currently, the NPS market is characterised by complexity 
+and increased integration with the market for established 
+controlled drugs. The market continues to grow, is resilient 
+and highly dynamic, and rapidly adapts to attempts to 
+disrupt it. 
+The issues highlighted in this report span 25 years of 
+experience in early warning and response to NPS in 
+Europe. Together, they serve to highlight the increasing 
+complexity of the NPS phenomenon, and the importance 
+of how global markets create glocal threats that drive the 
+availability, use and types of public health threats caused 
+by NPS. Reflecting on this, the EMCDDA’s experience is 
+that the following lessons have been learned: 
+n Investment in early warning, preparedness and response 
+planning has demonstrated its value in this area. 
+n Effective actions are informed by the existence of good 
+data.
+n Success depends on engagement with partners and 
+collaboration. 
+n Forensic and toxicological information sources are 
+critically important but there remains a need for 
+investment in forensic, analytical and toxicological 
+capacity.
+n To make information available to inform action, there is a 
+need to develop effective mechanisms to report, collect, 
+analyse, share and communicate information in a timely 
+and accessible way.
+n The NPS and drug markets are highly dynamic. There is 
+therefore a need for rapid and proactive capacity to 
+collect information and target new or unexpected areas. 
+n Learn from the past: previous experience is critical to 
+informing future threats and how to respond to them.
+n Rapid action may be needed: in the real world, timely 
+responses often need to be based on partial and 
+incomplete data, meaning evaluation and regular review 
+of the impact of responses is also required. 
+
+31
+ I References
+ I
+Barrus, D. G., Capogrossi, K. L., Cates, S. C., Gourdet, C. K., 
+Peiper, N. C., Novak, S. P., Lefever, T. W. and Wiley, J. L. (2016), 
+Tasty THC: promises and challenges of cannabis edibles, RTI 
+Press, RTI Press Occasional Paper No. OP-0035-1611, https://
+doi.org/10.3768/rtipress.2016.op.0035.1611.
+ I
+Bundeskriminalamt (BKA) (2021), Rauschgiftkriminalität. 
+Bundeslagebild 2020, BKA, Wiesbaden (https://www.bka.de/
+SharedDocs/Downloads/DE/Publikationen/
+JahresberichteUndLagebilder/
+Rauschgiftkriminalitaet/2020RauschgiftBundeslagebild.
+pdf;jsessionid=631DC5D91299C6032012C97AB2492837.
+live611?__blob=publicationFile&v=4).
+ I
+Blakey, K., Thompson, A., Matheson, A. and Griffiths, A. (2022), 
+‘What’s in fake “Xanax”?: A dosage survey of designer 
+benzodiazepines in counterfeit pharmaceutical tablets’, Drug 
+Testing and Analysis 14(3), pp. 525-530, https://doi.
+org/10.1002/dta.3119.
+ I
+Blohm, E., Sell, P. and Neavyn, M. (2019), ‘Cannabinoid toxicity 
+in pediatrics’, Current Opinion in Pediatrics 31(2), pp. 256-261, 
+https://doi.org/10.1097/MOP.0000000000000739.
+ I
+Bowles, J. M., McDonald, K., Maghsoudi, N., Thompson, H., 
+Stefan, C., Beriault, D. R., Delaney, S., Wong, E. and Werb, D. 
+(2021), ‘Xylazine detected in unregulated opioids and drug 
+administration equipment in Toronto, Canada: clinical and 
+social implications’, Harm Reduction Journal 18(1), 104, 
+https://doi.org/10.1186/s12954-021-00546-9.
+ I
+Centers for Disease Control and Prevention (CDC) (2021), 
+‘Increases in availability of cannabis products containing delta-8 
+THC and reported cases of adverse events’, CDCHAN-00451, 
+https://emergency.cdc.gov/han/2021/han00451.asp.
+ I
+Commission on Narcotic Drugs (CND) (2005), Resolution 48/1. 
+Promoting the sharing of information on emerging trends in the 
+abuse of and trafficking in substances not controlled under the 
+international drug control conventions, https://www.unodc.org/
+documents/commissions/CND/Drug_
+Resolutions/2000-2009/2005/CND_Res-2005-48-1.pdf.
+ I
+CND (2010), Resolution 53/11. Promoting the sharing of 
+information on the potential abuse of and trafficking in synthetic 
+cannabinoid receptor agonists, https://www.unodc.org/
+documents/commissions/CND/Drug_
+Resolutions/2010-2019/2010/CND_Res-53-11.pdf.
+ I
+CND (2012), Resolution 55/1. Promoting international 
+cooperation in responding to the challenges posed by new 
+psychoactive substances, https://www.unodc.org/documents/
+commissions/CND/Drug_Resolutions/2010-2019/2012/
+CND_Res-55-1.pdf.
+ I
+CND (2020a), Decision 63/13. Inclusion of etizolam in Schedule 
+IV of the Convention on Psychotropic Substances of 1971, 
+https://www.unodc.org/documents/commissions/CND/
+Drug_Resolutions/2020-2029/2020/Decision_63_13.pdf.
+ I
+CND (2020b), Decision 63/12. Inclusion of flualprazolam in 
+Schedule IV of the Convention on Psychotropic Substances of 
+1971, https://www.unodc.org/documents/commissions/CND/
+Drug_Resolutions/2020-2029/2020/Decision_63_12.pdf.
+ I
+Council of the European Union (1997), ‘97/396/JHA: Joint 
+Action of 16 June 1997 adopted by the Council on the basis of 
+Article K.3 of the Treaty on European Union, concerning the 
+information exchange, risk assessment and the control of new 
+synthetic drugs’, Official Journal of the European Union L 167, 
+25.06.1997 (http://data.europa.eu/eli/joint_action/1997/396/
+oj).
+ I
+Council of the European Union (2005), ‘Council Decision 
+2005/387/JHA of 10 May 2005 on the information exchange, 
+risk-assessment and control of new psychoactive substances’, 
+Official Journal of the European Union L 127, 20.05.2005, pp. 
+32-37 (http://data.europa.eu/eli/dec/2005/387/oj).
+ I
+Council of the European Union (2020), ‘Commission Delegated 
+Directive (EU) 2020/1687 of 2 September 2020 amending the 
+Annex to Council Framework Decision 2004/757/JHA as 
+regards the inclusion of the new psychoactive substance 
+N,N-diethyl-2-[[4-(1-methylethoxy)phenyl]methyl]-5-nitro-1Hbenzimidazole-1-ethanamine (isotonitazene) in the definition of 
+“drug”’, Official Journal of the European Union L 379/55, 
+13.11.2020, pp. 55-57 (http://data.europa.eu/eli/dir_
+del/2020/1687/oj).
+ I
+De Baerdemaeker, K., Dines, A. M., Hudson, S., Sund, L. J., 
+Waters, M. L., Hunter, L. J., Blundell, M. S., Archer, J., Wood, D. 
+M. and Dargan, P. I. (2022), ‘Isotonitazene, a novel psychoactive 
+substance opioid, detected in two cases following a local surge 
+in opioid overdoses’, QJM: Monthly Journal of the Association of 
+Physicians, hcac039. Advance online publication, https://doi.
+org/10.1093/qjmed/hcac039.
+ I
+Di Nicola, G. (2022), ‘Cocaína adulterada: el carfentanilo, un 
+opioide usado para sedar elefantes, es la sustancia letal’, La 
+Nacion, 10 February 2022, https://www.lanacion.com.ar/
+seguridad/cocaina-adulterada-se-conocio-la-sustanciautilizada-para-cortar-la-droga-letal-nid10022022/.
+ I
+Erickson, B. E. (2021), ‘Delta-8-THC craze concerns chemists’, 
+Chemical & Engineering News 99(1), https://cen.acs.org/
+biological-chemistry/natural-products/Delta-8-THC-crazeconcerns/99/i31.
+ I
+Essink, S., Nugteren-van Lonkhuyzen, J. J., van Riel, A., Dekker, 
+D. and Hondebrink, L. (2022), ‘Significant toxicity following an 
+increase in poisonings with designer benzodiazepines in the 
+Netherlands between 2010 and 2020’, Drug and Alcohol 
+Dependence 231, 109244, https://doi.org/10.1016/j.
+drugalcdep.2021.109244.
+ I
+European Monitoring Centre for Drugs and Drug Addiction 
+(EMCDDA) (1997), New trends in synthetic drugs in the EU: 
+epidemiology and demand-reduction responses, Off
+﻿ii
+ce for 
+Official Publications of the European Communities, 
+Luxembourg (https://www.emcdda.europa.eu/html.cfm/
+index34003EN.html_en).
+
+32
+ I
+EMCDDA (2006), Hallucinogenic mushrooms: an emerging 
+trend case study, European Monitoring Centre for Drugs and 
+Drug Addiction, Lisbon (https://www.emcdda.europa.eu/
+publications/thematic-papers/mushrooms).
+ I
+EMCDDA (2008), GHB and its precursor GBL: an emerging 
+trend case study, European Monitoring Centre for Drugs and 
+Drug Addiction, Lisbon (https://www.emcdda.europa.eu/
+publications/thematic-papers/ghb).
+ I
+EMCDDA (2009a), Report on the risk assessment of BZP in the 
+framework of the Council decision on new psychoactive 
+substances, Publications Office of the European Union, 
+Luxembourg (https://www.emcdda.europa.eu/publications/
+risk-assessments/bzp_en).
+ I
+EMCDDA (2009b), Understanding the ‘Spice’ phenomenon, 
+Publications Office of the European Union, Luxembourg 
+(https://www.emcdda.europa.eu/publications/rapidcommunications/synthetic-cannabinoids-europe-review_en).
+ I
+EMCDDA (2011a), Online sales of new psychoactive 
+substances/‘legal highs’: summary of results from the 2011 
+multilingual snapshots, EMCDDA, Lisbon (https://www.
+emcdda.europa.eu/publications/scientific-studies/2011/
+snapshot).
+ I
+EMCDDA (2011b), Report on the risk assessment of 
+mephedrone in the framework of the Council Decision on new 
+psychoactive substances, Publications Office of the European 
+Union, Luxembourg (https://www.emcdda.europa.eu/
+risk-assessments/mephedrone_en).
+ I
+EMCDDA (2012a), Annual report 2012: the state of the drugs 
+problem in Europe, Publications Office of the European Union, 
+Luxembourg (https://www.emcdda.europa.eu/publications/
+annual-report/2012_en)
+ I
+EMCDDA (2012b), Early warning system — national profiles, 
+Publications Office of the European Union, Luxembourg 
+(https://www.emcdda.europa.eu/thematic-papers/ews_en).
+ I
+EMCDDA (2015a), New psychoactive substances in Europe. An 
+update from the EU Early Warning System (March 2015), 
+Publications Office of the European Union, Luxembourg 
+(https://www.emcdda.europa.eu/publications/rapidcommunications/2015/new-psychoactive-substances_en).
+ I
+EMCDDA (2015b), New psychoactive substances in Europe: 
+innovative legal responses, Publications Office of the European 
+Union, Luxembourg (https://www.emcdda.europa.eu/
+publications/rapid-communications/new-psychoactivesubstances-europe-innovative-legal-responses_en).
+ I
+EMCDDA (2018), Fentanils and synthetic cannabinoids: driving 
+greater complexity into the drug situation. An update from the 
+EU Early Warning System (June 2018), Publications Office of 
+the European Union, Luxembourg (https://www.emcdda.
+europa.eu/publications/rapid-communications/fentanils-andsynthetic-cannabinoids-ews-update_en).
+ I
+EMCDDA (2019), EMCDDA operating guidelines for the 
+European Union Early Warning System on new psychoactive 
+substances, Publications Office of the European Union, 
+Luxembourg (http://www.emcdda.europa.eu/publications/
+guidelines/operating-guidelines-for-the-european-union-earlywarning-system-on-new-psychoactive-substances_en).
+ I
+EMCDDA (2020a), New psychoactive substances: global 
+markets, glocal threats and the COVID-19 pandemic. An update 
+from the EU Early Warning System (December 2020), 
+Publications Office of the European Union, Luxembourg 
+(https://www.emcdda.europa.eu/publications/rapidcommunication/new-psychoactive-substances-globalmarkets-glocal-threats-and-covid-19-pandemic_en).
+ I
+EMCDDA (2020b), Report on the risk assessment of a new 
+psychoactive substance: methyl 3,3-dimethyl-2-{[1-(pent-4-en1-yl)-1H-indazole-3-carbonyl]amino}butanoate (MDMB-4enPINACA) in accordance with Article 5c of Regulation (EC) No 
+1920/2006 (as amended), Publications Office of the European 
+Union, Luxembourg (https://www.emcdda.europa.eu/
+publications/risk-assessments/mdmb-4en-pinaca_en).
+ I
+EMCDDA (2020c), Low-THC cannabis products in Europe, 
+Publications Office of the European Union, Luxembourg 
+(https://www.emcdda.europa.eu/publications/ad-hocpublication/low-thc-cannabis-products-europe_en).
+ I
+EMCDDA (2020d), Report on the risk assessment of N,Ndiethyl-2-[[4-(1-methylethoxy)phenyl]methyl]-5-nitro-1Hbenzimidazole-1-ethanamine (isotonitazene) in accordance 
+with Article 5c of Regulation (EC) No 1920/2006 (as amended), 
+Publications Office of the European Union, Luxembourg 
+(https://www.emcdda.europa.eu/publications/riskassessments/isotonitazene_en).
+ I
+EMCDDA (2021a), Synthetic cannabinoids in Europe — a 
+review, Publications Office of the European Union, 
+Luxembourg (https://www.emcdda.europa.eu/publications/
+rapid-communications/synthetic-cannabinoids-europereview_en).
+ I
+EMCDDA (2021b), New benzodiazepines in Europe — a review, 
+Publications Office of the European Union, Luxembourg 
+(https://www.emcdda.europa.eu/publications/rapidcommunications/new-benzodiazepines-europe-review_en).
+ I
+EMCDDA (2021c), EMCDDA operating guidelines for the risk 
+assessment of new psychoactive substances, Publications 
+Office of the European Union, Luxembourg (https://www.
+emcdda.europa.eu/publications/manuals-and-guidelines/
+emcdda-risk-assessment-guidelines_en).
+ I
+EMCDDA (2022a), Report on the risk assessment of 
+2-(methylamino)-1-(3-methylphenyl)propan-1-one 
+(3-methylmethcathinone, 3-MMC) in accordance with Article 
+5c of Regulation (EC) No 1920/2006 (as amended), 
+Publications Office of the European Union, Luxembourg 
+(https://www.emcdda.europa.eu/publications/riskassessments/3-mmc_en).
+
+33
+ I
+EMCDDA (2022b), Report on the risk assessment of 
+1-(3-chlorophenyl)-2-(methylamino)propan-1-one 
+(3-chloromethcathinone, 3-CMC) in accordance with Article 5c 
+of Regulation (EC) No 1920/2006 (as amended), Publications 
+Office of the European Union, Luxembourg (https://www.
+emcdda.europa.eu/publications/risk-assessments/3-cmc_en).
+ I
+EMCDDA (2022c), European Commission adopts measures to 
+control two harmful new drugs amidst health concerns and 
+surge in supply, EMCDDA, Lisbon, 18 March 2022 (https://www.
+emcdda.europa.eu/news/2022/3/european-commissionadopts-measures-control-two-harmful-new-drugs_en).
+ I
+EMCDDA and Europol (2010), Europol-EMCDDA joint report on 
+a new psychoactive substance: 4-methylmethcathinone 
+(mephedrone) (2010), EMCDDA, Lisbon (https://www.emcdda.
+europa.eu/publications/joint-reports/mephedrone_en).
+ I
+EMCDDA and Europol (2019), EU drug markets report 2019, 
+Publications Office of the European Union, Luxembourg 
+(https://www.emcdda.europa.eu/publications/jointpublications/eu-drug-markets-report-2019_en).
+ I
+European Parliament and Council of the European Union 
+(2017a), ‘Regulation (EU) 2017/2101 of the European 
+Parliament and of the Council of 15 November 2017 amending 
+Regulation (EC) No 1920/2006 as regards information 
+exchange on, and an early warning system and risk assessment 
+procedure for, new psychoactive substances’, Official Journal 
+of the European Union L 305, 21.11.2017, pp. 1-7 (http://data.
+europa.eu/eli/reg/2017/2101/oj).
+ I
+European Parliament and Council of the European Union 
+(2017b), ‘Directive (EU) 2017/2103 of the European Parliament 
+and of the Council of 15 November 2017 amending Council 
+Framework Decision 2004/757/JHA in order to include new 
+psychoactive substances in the definition of “drug” and 
+repealing Council Decision 2005/387/JHA’, Official Journal of 
+the European Union L 305, 21.11.2017, pp. 12-18 (http://data.
+europa.eu/eli/dir/2017/2103/oj).
+ I
+Europol (2021), European Union serious and organised crime 
+threat assessment. A corrupting influence: the infiltration and 
+undermining of Europe’s economy and society by organised 
+crime, European Police Office, the Netherlands (https://www.
+europol.europa.eu/publication-events/main-reports/europeanunion-serious-and-organised-crime-threat-assessmentsocta-2021).
+ I
+Fan, X., Zhang, J., Fu, X., Zhou, B., Xu, Z., Huang, H., Han, S. and 
+Li, X. (2022), ‘Analysis of synthetic cannabinoids in wastewater 
+of major cities in China’, The Science of the Total Environment, 
+827, 154267. Advance online publication, https://doi.
+org/10.1016/j.scitotenv.2022.154267.
+ I
+Feinstein, D. L., Hafner, J., van Breemen, R. and Rubinstein, I. 
+(2022), ‘Inhaled synthetic cannabinoids laced with long-acting 
+anticoagulant rodenticides: a clear and present worldwide 
+danger’, Toxicology Communications, 6(1), pp. 28-29, https://
+doi.org/10.1080/24734306.2022.2025690.
+ I
+Friedman, J., Montero, F., Bourgois, P., Wahbi, R., Dye, D., 
+Goodman-Meza, D. and Shover, C. (2022), ‘Xylazine spreads 
+across the US: a growing component of the increasingly 
+synthetic and polysubstance overdose crisis’, Drug and 
+Alcohol Dependence, 233, 109380. Advance online 
+publication, https://doi.org/10.1016/j.
+drugalcdep.2022.109380.
+ I
+Gerace, E., Seganti, F., Di Corcia, D., Vincenti, M. and Salomone, 
+A. (2022), ‘Identification and quantification of synthetic 
+cannabinoid MDMB-4en-PINACA in seized cannabis-derived 
+materials’, 58th conference of The International Association of 
+Forensic Toxicologists (TIAFT), 1-3 February (https://
+tiaftvirtual.org/wp-content/uploads/2022/01/TIAFT2022Program-Abstracts-v7.pdf).
+ I
+Goncalves, R., Labadie, M., Chouraqui, S., Peyré, A., Castaing, 
+N., Daveluy, A. and Molimard, M. (2021), ‘Involuntary MDMB4en-PINACA intoxications following cannabis consumption: 
+clinical and analytical findings’, Clinical Toxicology, doi.org/10.1
+080/15563650.2021.1994144.
+ I
+Griffiths, P., Sedefov, R., Gallegos, A. and Lopez, D. (2010), ‘How 
+globalization and market innovation challenge how we think 
+about and respond to drug use: “Spice” a case study’, Addiction, 
+105, pp. 951-953, https://doi.
+org/10.1111/j.1360-0443.2009.02874.x. 
+ I
+Gudin, A. J., Mogali, S., Jones, J. D. and Comer, S. D. (2013), 
+‘Risks, management, and monitoring of combination opioid, 
+benzodiazepines, and/or alcohol use’, Postgraduate Medicine 
+125(4), pp. 15-130, htpps://doi.org/10.3810/
+pgm.2013.07.2684.
+ I
+Halter, S., Haschimi, B., Mogler, L. and Auwärter, V. (2020), 
+‘Impact of legislation on NPS markets in Germany — the rise 
+and fall of 5F-ADB’, Drug Testing and Analysis, 12(6), pp. 
+853-856, https://doi.org/10.1002/dta.2786.
+ I
+Hancock-Allen, J. B., Barker, L., VanDyke, M. and Holmes, D. B. 
+(2015), ‘Notes from the field: death following ingestion of an 
+edible marijuana product — Colorado, March 2014’, Morbidity 
+and Mortality Weekly Report, 64(28), pp. 771-772, https://doi.
+org/10.15585/mmwr.mm6428a6.
+ I
+Helander, A., Johansson, M., Andersson, A. and Villén, T. (2022), 
+‘Analytical and medico-legal problems linked to the presence of 
+delta-8-tetrahydrocannabinol (delta-8-THC): results from urine 
+drug testing in Sweden’, Drug Testing and Analysis, 14(2), pp. 
+371-376, https://doi.org/10.1002/dta.3190.
+ I
+Highalert (2022), Highly potent opioid found in fake oxycodone 
+tablets, Drug Information and Alerts Aotearoa New Zealand, 25 
+March 2022 (https://www.highalert.org.nz/alerts-andnotifications/highly-potent-opioid-found-in-fake-oxycodonetablets/).
+ I
+Hillebrand, J., Olszewski, D. and Sedefov, R. (2010), ‘Legal highs 
+on the internet’, Substance Use & Misuse 45(3), pp. 330-340, 
+https://doi.org/10.3109/10826080903443628.
+
+34
+ I
+Hollister, L. E. and Gillespie, H. K. (1973), ‘Delta-8- and 
+delta-9-tetrahydrocannabinol comparison in man by oral and 
+intravenous administration’, Clinical Pharmacology and 
+Therapeutics 14(3), pp. 353-357, https://doi.org/10.1002/
+cpt1973143353.
+ I
+Hussien, R., Ahmed, S., Awad, H., El-Setouhy, M., El-Shinawi, M. 
+and Hirshon, J. M. (2022), ‘Identification of “Voodoo”: an 
+emerging substance of abuse in Egypt’, International Journal of 
+Environmental Analytical Chemistry 102(1), pp. 104-116, 
+https://doi.org/10.1080/03067319.2020.1715384.
+ I
+Kriikku, P., Rasanen, I., Ojanperä, I., Thelander, G., Kronstrand, R. 
+and Vikingsson, S. (2020), ‘Femoral blood concentrations of 
+flualprazolam in 33 postmortem cases’, Forensic Science 
+International 307, 110101, https://doi.org/10.1016/j.
+forsciint.2019.110101.
+ I
+Krotulski, A. J., Papsun, D. M., Walton, S. E., Fogarty, M. F. and 
+Logan, B. K. (2021), NPS discovery: year in review 2021, Center 
+for Forensic Science Research and Education (CFSRE), https://
+www.npsdiscovery.org/wp-content/uploads/2022/01/2021_
+Year-In-Review_NPS-Discovery_123121.pdf.
+ I
+Laing, M. K., Ti, L., Marmel, A., Tobias, S., Shapiro, A. M., Laing, 
+R., Lysyshyn, M. and Socías, M. E. (2021), ‘An outbreak of 
+novel psychoactive substance benzodiazepines in the 
+unregulated drug supply: preliminary results from a 
+community drug checking program using point-of-care and 
+confirmatory methods’, The International Journal on Drug 
+Policy 93, 103169, https://doi.org/10.1016/j.
+drugpo.2021.103169.
+ I
+Liu, C-M., Hua, Z-D., Jia, W. and Li, T. (2022), ‘Identification of 
+AD-18, 5F-MDA-19, and pentyl MDA-19 in seized materials after 
+the class-wide ban of synthetic cannabinoids in China’, Drug 
+Testing and Analysis, https://doi.org/10.1002/dta.3185.
+ I
+Mattimoe, C., Conlon, E., Ni Siochain, D., Quinn, N. and Okafor, I. 
+(2021), ‘Edible cannabis toxicity in young children — an 
+emergent serious public health threat’, Irish Medical Journal 
+18(8), p. 446, https://imj.ie/wp-content/uploads/2021/09/
+Edible-Cannabis-Toxicity-in-Young-Children-An-EmergentSerious-Public-Health-Threat.pdf.
+ I
+McAuley, A., Matheson, C. and Robertson, J. R. (2022), ‘From 
+the clinic to the street: the changing role of benzodiazepines in 
+the Scottish overdose epidemic’, The International Journal on 
+Drug Policy 100, 103512, https://doi.org/10.1016/j.
+drugpo.2021.103512.
+ I
+Meehan-Atrash, J. and Rahman, I. (2022), ‘Novel delta-8tetrahydrocannabinol vaporizers contain unlabeled adulterants, 
+unintended byproducts of chemical synthesis, and heavy 
+metals’, Chemical Research in Toxicology 35(1), pp. 73-76, 
+https://doi.org/10.1021/acs.chemrestox.1c00388.
+ I
+Ministerio de Salud (2022), ‘Recomendaciones del Ministerio 
+de Salud ante los casos de intoxicación en la Provincia de 
+Buenos Aires tras el consumo de cocaína’, Ministerio de Salud, 
+2 February 2022 (https://www.argentina.gob.ar/noticias/
+recomendaciones-del-ministerio-de-salud-ante-los-casos-deintoxicacion-en-la-provincia-de).
+ I
+Monti, M. C., Zeugin, J., Koch, K., Milenkovic, N., Scheurer, E. and 
+Mercer-Chalmers-Bender, K. (2022), ‘Adulteration of low-delta9-tetrahydrocannabinol products with synthetic cannabinoids: 
+results from drug checking services’, Drug Testing and Analysis, 
+https://doi.org/10.1002/dta.3220.
+ I
+Oomen, P. E., Schori, D., Tögel-Lins, K., Acreman, D., 
+Chenorhokian, S., Luf, A., Karden, A., et al. (2022), ‘Cannabis 
+adulterated with the synthetic cannabinoid receptor agonist 
+MDMB-4en-PINACA and the role of European drug checking 
+services’, The International Journal on Drug Policy 100, 103493, 
+doi.org/10.1016/j.drugpo.2021.103493.
+ I
+Pardo, B. (2022), ‘Insights into mixing fentanyl and 
+benzodiazepines from Canadian drug seizures’, JAMA 
+Psychiatry 79(1), pp. 81-83, https://doi.org/10.1001/
+jamapsychiatry.2021.3292. 
+ I
+Pucci, M., Hudson, S., Hill, S. L. and Thomas, S. (2021), ‘Severe 
+toxicity involving N-pyrrolidino etonitazene in the United 
+Kingdom — a case report’, Clinical Toxicology 60(4), pp. 
+533-534, https://doi.org/10.1080/15563650.2021.1979235.
+ I
+Razinger, G., Grenc, D., Pezdir, T., Kranvogl, R. and Brvar, M. 
+(2021), ‘Severe rhabdomyolysis and acute kidney failure due to 
+synthetic opioid brorphine exposure in combination with 
+chronic sertraline therapy’, European Journal of Clinical 
+Pharmacology 77(11), pp. 1759-1761, https://doi.org/10.1007/
+s00228-021-03136-7.
+ I
+Reyes, J. C., Negrón, J. L., Colón, H. M., Padilla, A. M., Millán, M. 
+Y., Matos, T. D. and Robles, R. R. (2012), ‘The emerging of 
+xylazine as a new drug of abuse and its health consequences 
+among drug users in Puerto Rico’, Journal of Urban Health: 
+Bulletin of the New York Academy of Medicine 89(3), pp. 
+519-526, https://doi.org/10.1007/s11524-011-9662-6.
+ I
+Rice, K., Hikin, L., Lawson, A., Smith, P. R. and Morley, S. (2021), 
+‘Quantification of flualprazolam in blood by LC-MS-MS: a case 
+series of nine deaths’, Journal of Analytical Toxicology 45(4), 
+pp. 410-416, https://doi.org/10.1093/jat/bkaa098.
+ I
+Rodrigues, T.B., Souza, M.P., de Melo Barbosa, L., de Carvalho 
+Ponce, J., Neves Jnr., L. F., Yonamine, M. and Costa, J. L. (2022), 
+‘Synthetic cannabinoid receptor agonists profile in infused 
+papers seized in Brazilian prisons’, Forensic Toxicology 40, pp. 
+119-124, https://doi.org/10.1007/s11419-021-00586-7.
+ I
+Rowley, E., Benson, D., Tiffee, A., Hockensmith, A., Zeng, H., 
+Jones, G. N. and Musso, M. W. (2017), ‘Clinical and financial 
+implications of emergency department visits for synthetic 
+marijuana’, The American Journal of Emergency Medicine 35(10), 
+pp. 1506-1509, https://doi.org/10.1016/j.ajem.2017.04.044.
+ I
+Shao, X. T., Yu, H., Lin, J. G., Kong, X. P., Wang, Z. and Wang, D. 
+G. (2021), ‘Presence of the ketamine analog of 
+2-fluorodeschloroketamine residues in wastewater’, Drug 
+Testing and Analysis 13(9), pp. 1650-1657, https://doi.
+org/10.1002/dta.3098.
+
+35
+ I
+Swedish Police (2018), Swedish national threat assessment on 
+fentanyl analogues and other synthetic opioids, The Swedish 
+Police Authority, Stockholm. (https://polisen.se/siteassets/
+dokument/ovriga_rapporter/fentanyl-analogues-reportenglish.pdf).
+ I
+Ujváry, I., Christie, R., Evans-Brown, M., Gallegos, A., Jorge, R., 
+de Morais, J. and Sedefov, R. (2021), ‘DARK classics in 
+chemical neuroscience: etonitazene and related 
+benzimidazoles’, ACS Chemical Neuroscience 12(7), pp. 
+1072-1092, https://doi.org/10.1021/acschemneuro.1c00037.
+ I
+United Nations Office on Drugs and Crime (UNODC) (2014), 
+China: The Food and Drug Administration announces the 
+addition of more NPS to the list of controlled drugs, UNODC, 
+Vienna (https://www.unodc.org/LSS/Announcement/
+Details/07f34d99-e7d8-4cbf-9587-33886d9080c7)
+ I
+UNODC (2015), China announces controls over 116 new 
+psychoactive substances, UNODC, Vienna (https://www.
+unodc.org/LSS/Announcement/Details/83b02e73-48964ed5-944c-51a7646647aa)UNODC (2018), China places 
+additional 32 new psychoactive substances under national 
+control, UNODC, Vienna (https://www.unodc.org/LSS/
+Announcement/Details/e4decfc2-0913-4a68-bbcf24972690b698)
+ I
+UNODC (2021), At the crossroads of licit and illicit. Tramadol 
+and other pharmaceutical opioids trafficking in West Africa, 
+UNODC, Vienna (https://www.unodc.org/documents/nigeria/
+Tramadol_Trafficking_in_West_Africa.pdf).
+ I
+UNODC (2022), International drug control conventions, 
+UNODC, Vienna (https://www.unodc.org/unodc/en/
+commissions/CND/Mandate_Functions/Mandate-andFunctions_Scheduling.html)
+ I
+Von Schläpfer, M., Bissig, C. and Bogdal, C. (2020), 
+‘Synthetische Cannabimimetika auf Industriehanfblüten. Ein 
+gefährliches Aufeinandertreffen zweier bekannter Phänomene’, 
+Kriminalistik 07, pp. 433-​435, (https://www.kriminalistik.de/
+ausgabe_07_2020.htm#Artikel12).
+ I
+Wong, S. C., Curtis, J. A. and Wingert, W. E. (2008). ‘Concurrent 
+detection of heroin, fentanyl, and xylazine in seven drug-related 
+deaths reported from the Philadelphia Medical Examiner’s 
+Office’, Journal of Forensic Sciences 53(2), pp. 495-498, 
+https://doi.org/10.1111/j.1556-4029.2007.00648.x
+ I Acknowledgements
+The EMCDDA would like to extend their sincere thanks and 
+appreciation to the EWS correspondents of the Reitox 
+national focal points and experts from their national early 
+warning system networks, the Europol national units and 
+Europol Project Synergy. The EMCDDA would also like to 
+thank all its external experts. 
+We would also like to thank the following for the images 
+used in this publication:
+n Anna Duffert, SO 22 (Synthetic Drugs/NPS), Federal 
+Criminal Police Office (BKA), Germany
+n Centre for Clinical Toxicology and Pharmacology, 
+University Clinical Centre Ljubljana, Slovenia
+n Checkit!, Suchthilfe Wien gGmbH, Austria
+n Cuerpo Nacional de Policía, Ministerio del Interior, Spain
+n Danish Customs, Denmark
+n Departamento de Aduanas e Impuestos Especiales. 
+AEAT, Ministerio de Hacienda y Función Pública, Spain
+n Dr Christian Bissig, Narcotics Analysis, Zurich Forensic 
+Science Institute, Switzerland
+n Dr Rainer Dahlenburg, KT 45 (Toxicology), Federal 
+Criminal Police Office (BKA), Germany
+n Drug checking service DrogArt, Slovenia
+n Enforcement Section, Irish Health Products Regulatory 
+Authority, Ireland
+n Finnish Customs Laboratory, Finland
+n Forensic Science and Toxicology Laboratory, State 
+General Laboratory, Cyprus
+n Forensic Science Ireland, Ireland
+n Norwegian Customs Laboratory, Norway
+n Polish Police, Central Bureau of Investigation
+n Section of Forensic Chemistry, University of 
+Copenhagen, Denmark
+n Slovenian National Laboratory for Health, Environment 
+and Food (Nacionalni laboratorij za zdravje, okolje in 
+hrano — NLZOH), Slovenia
+n Swedish Customs (Tullverket), Sweden. 
+
+36
+ I
+Annex 1
+List of new psychoactive substances notified by the EMCDDA on behalf of the Member States under the terms of 
+Regulation (EC) no 1920/2006 and Council Framework Decision 2004/757/JHA — European Union, 2021
+1. 
+3-Me-PCP (1-[1-(3-methylphenyl)cyclohexyl]
+piperidine), Hungary, 11 January 2021 
+2. 
+4F-Deprenyl (N-[1-(4-fluorophenyl)propan-2-yl]-Nmethylprop-2-yn-1-amine), Germany, 18 January 2021 
+3. 
+α-D2PV (1,2-diphenyl-2-(pyrrolidin-1-yl)ethan-1-one), 
+Slovenia, 22 January 2021 
+4. 
+3-Cl-PCP (1-[1-(3-chlorophenyl)cyclohexyl]piperidine), 
+Slovenia, 26 January 2021 
+5. 
+ABO-4en-PINACA (N-(1-amino-1-oxobutan-2-yl)-1-
+(pent-4-en-1-yl)-1H-indazole-3-carboxamide), France, 
+3 February 2021 
+6. 
+BDMT (2,2’-(1H,1’H-[2,2’-biindole]-3,3’-diyl)bis(N,Ndimethylethan-1-amine)), Germany, 10 February 2021 
+7. 
+3-Methylmethamphetamine (3-MMA; N-methyl-1-(3methylphenyl)propan-2-amine), Sweden, 12 February 
+2021 
+8. 
+Etonitazepyne (2-(4-ethoxybenzyl)-5-nitro-1-(2-
+(pyrrolidin-1-yl)ethyl)-1H-benzo[d]imidazole), Belgium, 
+17 February 2021 
+9. 
+Butonitazene (2-[(4-butoxyphenyl)methyl]-N,Ndiethyl-5-nitro-1H-benzimidazole-1-ethanamine), 
+Belgium, 18 February 2021 
+10. CUMYL-NBMINACA ((1-(bicyclo[2.2.1]heptan-2-yl)
+methyl)-N-(2-phenylpropan-2-yl)-1H-indazole-3carboxamide), Germany, 23 February 2021 
+11. Deoxymethoxetamine (2-(ethylamino)-2-(3methylphenyl)-cyclohexanone), Denmark, 11 March 
+2021 
+12. Phenylpiracetam (2-(2-oxo-4-phenylpyrrolidin-1-yl)
+acetamide), Germany, 17 March 2021 
+13. ADB-4en-PINACA (N-(1-amino-3,3-dimethyl-1oxobutan-2-yl)-1-(pent-4-en-1-yl)-1H-indazole-3carboxamide), Hungary, 23 March 2021 
+14. 4-HO-MALT (3-2-[methyl(prop-2-en-1-yl)amino]
+ethyl-1H-indol-4-ol), Slovenia, 9 April 2021 
+15. CHM-MDMB-CHMINACA (cyclohexylmethyl 
+2-(1-(cyclohexylmethyl)-1H-indazole-3-carboxamido)-
+3,3-dimethylbutanoate), Germany, 23 April 2021 
+16. 4F-3-Methyl-α-PHP (1-(4-fluoro-3-methyl-phenyl)-2pyrrolidin-1-yl-hexan-1-one), Sweden, 29 April 2021 
+17. 5-Chloro-alpha-methyltryptamine (1-(5-chloro-1Hindol-3-yl)propan-2-amine), Slovenia, 4 May 2021 
+18. 2C-T-21 (2-[4-(2-fluoroethylsulfanyl)-2,5-dimethoxyphenyl]ethanamine), the Netherlands, 5 May 2021 
+19. 4Cl-MAR (5-(4-chlorophenyl)-4-methyl-4,5-dihydro1,3-oxazol-2-amine), Slovenia, 11 May 2021 
+20. 4Br-MAR (5-(4-bromophenyl)-4-methyl-4,5-dihydro1,3-oxazol-2-amine), Slovenia, 11 May 2021 
+21. Protonitazene (N,N-diethyl-5-nitro-2-[(4propoxyphenyl)
+methyl]-1H-benzimidazole-1-ethanamine), Germany, 
+20 May 2021 
+22. EDMB-PINACA (ethyl 3,3-dimethyl-2-[(1pentylindazole-3-carbonyl)amino]butanoate), France, 
+26 May 2021 
+23. 4-(Trifluoromethyl) U-47700 (N-(2-(dimethylamino)
+cyclohexyl)-N-methyl-4-(trifluoromethyl)benzamide), 
+Germany, 2 June 2021 
+24. 1cP-AL-LAD (4-(cyclopropanecarbonyl)-N,N-diethyl-7-
+(prop-2-en-1-yl)-4,6,6a,7,8,9-hexahydroindolo[4,3-fg]
+quinoline-9-carboxamide), France, 28 June 2021 
+25. PEAP (N-ethyl-1-phenylpentan-2-amine), Sweden, 30 
+June 2021 
+26. 2’-Me-PVP (1-(2-methylphenyl)-2-(pyrrolidin-1-yl)
+pentan-1-one), Sweden, 6 July 2021 
+27. Ephinazone (2-ethyl-3-phenylquinazolin-4(3H)-one), 
+Germany, 12 July 2021 
+28. ADB-HEXINACA (N-(1-amino-3,3-dimethyl-1oxobutan-2-yl)-1-hexyl-1H-indazole-3-carboxamide), 
+Germany, 16 July 2021 
+
+37
+29. Hydroxetamine (2-(ethylamino)-2-(3-hydroxyphenyl)-
+cyclohexanone), Slovenia, 5 August 2021
+30. 3F-NEB (2-(ethylamino)-1-(3-fluorophenyl)butan-1one), Sweden, 10 August 2021 
+31. 3-Methyl-N-propyl-cathinone (2-(propylamino)-1-(3methylphenyl)-1-propanone), Hungary, 11 August 2021 
+32. 3-Chlorophenmetrazine (2-(3-chlorophenyl)-3methylmorpholine), Sweden, 13 August 2021 
+33. Deschloroclotizolam (2-chloro-9-methyl-4-phenyl-6Hthieno[3,2-f][1,2,4]triazolo[4,3-a][1,4]diazepine), 
+Sweden, 15 September 2021 
+34. Bretazenil (1,1-dimethylethyl 8-bromo-11,12,13,13atetrahydro-9-oxo-9H-imidazo[1,5-a]pyrrolo[2,1-c][1,4]
+benzodiazepine-1-carboxylate), Sweden, 17 
+September 2021 
+35. Dipyanone (4,4-diphenyl-6-(pyrrolidin-1-yl)heptan3-one), Germany, 29 September 2021 
+36. MDA-19 pentyl analogue (BZO-POXIZID; N-[(Z)-(2oxo-1-pentyl-indolin-3-ylidene)amino]benzamide), 
+Bulgaria, 21 October 2021 
+37. Iso-3-CMC (1-(3-chlorophenyl)-1-(methylamino)
+propan-2-one), Sweden, 25 October 2021 
+38. Desmethylmoramide (4-(4-morpholinyl)-2,2-diphenyl1-(1-pyrrolidinyl)-1-butanone), Germany, 9 November 
+2021
+39. MDA-19 4en-pentyl analogue (BZO-4en-POXIZID; 
+N-[(Z)-(2-oxo-1-pent-4-enyl-indolin-3-ylidene)amino]
+benzamide), Hungary, 11 November 2021 
+40. MDA-19 5-fluoropentyl analogue (N-[(Z)-[1-(5fluoropentyl)-2-oxo-indolin-3-ylidene]amino]
+benzamide), Bulgaria, 25 November 2021 
+41. 4-Cl-3-MMC (1-(4-chloro-3-methylphenyl)-2-
+(methylamino)propan-1-one), Sweden, 29 November 
+2021 
+42. 1V-LSD (N,N-diethyl-7-methyl-4-pentanoyl4,6,6a,7,8,9-hexahydroindolo[4,3-fg]
+quinoline-9-carboxamide), Germany, 2 December 
+2021
+43. 4-AcO-EPT ([3-[2-[ethyl(propyl)amino]ethyl]-1Hindol-4-yl] acetate), Sweden, 6 December 2021 
+44. CUMYL-TsINACA (N-(2-phenylpropan-2-yl)-1-tosyl-1Hindazole-3-carboxamide), Germany, 9 December 2021 
+45. Fenozolone (2-(ethylamino)-5-phenyl-4(5H)-
+oxazolone), Denmark, 13 December 2021
+46. 5,3-AB-CHMFUPPYCA (N-(1-amino-3-methyl-1oxobutan-2-yl)-1-(cyclohexylmethyl)-5-(4fluorophenyl)-1H-pyrazole-3-carboxamide), Germany, 
+14 December 2021
+47. 3,5-ADB-4en-PFUPPYCA (N-(1-carbamoyl-2,2dimethyl-propyl)-5-(4-fluorophenyl)-2-pent-4-enylpyrazole-3-carboxamide), Hungary, 14 December 
+2021 
+48. 5,3-ADB-4en-PFUPPYCA (N-(1-carbamoyl-2,2dimethyl-propyl)-5-(4-fluorophenyl)-1-pent-4-enylpyrazole-3-carboxamide), France, 15 December 2021 
+49. CHM-MDA-19 (N-[(Z)-[1-(cyclohexylmethyl)-2-oxoindolin-3-ylidene]amino]benzamide), Hungary, 17 
+December 2021 
+50. ADB-FUBIACA (N-(1-amino-3,3-dimethyl-1-oxobutan2-yl)-1-(4-fluorobenzyl)-1H-indole-3-acetamide), 
+Germany, 21 December 2021 
+51. Flubrotizolam (2-bromo-4-(2-fluorophenyl)-9-methyl6H-thieno[3,2-f][1,2,4]triazolo[4,3-a][1,4]diazepine), 
+Denmark, 22 December 2021 
+52. 3-Me-PCPy (1-[1-(3-methylphenyl)cyclohexyl]
+pyrrolidine), France, 22 December 2021
+
+38
+ I
+Annex 2
+ List of public health risk communications issued by the EMCDDA to the EWS Network — European Union, 2021
+1. 
+Fake oxycodone tablets containing brorphine — 
+Slovenia, 2021, Advisory, 22 January 2021
+2. 
+Cannabis adulterated with synthetic cannabinoids —
+Europe, 2020-ongoing, Advisory update, 9 March 
+2021
+3. 
+‘Tesla’ tablets containing a high dose of DOC 
+(2,5-dimethoxy-4-chloroamphetamine) missold as 
+2C-B — Netherlands, April 2021, Alert, 14 April 2021
+4. 
+Cannabis adulterated with synthetic cannabinoids —
+Europe, 2020-ongoing, Advisory update, 12 August 
+2021
+5. 
+Outbreak of bleeding linked to use of synthetic 
+cannabinoid smoking mixtures containing 
+brodifacoum (rat poison) — Israel, September 
+2021-ongoing, Alert, 8 October 2021
+6. 
+Fake Percocet tablet containing highly potent opioid 
+N-pyrrolidino etonitazene (etonitazepyne) sold on 
+darknet — Europe, 2021, Alert, 22 November 2021
+7. 
+Increase in identifications and potential risks posed by 
+cannabis edibles — Europe, 2020-21, Advisory, 
+17 December 2021
+
+GETTING IN TOUCH WITH THE EU
+In person
+All over the European Union there are hundreds of Europe Direct 
+information centres. You can find the address of the centre nearest 
+you at: https://europa.eu/european-union/contact_en
+On the phone or by email
+Europe Direct is a service that answers your questions about the 
+European Union. You can contact this service:
+• by freephone: 00 800 6 7 8 9 10 11 
+(certain operators may charge for these calls),
+• at the following standard number: +32 22999696, or
+• by email via: https://europa.eu/european-union/contact
+FINDING INFORMATION ABOUT THE EU
+Online 
+Information about the European Union in all the official languages of 
+the EU is available on the Europa website at: https://europa.eu
+EU publications
+You can download or order free and priced EU publications from: 
+https://publications.europa.eu/en/publications. 
+Multiple copies of free publications may be obtained by contacting 
+Europe Direct or your local information centre (see 
+https://europa.eu/european-union/contact).
+
+About this report
+This update from the EU Early Warning System 
+overviews the NPS situation in Europe in 2020-2021 
+and highlights emerging threats to support early 
+warning, preparedness planning and response 
+measures. In addition, it reflects on the changes and 
+the lessons learned from 25 years of monitoring NPS 
+in Europe.
+About the EMCDDA
+The European Monitoring Centre for Drugs and Drug 
+Addiction (EMCDDA) is the central source and 
+confirmed authority on drug-related issues in Europe. 
+For 25 years, it has been collecting, analysing and 
+disseminating scientifically sound information on drugs 
+and drug addiction and their consequences, providing 
+its audiences with an evidence-based picture of the 
+drug phenomenon at European level.
+The EMCDDA’s publications are a prime source of 
+information for a wide range of audiences including: 
+policymakers and their advisors; professionals and 
+researchers working in the drugs field; and, more 
+broadly, the media and general public. Based in Lisbon, 
+the EMCDDA is one of the decentralised agencies of 
+the European Union.

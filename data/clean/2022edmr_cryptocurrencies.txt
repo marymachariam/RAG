@@ -1,0 +1,2316 @@
+Authors
+Kim Grauer, Director of Research, Chainalysis 
+Eric Jardine, Cybercrime Research Lead, Chainalysis
+2022
+Cryptocurrencies and drugs: 
+Analysis of cryptocurrency use 
+on darknet markets in the EU and 
+neighbouring countries
+Background paper commissioned by the EMCDDA
+
+1 
+ 
+This paper was commissioned by the European Monitoring Centre for Drugs and Drug Addiction 
+(EMCDDA), through EU4MD and IPA7 projects, both funded by the European Commission, to provide 
+background material to inform and contribute to the analysis of EU Drug Markets. This background 
+paper was produced under contract no CT.1.EU4MD.0060.1.0 and we are grateful for the authors’ 
+valuable contribution. The paper is available online for those who would like further information on the 
+topic. However, the views, interpretations and conclusions set out are those of the authors and are not 
+necessarily those of the EMCDDA or its partners, any EU Member State or any agency or institution of 
+the European Union. 
+ 
+ 
+ 
+This report was prepared before Hydra Marketplace was closed by a joint law enforcement effort 
+involving multiple US and German agencies. In August 2022, it was too early to say what impact 
+its closure will have on the darknet market (DNM) ecosystem. 
+As this report illustrates (see Section 2.2), Hydra Marketplace was the primary site in the DNM 
+ecosystem in recent years. Its removal will undoubtedly affect the use of DNMs, but past closures 
+of this sort suggest that the effects will likely be short lived (Décary-Hétu and Giommoni, 2017; 
+Van Buskirk et al., 2017; Van Buskirk et al., 2014). While Hydra was a market of primary 
+importance from 2020 to early 2022, the same could have been said for Silk Road in 2011 to 2013 
+or AlphaBay in 2017 at the time of their closures. In each case, activity within the DNM ecosystem 
+recovered rapidly, as users migrated to other sites (ElBahrawy et al., 2020; van Wegberg and 
+Verburgh, 2018). Figure 1 illustrates these drops and the recovery of activity in stark detail. 
+Other markets in the ecosystem could readily absorb former Hydra Marketplace users after its 
+closure. According to Chainalysis data, 67 markets were waiting in the wings during 2021, 
+including Flugsvamp Market 3.0, Iceteam, World Market and ASAP Market. One or more of these 
+will probably capture much of the revenue and transaction activity that was formerly held by Hydra. 
+The recovery might take time, and some users may migrate to peer-to-peer exchanges (see Figure 
+15 in Section 6), but there is nothing to suggest that this time will be different. Continued monitoring 
+will be key. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+2 
+ 
+Contents 
+Key findings ............................................................................................................................................. 4 
+Introduction.............................................................................................................................................. 5 
+1. Methodology ........................................................................................................................................ 6 
+2. Past and present aggregate market trends at global level ................................................................. 8 
+2.1. Summary ..................................................................................................................................... 8 
+2.2. Introduction ................................................................................................................................. 8 
+2.3. Global market trends 2011-2021 ................................................................................................ 8 
+2.4. Top darknet markets in 2021 .................................................................................................... 10 
+2.5. Transaction flows ...................................................................................................................... 12 
+3. Trends in DNM activity by region ...................................................................................................... 14 
+3.1. Summary ................................................................................................................................... 14 
+3.2. Introduction ............................................................................................................................... 14 
+3.3. Regions in cross-sectional comparison .................................................................................... 15 
+3.4. Regions in a longitudinal comparison ....................................................................................... 16 
+3.5. Countries within regions: A first look at per capita sent and received activity .......................... 17 
+4. Trends in DNM activity by country .................................................................................................... 19 
+4.1. Summary ................................................................................................................................... 19 
+4.2. Introduction ............................................................................................................................... 19 
+4.3. The European Union ................................................................................................................. 19 
+4.4. The UK+NO+TR regional grouping .......................................................................................... 21 
+4.5. The EU’s Southern Neighbourhood .......................................................................................... 21 
+4.6. The EU’s Eastern Neighbourhood ............................................................................................ 22 
+4.7. The Western Balkans ................................................................................................................ 23 
+4.8. Russia ....................................................................................................................................... 24 
+4.9. Hydra Marketplace .................................................................................................................... 25 
+5. Legal frameworks .............................................................................................................................. 26 
+5.1. Summary ................................................................................................................................... 26 
+5.2. Introduction ............................................................................................................................... 26 
+5.3. The broad contours of legal rules across 54 countries ............................................................. 26 
+5.4. Regional and country examples................................................................................................ 27 
+The European Union ................................................................................................................... 27 
+Germany ..................................................................................................................................... 28 
+Malta ........................................................................................................................................... 28 
+Estonia ........................................................................................................................................ 28 
+Romania ...................................................................................................................................... 29 
+
+3 
+ 
+Sweden ....................................................................................................................................... 29 
+The EU’s Southern Neighbourhood ............................................................................................ 29 
+The EU’s Eastern Neighbourhood .............................................................................................. 30 
+Western Balkans ......................................................................................................................... 30 
+6. Policy implications ............................................................................................................................. 31 
+Glossary of terms .................................................................................................................................. 33 
+References ............................................................................................................................................ 34 
+Annex .................................................................................................................................................... 36 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The countries in this report are aggregated into six blocks: the European Union (EU); the United Kingdom, 
+Norway and Turkey (UK+NO+TR); the EU’s Eastern Neighbourhood; the Western Balkans; the EU’s Southern 
+Neighbourhood; and Russia, which is treated as a standalone regional and country-level unit due to its 
+outsized role in the DNM ecosystem at the time of the study, as follows: 
+1. 
+The EU includes Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, 
+France, Germany, Greece, Hungary, Ireland, Italy, Latvia, Lithuania, Luxembourg, Malta, 
+Netherlands, Poland, Portugal, Romania, Slovakia, Slovenia, Spain and Sweden. 
+2. 
+The UK, NO, TR grouping includes the United Kingdom, Norway and Turkey. 
+3. 
+The Eastern Neighbourhood grouping include Armenia, Azerbaijan, Georgia, Moldova, Belarus and 
+Ukraine. 
+4. 
+The Western Balkan region includes Albania, Bosnia and Herzegovina, North Macedonia, Kosovo* 
+(*This designation is without prejudice to positions on status and is in line with UNSCR 1244/1999 
+and the ICJ Opinion on the Kosovo declaration of independence), Montenegro and Serbia. Data on 
+Kosovo are not available in the Chainalysis dataset, and this country is not included in the analysis 
+below. 
+5. 
+The EU’s Southern Neighbourhood includes Algeria, Egypt, Israel, Jordan, Lebanon, Libya, Morocco, 
+Palestine (this designation shall not be construed as recognition of a State of Palestine and is without 
+prejudice to the individual positions of the Member States on this issue), Syria and Tunisia. Palestine 
+does not have population data available via the World Bank, so it is excluded from all per capita 
+analysis. 
+6. 
+Russia is not a part of the EU’s Eastern Neighbourhood but is included in the report due to its 
+general geographical location (eastern Europe/Eurasia) and relevance to the Darknet market 
+ecosystem. 
+
+4 
+ 
+Key findings 
+This report uses data from Chainalysis(1) to estimate the degree of activity in the darknet market 
+(DNM) ecosystem (from 1 June 2011 to 31 October 2021) and triangulate these activities collated to 
+the countries of the European Union and its surrounding neighbours (54 countries in all; from 1 April 
+2019 to 1 June 2021). The report also provides a discussion of the constantly evolving legal 
+environments that govern cryptocurrency use in some of these countries. 
+The key findings from the analysis are given below. 
+• 
+The DNM ecosystem has grown significantly since its inception in 2011. 
+• 
+After the early and rapid expansion of the DNM ecosystem in 2011-2013, growth continued 
+but was periodically interrupted due to market volatility. 
+• 
+At any point in time, most activity in the DNM ecosystem is clustered in one or two major 
+markets. 
+• 
+The euro-to-transaction ratio has been increasing over time, which suggests a move towards 
+larger volume or higher priced purchases on DNMs. 
+• 
+The euro-to-transaction ratio increased significantly around June 2017, which corresponds 
+with Operation Bayonet that closed the AlphaBay and Hansa DNMs. 
+• 
+Regions have sizable differences in total revenue engagement with DNMs. The EU, the 
+UK+NO+TR grouping, the Eastern European Neighbourhood and Russia account for many 
+times more activity than the Western Balkans and the EU’s Southern Neighbourhood. 
+• 
+All regions show a similar pattern. Revenue sent to DNMs is typically less than that received 
+back from these wallets. This suggests that there is regional variation in the volume of 
+engagement with DNMs but not pronounced regional-level differences in role (i.e. buying 
+regions, selling regions, admin regions, etc.). 
+• 
+Over the observed time range, most regions have exhibited a growth in their revenue 
+engagement (both sent and received) with DNMs, with the exception being the Western 
+Balkans. 
+• 
+Nineteen EU countries, three countries in the EU’s Eastern Neighbourhood, Russia and 
+Montenegro from the Western Balkans could be considered sizable players in the DNM 
+ecosystem. 
+• 
+In per capita terms, the three countries that show the most engagement with DNMs are in the 
+EU: Latvia (highest overall), Luxembourg (highest receiving country) and Sweden (highest 
+sending country). 
+• 
+Within each region, there are notable gaps between the most engaged and least engaged 
+countries (except the single-country Russian grouping). 
+• 
+In terms of economic engagement, the regions can be divided into mature (EU, Eastern 
+Neighbourhood, UK+NO+TR and Russia) and immature (Southern Neighbourhood and the 
+Western Balkans) areas, with notable differences in the relationship between the most active 
+countries within each subset. 
+• 
+The countries with the highest level of total per capita revenue engagement with DNMs in 
+most regions also showed little additional growth in activity during the 1 April 2019 to 1 June 
+2021 period, which suggests the potential for market saturation or regression to the mean 
+dynamics. 
+• 
+Exchanges are a common way of initially obtaining cryptocurrency to fund on-chain wallets. 
+• 
+Exchanges governed by know-your-customer (KYC) and anti-money laundering (AML) rules 
+are typically required to obtain real identity documents from clients, so that law enforcement 
+can trace transactions from DNMs to real-world individuals. 
+ 
+(1) Chainalysis is a private company that provides data, software, services and research to government agencies, exchanges, 
+financial institutions, and insurance and cybersecurity companies about data stored on the blockchain. 
+
+5 
+ 
+• 
+Not all countries in the sample have KYC and AML rules in place for exchanges working 
+within their jurisdictional boundaries. 
+• 
+Some national rules are inconsistent in design or application, which creates the possibility of a 
+patchwork regulatory regime. 
+• 
+Eight of the 54 countries (~15 %) in the sample have outright bans on cryptocurrencies, yet 
+engagement with DNM continues in these locations, particularly among those in the EU’s 
+Southern Neighbourhood. 
+Introduction 
+Darknet markets (DNMs), which combine the online anonymity-granting functions of Tor with 
+traditional trust-building e-commerce trappings (e.g. vendor rating systems), have become a small but 
+non-negligible proportion of the global drug market (Soska and Christin, 2015; EMCDDA-Europol, 
+2017). By linking buyers and sellers of illicit drugs via the internet, DNMs overcome some of the 
+restrictive elements of traditional drug markets. Typical offline drug exchanges are largely tethered to 
+physical space and usually require some degree of interpersonal interaction between buyers and 
+sellers. In contrast, DNMs happen in the largely anonymous, borderless, asynchronistic online world 
+of the Dark Web (Martin, 2014a, 2014b). By obfuscating the identity of participants and partially 
+untethering drug exchange from the geographical location of participants, DNMs make tracing the flow 
+of drug revenues and illicit goods between countries a challenge. Yet understanding these trends 
+remains important for the development of supply-side and demand-side drug policies. 
+The anonymity that is at the core of DNMs contrasts with the functional legibility of cryptocurrency 
+blockchains. Blockchains are public ledgers that contain a permanent record of transactions between 
+pseudo-anonymous wallet addresses. While the addresses themselves are 17-34-digit alphanumeric 
+strings, people, groups and institutions operate behind these digital identifiers. If the identity behind 
+the address can be determined or an address can be linked to an illicit activity, then all transactions 
+undertaken by that wallet (i.e. money sent or received) can be observed. This allows for an extremely 
+accurate record of the flow of revenue. Since DNMs use cryptocurrencies, particularly Bitcoin, as their 
+medium of exchange (Martin, 2014b), the legibility of the blockchain enables an estimation of the flow 
+of value to and from DNMs. These estimates can be made overall and, with some additional 
+assumptions and data, by country or regionally. 
+In this report, we use Chainalysis data to trace engagement with DNMs overall (from 1 June 2011 to 
+31 October 2021) and in the European Union and its surrounding countries (from 1 April 2019 to 1 
+June 2021) (2). The countries in this report are aggregated into six blocks: the European Union (EU); 
+the United Kingdom, Norway and Turkey (UK+NO+TR); the EU’s Eastern Neighbourhood; the 
+Western Balkans; the EU’s Southern Neighbourhood; and Russia, which is treated as a standalone 
+regional and country-level unit due to its outsized role in the DNM ecosystem at the time of the study. 
+The report is divided into six parts. The first section provides an overview of the data collection 
+methodology and focus of the report. The second section summarises activity in the wider DNM 
+ecosystem, with an emphasis on the global trend in DNM revenue from 1 June 2011 to 31 October 
+2021, the trend in sent or received cryptocurrency by market during a shorter time interval (1 January 
+2021 to 31 October 2021), and trends in transaction ratios from 1 June 2011 to 31 October 2021. The 
+third section focuses on the flow of cryptocurrencies to and from DNMs by region. It provides the first 
+glimpse at how these sites are used within the EU and its surrounding areas. This section details the 
+total cross-sectional revenue comparisons between regions, over time trends in revenue engagement 
+with DNMs by region, and an initial disaggregation of regions and countries in total sent and received 
+DNM revenue. The fourth section unpacks country-specific trends in revenue engagement with DNMs, 
+ 
+(2) The overall and geographically specific trends leverage different collection methodologies (see the Methods section below) 
+and thus have different, but overlapping, time frames. 
+
+6 
+ 
+organised around each regional block. The fifth section presents a summary table of the prevailing 
+legal context in each country, and selected country and regional case studies. The final section offers 
+supply-side and demand-side policy recommendations based on the results of the data analysis. 
+1. Methodology 
+This report leverages a combination of data from on-chain (i.e. data from the blockchain) and web 
+traffic (i.e. IP-based site visitor information) sources. The latter are taken from a third-party vendor 
+called Similar Web. The report uses these data to assess the prevalence and severity of DNM-related 
+cryptocurrency activity and, with some limitations, its geographical pattern in and around the European 
+Union (EU). Despite the transparency of the blockchain, estimating the flow of cryptocurrency 
+precisely is often an exercise in false precision. Due to the decentralised nature of cryptocurrency and 
+the availability of obfuscation technologies such as mixing services, it is difficult, if not impossible, to 
+know the true amount of cryptocurrency usage associated with a particular service (i.e. DNM) or a 
+specific country. While we exclude DNMs that are nominally oriented toward fraud or the sale of digital 
+goods, our estimation of cryptocurrency activity likely does include more than just drug-related sales, 
+even though the bulk of activity on the markets in the sample are for drugs. In short, our methodology 
+provides approximate, yet directionally correct estimates of the volume of flows and an ordinally 
+correct comparative ranking between geographical locations. 
+To show how this is done, we first introduce a concept unique to Chainalysis called ‘indirect exposure’. 
+Chainalysis has an algorithm called ‘indirect exposure’ that calculates the paths funds take between 
+services. For example, a darknet market vendor may send cryptocurrency through thousands of 
+wallets before the funds hit an exchange. Chainalysis traces all the paths these funds take until they 
+hit a known service. In this context, we analyse the services used by darknet market vendors, to 
+identify a geographic footprint. Many services have a strong geographic footprint. This might be for 
+banking reasons, language reasons or even due to network effects. We exploit this fact and assume 
+that the geographic footprint of the funds emanating from DNM services is a proxy for the location of 
+the users and vendors on marketplaces. 
+We calculate the country-level estimate of cryptocurrency value based on observed service-level 
+activity used by DNM participants, multiplied by the share of a service’s web traffic from a particular 
+country in a given month. All activity belonging to a country is then summed or divided over a given 
+time scale (e.g. years, months or days). These estimates are then assessed relative to the time zone 
+of the platforms’ cryptocurrency activity, the fiat currency pairs offered by the exchange, the website 
+language options and the location of the platform headquarters. We then merge these data with onchain data estimating flows to specific categories of cryptocurrency wallets, such as those associated 
+with DNM activity. 
+This combined approach to estimating the pattern of illicit cryptocurrency activity and the geographical 
+flow of value to and from DNMs has some limitations. The estimation of the flows has at least four 
+caveats. First, the approach is restricted to observed on-chain data, meaning that activity of interest 
+that does not occur via the blockchain will not be recorded. For example, if buyers and sellers on a 
+DNM opt to ‘go direct’ and employ an alternative payment scheme (e.g. Venmo transfer, a prepaid gift 
+card or even cash), then this activity would not be recorded in our data collection (Childs et al., 2020; 
+Jardine, 2021; Moyle et al., 2019). Second, we do not capture cryptocurrency trading volume when 
+someone purchases cryptocurrency with fiat currency and keeps it on an exchange, trades on an 
+exchange or cashes out on an exchange. This activity is not recorded on the blockchain, but is 
+recorded in the private order books of exchanges. Third, with limited exceptions (LocalBitcoins and 
+Paxful), we do not account for other off-chain data that might be related to peer-to-peer exchanges. 
+Finally, when we estimate the flow of value to and from cryptocurrency wallets associated with DNMs, 
+these estimates will include some proportion of activity that is not necessarily drug-related, such as 
+the purchase or sale of armaments, hacking tools, identity credentials and so forth. That being said, 
+
+7 
+ 
+DNMs have historically been heavily weighted toward drug transactions so the bulk of observed 
+activity likely comes from this sort of commercial activity (Christin, 2013; Soska and Christin, 2015), 
+though this balance seems to be diminishing over time (EMCDDA and Europol, 2017). 
+The estimation of the geographical dispersion of DNM activity likewise has its limits. First, the 
+relationship between web searches and cryptocurrency activity is not equal (it is a best estimate but 
+still an estimate). Secondly, web traffic data do not account for VPN usage: at times we pick up a 
+different country to where a person actually is, due to the geolocation of the VPN exit node. Third, 
+because we apply web traffic shares regardless of transfer size, we likely underestimate users in a 
+country that makes large transfers. A final limitation is that not all potential areas of interest, such as 
+Kosovo, are included in the geographical dataset, though coverage remains fairly comprehensive. 
+Overall, while the data collection methods used in this report have limits, the resulting data are likely to 
+be valid in two crucial ways. First, the direction of the data is likely correct, meaning that a recorded 
+increase in DNM cryptocurrency activities in Sweden over a period of time, for example, is likely 
+representative of a real increase, even if the precise magnitude of the change is potentially biased. 
+Second, it is likely that the estimations of country flows in the current data are biased to similar 
+degrees, with some potential for undercounting in countries within the EU’s Southern Neighbourhood 
+where internet infrastructure might be marginally lower. The implication is that rankings of DNM 
+cryptocurrency flows by country or region likely capture the true rank ordering of things, even if the 
+precise interval distance between any two countries is likely subject to some degree of uncertainty. 
+ 
+ 
+
+8 
+ 
+2. Past and present aggregate market trends at global level 
+2.1. Summary 
+• 
+The DNM ecosystem has grown significantly since its inception in 2011. 
+• 
+The early and rapid rate of expansion of the DNM ecosystem has slowed since 2011-2013. 
+• 
+At any one point and time, most activity in the DNM ecosystem is clustered in one or two 
+major markets. 
+• 
+The euro-to-transaction ratio is increasing over time, which suggests a potential move toward 
+larger volume (or higher priced) purchases and sales on DNMs. 
+• 
+The euro-to-transaction ratio increased significantly around June 2017, coinciding with 
+Operation Bayonet that closed the AlphaBay and Hansa DNMs. 
+2.2. Introduction 
+This section broadly summarises the observed trend in DNM activity at global level. The first 
+subsection summarises long-term trends in the DNM ecosystem by market from early 2011 until 2021. 
+The DNM ecosystem contained 127 distinct nominally active markets during this time. However, 
+users, vendors and drug exchange activity tend to cluster towards a few dominant marketplaces in 
+each epoch (ElBahrawy et al., 2020) and market closures happen frequently (Décary-Hétu and 
+Giommoni, 2017; Soska and Christin, 2015). Given this pattern, we present data in the first subsection 
+only for the markets that made up over 1 % of the total share of revenue activity during the 2011-2021 
+period. A total of 13 markets within the dataset matched this criterion. The remaining 114 markets had 
+revenue levels below this proportional threshold. Additionally, because activity clusters so sharply in a 
+few markets and few markets persist for longer than a few years, we present in the second subsection 
+the trend in sent and received activity for the top 15 markets during a shorter time frame (1 January 
+2021 to 1 June 2021). The third subsection presents the trend in revenue flows to observed 
+transactions. 
+2.3. Global market trends 2011-2021 
+Figure 1 depicts the monthly trend in revenue flows and transactions for all 13 markets that made up 
+at least 1 % of total revenue activity in the entire global DNM ecosystem from 2011 to 2021. To 
+showcase the degree to which a single market dominated the DNM ecosystem at this time, the figure 
+also plots the same market values for the period but without Hydra Marketplace, which was the largest 
+market in operation during the study period. 
+The data shown in Figure 1 exhibit four patterns. First, over this longer period, the volume of market 
+revenue and transactions within the darknet ecosystem increased significantly more than in the early 
+days of the Silk Road (Christin, 2013; Soska and Christin, 2015). According to these data, the total 
+population of DNMs in 2011 transacted approximately EUR 6.7 million. In 2020, the last year for which 
+full data are available, DNMs collectively transacted EUR 3.145 billion, or around 469 times as much 
+per year revenue throughput in just nine years. Transactions similarly increased significantly during 
+this time, increasing from about 260 000 transactions in 2011 to about 12 million in 2020, which is a 
+roughly 46.5-fold increase. 
+
+9 
+ 
+ 
+ 
+The second trend of note is that the rate of expansion of the DNM ecosystem is slowing, as shown 
+more specifically in Table 1 (see Annex). There are many potential reasons for the plateauing rate of 
+growth. One might be the saturation of latent DNM users in countries with high levels of internet 
+connectivity. Frequenting DNMs is a comparatively inconvenient way to procure drugs that requires a 
+fair degree of technological sophistication, information accumulation and user socialisation to the 
+norms of the space (Barratt et al., 2016; Chen et al., 2022; Maddox et al., 2016). These requirements 
+are surmountable for many but may place participation in the darknet drug market space beyond 
+reach for some, especially if basic physical requirements of use (e.g. a secure mailing address or 
+reliable internet connectivity) are not readily available. Another contributory factor to the plateau could 
+be the cumulative effect of numerous DNM closures by law enforcement. While individual closures 
+have tended to cause only short-term disruptions to the ecosystem (Décary-Hétu and Giommoni, 
+2017; Soska and Christin, 2015; Van Buskirk et al., 2017), the cumulative effect of these efforts might 
+contribute to the emergent plateau in DNM activity that is observable from 2019-2021. Exit scams, as 
+happened with markets such as Evolution or Dream, and voluntary closures might also limit the 
+volume of activity in the ecosystem over time. Finally, period-over-period rates of growth should 
+naturally decline as the size of the DNM ecosystem increases. At three-to-four billion euro of total 
+transactional revenue, the DNM ecosystem is certainly so large now that maintenance of the early 
+prodigious growth rates is unlikely, even without user saturation or potential cumulative deterrence 
+effects (for evidence of country-specific plateaus, see Subsections 4.3 to 4.8). Interestingly, as 
+explained in more detail in Subsection 2.4 below, the rate of revenue growth has far outpaced the 
+change in transaction volume. 
+The third trend that is clearly evident from Figure 1 is that the darknet market ecosystem has only a 
+few dominant markets at any particular point in time (ElBahrawy et al., 2020; Soska and Christin, 
+2015). While the data included some 127 distinct DNMs, only 13 had at least 1 % of the total 
+ecosystem revenue and made up enough activity to warrant display. Earlier markets, such as the Silk 
+Road, Evolution, AlphaBay and Dream, were preeminent in their time, but have long since closed, 
+only to be replaced by other dominant players (ElBahrawy et al., 2020). As shown in Figure 1, a single 
+marketplace (Hydra – teal blue in the figure) emerged as the primary market focal point in today’s 
+DNM ecosystem. Since its inception in late 2015, Hydra’s yearly revenue increased from around 
+
+10 
+ 
+EUR 3 000 to closer to EUR 1.97 billion collectively sent and received in 2021. Expressed in 
+proportional terms, these numbers suggest that Hydra Marketplace made up roughly 93 % of the total 
+2021 revenue in the DNM ecosystems. Indeed, when Hydra Marketplace is excluded from the graphic 
+(see the second pane in Figure 1), the system appears to be largely plateauing. The figures without 
+the dominant marketplace in each period illustrate that this current pattern of clustered use is a 
+recurring feature of drug exchange in this environment. Hydra Marketplace was closed by a joint law 
+enforcement effort, involving multiple US and German agencies in April 2022. 
+The patterns apparent in Figure 1 suggest a clear need to dive deeper into market-specific trends over 
+shorter time scales (Subsection 2.3), since the big players effectively account for the vast majority of 
+all revenue activity. They also indicate the need to explore the relationship between total revenue and 
+transaction volumes over time in more detail (Subsection 2.4). 
+2.4. Top darknet markets in 2021 
+Figure 2 breaks down the market-specific trends in sent and received cryptocurrency for the 15 top 
+markets during the course of 2021(3). Some of these markets (e.g. Canadian Headquarters) are 
+predominantly regional in their orientation and cater to buyers and sellers outside the EU and its 
+surrounding areas. However, they still transacted sufficient revenues to rank within the top 15 markets 
+globally in 2021 and they help to reveal what is happening in the DNM ecosystem at macro level. 
+ 
+(3) Select markets that tailor more toward sales of identity credentials or non-drug related goods are not included in this count of 
+the top 15 markets’ activity during this time period. 
+
+11 
+ 
+ 
+Two patterns are particularly evident from this more disaggregated temporal and cross-sectional 
+analysis. First, a number of markets grew during 2021, such as Hydra (+10 % increase), ASAP Market 
+(+1 028 % increase) and World Market (+ 299 % increase). While markets like ASAP and World 
+Market have increased at the fastest rate of change, it is also abundantly clear (see Section 2.2) that 
+Hydra Marketplace dominated the DNM ecosystem in terms of absolute value sent 
+(EUR 949 037 246) and received (EUR 958 689 455) in 2021. Indeed, Hydra processed more revenue 
+throughout this period than all the other top-15 markets in 2021 combined, and it captured 93 % of 
+observed revenue activity. 
+The second trend of note in Figure 2 is that a few marketplaces, such as weedzy.co.uk and 
+DarkMarket, experienced short-lived spikes in activity early in the year, followed by a collapse back 
+toward inactivity. In both cases, this was due to law enforcement intervention. In early 2021, German 
+police arrested DarkMarket’s main administrator in Germany (Butler, 2021). Weedzy was likewise 
+shutdown by British police in January 2021 (Admin, 2021). One very tentative lesson from the fall of 
+these markets is that success (when coupled with site administration errors) can breed failure. This is 
+often due to increased law enforcement attention as a function of market size and rate of expansion. 
+The law enforcement take-down of Hydra in April 2022 appears to confirm this. 
+
+12 
+ 
+2.5. Transaction flows 
+Figure 3 depicts the trend in two euro-to-transaction ratios within the DNM ecosystem. These ratios 
+are the per month value of transactions (in euros) divided by the number of transactions per month. 
+These measures essentially represent the euro value per transaction on DNMs over time. The 
+separate measures capture both deposit (buyers) and withdrawal (cash outs by vendors or market 
+admins) activity. Due to a few extreme outliers (e.g. one monthly euro-to-transactions ratio value of 
+555 596.6 that likely corresponds to an exit scam period), the figure presents the log (base 2) of the 
+values of these measures. To avoid logging zeros, a small positive value (1) was added to all 
+observations. The dots represent distinct market/month observations from June 2011 to October 
+2021. An overlaid loess trend line in the scatter plot illustrates directionality. 
+ 
+Three things are evident from the trend in the euro-to-transaction ratios plotted in Figure 3. First, the 
+ratio data in Figure 3 show that the transactional behaviour of DNM participants changed part way 
+through 2017, leading to decidedly higher euro-to-transaction ratios after around June or July of that 
+year, before stabilising again at these higher rates. The most likely cause of this change is the closure 
+of Hansa and AlphaBay markets during Operation Bayonet, which removed the largest markets in 
+operation at the time. This joint operation also differed from previous market closures, in that 
+AlphaBay was seized by the FBI while Hansa was being actively run as a honeypot by police in the 
+Netherlands (Jardine, 2021). As users migrated from AlphaBay to Hansa (van Wegberg and 
+Verburgh, 2018), Dutch law enforcement were able to record a variety of personal details about 
+incoming users due to prior site reconfigurations. Knowledge of how Operation Bayonet unfolded 
+could have prompted subsequent changes to user behaviour that had been previously unseen in the 
+ecosystem. 
+The second evident trend is that the ratio of euros to both deposits and withdrawals, which represent 
+the two sides of transactions on DNMs, are gradually increasing over time in both cases. Framed 
+
+13 
+ 
+differently, this trend shows that more euros are being spent per transaction on DNMs. For example, 
+this trend implies that buyers (deposit ratio) spent more, on average, for each transaction with DNM 
+cryptocurrency wallet addresses in 2021 than in 2011. The cause of this increasing expenditure could 
+be a rise in larger volume drug-related purchases from DNMs. However, it could also be that buyers 
+are purchasing more expensive drugs or that prices are cyclically increasing due to inflationary 
+pressures. 
+To the extent that the ratio is increasing due to changes in buyer behaviour, greater purchasing 
+revenue per transaction could be a risk mitigation strategy by buyers, who may view making fewer but 
+larger purchases as a way to minimise the risk of arrest, particularly as the interdiction of drugs in the 
+mail has led to a number of high-profile law enforcement operations (Jardine, 2021). Of course, larger 
+purchases might be more likely to be intercepted, so buyers could be relying on an optimisation 
+strategy that balances the number of transactions with the risk of buying larger volumes. Along the 
+same lines, higher volume purchases could suggest that DNMs are being increasingly used for larger 
+transactions meant for some combination of local social supply or redistribution (Aldridge and DécaryHétu, 2016). 
+The final pattern evident from the ratio data in Figure 3 is that withdrawals tend to be of a consistently 
+higher ratio value than deposits. Three underlying reasons might account for this higher score. First, a 
+single vendor might service multiple buyers over short time scales. In this process, DNMs might take 
+in numerous, smaller denomination payments from buyers, store these funds in escrow, and then 
+dispense a cumulatively larger sum to a vendor in fewer outgoing transactions. Second, DNMs usually 
+take a fee to act as escrow (Hydra’s commission was around 4 %, for example). If the DNM admins 
+hold this money in their market wallets and then transfer it out to other addresses in larger sums, then 
+these transfers would increase the observed euro-to-transaction withdrawal ratio. Finally, especially 
+for funds taken by the DNM admins as commission, cryptocurrency price appreciation could result in 
+higher outgoing than incoming euro-to-transaction ratios. For example, if a DNM’s commission at the 
+time of sale for a single transaction amounted to 10 euros, but then Bitcoin (BTC) appreciated 100 % 
+before this money was moved out of the DNM wallets by the site admins, the observed ratio on the 
+withdrawal of the funds would be twice as large as the deposit ratio for the same funds. 
+ 
+ 
+
+14 
+ 
+3. Trends in DNM activity by region 
+3.1. Summary 
+• 
+Regional areas exhibit sizable differences in total revenue engagement with DNMs, with the 
+EU, the UK+NO+TR grouping, the Eastern European Neighbourhood and Russia 
+accounting for many times more DNM activity than the Western Balkans and the EU’s 
+Southern Neighbourhood. 
+• 
+All regions exhibit a similar pattern where revenue sent to DNMs is typically less than that 
+received back from these wallets. This suggests regional variation in the volume of 
+engagement with DNMs but not pronounced regional-level differences in role (i.e. buying 
+regions, selling regions, admin regions, etc.). 
+• 
+Over the full observed time range, most regions exhibited growth in their revenue 
+engagement (both sent and received) with DNMs, with the one potential exception being the 
+Western Balkans. 
+• 
+Nineteen EU countries, three countries in the EU’s Eastern Neighbourhood, Montenegro 
+and Russia could be considered sizable players in the DNM ecosystem. 
+• 
+In per capita terms, the three countries that engage most with DNMs are all in the EU, 
+including Latvia (highest overall), Luxembourg (highest receiving country) and Sweden 
+(highest sending country). 
+3.2. Introduction 
+While DNMs connect buyers and sellers across national borders, users nevertheless remain localised 
+to some degree. Buyers still need to have illicit drugs shipped to an accessible mailing address to 
+complete an exchange. Vendors still need to send drugs from their location to the buyer – assuming 
+they are not part of a dropshipping network. To ameliorate potential scams by either buyers or sellers, 
+DNMs tend to stand in the middle of these deals and provide an escrow account facility, holding the 
+cryptocurrency from a given transaction until the drugs have been shipped and the buyer confirms 
+satisfactory receipt (Horton-Eddison and Di Cristofaro, 2017). However, market participants can also 
+opt to ‘go direct’ (Childs et al., 2020; Moyle et al., 2019). 
+This typically three-part market structure implies a way to estimate the geography of DNM exchanges 
+via the blockchain. Buyers should predominantly send cryptocurrency to DNM wallets, which will hold 
+these funds in escrow. Vendors should predominantly receive cryptocurrency from DNM wallets once 
+a deal is finalised, with some slippage to account for market fees, which might also flow from DNM 
+addresses to the personal wallets of site administrators located in specific jurisdictions. Using the 
+geographical estimation methodology detailed in Section 1, we traced cryptocurrency flows to and 
+from the countries of the European Union (EU), the UK, Norway and Turkey (UK+NO+TR), Europe’s 
+Eastern Neighbourhood, the Western Balkans, Europe’s Southern Neighbourhood and Russia. Unlike 
+the data used in the previous section, the geographical collection methodology covers the time frame 
+stretching from 1 April 2019 to 1 June 2021. 
+In the estimation of geographically specific DNM activities, we start in the first subsection by detailing 
+cumulative sent or received DNM activity by regional grouping. In the second subsection, we carry out 
+a cross-sectional and longitudinal comparison of the regions, to contrast sent and received DNM 
+activity by region over time. The last subsection presents the first per capita comparison of regions 
+and countries. It identifies areas that are significant focal points for DNM revenue engagement. 
+
+15 
+ 
+3.3. Regions in cross-sectional comparison 
+Figure 6 presents a set of faceted violin plots of sent or received cryptocurrency by region. In the 
+figure, each dot represents a monthly observation for a country nested within a respective region and 
+the boundaries of the violin plots show the density of the data points at each level of euros sent or 
+received. Four patterns become apparent when we compare the regions in this way. 
+ 
+ 
+First, within five of the six regional areas, most countries in most months only sent or received 
+comparatively small levels of revenue, given each region’s observed maximum revenue flows. The 
+violin plots in the first five regional area panes in Figure 6 show this pattern with wide density 
+boundaries at the lower end of the y-axis. Russia was a significant outlier, with the lowest monthly 
+value being around 5 million euro, as opposed to roughly 0 for all other regions. In total, most 
+countries in most regions exhibited comparatively low levels of DNM cryptocurrency activity most of 
+the time, with episodic bursts to the contrary. 
+Second, all six regional areas tended to send cryptocurrency revenues to DNMs at lower 
+country/month revenue volumes than those at which they received funds. This sent or received 
+pattern by regional area could suggest that there are really two predominant types of DNM use. These 
+are routine use, which would involve small-to-medium size regular purchases and sales and that 
+would add up to comparatively low monthly rates of sending or buying activity, and large-scale exits, 
+which could involve significant cash-outs by admins or major vendors and would aggregate to very 
+large monthly sums of received cryptocurrency currency. 
+The third observation that can be made is that the absolute scale of DNM revenue activity varied 
+considerably between regions. The summed maximum value sent and received in a month by all 
+countries within the EU, for example, was EUR 194 620 195. In contrast, within the Western Balkans 
+(the region with the lowest engagement), the similar total value sent and received in a given month 
+was only EUR 1 308 052, or roughly 149 times less. The full summary statistics for each region by 
+sent and received revenue flows are presented in Table 2 (available in the Annex). 
+
+16 
+ 
+3.4. Regions in a longitudinal comparison 
+The cross-sectional comparisons of regions reveal several things about each location’s engagement 
+with DNMs, but such contrasts cannot pinpoint the trend in monthly activity over time. Figure 5 details 
+the trend in average regional monthly flow of revenue over the full-time frame of the available cryptoby-regional grouping data. Figure 6 details the average monthly flow of revenue per 100 000 people 
+during the 2019-2021 period, to correct for the idea that large population areas would naturally 
+observe larger absolute flows, everything else being equal. A few trends are apparent in these plots. 
+ 
+ 
+First, in absolute revenue terms, Russia transacted significantly more monthly DNM revenue on 
+average than any other region (see also Subsection 3.3). Second, every region except the Western 
+
+17 
+ 
+Balkans has increased its absolute and per capita revenue engagement with darknet markets. Third, 
+in per capita terms, several regions were roughly comparable in terms of economic engagement with 
+darknet markets, with Russia being similar in this regard to the Eastern Neighbourhood, and the UK, 
+NO, TK region being similar to the EU. Finally, engagement with DNMs in the Western Balkans 
+remained comparatively low and exhibited a flat trend over this period, in absolute and per capita 
+terms. The EU’s Southern Neighbourhood had very low absolute and per capita revenue engagement 
+with darknet markets (see also Subsection 3.3). This suggests that DNM activity in this area is 
+nascent. However, engagement increased significantly in the later part of the observation period 
+based on the underlying directional trend. 
+3.5. Countries within regions: A first look at per capita sent and received 
+activity 
+Thus far, the regional analysis has aggregated countries into their overarching larger geographical 
+units. This subsection presents a first look at distinct countries in a comparative perspective by plotting 
+per capita sent and received revenues by country and region. 
+Figure 7 depicts aggregate summary values for the per capita rate of sent and received revenue by 
+country and region for the entire available time range of the data. DNM transactions and revenue 
+patterns tend to be distributed non-normally (Christin, 2013), which makes the average a poor 
+measure of central tendency. Consequently, the chart is bisected into four quadrants at the median 
+values of sent or received. The lower left quadrant next to origin can be thought of as the zone of 
+countries that use cryptocurrencies to interact with DNM wallets the least, both as prospective buyers 
+(sent) and potential vendors or administrators (received). Countries in the top left quadrant have a 
+high received rate and would potentially be areas of comparatively large vendor or administrator 
+activity. Countries in the lower right quadrant have comparatively high volumes of sent cryptocurrency 
+and could be areas with large buyer populations. Countries that are in the top right quadrant have high 
+volumes of both sent and received and could be thought of as major overall DNM players. 
+A few patterns are clear from the plot of the data. First, the countries in the EU’s Southern 
+Neighbourhood are not significant locations for DNM activity in per capita terms. No country from this 
+region falls above the median value for either sent or received cryptocurrency. Second, only one 
+country from the Western Balkans, Montenegro, could be categorised as a significant location for 
+DNM activity (top right quadrant). Third, half of the countries in the EU’s Eastern Neighbourhood are 
+major areas of DNM activity, with the exception of Armenia, Azerbaijan and potentially Georgia (which 
+sits on the median line). Finally, 19 of the 27 EU countries tend to receive and send a relatively large 
+amount of cryptocurrency vis-à-vis DNMs in per capita terms (see also Subsection 3.3). 
+
+18 
+ 
+ 
+Three countries within the EU also stand out as remarkable. Luxembourg has a very high receiving 
+rate in per capita terms. Receiving funds suggests that DNM wallets are sending cryptocurrencies to 
+this geography. Luxembourg might stand out in this regard due to some combination of its small 
+population size (~640 000), which might give rise to issues of small-n variation, and the potential 
+clustering of vendor or market admin wallets within the jurisdiction that could be receiving payments 
+from DNM wallet addresses. In contrast, Sweden has a very high sending rate, which could imply that 
+there are, on a per capita basis, a large number of buyers in the country who send revenue to DNMs. 
+The fairly sizable market volume of Flugsvamp Market 3.0 could account for a portion of this 
+clustering. Finally, Latvia is the largest overall per capita sender and receiver of DNM revenues, even 
+if it has slightly lower values than Luxembourg for received euro and slightly lower values than 
+Sweden for sent euro. The observable variation by country in Figure 7 suggests a need to explore 
+country-specific trends more discretely (see Section 4). 
+ 
+ 
+ 
+
+19 
+ 
+4. Trends in DNM activity by country 
+4.1. Summary 
+• 
+Within each region, countries exhibit a top-heavy pattern with notable gaps between the most 
+engaged and least engaged country (except Russia, which is a single-country grouping). 
+• 
+The regions can be divided into economically engaged mature (EU, Eastern Neighbourhood, 
+UK+NO+TR and Russia) and immature (Southern Neighbourhood and the Western Balkans) 
+areas, with notable differences in the relationship between the most active countries within 
+each subset. 
+• 
+The countries with the highest level of total per capita revenue engagement with DNMs in 
+most regions exhibit little additional growth in activity. This suggests the potential for market 
+saturation or regression to the mean dynamics. 
+• 
+Countries that have regulatory bans on cryptocurrency (particularly those in the EU’s 
+Southern Neighbourhood) nevertheless see growing DNM revenue engagement. 
+4.2. Introduction 
+The previous section detailed various trends in DNM activity by regional grouping, with some limited 
+disaggregation by country (see Subsection 3.5). This section further examines the country-specific 
+trends. Each country has its own pattern of engagement with DNMs, as detailed below. We start with 
+the EU, and then proceed through the UK+NO+TR regional grouping, the EU’s Southern 
+Neighbourhood, the EU’s Eastern Neighbourhood, the Western Balkans and finally Russia. 
+4.3. The European Union 
+The EU includes large and small markets for DNM activities. Table 3 (see Annex) presents basic 
+summary statistics for each country in this area. These statistics are expressed in per capita terms, 
+since larger populations would likely lead to more activity of any type. To facilitate the conversion of 
+the per capita (per 100 000 people) rates back into absolute values, we provide each country’s 
+average population level during the 2019-2020 period as recorded by the World Bank. All values in 
+the table are in thousands and are rounded to two decimal places. The rank column organises the 
+countries in the table based on their total per capita revenue engagement with DNMs. 
+Consistent with the plot of countries by region in Figure 7 (see Subsection 3.5), Latvia tops the list as 
+the most engaged country within the EU. It sent and received the largest per capita amount of revenue 
+vis-à-vis DNMs. Luxembourg was the second highest ranked country, which is also consistent with its 
+high rate of received revenue from DNMs, as outlined in Figure 7. Interestingly, Sweden, which is an 
+outlier on sent revenues, was ranked fifth overall. Slovenia and Estonia had higher total per capita 
+revenue engagement during this period. In contrast, Italy had the overall lowest level. It sent and 
+received just EUR 79 100 per capita (per 100 000) during this period or roughly 10.5 times less than 
+Latvia’s EUR 830 310 per capita rate. 
+The cross-sectional values presented in Table 3 show the total activity levels between 1 April 2019 
+and 1 June 2021, but do not capture the longitudinal trajectory in DNM activity for each country. Figure 
+8 plots these values for each country in the EU. The figure shows the trend in sent and received 
+revenue and an overlaid directional trendline, which denotes the summed revenue activity for each 
+country (the dashed blue line). The plot suggests that 23 of the 27 countries in this regional grouping 
+engaged with DNMs at higher revenue rates over time. Interestingly, a few countries actually exhibited 
+less total per capita revenue engagement with DNMs during the course of the study period. 
+Luxembourg and Latvia are the most notable of the countries that had declining revenue engagement, 
+as they were the top two countries in terms of total per capita DNM revenue engagement during the 
+
+20 
+ 
+full period (see Table 3). Potentially, country-level use of DNMs might be subject to some degree of 
+saturation and regression to the mean (see also Subsections 4.4 to 4.8 for more on this tendency). 
+ 
+
+21 
+ 
+4.4. The UK+NO+TR regional grouping 
+The regional grouping of the United Kingdom, Norway and Turkey (UK+NO+TR) shows an inverse 
+relationship between population size (Turkey to Norway) and per capita DNM revenue engagement 
+(Norway to Turkey), as shown in Table 4 (see Annex). However, put into the context of the European 
+Union countries (see Table 3), Norway would have a level of per capita revenue engagement that falls 
+between the 9th (Lithuania) and 10th (Cyprus) most engaged countries in the region. 
+These period aggregates cannot reveal the direction of the trend in engagement with DNMs over time 
+for these three countries. Figure 9 shows the longitudinal trend in sent, received and total DNM 
+revenue engagement. Both Norway and Turkey exhibited an increasing rate of engagement with these 
+markets, while revenue flows to and from the United Kingdom were essentially flat. Interestingly, 
+Turkey’s ban of BTC as a payment method in April 2021 coincided with a fairly pronounced reduction 
+in the rate at which DNMs received cryptocurrency from this country. This means that DNM 
+engagement by potential buyers from Turkey likely declined. However, the rate at which DNMs sent 
+cryptocurrency to wallets within Turkey does not seem to have been affected in any meaningful way 
+by the ban in the two months of additional data that are currently available. 
+ 
+4.5. The EU’s Southern Neighbourhood 
+Table 5 (see Annex) shows basic descriptive parameters for sent and received DNM revenue by 
+country within the EU’s Southern Neighbourhood. Within this region, Israel topped the list of total 
+revenue engagement, with EUR 103 320 per 100 000 people sent and EUR 47 050 received. Syria 
+was the least engaged country within the region, transacting a total of 20 times less total revenue than 
+Israel. Interestingly, unlike in the EU grouping (see Subsection 4.3), the gap between the top country 
+in the EU’s Southern Neighbourhood and the next most active country was quite significant and 
+amounted to almost a threefold difference (see Subsection 4.6 for another instance of this pattern). 
+Figure 10 shows the trend over time in sent, received and total per capita revenue engagement by all 
+the countries in this region (note: Palestine is not included in this graph as World Bank population data 
+are unavailable). Interestingly, all countries except Israel and perhaps Egypt showed fairly concerted 
+
+22 
+ 
+growth in DNM revenue engagement during this time. Israel’s flat rate of DNM revenue engagement 
+might suggest a saturation of DNM users in the country. It is telling that all the countries in the region 
+except for Tunisia and Israel have banned cryptocurrency use within their respective jurisdictions, yet 
+the trend in DNM revenue engagement remained positive in all these locations. While the data points 
+are few, the results suggest that cryptocurrency bans are not particularly effective at preventing the 
+use of these monetary instruments on DNMs within this region (see Section 5 on the legal context). 
+ 
+4.6. The EU’s Eastern Neighbourhood 
+Table 6 (see Annex) details the revenue engagement pattern for countries within the EU’s Eastern 
+Neighbourhood. On a per capita basis, Ukraine had the highest total revenue engagement of all seven 
+countries in this grouping, with EUR 508 120 per capita in cumulative sent and received. However, 
+Moldova was only marginally behind Ukraine’s total engagement rate. Consequently, the gap between 
+first and second place was far narrower than that observed in the Southern Neighbourhood (see 
+Subsection 4.5). Nevertheless, the gap between the top and bottom ranked countries in this region 
+remained significant, with an 11-fold difference between Azerbaijan and Ukraine in terms of total per 
+capita revenue engagement with DNMs. 
+Figure 11 plots the trend in each country’s revenue engagement with DNMs. Four of the six countries 
+in this region, Armenia, Azerbaijan, Belarus and Moldova, exhibited an increase in DNM revenue 
+engagement over time. Interestingly, Ukraine, which had the highest total revenue engagement over 
+the full period, did not show a great increase during the monitoring period. The flat trend on the 
+otherwise highest ranked country is consistent with what was observed with Israel in the EU’s 
+Southern Neighbourhood (see Subsection 4.5) and is also broadly consistent with the flat or negative 
+trend in the top countries within the EU (see Subsection 4.3) and the Western Balkans (see 
+Subsection 4.7). Once again, this pattern suggests that at within-region peak levels of DNM revenue 
+
+23 
+ 
+engagement, some combination of regression to the mean and market saturation may dampen 
+additional uptake and use. 
+ 
+4.7. The Western Balkans 
+Countries in the Western Balkans exhibited the same top-heavy pattern seen in the EU’s Southern 
+Neighbourhood (see Subsection 4.5). In terms of total per capita DNM revenue engagement, the gap 
+between Montenegro (EUR 419 710) and the second most engaged country in the region, Serbia 
+(EUR 137 050), was sizable. Whereas the gap between the top two countries by total per capita 
+revenue engagement was only ~1.1-fold in the EU and ~1.3-fold in the EU’s Eastern Neighbourhood, 
+the wide gap between the top two locations in the Western Balkans was 3.06-fold (with a 3.2-fold gap 
+in the EU’s Southern Neighbourhood). The gap between the most and least active countries in the 
+Western Balkans was a factor of 5.5, putting it at the lower end of the top-to-bottom multiples among 
+all regions (see Table 7 in the Annex). 
+These comparisons suggest that there are likely two types of regions. First, there are those that ought 
+to be considered mature markets, with large top-to-bottom ratios but small top-country differences (the 
+EU, the UK+NO+TR area, the EU’s Eastern Neighbourhood and Russia; see Subsection 4.8). 
+Second, there are immature DNM areas, where the gap between the most and least active countries 
+may remain sizable, and the gap between the two top countries in the region is also quite large (the 
+EU’s Southern Neighbourhood and the Western Balkans). 
+Figure 12 plots the temporal trends in DNM revenue engagement for the five countries in the Western 
+Balkans for which there are data (Kosovo is excluded due to a lack of cryptocurrency data). In three of 
+the five (Albania, North Macedonia and Serbia), the degree of revenue engagement increased during 
+the study period. Interestingly, as seen in the EU (see Subsection 4.3), the top country in the region in 
+terms of total per capita revenue engagement (Montenegro) showed a slight declining trend in DNM 
+participation. Once again, user-base saturation and regression to the mean might be at play. 
+
+24 
+ 
+ 
+4.8. Russia 
+As is clear from Figure 13, Russia saw a clear increase in revenue engagement with DNMs over the 
+study period. While its absolute value of revenue engagement was very high, its per capita 
+engagement (see Table 8 in the Annex) shows that the total per capita participation in the DNM 
+ecosystem for Russia was roughly comparable to that of Lithuania, which was the ninth most engaged 
+EU country. While the Hydra Marketplace dominated the DNM ecosystem, Russian engagement was 
+at least partly a function of population size. 
+
+25 
+ 
+ 
+4.9. Hydra Marketplace 
+On 5 April 2022, the Hydra Marketplace was closed by a joint law enforcement effort involving multiple 
+US and German agencies. As the earlier part of this report illustrates (see Section 2.2), the Hydra 
+Marketplace was the primary site in the DNM ecosystem in recent years. Its removal will undoubtedly 
+disrupt the use of DNMs, but past closures of this sort suggest that the effects will likely be short-lived 
+(Décary-Hétu and Giommoni, 2017; Van Buskirk et al., 2017; Van Buskirk et al., 2014). While Hydra 
+was a market of primary importance from 2020 to early 2022, the same could have been said for Silk 
+Road in 2011 to 2013 or AlphaBay in 2017 at the time of their closures. In each case, activity within 
+the DNM ecosystem recovered rapidly following the event, as users migrated to other sites 
+(ElBahrawy et al., 2020; van Wegberg and Verburgh, 2018). Figure 1 illustrates these drops and the 
+recovery of activity. 
+Other markets in the ecosystem could readily absorb former Hydra Marketplace users after its closure. 
+According to Chainalysis data, 67 markets were waiting in the wings during 2021, including 
+Flugsvamp Market 3.0, Iceteam, World Market and ASAP Market. One or more of these will probably 
+capture much of the revenue and transaction activity that was formerly held by Hydra. The recovery 
+might take time, and some users might move to peer-to-peer exchanges (see Figure 15 in Section 6), 
+but there is nothing to suggest that this time will be different. Continued monitoring will be key. 
+ 
+ 
+ 
+
+26 
+ 
+5. Legal frameworks 
+5.1. Summary 
+• 
+Cryptocurrency exchanges are a common way of initially obtaining cryptocurrency to 
+capitalise on-chain wallets. 
+• 
+Exchanges governed by know-your-customer (KYC) and anti-money laundering (AML) rules 
+are typically required to obtain real identity documents from their clients, allowing law 
+enforcement to trace transactions from DNMs to real-world individuals. 
+• 
+Not all countries in the sample have KYC and AML rules in place for exchanges working 
+within their jurisdictional boundaries. 
+• 
+Some country rules are inconsistent in design or application, which raises the prospect of 
+regulatory arbitrage. 
+• 
+Ten of the 54 countries in the sample (~15 %) have outright bans on the use of 
+cryptocurrencies, yet engagement with DNM continues in these locations. 
+5.2. Introduction 
+The legal regimes governing cryptocurrencies are complex, multifaceted and rapidly evolving. For 
+example, Russia was heading toward a ban on cryptocurrency in early 2022, only to reverse course 
+and recognise Bitcoin and other cryptocurrencies. The implications of this variability are twofold. First, 
+the details reported in this final section must necessarily be read as contextually and temporally 
+dependent. The legal regimes that are in place are likely to change over time. The second implication 
+is that each country, with its unique overarching set of regulatory rules governing cryptocurrency and 
+the financial system more generally, would be worthy of its own report. As a result, this section 
+necessarily provides a high-level summary of the broad features of the current legal regimes across all 
+54 countries in the sample (see Subsection 5.2) and then a few select country case studies (see 
+Subsection 5.3). This treatment is not, nor does it aim to be, comprehensive. 
+5.3. The broad contours of legal rules across 54 countries 
+The broadest contours of cryptocurrency regulation revolve around three main axes: bans, know your 
+customer (KYC) and anti-money laundering (AML). Table 9 (see the Annex) provides a glimpse of 
+these three dimensions across all 54 countries discussed in this report. These categorisations are 
+telling. Only 10 of the 54 countries in the sample (~16 %) had outright bans in February 2022. 
+Interestingly, these areas are heavily clustered in the EU’s Southern Neighbourhood (e.g. Algeria, 
+Egypt, Jordan, Libya, Lebanon, Morocco and Palestine), with Turkey, North Macedonia and Kosovo 
+(which bans mining) being the other three. 
+While outright bans on cryptocurrency are comparatively rare in the countries in the sample, more 
+permissive environments are common. Eighteen countries (33 %) do not impose clear KYC rules on 
+cryptocurrency exchanges and 17 countries (34 %) do not use complementary (and overlapping) AML 
+regulations. Spain is the one outlier that does not use KYC but does use AML rules to govern 
+cryptocurrency exchange operations. 
+KYC and AML rules can potentially have material implications for how people engage with DNMs and 
+the effectiveness of law enforcement. Wallet interactions internal to the blockchain are observable. 
+Wallet A might interact with Wallet B that, in turn, interacts with Wallet C. All these transactions are 
+recorded as entries in a block and become part of the permanent, transparent ledger of BTC on-chain 
+activity. If Wallet B in this scenario is a known DNM wallet, then the identity behind Wallet A might be 
+of interest to law enforcement, since this could be a buyer of drugs, and the identity behind Wallet C 
+might likewise be of interest since it could be a drug vendor account. 
+
+27 
+ 
+Knowing the identity of the person or organisation behind either wallet could require tracing activity 
+back to the initial point of wallet capitalisation. Exchanges are by far the simplest way to obtain 
+cryptocurrencies to become a participant in the respective blockchain (once the tokens are moved off 
+the exchange). Since due diligence rules require exchanges to conduct KYC and collect customers’ 
+identifying information, law enforcement can leverage this information when they identify illicit 
+transactions on the blockchain. Exchanges act as entry and exit points that illicit actors must use to 
+exchange fiat currency for cryptocurrency. When law enforcement traces an illicit transaction from a 
+DNM to an exchange, they can serve a legal process to the exchange and request information about 
+that transaction. They can ask for identifying information about a user behind a wallet address of 
+interest. This allows them to obtain information gathered by the exchange during the KYC process 
+when exchanges are subject to AML frameworks and regulation. 
+5.4. Regional and country examples 
+This subsection presents several short case studies of the legal context that prevails in many of the 
+countries detailed in quantitative terms above. The information for these case studies comes from the 
+expertise of the policy team at Chainalysis, with additional contributions by the European Commission, 
+EMCDDA, Reitox network and other experts from the EU Member States, national correspondents in 
+the Western Balkans and other partners. 
+The European Union 
+The Fifth Anti-Money Laundering Directive (4) (5AMLD), which was adopted in May 2018 and came 
+into force on 10 January 2020, introduced a definition of virtual currencies and recognised providers 
+engaged in exchange services between virtual currencies and fiat currencies, as well as custodian 
+wallet providers, among the entities subject to anti-money laundering and countering terrorism 
+financing requirements. This means they must adhere to a number of AML/CFT controls, such as KYC 
+obligations, transaction monitoring, registration requirements, suspicious transaction reporting and 
+record keeping requirements in the European Union. 
+Since 5AMLD is a directive rather than a law, EU Member States must individually implement its 
+provisions. This means that there have been variations in the extent of its implementation. Due in part 
+to the variation in regulations among Member States, in July 2021, the European Commission 
+published a new anti-money laundering legislative package entailing 4 text proposals with new 
+provisions on crypto-assets. The proposal to amend the Regulation on transfers of funds provides for 
+an obligation for all crypto service providers involved in crypto transfers to collect data on the 
+originators and beneficiaries of the crypto-assets transfers they operate and keep them available for 
+the competent authorities in charge of the fight against money laundering and terrorism financing. It is 
+also making some modifications to the current AMLD to introduce among obliged entities all the 
+crypto-assets services providers (CASPs) recognised under the Markets in Cryptocurrency Assets 
+Regulation (MiCA) proposal (5). The aim of this legislation is to avoid legal fragmentation and 
+jurisdictional arbitrage in the EU by adopting a comprehensive package of legislative proposals for the 
+regulation of cryptocurrency assets. It is expected that this legislation, which is currently under review, 
+ 
+(4) Directive (EU) 2018/843 of the European Parliament and of the Council of 30 May 2018 amending Directive (EU) 2015/849 
+on the prevention of the use of the financial system for the purposes of money laundering or terrorist financing, and amending 
+Directives 2009/138/EC and 2013/36/EU (OJ L 156, 19.6.2018, p. 43). 
+(5) CASPs under MiCA regulation include businesses that, on behalf of others, exchange crypto assets for other crypto assets 
+or for fiat currencies, transfer crypto assets, provide safekeeping or administration of crypto assets or instruments that enable 
+control over crypto assets, and participate in or provide financial services related to the offer or sale of crypto assets. This 
+category generally encompasses crypto asset exchanges, crypto ATMs or kiosks, peer-to-peer exchanges, over-the-counter 
+(OTC) desks and custody providers. The Financial Action Task Force (FATF) uses the term ‘virtual asset service provider’ or 
+VASP rather than CASP. However, as the European Union typically refers to this asset class as ‘crypto assets’ we use CASP 
+here. 
+
+28 
+ 
+will solve many of the implementation challenges that individual Member States have faced and put 
+forward a unified approach to regulated cryptocurrency assets. 
+Germany 
+Germany has not implemented legislation specific to crypto assets, but instead brought them under 
+their general financial regulatory regime. This means various types of distributed ledger technology 
+(DLT) tokens are within the scope of capital markets, banking, financial services, anti-money 
+laundering and other laws. 
+The German Banking Act, Kreditwesengesetz or KWG, expanded the definition of financial 
+instruments to include crypto assets. Crypto custodians and exchanges offer financial services. This 
+means that they are subject to the same AML/CFT obligations as other obliged financial institutions. In 
+addition to crypto custodians and exchanges, these provisions apply to over-the-counter (OTC) 
+brokers and insurance providers. 
+In line with various EU laws, the KWG outlines the general regulatory regime for banking and financial 
+services in Germany. It sets out strict licensing requirements, minimum capital requirements, 
+management requirements (e.g. fit-and-proper tests), risk management rules, AML and KYC 
+principles, supervision requirements and a detailed framework on various other issues. Businesses 
+that provide services related to crypto assets such as the custody and exchange of tokens and 
+engage in the maintenance of tokenised securities registries must obtain a BaFin license. 
+Germany was one of the first countries in Europe to mandate the Travel Rule (Financial Action Task 
+Force [FATF] Recommendation 16), which requires CASPs to ensure that certain customer data are 
+disclosed and transferred between counterparties as part of the transaction. Germany implemented 
+this requirement before the EU at large, with the obligation coming into force in October 2021 and 
+requiring that CASPs ensure Travel Rule compliance within 12 months. CASPs may request that their 
+obligations are suspended due to missing technical possibilities to transfer data (one-time resuspension possible). 
+Malta 
+Most European countries brought cryptocurrency assets under their AML laws in 2020 with the 
+implementation of 5AMLD. However, Malta was an early adopter and introduced landmark legislation 
+in 2018 that defined a new regulatory framework for cryptocurrencies. This regulation brings CASPs 
+under the scope of AML/CFT laws. 
+The Virtual Financial Assets Act (VFA Act) applies to cryptocurrency exchanges, initial coin offerings 
+(ICOs), brokers, wallet providers, advisers and asset managers. It outlines a regulatory regime, 
+including licensing and registration requirements, AML/CFT obligations, requirements for initial VFA 
+offerings and trading on DLT exchanges and record-keeping requirements, among other things. 
+In 2021, MONEYVAL, the Council of Europe’s AML/CFT monitoring and evaluation body entrusted 
+with assessing compliance with international AML/CFT standards and the effectiveness of their 
+implementation, revised their assessment of Malta. Previously, Malta has been deemed ‘partially 
+compliant’ in relation to FATF Recommendation 15, which deals with new technologies, including 
+cryptocurrency assets. In this 2021 assessment, their rating improved to ‘largely compliant’, meaning 
+that Malta’s regulatory regime for cryptocurrency assets and CASPs addresses most FATF 
+recommendations with only minor shortcomings. 
+Estonia 
+Estonia was one of the first countries to move into the cryptocurrency regulatory space. As early as 
+2017, virtual asset service providers (VASPs) were considered obliged entities under the Estonian 
+AML law and the country started issuing cryptocurrency licenses for exchanges and custody 
+
+29 
+ 
+providers. Before the license obligation the VASPs were seen as providers of service of alternative 
+means of payment, who only had a registration obligation. Estonian regulation of cryptocurrency 
+businesses has been gradually developing, and some cryptocurrency businesses not based in Estonia 
+took advantage of their ability to register there in the earlier years. In March 2020, the AML/CFT 
+legislation was amended and merged licenses, such as providing services of exchanging a virtual 
+currency against a fiat currency and providing a virtual currency wallet service, into one license 
+providing a virtual currency service. This amendment also required entities licensed in Estonia to have 
+their head office physically located within the country, regardless of where their customers might be. 
+In 2022, Estonia introduced further regulations for cryptocurrency services. All current license holders 
+are required to apply for a new license. In addition to higher minimum share capital, regular reporting, 
+auditing obligations and limited legal forms for operating, the regulation goes beyond the current 
+5AMLD. The new regulation brings crypto-to-cryptocurrency service providers under the scope of the 
+regulation. 
+Romania 
+Law no. 129/2019 to prevent and combat money laundering and terrorism financing, with subsequent 
+amendments and additions, establishes that the providers of exchange services between virtual 
+currencies and fiduciary currencies and providers of digital wallets (VASPs) are reporting entities. 
+Therefore, they are obliged to comply with the legislation in the field of combating money laundering 
+and terrorist financing, including the mandatory requirement to be authorized or registered by the 
+Ministry of Finance, through the Foreign Exchange Offices Authorization Commission. A draft 
+Government Decision is currently underway, regarding the approval of the procedures for 
+authorization and registration of providers of exchange services between virtual currencies and 
+fiduciary currencies and providers of digital wallets, which is in an advanced phase of endorsement. 
+In view of the above situation, at the initiative of the National Office for Prevention and Control of 
+Money Laundering – FIU Romania, The Government of Romania has adopted the appropriate legal 
+framework that requires providers of exchange services between virtual and fiat currencies and 
+providers of digital wallets to notify FIU Romania, exclusively electronically, of the commencement, 
+suspension or termination of the activity falling under the AML/CFT law, within 15 days from the date 
+of commencement, suspension or termination of such activity. 
+Pursuant to these legal provisions, by 25.10.2022, a total of 28 VASPs have notified FIU Romania. 
+Sweden 
+The Swedish Currency Exchange Act requires that custodian wallet providers and cryptocurrency 
+exchanges (VASPs) comply with registration and Swedish Anti-Money Laundering Act (AML act) 
+requirements. VASPs must apply for registration with the Swedish Financial Supervisory Authority. To 
+do business, they must be able to show that their operations will be conducted in an AML-compliant 
+manner and VASP owners and senior management officials must pass an assessment. 
+The EU’s Southern Neighbourhood 
+In most countries in the EU’s Southern Neighbourhood, the use of cryptocurrencies is not allowed. 
+However, this situation could change in the near future, as cryptocurrencies are perceived as an 
+opportunity to create additional resources for taxation. In Lebanon, the financial crisis has led to a 
+spike in cryptocurrency use, both as a means of recovering savings through speculative trading and 
+as a way to circumvent a broken banking system. In Lebanon, the presence of activities related to 
+mining and virtual asset service providers were noted. The Bank of Liban (BDL) and the Financial 
+Markets Authority issued a ban for financial institutions to trade virtual assets and any operation 
+related to them in order to prevent their use in money laundering and terrorist financing. The security 
+forces are preparing units specialized in investigating virtual currencies. In Egypt, Bitcoin transactions 
+
+30 
+ 
+are classified as ‘haram’, prohibited under Islamic law. Israel and Tunisia do not ban the use of 
+cryptocurrencies, while Algeria, Egypt, Jordan, Libya and Morocco either do not recognise 
+cryptocurrency transactions or have categorised them as illegal. In Tunisia, the use of crypto currency 
+is not prohibited by law, but transactions carried out with Bitcoin can be assimilated to money 
+laundering, punishable by law. 
+The EU’s Eastern Neighbourhood 
+Compared with the EU’s Southern Neighbourhood, the countries in Eastern Europe have either 
+adopted laws that regulate the usage of cryptocurrencies or they do not apply any restrictions. In 
+December 2017, the Belarusian government adopted Decree No. 8 on the Development of Digital 
+Economy. This marked the country’s first formal law governing cryptocurrency and blockchain. The 
+decree came into force on 28 March 2018. Subsequently, in November 2018, the Supervisory Council 
+of the Hi-Tech Park approved additional guidance for token-related activities. In Armenia, Azerbaijan, 
+Georgia and Moldova there are no regulations on cryptocurrencies. 
+In Ukraine, the law on virtual assets (March 2022) has endorsed cryptocurrencies. The new law enters 
+into force with the law on amendments to the Tax Code on the peculiarities of taxation of virtual asset 
+transactions. This law regulates legal aspects arising in connection with the income from virtual 
+assets, defines the rights and obligations of participants in the virtual assets market and the principles 
+of state policy in the area of virtual assets income. 
+Georgia is among one of the top cryptocurrency countries in the world. However, it does not have any 
+legislative restrictions for cryptocurrency exchange. To date, it does not require any license for such 
+activity. In addition, Georgia provides a high tax certainty and beneficial tax system for businesses 
+involved in the cryptocurrency field. The World Bank estimated in 2018 that at least 200 000 people in 
+Georgia are involved in cryptocurrency mining. 
+Western Balkans 
+In the Western Balkans, North Macedonia banned trading with cryptocurrencies (Chakraborty, 2021). 
+Kosovo has recently taken legal measures through the Law on Energy to forbid cryptocurrency mining 
+due to the energy-intensive nature of these activities, coupled with broader problems of power 
+generation and supply (Bami, 2022); this ban applies until the emergency measures related to energy 
+supply are in force. In Bosnia and Herzegovina, there is currently no regulation on the use of 
+cryptocurrencies. However, the Central Bank has stated that only official currency can be used for 
+payments (Vijesti, 2018). Cryptocurrency is not regulated in Montenegro (Veljović and Vučinić, 2022). 
+Albania regulates cryptocurrencies with the Law on Financial Markets based on Distributed Registry 
+Technology. This stipulates, inter alia, the licensing of activities related to distributed ledgers 
+technology and the trading or storage of tokens and virtual coins (Kalo&Associates, 2020). Similarly, 
+Serbia has regulated cryptocurrency trading and mining through the Law on Digital Assets. This law 
+came into force in December 2020 but its application has been postponed until June 2021 (Partners, 
+2022). According to this law, there are two types of digital assets, namely virtual currencies and digital 
+tokens. 
+ 
+ 
+ 
+
+31 
+ 
+6. Policy implications 
+The data presented in this report depict a DNM ecosystem that is generally robust to market closures, 
+scams and the other adverse events that happened between 2011 and 2021 (Décary-Hétu and 
+Giommoni, 2017; Jardine, 2021; Van Buskirk et al., 2017; Van Buskirk et al., 2014). The market 
+ecosystem overall has continued to expand, albeit at a slower pace than in the early years. However, 
+the geographical distribution of activity in the countries studied is variable and currently heavily 
+clustered in the EU and Russia. The regulatory landscape surrounding cryptocurrency continues to 
+evolve rapidly, but there is only a preliminary, tentative indication that cryptocurrency bans and more 
+severe measures noticeably affect DNM engagement at country level. 
+The findings of this report suggest that several potential supply-side and demand-side drug policy 
+efforts are needed. Policies focused on enabling DNM investigations are required to detect, deter and 
+disrupt the operation of these markets. A thorough review of such policy recommendations is beyond 
+the immediate scope of this paper, as each jurisdiction has a distinct context of DNM use and would 
+need to develop similarly distinct drug-related policies. However, some basic trends are worth noting. 
+First, on the demand side, DNM activity is persistent and continues to increase, although at a slower 
+rate than in the early years of the ecosystem (see Subsection 2.2). 
+ 
+While demand for DNM services continues to increase, how users engage with the markets, and the 
+participants within them, is also changing. Market closures can disrupt use of darknet markets in the 
+short term. However, vendors and customers are highly adaptive and have begun to undertake more 
+peer-to-peer exchanges that circumvent DNM wallets altogether. Such direct buyer-to-vendor sales – 
+transactions that take place without going through a DNM – have been on the rise since 2019. It is 
+suspected that many of these buyer-vendor relationships were initially established on darknet 
+markets, but that after a series of successful purchases, the buyers and vendors then arranged to 
+transact off-market. Sales of this kind reached USD 112 million during 2021, which is equivalent to 
+approximately 5 % of total darknet market revenues. 
+This growth in direct sales volume might be explained by deepening trust between long-time buyers 
+and vendors, growing distrust of darknet markets, a wish to avoid DNM fees, a desire to avoid being 
+linked to known illicit activity or likely a combination of these factors. Policy options should take into 
+consideration these demand dynamics that impact cryptocurrency darknet market activity. 
+In addition to focusing on understanding the demand side, law enforcement must have the training 
+and resources they need to conduct DNM investigations. These investigations are different from 
+
+32 
+ 
+traditional drug investigations that law enforcement has been undertaking for decades. They require 
+training on the technologies that are being employed and the new investigative techniques necessary 
+for conducting these sorts of investigations. 
+To fully engage in effective policing of the DNM ecosystem, law enforcement officers and analysts will 
+need training on how to identify the illicit use of cryptocurrency in a case; how to access Tor and 
+operate safely online; how to employ encrypted communications platforms; the tactics, techniques and 
+practices employed by illicit actors and how they are evolving; how to bring a case from start to finish; 
+how documenting cryptocurrency-related investigations may differ from ‘traditional’ investigations; how 
+to trace illicit cryptocurrency and how to seize it, taking into consideration that the chain of custody 
+may work differently for cryptocurrency wallets than it does for other types of seized assets; and a 
+myriad of other things. 
+Law enforcement will likely need access to new and different types of technology and tools than they 
+have typically used in drug-related investigations, which will require time (to learn the tools) and 
+finances (to acquire the tools). These tools will include undercover equipment, blockchain analysis 
+and other cyber investigative tools. Law enforcement should leverage public-private partnerships and 
+partnerships with other law enforcement agencies domestically and internationally. Public-private 
+partnerships enable law enforcement to improve their data, to gain a better understanding of trends 
+that will allow them to adjust and prioritise investigative strategies. 
+Partnerships with international law enforcement agencies are important in these sorts of investigations 
+because crimes often span country borders due to the fact that they are internet-based. Partnerships 
+with other agencies help to ensure deconfliction and avoid duplication of efforts. Task forces lend 
+themselves well to DNM investigations, as many agencies will have data and information relevant to a 
+case. An example of a successful task force in the United States is the Joint Criminal Opioid and 
+Darknet Enforcement Team (JCODE). Established within the Federal Bureau of Investigation’s HiTech Organized Crime Unit, JCODE is a US government initiative to target drug trafficking, especially 
+in fentanyl and other opioids, on the darknet. The JCODE team brings together agents, analysts and 
+professional staff from many law enforcement agencies with expertise in drugs, gangs, healthcare 
+fraud and more. The collaboration between US and Dutch law enforcement and Europol during 
+Operation Bayonet in 2017 (which closed AlphaBay and Hansa) also demonstrates the importance 
+and effectiveness of such partnerships. 
+Finally, it is critical that countries around the world implement the recommendations from the Financial 
+Action Task Force’s Guidance for a Risk-Based Approach to Virtual Assets and Virtual Asset Service 
+Providers. These recommendations include requiring that virtual asset service providers (a category 
+that includes cryptocurrency exchanges, cryptocurrency ATMs, over-the-counter brokers and peer-topeer exchanges, among others) be registered or licensed and maintain effective AML programmes, 
+including customer due diligence (KYC). Implementing such regulations would help to ensure that 
+when law enforcement is investigating the illicit use of cryptocurrency – say, someone cashing out 
+funds from a DNM and sending it to an exchange – they can obtain identifying information about users 
+linked to the cryptocurrency flows to further investigations. 
+ 
+ 
+
+33 
+ 
+Glossary of terms 
+AML: anti-money laundering rules that govern many cryptocurrency exchanges and most traditional 
+financial entities. 
+Bitcoin (BTC): a digital token that can be shared peer-to-peer as a form of payment. 
+Blockchain: a database that is stored and validated in a distributed way, in contrast to a centralised 
+database maintained by a trusted third party. 
+CFT: combating the financing of terrorism rules that govern financial entities in many locations. 
+Cryptocurrency: the broader class of digital tokens that can be used for payments. 
+Darknet market (DNM): sites that are only accessible via the Tor browser and that combine the 
+anonymity-granting functions of Tor with the pseudonymous payment methods of cryptocurrency, 
+particularly Bitcoin. 
+Euro-to-transaction ratio: a ratio variable that divides monthly DNM revenue by the monthly DNM 
+transaction count. Higher values suggest greater revenue per transaction per month. 
+KYC: know-your-customer rules that govern the operation of many cryptocurrency exchanges and the 
+traditional financial sector. 
+On-chain: data that are hosted publicly on the blockchain and visible to anyone with the skill, capacity 
+and inclination to look. 
+Wallet addresses: public key addresses associated with Bitcoin and other cryptocurrencies. Wallets 
+are both address information for those who wish to send information to a particular location and a 
+digital representation of a holder of the private keys to an account (e.g. a person or organisation). 
+ 
+ 
+ 
+
+34 
+ 
+References 
+Admin. (2021), Darknet cannabis market taken offline after police investigation, 
+https://darknetdaily.com/2021/01/20/darknet-cannabis-market-taken-offline-after-police-investigation/, 
+Aldridge, J. and Décary-Hétu, D. (2016), ‘Hidden wholesale: The drug diffusing capacity of online drug 
+cryptomarkets’, International Journal of Drug Policy, 35 (Supplement C), 7-15, 
+doi:https://doi.org/10.1016/j.drugpo.2016.04.020. 
+Bami, X. (2022), Kosovo experts question legality of cryptocurrency mining ban, 
+https://balkaninsight.com/2022/01/05/kosovo-experts-question-legality-of-cryptocurrency-mining-ban/, 
+Barratt, M. J., Lenton, S., Maddox, A. and Allen, M. (2016), ‘“What if you live on top of a bakery and 
+you like cakes?”—Drug use and harm trajectories before, during and after the emergence of Silk 
+Road.’ International Journal of Drug Policy, 35 (Supplement C), 50-57, doi: 
+https://doi.org/10.1016/j.drugpo.2016.04.006. 
+Butler, G. (2021), ‘The World's “largest illegal darknet marketplace” has been shut down’, Vice, 
+https://www.vice.com/en/article/bvx5jw/largest-illegal-darknet-marketplace-darkmarket-shut-down, 
+Chakraborty, M. (2021), Cryptocurrencies are banned and considered illegal in these countries, 
+https://www.analyticsinsight.net/cryptocurrencies-are-banned-and-considered-illegal-in-thesecountries/, 
+Chen, Z., Jardine, E., Fan Liu, X. and Zhu, J. J. H. (2022), ‘Seeking anonymity on the internet: The 
+knowledge accumulation process and global usage of the Tor network’, New Media & Society, 
+14614448211072201, doi:10.1177/14614448211072201. 
+Childs, A., Coomber, R., Bull, M. and Barratt, M. J. (2020), ‘Evolving and diversifying selling practices 
+on drug cryptomarkets: An exploration of off-platform “direct dealing”’, Journal of Drug Issues, 50(2), 
+173-190. 
+Christin, N. (2013), Traveling the silk road: a measurement analysis of a large anonymous online 
+marketplace, paper presented at the Proceedings of the 22nd International Conference on World Wide 
+Web, Rio de Janeiro, Brazil. 
+Décary-Hétu, D. and Giommoni, L. (2017), ‘Do police crackdowns disrupt drug cryptomarkets? A 
+longitudinal analysis of the effects of Operation Onymous’, Crime, Law and Social Change, 67(1), 5575, doi:10.1007/s10611-016-9644-4. 
+ElBahrawy, A., Alessandretti, L., Rusnac, L., Goldsmith, D., Teytelboym, A. and Baronchelli, A. 
+(2020), ‘Collective dynamics of dark web marketplaces’, Scientific Reports, 10(1), 18827, 
+doi:10.1038/s41598-020-74416-y. 
+EMCDDA and Europol (2017), Drugs and the darknet: perspectives for enforcement, research and 
+policy, in: EMCDDA-Europol joint publications, Publications Office of the European Union. 
+Horton-Eddison, M. and Di Cristofaro, M. (2017), Hard interventions and innovation in crypto-drug 
+markets: The escrow example, Policy Brief, 11. 
+Jardine, E. (2021), ‘Policing the cybercrime script of darknet drug markets: Methods of effective law 
+enforcement intervention’, American Journal of Criminal Justice, 46(6), 980-1005. 
+Kalo&Associates (2020), New law on financial markets based on the distributed ledgers technology, in 
+Kalo&Associates (Ed.). 
+Maddox, A., Barratt, M. J., Allen, M. and Lenton, S. (2016), ‘Constructive activism in the dark web: 
+cryptomarkets and illicit drugs in the digital “demimonde”’, Information, Communication & Society, 
+19(1), 111-126, doi:10.1080/1369118X.2015.1093531. 
+
+35 
+ 
+Martin, J. (2014a), Drugs on the dark net: How cryptomarkets are transforming the global trade in illicit 
+drugs, Springer. 
+Martin, J. (2014b), ‘Lost on the Silk Road: Online drug distribution and the “cryptomarket”’, 
+Criminology & Criminal Justice, 14(3), 351-367, doi:10.1177/1748895813505234. 
+Moyle, L., Childs, A., Coomber, R. and Barratt, M. J. (2019), ‘#Drugsforsale: An exploration of the use 
+of social media and encrypted messaging apps to supply and access drugs’, International Journal of 
+Drug Policy, 63, 101-110. 
+Partners, G. (2022), Cryptocurrency regulations in Serbia, 
+https://gurcanpartners.com/en/cryptocurrency-regulations-in-serbia/, 
+Soska, K. and Christin, N. (2015), Measuring the longitudinal evolution of the online anonymous 
+marketplace ecosystem, paper presented at the 24th USENIX Security Symposium Washington, D.C. 
+Van Buskirk, J., Bruno, R., Dobbins, T., Breen, C., Burns, L., Naicker, S. and Roxburgh, A. (2017), 
+‘The recovery of online drug markets following law enforcement and other disruptions’, Drug and 
+Alcohol Dependence, 173, 159-162, doi: https://doi.org/10.1016/j.drugalcdep.2017.01.004. 
+Van Buskirk, J., Roxburgh, A., Farrell, M. and Burns, L. (2014), ‘The closure of the Silk Road: what 
+has this meant for online drug trading?’, Addiction, 109(4), 517-518, doi:10.1111/add.12422. 
+van Wegberg, R. and Verburgh, T. (2018), Lost in the dream? Measuring the effects of Operation 
+Bayonet on vendors migrating to Dream Market, paper presented at the Proceedings of the Evolution 
+of the Darknet Workshop. 
+Veljović, L. and Vučinić, P. (2022), Blockchain & cryptocurrency laws and regulations 2022 
+Montenegro, https://www.globallegalinsights.com/practice-areas/blockchain-laws-andregulations/montenegro, 
+Vijesti. (2018), O kriptovalutama se potrebno detaljno informirati, uloženi novac nije osiguran, 
+https://vijesti.ba/clanak/389130/o-kriptovalutama-se-potrebno-detaljno-informirati-ulozeni-novac-nijeosiguran, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+36 
+ 
+Annex 
+The following Annex includes tables referenced in the text above. 
+Table 1. Total DNM revenue by year and percent change period over period 
+Year 
+Revenue flows 
+(EUR) 
+Percent 
+change (flows) 
+Transactions 
+Percent change 
+(transactions) 
+2011 
+6 777 365 
+N/A 
+257 880 
+N/A 
+2012 
+89 029 739 
+1 214 % 
+1 618 608 
+528 % 
+2013 
+320 716 545 
+260 % 
+3 057 039 
+89 % 
+2014 
+388 585 254 
+21 % 
+5 465 443 
+79 % 
+2015 
+636 075 868 
+64 % 
+8 404 998 
+54 % 
+2016 
+1 095 707 989 
+72 % 
+18 074 563 
+115 % 
+2017 
+1 319 775 569 
+20 % 
+14 632 708 
+-19 % 
+2018 
+1 072 675 419 
+-19 % 
+7 563 221 
+-48 % 
+2019 
+2 120 924 536 
+98 % 
+10 897 514 
+44 % 
+2020 
+2 757 028 779 
+30 % 
+8 502 825 
+-22 % 
+2021 
+2 116 562 009 
+-23 % 
+3 776 928 
+-56 % 
+ 
+Table 2. Regional darknet market revenue flows in euro 
+Region 
+Class 
+Total flows 
+(absolute) 
+Total flows 
+(per 100 000) 
+Average 
+flows 
+(absolute) 
+Average 
+flows 
+(Per 
+100 000) 
+Eastern 
+Neighbourhood 
+Total received (EUR) 
+183 299 482 
+250 909 
+1 131 478 
+1 549 
+Eastern 
+Neighbourhood 
+Total sent (EUR) 
+104 106 695 
+142506 
+642 634 
+880 
+EU 
+Total received (EUR) 
+615 542 417 
+137 553 
+844 365 
+189 
+EU 
+Total sent (EUR) 
+284 942 846 
+63675 
+390 868 
+87 
+Russia 
+Total received (EUR) 
+336 881 438 
+233 532 
+12 477 090 
+8 649 
+Russia 
+Total sent (EUR) 
+298 927 415 
+207 221 
+11 071 386 
+7 675 
+Southern 
+Neighbourhood 
+Total received (EUR) 
+51 470 610 
+21 138 
+190 632 
+78 
+Southern 
+Neighbourhood 
+Total sent (EUR) 
+28 124 103 
+11 550 
+104 163 
+43 
+UK+NO+TR 
+Total received (EUR) 
+194 823 801 
+124 668 
+2 405 232 
+1539 
+UK+NO+TR 
+Total sent (EUR) 
+100 341 851 
+64 209 
+1 238 788 
+793 
+Western Balkans 
+Total received (EUR) 
+12 662 300 
+83 152 
+974 02 
+640 
+Western Balkans 
+Total sent (EUR) 
+6 271 841 
+40 520 
+48 245 
+312 
+ 
+
+37 
+ 
+Table 3. EU countries’ per capita received, sent and total darknet market revenue engagement (in per 
+capita euro) 
+Country 
+Rank 
+Mean 
+rec. 
+Mean sent 
+Mean total 
+Total 
+rec. 
+Total 
+sent 
+Total 
+Populatio
+n 
+Latvia 
+1 
+10.19 
+20.56 
+30.75 
+275.13 
+555.18 
+830.31 
+1907.69 
+Luxembourg 
+2 
+6.57 
+22.24 
+28.81 
+177.48 
+600.52 
+778.00 
+626.14 
+Slovenia 
+3 
+6.21 
+17.26 
+23.46 
+167.60 
+465.89 
+633.50 
+2094.26 
+Estonia 
+4 
+7.16 
+14.52 
+21.69 
+193.44 
+392.12 
+585.57 
+1328.98 
+Sweden 
+5 
+11.44 
+7.67 
+19.11 
+309.00 
+207.04 
+516.04 
+10316.16 
+Finland 
+6 
+5.31 
+12.99 
+18.31 
+143.44 
+350.82 
+494.26 
+5526.16 
+Malta 
+7 
+4.80 
+12.26 
+17.06 
+129.65 
+331.10 
+460.75 
+514.67 
+Netherlands 
+8 
+4.71 
+12.13 
+16.84 
+127.13 
+327.59 
+454.72 
+17393.01 
+Lithuania 
+9 
+5.68 
+10.67 
+16.35 
+153.25 
+288.21 
+441.46 
+2794.42 
+Cyprus 
+10 
+4.65 
+9.64 
+14.29 
+125.65 
+260.30 
+385.95 
+1202.97 
+Czechia 
+11 
+3.82 
+9.79 
+13.60 
+103.02 
+264.27 
+367.30 
+10685.38 
+Slovakia 
+12 
+3.69 
+9.17 
+12.87 
+99.67 
+247.69 
+347.36 
+5456.49 
+Bulgaria 
+13 
+3.79 
+8.39 
+12.18 
+102.46 
+226.43 
+328.89 
+6951.52 
+Ireland 
+14 
+3.63 
+7.86 
+11.50 
+98.11 
+212.32 
+310.43 
+4964.53 
+Austria 
+15 
+3.63 
+6.60 
+10.23 
+97.95 
+178.15 
+276.10 
+8898.56 
+Belgium 
+16 
+2.75 
+6.91 
+9.66 
+74.24 
+186.62 
+260.86 
+11522.49 
+Denmark 
+17 
+2.91 
+6.13 
+9.04 
+78.45 
+165.56 
+244.02 
+5822.91 
+Croatia 
+18 
+2.39 
+5.26 
+7.65 
+64.56 
+141.92 
+206.48 
+4056.23 
+Portugal 
+19 
+2.41 
+5.05 
+7.46 
+65.07 
+136.27 
+201.33 
+10295.91 
+Germany 
+20 
+1.77 
+4.69 
+6.46 
+47.71 
+126.65 
+174.36 
+83166.74 
+Poland 
+21 
+1.89 
+4.47 
+6.36 
+50.97 
+120.67 
+171.64 
+37958.14 
+France 
+22 
+1.91 
+3.87 
+5.78 
+51.69 
+104.43 
+156.12 
+67320.25 
+Spain 
+23 
+1.61 
+4.12 
+5.73 
+43.47 
+111.13 
+154.60 
+47242.54 
+Hungary 
+24 
+1.34 
+3.75 
+5.09 
+36.22 
+101.31 
+137.53 
+9760.45 
+Romania 
+25 
+1.57 
+3.13 
+4.70 
+42.47 
+84.53 
+126.99 
+19328.89 
+Greece 
+26 
+1.26 
+2.84 
+4.10 
+34.15 
+76.61 
+110.76 
+10718.57 
+Italy 
+27 
+0.92 
+2.01 
+2.93 
+24.75 
+54.35 
+79.10 
+59641.55 
+Notes: 1) All revenue and population data in thousands, 2) rec. is an abbreviation for received, 3) values rounded to 2 decimal 
+places. 
+ 
+ 
+
+38 
+ 
+Table 4. UK, NO, TR per capita received, sent and total darknet market revenue engagement 
+(in per capita euros) 
+Country 
+Rank 
+Mean 
+rec. 
+Mean 
+sent 
+Mean 
+total 
+Total 
+rec. 
+Total 
+sent 
+Total 
+Population 
+Norway 
+1 
+6.10 
+10.15 
+16.25 
+164.79 
+273.96 
+438.76 
+5363.69 
+United Kingdom 
+2 
+3.23 
+5.73 
+8.96 
+87.09 
+154.75 
+241.84 
+67025.81 
+Turkey 
+3 
+1.46 
+3.37 
+4.84 
+39.50 
+91.09 
+130.58 
+83884.34 
+Notes: 1) All revenue and population data in thousands, 2) rec. is an abbreviation for received, 3) values 
+rounded to 2 decimal places. 
+ 
+Table 5. Southern neighbourhood countries’ per capita received, sent and total darknet market 
+revenue engagement (in euros) 
+Country 
+Rank 
+Mean 
+rec. 
+Mean 
+sent 
+Mean 
+total 
+Total 
+rec. 
+Total 
+sent 
+Total 
+Population 
+Israel 
+1 
+1.74 
+3.83 
+5.57 
+47.05 
+103.32 
+150.37 
+9 135.45 
+Tunisia 
+2 
+0.58 
+1.13 
+1.72 
+15.75 
+30.63 
+46.38 
+11 756.67 
+Morocco 
+3 
+0.58 
+0.86 
+1.44 
+15.66 
+23.17 
+38.83 
+36 691.16 
+Lebanon 
+4 
+0.54 
+0.87 
+1.41 
+14.53 
+23.51 
+38.04 
+6 840.58 
+Jordan 
+5 
+0.46 
+0.91 
+1.37 
+12.55 
+24.47 
+37.02 
+10 152.42 
+Algeria 
+6 
+0.38 
+0.80 
+1.18 
+10.30 
+21.61 
+31.91 
+43 452.05 
+Libya 
+7 
+0.27 
+0.63 
+0.91 
+7.37 
+17.11 
+24.49 
+6 824.37 
+Egypt 
+8 
+0.25 
+0.43 
+0.68 
+6.86 
+11.63 
+18.49 
+101 361.24 
+Syria 
+9 
+0.09 
+0.18 
+0.27 
+2.55 
+4.85 
+7.40 
+17 285.39 
+Palestine 
+Data not available 
+Notes: 1) All revenue and population data in thousands, 2) rec. is an abbreviation for received, 3) values rounded to 2 decimal 
+places. 
+ 
+Table 6. Eastern Neighbourhood countries’ per capita received, sent and total darknet market revenue 
+engagement (in euros) 
+Country 
+Rank 
+Mean 
+rec. 
+Mean 
+sent 
+Mean 
+total 
+Total 
+rec. 
+Total 
+sent 
+Total 
+Population 
+Ukraine 
+1 
+6.76 
+12.06 
+18.82 
+182.46 
+325.66 
+508.12 
+44 260.45 
+Moldova 
+2 
+4.80 
+9.56 
+14.36 
+129.71 
+258.06 
+387.77 
+2 640.54 
+Belarus 
+3 
+5.13 
+8.52 
+13.65 
+138.60 
+230.01 
+368.61 
+9 408.36 
+Georgia 
+4 
+3.78 
+5.26 
+9.04 
+102.06 
+141.94 
+244.00 
+3 717.08 
+Armenia 
+5 
+1.77 
+3.27 
+5.03 
+47.69 
+88.16 
+135.86 
+2 960.48 
+Azerbaijan 
+6 
+0.62 
+1.04 
+1.66 
+16.66 
+28.03 
+44.69 
+10 067.20 
+Notes: 1) All revenue and population data in thousands, 2) rec is an abbreviation for received, 3) values rounded to 2 decimal 
+places. 
+ 
+ 
+
+39 
+ 
+Table 7. Western Balkan countries’ per capita received, sent and total darknet market revenue engagement (in euros) 
+ 
+Country 
+Rank 
+Min 
+rec. 
+Min 
+sent 
+Min 
+total 
+Max 
+rec. 
+Max 
+sent 
+Max 
+total 
+Mean 
+rec. 
+Mean 
+sent 
+Mean 
+total 
+Total 
+rec. 
+Total 
+sent 
+Total 
+Population 
+Montenegro 
+1 
+1.32 
+1.68 
+3.38 
+22.18 
+47.51 
+53.26 
+4.94 
+10.60 
+15.54 
+133.40 
+286.31 
+419.71 
+621.87 
+Serbia 
+2 
+1.01 
+1.33 
+2.37 
+2.60 
+8.74 
+10.13 
+1.56 
+3.51 
+5.08 
+42.22 
+94.84 
+137.05 
+6 926.73 
+Bosnia and 
+Herzegovina 
+3 
+0.40 
+0.59 
+1.47 
+5.95 
+4.04 
+9.99 
+1.49 
+1.95 
+3.44 
+40.16 
+52.62 
+92.78 
+3 290.91 
+Albania 
+4 
+0.32 
+0.26 
+0.57 
+3.47 
+7.57 
+8.47 
+0.93 
+1.95 
+2.88 
+25.20 
+52.56 
+77.76 
+2 845.97 
+North 
+Macedonia 
+5 
+0.19 
+0.47 
+0.70 
+2.63 
+9.57 
+12.20 
+1.04 
+2.37 
+3.41 
+22.98 
+52.10 
+75.08 
+2 083.42 
+Notes: 1) All revenue and population data in thousands, 2) rec. is an abbreviation for received, 3) values rounded to 2 decimal places. 
+ 
+Table 8. Russian per capita received, sent and total darknet market revenue engagement (in euro) 
+Country 
+Rank 
+Min. 
+rec. 
+Min. 
+sent 
+Min. 
+total 
+Max. 
+rec. 
+Max. 
+sent 
+Max. 
+total 
+Mean 
+rec. 
+Mean 
+sent 
+Mean 
+total 
+Total 
+rec. 
+Total 
+sent 
+Total 
+Populatio
+n 
+Russia 
+1 
+4.57 
+3.41 
+8.59 
+11.59 
+13.63 
+22.63 
+7.67 
+8.65 
+16.32 
+207.22 
+233.53 
+440.75 
+144 255.17 
+Notes: 1) All revenue and population data in thousands, 2) rec. is an abbreviation for received, 3) values rounded to 2 decimal places. 
+ 
+
+40 
+ 
+Table 9. High level summary of cryptocurrency regulation in 54 countries 
+Country 
+Cryptocurrency officially 
+banned 
+Exchanges KYC 
+regulated 
+Exchanges anti-ML 
+regulated 
+Austria 
+0 
+1 
+1 
+Belgium 
+0 
+1 
+1 
+Bulgaria 
+0 
+1 
+1 
+Croatia 
+0 
+1 
+1 
+Cyprus 
+0 
+1 
+1 
+Czechia 
+0 
+1 
+1 
+Denmark 
+0 
+1 
+1 
+Estonia 
+0 
+1 
+1 
+Finland 
+0 
+1 
+1 
+France 
+0 
+1 
+1 
+Germany 
+0 
+1 
+1 
+Greece 
+0 
+1 
+1 
+Hungary 
+0 
+1 
+1 
+Ireland 
+0 
+1 
+1 
+Italy 
+0 
+1 
+1 
+Latvia 
+0 
+1 
+1 
+Lithuania 
+0 
+1 
+1 
+Luxembourg 
+0 
+1 
+1 
+Malta 
+0 
+1 
+1 
+Netherlands 
+0 
+1 
+1 
+Poland 
+0 
+1 
+1 
+Portugal 
+0 
+1 
+1 
+Romania 
+0 
+1 
+1 
+Slovakia 
+0 
+1 
+1 
+Slovenia 
+0 
+1 
+1 
+Spain 
+0 
+0 
+1 
+Sweden 
+0 
+1 
+1 
+United Kingdom 
+0 
+1 
+1 
+Moldova 
+0 
+0 
+0 
+Belarus 
+0 
+1 
+1 
+Ukraine 
+0 
+1 
+1 
+Russia 
+0 
+1 
+1 
+Bosnia and 
+Herzegovina 
+0 
+0 
+0 
+Serbia 
+0 
+1 
+1 
+
+41 
+ 
+Country 
+Cryptocurrency officially 
+banned 
+Exchanges KYC 
+regulated 
+Exchanges anti-ML 
+regulated 
+Montenegro 
+0 
+0 
+0 
+Kosovo 
+1 
+0 
+0 
+Albania 
+0 
+1 
+1 
+North Macedonia 
+1 
+0 
+0 
+Algeria 
+1 
+0 
+0 
+Egypt 
+1 
+0 
+0 
+Israel 
+0 
+1 
+1 
+Jordan 
+1 
+0 
+0 
+Lebanon 
+1 
+0 
+0 
+Libya 
+1 
+0 
+0 
+Morocco 
+1 
+0 
+0 
+Palestine 
+1 
+0 
+0 
+Syria 
+0 
+0 
+0 
+Tunisia 
+0 
+0 
+0 
+Norway 
+0 
+1 
+1 
+Turkey 
+1 
+1 
+1 
+Armenia 
+0 
+0 
+0 
+Azerbaijan 
+0 
+0 
+0 
+Georgia 
+0 
+0 
+0
